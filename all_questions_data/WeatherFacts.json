@@ -1,0 +1,247 @@
+[
+    {
+      "TrueFactEnglish": "A cloud can weigh more than a million pounds.",
+      "TrueFactMandarin": "一片云的重量可达45万4000公斤以上。",
+      "TrueFactSuggestedLineBreak": "云朵比空气还要轻。",
+      "FalseFactEnglish": "Clouds are lighter than air.",
+      "FalseFactMandarin": "云朵比空气还要轻。"
+    },
+    {
+      "TrueFactEnglish": "A rainbow looks different to every person who sees it.",
+      "TrueFactMandarin": "每个人看到的彩虹不尽相同。",
+      "TrueFactSuggestedLineBreak": "每个人看到的龙卷风形貌\r都是一样的。",
+      "FalseFactEnglish": "A tornado looks the same to every person who sees it.",
+      "FalseFactMandarin": "每个人看到的龙卷风形貌都是一样的。"
+    },
+    {
+      "TrueFactEnglish": "A second full moon in a month is sometimes called a blue moon.",
+      "TrueFactMandarin": "每个月第二次出现的满月也被称为“蓝月”。",
+      "TrueFactSuggestedLineBreak": "每个月第二次出现的满月\r也被称为“双月”。",
+      "FalseFactEnglish": "A second full moon in a month is sometimes called a Toon.",
+      "FalseFactMandarin": "每个月第二次出现的满月也被称为“双月”。"
+    },
+    {
+      "TrueFactEnglish": "A typical hurricane weighs as much as 90 million hippos.",
+      "TrueFactMandarin": "一般飓风的重量等同9000万只河马。",
+      "TrueFactSuggestedLineBreak": "一般飓风的重量\r等同9000万只海龟。",
+      "FalseFactEnglish": "A typical hurricane weighs as much as 90 million turtles.",
+      "FalseFactMandarin": "一般飓风的重量等同9000万只海龟。"
+    },
+    {
+      "TrueFactEnglish": "A volcanic eruption in 1883 made the sun look green.",
+      "TrueFactMandarin": "一场发生在1883年的火山爆发，使当地人看见绿色的太阳。",
+      "TrueFactSuggestedLineBreak": "一场发生在1883年的火山爆发，\r使当地人看见紫色的太阳。",
+      "FalseFactEnglish": "A volcanic eruption in 1883 made the sun look purple.",
+      "FalseFactMandarin": "一场发生在1883年的火山爆发，使当地人看见紫色的太阳。"
+    },
+    {
+      "TrueFactEnglish": "About 75 percent of all volcanoes are underwater.",
+      "TrueFactMandarin": "地球上有约百分之75的火山分布在海底。",
+      "TrueFactSuggestedLineBreak": "地球上有约百分之75的火山\r分布在陆地表面。",
+      "FalseFactEnglish": "Most volcanoes are above sea level.",
+      "FalseFactMandarin": "地球上有约百分之75的火山分布在陆地表面。"
+    },
+    {
+      "TrueFactEnglish": "An avalanche can travel 80 miles an hour.",
+      "TrueFactMandarin": "雪崩的速度可达每小时130公里。",
+      "TrueFactSuggestedLineBreak": "雪崩只会发生在\r下午2点到傍晚6点之间。",
+      "FalseFactEnglish": "Avalanches can only happen between 2pm and 6pm.",
+      "FalseFactMandarin": "雪崩只会发生在下午2点到傍晚6点之间。"
+    },
+    {
+      "TrueFactEnglish": "Bolts of lightning can shoot out of an erupting volcano.",
+      "TrueFactMandarin": "闪电有时候会引发火山爆发。",
+      "TrueFactSuggestedLineBreak": "发生地震时，\r镭射光会从地壳中射出地面。",
+      "FalseFactEnglish": "Lasers can shoot out of the earth's crust during an earthquake.",
+      "FalseFactMandarin": "发生地震时，镭射光会从地壳中射出地面。"
+    },
+    {
+      "TrueFactEnglish": "Dirty snow melts faster than clean snow.",
+      "TrueFactMandarin": "粘上污渍的雪比干净的雪融化得更快。",
+      "TrueFactSuggestedLineBreak": "粘上污渍的雪\r比干净的雪融化得更慢。",
+      "FalseFactEnglish": "Dirty snow melts slower than clean snow.",
+      "FalseFactMandarin": "粘上污渍的雪比干净的雪融化得更慢。"
+    },
+    {
+      "TrueFactEnglish": "Earthquakes can instantly create gold in Earth’s crust.",
+      "TrueFactMandarin": "地震可以促成地壳里黄金的生成。",
+      "TrueFactSuggestedLineBreak": "地震可以促成\r地壳里形成棉花糖。",
+      "FalseFactEnglish": "Earthquakes can instantly create marshmallow in Earth’s crust.",
+      "FalseFactMandarin": "地震可以促成地壳里形成棉花糖。"
+    },
+    {
+      "TrueFactEnglish": "Flashes of light sometimes appear in the sky before and during earthquakes.",
+      "TrueFactMandarin": "地震发生前和发生时，天空有时会出现闪电。",
+      "TrueFactSuggestedLineBreak": "地震足以引发飓风。",
+      "FalseFactEnglish": "Some earthquakes have caused hurricanes to form.",
+      "FalseFactMandarin": "地震足以引发飓风。"
+    },
+    {
+      "TrueFactEnglish": "Forest fires can travel faster uphill than downhill.",
+      "TrueFactMandarin": "林火往上蔓延的速度比往下更快。",
+      "TrueFactSuggestedLineBreak": "林火往下蔓延的速度\r比往上更快。",
+      "FalseFactEnglish": "Forest fires travel faster downhill than uphill.",
+      "FalseFactMandarin": "林火往下蔓延的速度比往上更快。"
+    },
+    {
+      "TrueFactEnglish": "If you run in the rain, you will get 50% wetter than if you stand still.",
+      "TrueFactMandarin": "在雨中奔跑淋的雨，被原地不动多一倍。",
+      "TrueFactSuggestedLineBreak": "在雨中站立不动，\r比在雨中奔跑淋到的雨水\r还要多。",
+      "FalseFactEnglish": "Running in the rain keeps you dryer than standing still!",
+      "FalseFactMandarin": "在雨中站立不动，比在雨中奔跑淋到的雨水还要多。"
+    },
+    {
+      "TrueFactEnglish": "In the open ocean, a tsunami sometimes travels as fast as a jet plane.",
+      "TrueFactMandarin": "在远海地区的海面上，海啸的速度比喷射机的速度还快。",
+      "TrueFactSuggestedLineBreak": "在远海地区的海面上，\r海啸的速度跟太空梭的速度\r还要快。",
+      "FalseFactEnglish": "In the open ocean, a tsunami sometimes travels as fast a space shuttle.",
+      "FalseFactMandarin": "在远海地区的海面上，海啸的速度跟太空梭的速度还要快。"
+    },
+    {
+      "TrueFactEnglish": "It does not rain in the eye of a hurricane.",
+      "TrueFactMandarin": "飓风气旋中心的风眼是不会下雨的。",
+      "TrueFactSuggestedLineBreak": "在飓风的气旋中心，\r雨势是最强的。",
+      "FalseFactEnglish": "It rains that hardest in the eye of a hurricane.",
+      "FalseFactMandarin": "在飓风的气旋中心，雨势是最强的。"
+    },
+    {
+      "TrueFactEnglish": "It’s impossible to see a full rainbow in the sky at noon.",
+      "TrueFactMandarin": "我们无法在中午时分看见完整的彩虹。",
+      "TrueFactSuggestedLineBreak": "中午时分出现的彩虹\r是最完整的。",
+      "FalseFactEnglish": "Full rainbows happen most often at noon.",
+      "FalseFactMandarin": "中午时分出现的彩虹是最完整的。"
+    },
+    {
+      "TrueFactEnglish": "Lightning can make the air around it 5 times hotter than the sun’s surface.",
+      "TrueFactMandarin": "闪电会使周围的空气变热，温度可达太阳表面温度的五倍。",
+      "TrueFactSuggestedLineBreak": "闪电会使周围的空气变冷，\r气温比南极冷五倍。",
+      "FalseFactEnglish": "Lightning can make the air around it 5 times colder than the South Pole.",
+      "FalseFactMandarin": "闪电会使周围的空气变冷，气温比南极冷五倍。"
+    },
+    {
+      "TrueFactEnglish": "Lightning strikes men more often than women.",
+      "TrueFactMandarin": "男性被雷电击中的机率比女性高。",
+      "TrueFactSuggestedLineBreak": "女性被雷电击中的机率比男性高。",
+      "FalseFactEnglish": "Lightning strikes women more often than men.",
+      "FalseFactMandarin": "女性被雷电击中的机率比男性高。"
+    },
+    {
+      "TrueFactEnglish": "Most snowflakes have six sides.",
+      "TrueFactMandarin": "雪花是六角形的。",
+      "TrueFactSuggestedLineBreak": "雪花有16个棱角。",
+      "FalseFactEnglish": "Most snowflakes have 16 sides.",
+      "FalseFactMandarin": "雪花有16个棱角。"
+    },
+    {
+      "TrueFactEnglish": "Most tornadoes occur between 3 p.m. and 9 p.m.",
+      "TrueFactMandarin": "大多数龙卷风出现在下午3点至晚上9点之间。",
+      "TrueFactSuggestedLineBreak": "大多数飓风出现在\r下午3点至晚上9点之间。",
+      "FalseFactEnglish": "Most hurricanes occur between 3 p.m. and 5 p.m.",
+      "FalseFactMandarin": "大多数飓风出现在下午3点至晚上9点之间。"
+    },
+    {
+      "TrueFactEnglish": "Nighttime rainbows are called moonbows.",
+      "TrueFactMandarin": "夜晚出现的彩虹被称为“月虹”。",
+      "TrueFactSuggestedLineBreak": "夜晚出现的彩虹被称为“月彩”。",
+      "FalseFactEnglish": "Nighttime rainbows are called Nightcolors",
+      "FalseFactMandarin": "夜晚出现的彩虹被称为“月彩”。"
+    },
+    {
+      "TrueFactEnglish": "Nighttime rainbows are common at Yosemite National Park.",
+      "TrueFactMandarin": "我们经常可以在优胜美地国家公园看见夜间彩虹。",
+      "TrueFactSuggestedLineBreak": "彩虹只会在白天出现。",
+      "FalseFactEnglish": "Rainbows only happen in the day time.",
+      "FalseFactMandarin": "彩虹只会在白天出现。"
+    },
+    {
+      "TrueFactEnglish": "One lightning bolt contains enough energy to toast about 100,000 slices of bread.",
+      "TrueFactMandarin": "一道闪电所散发的热量足以用来烤约十万片的面包。",
+      "TrueFactSuggestedLineBreak": "一道闪电所散发的热量\r足以用来烤约九千片的面包。",
+      "FalseFactEnglish": "One lightning bolt contains enough energy to toast 9,000 slices of bread.",
+      "FalseFactMandarin": "一道闪电所散发的热量足以用来烤约九千片的面包。"
+    },
+    {
+      "TrueFactEnglish": "Red rain has fallen in parts of Europe and Asia.",
+      "TrueFactMandarin": "欧洲和亚洲部分地区曾下红雨。",
+      "TrueFactSuggestedLineBreak": "雨水通常都是蓝色的，\r不可能是紫色的。",
+      "FalseFactEnglish": "Rain is always blue, and never purple.",
+      "FalseFactMandarin": "雨水通常都是蓝色的，不可能是紫色的。"
+    },
+    {
+      "TrueFactEnglish": "Saucer-shaped lenticular clouds have been mistaken for UFOs.",
+      "TrueFactMandarin": "荚状云常被人误认为是幽浮。",
+      "TrueFactSuggestedLineBreak": "飓风的出现常\r被人误认为是幽浮降临。",
+      "FalseFactEnglish": "Sometimes Hurricans are mistaken for UFOs.",
+      "FalseFactMandarin": "飓风的出现常被人误认为是幽浮降临。"
+    },
+    {
+      "TrueFactEnglish": "Some rainbows appear to contain only shades of red.",
+      "TrueFactMandarin": "有的彩虹可以是单单红色的。",
+      "TrueFactSuggestedLineBreak": "有的彩虹可以是\r红、黄和青三色的。",
+      "FalseFactEnglish": "All rainbows consist of red, yellow, and green.",
+      "FalseFactMandarin": "有的彩虹可以是红、黄和青三色的。"
+    },
+    {
+      "TrueFactEnglish": "The Earth’s temperature rises slightly during a full moon.",
+      "TrueFactMandarin": "满月时，地球的温度会微微上升。",
+      "TrueFactSuggestedLineBreak": "满月时，\r地球的温度会微微下降。",
+      "FalseFactEnglish": "During a full moon the Earth cools down.",
+      "FalseFactMandarin": "满月时，地球的温度会微微下降。"
+    },
+    {
+      "TrueFactEnglish": "The largest hurricanes can measure ten miles from top to bottom.",
+      "TrueFactMandarin": "大型飓风的高度可达16公里。",
+      "TrueFactSuggestedLineBreak": "大型飓风的高度可达3公里。",
+      "FalseFactEnglish": "The largest hurricanes can measure 2 miles from top to bottom.",
+      "FalseFactMandarin": "大型飓风的高度可达3公里。"
+    },
+    {
+      "TrueFactEnglish": "The most tornados happen in May.",
+      "TrueFactMandarin": "5月是龙卷风最活跃的月份。",
+      "TrueFactSuggestedLineBreak": "8月是龙卷风最活跃的月份。",
+      "FalseFactEnglish": "August has the most tornados.",
+      "FalseFactMandarin": "8月是龙卷风最活跃的月份。"
+    },
+    {
+      "TrueFactEnglish": "The South Pole is colder than the North Pole.",
+      "TrueFactMandarin": "南极的温度比北极低，所以南极比北极还要冷。",
+      "TrueFactSuggestedLineBreak": "北极是全世界气温最低的地方。",
+      "FalseFactEnglish": "The North Pole is the coldest place on Earth.",
+      "FalseFactMandarin": "北极是全世界气温最低的地方。"
+    },
+    {
+      "TrueFactEnglish": "The speed of light is 18 million times faster than the speed of rain.",
+      "TrueFactMandarin": "光速比雨水从天降下的速度快1千800万倍。",
+      "TrueFactSuggestedLineBreak": "光速比风速还慢。",
+      "FalseFactEnglish": "The speed of light is slower than wind.",
+      "FalseFactMandarin": "光速比风速还慢。"
+    },
+    {
+      "TrueFactEnglish": "There are some 16 million thunderstorms on Earth every year.",
+      "TrueFactMandarin": "地球每年都会发生将近1600万次暴风雨。",
+      "TrueFactSuggestedLineBreak": "地球每年都会出现\r将近1600万个龙卷风。",
+      "FalseFactEnglish": "There are almost 16 million tornados on Earth every year.",
+      "FalseFactMandarin": "地球每年都会出现将近1600万个龙卷风。"
+    },
+    {
+      "TrueFactEnglish": "Thousands of tiny earthquakes happen every day.",
+      "TrueFactMandarin": "地球上每天都在发生几千次震级较小的地震。",
+      "TrueFactSuggestedLineBreak": "地球上每天都会出现\r几千个飓风。",
+      "FalseFactEnglish": "Thousands of hurricanes happen every day.",
+      "FalseFactMandarin": "地球上每天都会出现几千个飓风。"
+    },
+    {
+      "TrueFactEnglish": "Tornadoes usually spin in the opposite directions above and below the equator.",
+      "TrueFactMandarin": "龙卷风通常在赤道的上下方以反方向旋转。",
+      "TrueFactSuggestedLineBreak": "龙卷风都以顺时针的方向旋转。",
+      "FalseFactEnglish": "Tornados all spin in the same direction.",
+      "FalseFactMandarin": "龙卷风都是以顺时针的方向旋转。"
+    },
+    {
+      "TrueFactEnglish": "When you see lightning, it’s traveling at about 227 million miles an hour.",
+      "TrueFactMandarin": "我们肉眼看得见的闪电以每小时43万5000公里的速度移动。",
+      "TrueFactSuggestedLineBreak": "我们肉眼看得见的闪电\r以每小时约15万5588公里的速度移动。",
+      "FalseFactEnglish": "When you see lightning, it’s traveling at 97 thousand miles an hour.",
+      "FalseFactMandarin": "我们肉眼看得见的闪电以每小时约15万5588公里的速度移动。"
+    }
+  ]

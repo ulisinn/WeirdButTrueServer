@@ -1,0 +1,138 @@
+[
+    {
+      "TrueFactEnglish": "A golf ball has about 300 dimples.",
+      "TrueFactMandarin": "高尔夫球表面总共有300个小坑。",
+      "TrueFactSuggestedLineBreak": "高尔夫球表面\r总共有300个小坑。",
+      "FalseFactEnglish": "The dimples on a golf ball are called pips",
+      "FalseFactMandarin": "高尔夫球表面上的小坑叫做“点数”。",
+      "FalseFactSuggestedLineBreak": "高尔夫球表面上的小坑\r叫做“点数”。"
+    },
+    {
+      "TrueFactEnglish": "A small lump of gold can be flattened into a sheet as big as a tennis court.",
+      "TrueFactMandarin": "一块小小的黄金可被压平至网球场的面积。",
+      "TrueFactSuggestedLineBreak": "一块小小的黄金\r可被压平至网球场的面积。",
+      "FalseFactEnglish": "A small lump of gold can be flattened into a sheet as big as a football field.",
+      "FalseFactMandarin": "一块小小的黄金可被压平至足球场的面积。",
+      "FalseFactSuggestedLineBreak": "一块小小的黄金\r可被压平至足球场的面积。"
+    },
+    {
+      "TrueFactEnglish": "All the mined gold in the world can fill two Olympic-size swimming pools.",
+      "TrueFactMandarin": "存在于世界各地的金矿，足以填满两个奥运会泳池。",
+      "TrueFactSuggestedLineBreak": "存在于世界各地的金矿，\r足以填满两个奥运会泳池。",
+      "FalseFactEnglish": "All the mined gold in the world can fit in 25 Olympic-size swimming pools.",
+      "FalseFactMandarin": "存在于世界各地的金矿，足以填满25个奥运会泳池。",
+      "FalseFactSuggestedLineBreak": "存在于世界各地的金矿，\r足以填满25个奥运会泳池。"
+    },
+    {
+      "TrueFactEnglish": "An average major league baseball is used for only six pitches.",
+      "TrueFactMandarin": "美国职棒大联盟赛场上的每颗棒球只被球员投过六次。",
+      "TrueFactSuggestedLineBreak": "美国职棒大联盟\r赛场上的每颗棒球\r只被球员投过六次。",
+      "FalseFactEnglish": "An average major league baseball is used for 10 different games.",
+      "FalseFactMandarin": "美国职棒大联盟赛场上的每颗棒球总共被球员投过十次。",
+      "FalseFactSuggestedLineBreak": "美国职棒大联盟\r赛场上的每颗棒球\r总共被球员投过十次。"
+    },
+    {
+      "TrueFactEnglish": "An Olympic wrestling match once lasted 11 hours.",
+      "TrueFactMandarin": "史上有一场奥运摔跤赛进行了11个小时。",
+      "TrueFactSuggestedLineBreak": "史上有一场奥运摔跤赛\r进行了11个小时。",
+      "FalseFactEnglish": "An Olympic Basketball match once lasted 11 hours.",
+      "FalseFactMandarin": "史上有一场奥运篮球赛进行了11个小时。",
+      "FalseFactSuggestedLineBreak": "史上有一场奥运篮球赛\r进行了11个小时。"
+    },
+    {
+      "TrueFactEnglish": "Before every major-league game, each baseball gets rubbed down with mud.",
+      "TrueFactMandarin": "每场大联盟棒球赛开打前，人们会用泥巴来涂抹棒球。",
+      "TrueFactSuggestedLineBreak": "每场大联盟棒球赛开打前，\r人们会用泥巴来涂抹棒球。",
+      "FalseFactEnglish": "Before every major-league game, each baseball gets kissed by all of the players.",
+      "FalseFactMandarin": "每场大联盟棒球赛开打前，球员们会先亲吻每颗棒球。",
+      "FalseFactSuggestedLineBreak": "每场大联盟棒球赛开打前，\r球员们会先亲吻每颗棒球。"
+    },
+    {
+      "TrueFactEnglish": "Early baseballs were sometimes made of fish eyes covered in leather.",
+      "TrueFactMandarin": "古人曾经用羽毛包裹鱼眼作为棒球。",
+      "TrueFactSuggestedLineBreak": "古人曾经用羽毛包裹鱼眼\r作为棒球。",
+      "FalseFactEnglish": "Early baseballs were sometimes made of wood covered in fish scale.",
+      "FalseFactMandarin": "古人曾经用鱼鳞包裹木头作为棒球。",
+      "FalseFactSuggestedLineBreak": "古人曾经用鱼鳞\r包裹木头作为棒球。"
+    },
+    {
+      "TrueFactEnglish": "Early lacrosse matches had up to 2,000 players.",
+      "TrueFactMandarin": "早期的曲棍球比赛有多达2000名球员参赛。",
+      "TrueFactSuggestedLineBreak": "早期的曲棍球比赛\r有多达2000名球员参赛。",
+      "FalseFactEnglish": "Early lacrosse matches had up to 4 players.",
+      "FalseFactMandarin": "早期的曲棍球比赛只有4名球员参赛。",
+      "FalseFactSuggestedLineBreak": "早期的曲棍球比赛\r只有4名球员参赛。"
+    },
+    {
+      "TrueFactEnglish": "Soccer balls were originally made from pig bladders.",
+      "TrueFactMandarin": "在古代，人们利用猪的膀胱制做足球。",
+      "TrueFactSuggestedLineBreak": "在古代，\r人们利用猪的膀胱制做足球。",
+      "FalseFactEnglish": "Soccer balls were originally made from silicone and horse hair.",
+      "FalseFactMandarin": "在古代，人们利用硅胶和马毛制做足球。",
+      "FalseFactSuggestedLineBreak": "在古代，\r人们利用硅胶和马毛制做足球。"
+    },
+    {
+      "TrueFactEnglish": "Studies show that when evenly matched teams compete, the team wearing red has a better chance of winning.",
+      "TrueFactMandarin": "研究结果显示，两支实力相当的队伍比试，身穿红衣的队伍胜出的可能性比较大。",
+      "TrueFactSuggestedLineBreak": "研究结果显示，\r两支实力相当的队伍比试，\r身穿红衣的队伍\r胜出的可能性比较大。",
+      "FalseFactEnglish": "Studies show that when evenly matched teams compete, the team wearing black has a better chance of winning.",
+      "FalseFactMandarin": "研究结果显示，两支实力相当的队伍比试，身穿黑衣的队伍胜出的可能性比较大。",
+      "FalseFactSuggestedLineBreak": "研究结果显示，\r两支实力相当的队伍比试，\r身穿黑衣的队伍\r胜出的可能性比较大。"
+    },
+    {
+      "TrueFactEnglish": "Teams of soccer-playing robots compete annually at the RoboCup.",
+      "TrueFactMandarin": "在一年一度的机器人世界杯中，由机器人组成的足球队将上场比拼。",
+      "TrueFactSuggestedLineBreak": "在一年一度的机器人世界杯中，\r由机器人组成的足球队\r将上场比拼。",
+      "FalseFactEnglish": "Teams of soccer-playing dogs compete annually at the RuffCup.",
+      "FalseFactMandarin": "在一年一度的“来福杯”中，由狗儿组成的足球队将上场比拼。",
+      "FalseFactSuggestedLineBreak": "在一年一度的“来福杯”中，\r由狗儿组成的足球队\r将上场比拼。"
+    },
+    {
+      "TrueFactEnglish": "The dots on dice are called pips.",
+      "TrueFactMandarin": "骰子上的一到六个黑点也叫“面数”。",
+      "TrueFactSuggestedLineBreak": "骰子上的一到六个黑点\r也叫“面数”。",
+      "FalseFactEnglish": "The dots on dice are called dits.",
+      "FalseFactMandarin": "骰子上的一到六个黑点也叫“点数”。",
+      "FalseFactSuggestedLineBreak": "骰子上的一到六个黑点\r也叫“点数”。"
+    },
+    {
+      "TrueFactEnglish": "The first baseball caps were made from straw.",
+      "TrueFactMandarin": "世上第一顶棒球帽是由稻草制成的。",
+      "TrueFactSuggestedLineBreak": "世上第一顶棒球帽\r是由稻草制成的。",
+      "FalseFactEnglish": "The first baseball caps were made from paper mache.",
+      "FalseFactMandarin": "世上第一顶棒球帽是由纸浆制成的。",
+      "FalseFactSuggestedLineBreak": "世上第一顶棒球帽\r是由纸浆制成的。"
+    },
+    {
+      "TrueFactEnglish": "The first Wiffle ball bats were made from broomsticks.",
+      "TrueFactMandarin": "世界上第一支威浮球棒是一支扫把。",
+      "TrueFactSuggestedLineBreak": "世界上第一支威浮球棒\r是一支扫把。",
+      "FalseFactEnglish": "The first Wiffle ball bats were made from Wiffletree.",
+      "FalseFactMandarin": "世界上第一支威浮球棒是一支马车前端的横木。",
+      "FalseFactSuggestedLineBreak": "世界上第一支威浮球棒\r是一支马车前端的横木。"
+    },
+    {
+      "TrueFactEnglish": "The odds that an average golfer will make a hole in one during a game are 12,000 to 1.",
+      "TrueFactMandarin": "平均每个高尔夫球手在比赛中打出一杆进洞的概率是12000比1。",
+      "TrueFactSuggestedLineBreak": "平均每个高尔夫球手\r在比赛中打出一杆进洞的概率\r是12000比1。",
+      "FalseFactEnglish": "The odds that an average golfer will make a hole in one during a game are 1,000 to 1.",
+      "FalseFactMandarin": "平均每个高尔夫球手在比赛中打出一杆进洞的概率是1000比1。",
+      "FalseFactSuggestedLineBreak": "平均每个高尔夫球手\r在比赛中打出一杆进洞的概率\r是1000比1。"
+    },
+    {
+      "TrueFactEnglish": "Toe wrestling is a competitive sport.",
+      "TrueFactMandarin": "脚趾角力是一项体育竞赛。",
+      "TrueFactSuggestedLineBreak": "脚趾角力是一项体育竞赛。",
+      "FalseFactEnglish": "Only professional wrestling is considered a competitive sport.",
+      "FalseFactMandarin": "唯有职业摔跤运动才被公认为一项角力竞赛。",
+      "FalseFactSuggestedLineBreak": "唯有职业摔跤运动\r才被公认为一项角力竞赛。"
+    },
+    {
+      "TrueFactEnglish": "Tug-of-war used to be an Olympic sport.",
+      "TrueFactMandarin": "拔河曾经是奥运会的项目之一。",
+      "TrueFactSuggestedLineBreak": "拔河曾经是奥运会的项目之一。",
+      "FalseFactEnglish": "High Fiveing used to be an Olympic sport.",
+      "FalseFactMandarin": "击掌曾经是奥运会的项目之一。",
+      "FalseFactSuggestedLineBreak": "击掌曾经是奥运会的项目之一。"
+    }
+  ]
