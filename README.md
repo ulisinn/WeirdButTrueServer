@@ -13,8 +13,11 @@ Read the full Parse Server guide here: https://github.com/ParsePlatform/parse-se
 * `npm install`
 * Install mongo locally using http://docs.mongodb.org/master/tutorial/install-mongodb-on-os-x/
 * Run `mongo` to connect to your database, just to make sure it's working. Once you see a mongo prompt, exit with Control-D
+* https://treehouse.github.io/installation-guides/mac/mongo-mac.html
+* https://treehouse.github.io/installation-guides/windows/mongo-windows.html
 * https://robomongo.org/download (if desired)
 * Run the server with: `npm start`
+* On my machine: 192.168.0.10:1337
 * By default it will use a path of /parse for the API routes.  To change this, or use older client SDKs, run `export PARSE_MOUNT=/1` before launching the server.
 * You now have a database named "dev" that contains your Parse data
 * Install ngrok and you can test with devices
