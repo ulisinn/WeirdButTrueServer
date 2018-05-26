@@ -19,6 +19,7 @@
   "scripts": {
     "dashboard": "parse-dashboard --appId WeirdButTrue --masterKey myMasterKey --serverURL http://localhost:1337/parse",
     "parse": "node index.js",
+    "populate_db": "node init_data.js"
   },
   "engines": {
     "node": ">=4.3"
