@@ -1,0 +1,386 @@
+[
+  {
+    "TrueFactEnglish": "1,000,000,000,000,000 (that’s one quadrillion) ants live on Earth.",
+    "TrueFactSpanish": "1,000,000,000,000,000 (un quatrillon) de hormigas viven en el planeta Tierra.",
+    "FalseFactEnglish": "About 1,000,000,000 ants live on Earth.",
+    "FalseFactSpanish": "Aproximadamente 1,000,000,000 de hormigas viven en el planeta Tierra."
+  },
+  {
+    "TrueFactEnglish": "650 houseflies weigh less than one ounce.",
+    "TrueFactSpanish": "650 moscas comunes pesan menos que 28 gramos.",
+    "FalseFactEnglish": "650 houseflies weigh more than an orange.",
+    "FalseFactSpanish": "650 moscas pesan más que una naranja."
+  },
+  {
+    "TrueFactEnglish": "75% of all animals are insects.",
+    "TrueFactSpanish": "75% de todos los animales son insectos.",
+    "FalseFactEnglish": "13% of all animals are insects.",
+    "FalseFactSpanish": "13% de todos los animales son insectos."
+  },
+  {
+    "TrueFactEnglish": "A caterpillar has more muscles than a human.",
+    "TrueFactSpanish": "Una oruga tiene más músculos que un ser humano.",
+    "FalseFactEnglish": "A human has 36 more muscles than a caterpillar ",
+    "FalseFactSpanish": "Un ser humano tiene 36 músculos más que una oruga. "
+  },
+  {
+    "TrueFactEnglish": "A cockroach can live for weeks without a head.",
+    "TrueFactSpanish": "Una cucaracha puede vivir durante semanas sin cabeza.",
+    "FalseFactEnglish": "A cockroach can't live longer than 5 hours without a head.",
+    "FalseFactSpanish": "Una cucaracha no puede vivir más de 5 horas sin cabeza."
+  },
+  {
+    "TrueFactEnglish": "A decapitated cockroach head can still wiggle its antennae.",
+    "TrueFactSpanish": "Una cucaracha decapitada puede seguir moviendo sus antenas.",
+    "FalseFactEnglish": "A decapitated cockroach head can still wiggle its feet.",
+    "FalseFactSpanish": "Una cucaracha decapitada aún puede mover sus patas."
+  },
+  {
+    "TrueFactEnglish": "A flea can jump hundred times its body length—that’s like you jumping to the top of a 34-story building.",
+    "TrueFactSpanish": "Una pulga puede saltar cientos de veces su longitud corporal - eso es lo mismo que si tú brincaras desde lo alto de un edificio de 34 pisos.",
+    "FalseFactEnglish": "A flea can only jump twice it's body length",
+    "FalseFactSpanish": "Una pulga puede saltar únicamente el doble de su longitud corporal."
+  },
+  {
+    "TrueFactEnglish": "A flea can jump more than 130 times its height.",
+    "TrueFactSpanish": "Una pulga puede saltar más de 130 veces su altura.",
+    "FalseFactEnglish": "A flea can jump almost 23 times its height.",
+    "FalseFactSpanish": "Una pulga puede saltar casi 23 veces su altura."
+  },
+  {
+    "TrueFactEnglish": "A queen bee can lay 2,000 eggs a day in the spring.",
+    "TrueFactSpanish": "Una abeja reina puede poner 2,000 huevos al día en la primavera.",
+    "FalseFactEnglish": "A Prince Ant can lay 2,000 eggs a day in the spring.",
+    "FalseFactSpanish": "Una hormiga príncipe puede poner 2,000 huevos al día en la primavera."
+  },
+  {
+    "TrueFactEnglish": "A spiderweb in Texas stretches some 600 feet, almost as long as 2 football fields.",
+    "TrueFactSpanish": "Una telaraña en Texas puede expandirse unos 182.88 metros, casi tanto como 2 campos de fútbol americano.",
+    "FalseFactEnglish": "A spiderweb in Michigan stretches some 200 feet wide.",
+    "FalseFactSpanish": "Una telaraña en Michigan puede expandirse unos 60.96 metros de ancho."
+  },
+  {
+    "TrueFactEnglish": "A tropical ant can snap its jaws together at a speed of 145 miles an hour, faster than any other animal!",
+    "TrueFactSpanish": "Una hormiga tropical puede cerrar sus mandíbulas a una velocidad de 233 kilómetros por hora, ¡más rápido que cualquier otro animal!",
+    "FalseFactEnglish": "A snapping turtle can snap it's jaws together faster than a tropical ant.",
+    "FalseFactSpanish": "Una tortuga mordedora puede cerrar sus mandíbulas más rápido que una hormiga tropical."
+  },
+  {
+    "TrueFactEnglish": "An ant can carry 50 times its body weight (that’s like a kid carrying a car).",
+    "TrueFactSpanish": "Una hormiga puede cargar 50 veces su peso corporal (eso es como si un niño cargara un automóvil).",
+    "FalseFactEnglish": "An Ant can carry twice it's body weight.",
+    "FalseFactSpanish": "Una hormiga puede cargar dos veces su peso corporal."
+  },
+  {
+    "TrueFactEnglish": "Ants have lived on Earth for some 140 million years.",
+    "TrueFactSpanish": "Las hormigas han vivido en el planeta Tierra aproximadamente 140 millones de años.",
+    "FalseFactEnglish": "Ants have lived on Earth for almost 80 million years.",
+    "FalseFactSpanish": "Las hormigas han vivido en el planeta Tierra durante casi 80 millones de años."
+  },
+  {
+    "TrueFactEnglish": "Ants have two stomachs.",
+    "TrueFactSpanish": "Las hormigas tienen dos estómagos.",
+    "FalseFactEnglish": "Ants don't have stomachs.",
+    "FalseFactSpanish": "Las hormigas no tienen estómagos."
+  },
+  {
+    "TrueFactEnglish": "As many as 50,000 beetles can feed on one pile of elephant dung.",
+    "TrueFactSpanish": "Cerca de 50,000 escarabajos pueden alimentarse de una pila de excremento de elefante.",
+    "FalseFactEnglish": "Almost as many as 4,600 beetles can feed on one pile of elephant dung.",
+    "FalseFactSpanish": "Cerca de 4,600 escarabajos pueden alimentarse de una pila de excremento de elefante."
+  },
+  {
+    "TrueFactEnglish": "Bees can be green, blue, or red.",
+    "TrueFactSpanish": "Las abejas pueden ser verdes, azules, o rojas.",
+    "FalseFactEnglish": "All bees are yellow and black",
+    "FalseFactSpanish": "Todas las abejas son amarillas y negras."
+  },
+  {
+    "TrueFactEnglish": "Bees have 5 eyes.",
+    "TrueFactSpanish": "Las abejas tienen 5 ojos.",
+    "FalseFactEnglish": "Bees have 2 eyes.",
+    "FalseFactSpanish": "Las abejas tienen 2 ojos."
+  },
+  {
+    "TrueFactEnglish": "Bees visit about five million flowers to make one average-size jar of honey.",
+    "TrueFactSpanish": "Las abejas polinizan aproximadamente cinco millones de flores para producir un tarro de miel de tamaño promedio.",
+    "FalseFactEnglish": "Bees visit 1 thousand flowers to make one jar of honey.",
+    "FalseFactSpanish": "Las abejas polinizan mil flores para producir un tarro de miel."
+  },
+  {
+    "TrueFactEnglish": "Butterflies must warm their wings in the sun before flying.",
+    "TrueFactSpanish": "Las mariposas deben calentar sus alas en la luz solar antes de volar.",
+    "FalseFactEnglish": "Butterflies can't fly unless their wings are cold first.",
+    "FalseFactSpanish": "Las mariposas no pueden volar a menos que sus alas estén frías primero."
+  },
+  {
+    "TrueFactEnglish": "Butterflies taste food with their feet.",
+    "TrueFactSpanish": "Las mariposas pueden probar el alimento con sus patas.",
+    "FalseFactEnglish": "Butterflies taste food with their tongues, like humans.",
+    "FalseFactSpanish": "Las mariposas pueden probar alimento con sus lenguas, igual que los seres humanos."
+  },
+  {
+    "TrueFactEnglish": "Caterpillars have about 3,200 more muscles than you do.",
+    "TrueFactSpanish": "Las orugas tienen aproximadamente 3,200 músculos más que tú.",
+    "FalseFactEnglish": "Caterpillars have less muscles than a human.",
+    "FalseFactSpanish": "Las orugas tienen menos músculos que un ser humano."
+  },
+  {
+    "TrueFactEnglish": "Caterpillars have mouths, but butterflies don’t.",
+    "TrueFactSpanish": "Las orugas tienen bocas, pero las mariposas no.",
+    "FalseFactEnglish": "Butterflies have mouths.",
+    "FalseFactSpanish": "Las mariposas tienen bocas."
+  },
+  {
+    "TrueFactEnglish": "Cockroaches can recognize family members.",
+    "TrueFactSpanish": "Las cucarachas pueden reconocer a miembros de su familia.",
+    "FalseFactEnglish": "Cockroaches can't tell each other apart.",
+    "FalseFactSpanish": "Las cucarachas no pueden diferenciarse unas a otras."
+  },
+  {
+    "TrueFactEnglish": "Crickets detect sound through their knees.",
+    "TrueFactSpanish": "Los grillos detectan el sonido a través de las rodillas.",
+    "FalseFactEnglish": "Crickets detect sound through their ears, like humans.",
+    "FalseFactSpanish": "Los grillos detectan el sonido a través de sus oídos igual que los seres humanos."
+  },
+  {
+    "TrueFactEnglish": "Dragonflies can see in all directions.",
+    "TrueFactSpanish": "Las libélulas pueden ver en todas las direcciones posibles.",
+    "FalseFactEnglish": "Dragonflies can only see in front of themselves.",
+    "FalseFactSpanish": "Las libélulas pueden ver únicamente lo que hay frente a ellas."
+  },
+  {
+    "TrueFactEnglish": "Earthworms have five hearts.",
+    "TrueFactSpanish": "Las lombrices de tierra tienen cinco corazones.",
+    "FalseFactEnglish": "Earthworms don't have hearts.",
+    "FalseFactSpanish": "Las lombrices de tierra no tienen corazón."
+  },
+  {
+    "TrueFactEnglish": "For defense, many tarantulas kick their hair at foes.",
+    "TrueFactSpanish": "Como defensa, algunas tarántulas lanzan pelo a sus enemigos.",
+    "FalseFactEnglish": "For defense, many tarantulas whisper spells at foes.",
+    "FalseFactSpanish": "Como defensa, varias tarántulas lanzan hechizos a sus enemigos."
+  },
+  {
+    "TrueFactEnglish": "Fungus can grow out of a zombie ant’s head.",
+    "TrueFactSpanish": "Pueden crecer hongos  en la cabeza de una hormiga zombie.",
+    "FalseFactEnglish": "Chewing gum can grow out of a zombie ant’s head.",
+    "FalseFactSpanish": "Puede crecer goma de mascar en la cabeza de una hormiga muerta."
+  },
+  {
+    "TrueFactEnglish": "Ghost ants have see-through stomachs.",
+    "TrueFactSpanish": "Las hormigas fantasma tienen estómagos transparentes.",
+    "FalseFactEnglish": "Ghost ants don't have arms or legs.",
+    "FalseFactSpanish": "Las hormigas fantasma no tienen patas ni brazos."
+  },
+  {
+    "TrueFactEnglish": "Honeybees can be trained to detect explosives.",
+    "TrueFactSpanish": "Las abejas pueden entrenarse para detectar explosivos.",
+    "FalseFactEnglish": "Honeybees can't be trained.",
+    "FalseFactSpanish": "Las abejas no pueden entrenarse."
+  },
+  {
+    "TrueFactEnglish": "Houseflies buzz in the key of F.",
+    "TrueFactSpanish": "Las moscas comunes zumban en la nota Fa.",
+    "FalseFactEnglish": "Houseflies are completely silent.",
+    "FalseFactSpanish": "Las moscas comunes son completamente mudas."
+  },
+  {
+    "TrueFactEnglish": "If grasshoppers were the size of people, they could leap the length of a basketball court.",
+    "TrueFactSpanish": "Si los grillos fueran del tamaño de las personas, podrían saltar la longitud de una cancha de baloncesto.",
+    "FalseFactEnglish": "If grasshoppers were the size of people, they could leap the length of 3.5 meters.",
+    "FalseFactSpanish": "Si los grillos fueran del tamaño de las personas, podrían saltar una longitud de 3.5 metros."
+  },
+  {
+    "TrueFactEnglish": "Ladybugs might play dead when threatened.",
+    "TrueFactSpanish": "Las catarinas pueden fingir su muerte cuando se sienten amenazadas.",
+    "FalseFactEnglish": "Ladybugs might do hand stands when threatened.",
+    "FalseFactSpanish": "Las catarinas pueden realizar volteretas cuando se sienten amenazadas."
+  },
+  {
+    "TrueFactEnglish": "Ladybugs squirt smelly liquid from their knees when they get scared.",
+    "TrueFactSpanish": "Las catarinas expulsan líquido oloroso de sus rodillas cuando sienten miedo.",
+    "FalseFactEnglish": "Female bees squirt smelly liquid from their knees when they get scared.",
+    "FalseFactSpanish": "Las abejas hembra expulsan líquido oloroso de sus rodillas cuando sienten miedo."
+  },
+  {
+    "TrueFactEnglish": "Love-struck mosquitoes harmonize their buzzing sounds.",
+    "TrueFactSpanish": "Los mosquitos enamorados armonizan el sonido de su zumbido.",
+    "FalseFactEnglish": "Mosquitoes don't fall in love.",
+    "FalseFactSpanish": "Los mosquitos no se enamoran."
+  },
+  {
+    "TrueFactEnglish": "Many ancient physicians used spiderwebs as bandages.",
+    "TrueFactSpanish": "Varios médicos antiguos usaban telarañas como vendas.",
+    "FalseFactEnglish": "Many ancient physicians used elephant ears as bandages.",
+    "FalseFactSpanish": "Varios médicos antiguos usaban orejas de elefantes como vendas."
+  },
+  {
+    "TrueFactEnglish": "Most spiders have eight eyes.",
+    "TrueFactSpanish": "La mayoría de las arañas tienen ocho ojos.",
+    "FalseFactEnglish": "Most spiders have 3 eyes.",
+    "FalseFactSpanish": "La mayoría de las arañas tienen 3 ojos."
+  },
+  {
+    "TrueFactEnglish": "Moths can smell each other from miles away.",
+    "TrueFactSpanish": "Las polillas pueden olerse unas a otras a kilómetros de distancia.",
+    "FalseFactEnglish": "Moths can't smell.",
+    "FalseFactSpanish": "Las polillas no pueden oler."
+  },
+  {
+    "TrueFactEnglish": "Only female bees sting.",
+    "TrueFactSpanish": "Únicamente las abejas hembra pican.",
+    "FalseFactEnglish": "Only the male bees can sting.",
+    "FalseFactSpanish": "Únicamente las abejas macho pueden picar."
+  },
+  {
+    "TrueFactEnglish": "Outside, you are rarely more than six feet away from a spider.",
+    "TrueFactSpanish": "En el exterior, rara vez te encuentras a más de 1.8 metros de una araña.",
+    "FalseFactEnglish": "Outside, you are rarely more than six feet away from a bicycle.",
+    "FalseFactSpanish": "En el exterior, rara vez te encuentras a más de 1.8metros de una bicicleta."
+  },
+  {
+    "TrueFactEnglish": "Slugs have 3,000 teeth and 4 noses.",
+    "TrueFactSpanish": "Las babosas tienen 3,000 dientes y 4 narices.",
+    "FalseFactEnglish": "Slugs have 1,000 teeth, two lips, and no nose.",
+    "FalseFactSpanish": "Los caracoles tienen 1,000 dientes, dos labios, y no tienen nariz."
+  },
+  {
+    "TrueFactEnglish": "Some ants can make themselves explode.",
+    "TrueFactSpanish": "Algunas hormigas pueden explotar a voluntad.",
+    "FalseFactEnglish": "Tree Wasps can make themselves explode.",
+    "FalseFactSpanish": "Las Avispas de Árbol pueden explotar a voluntad"
+  },
+  {
+    "TrueFactEnglish": "Some beetles glow orange.",
+    "TrueFactSpanish": "Algunos escarabajos brillan de color naranja.",
+    "FalseFactEnglish": "Unlike worms and flys, Beetles cannot glow.",
+    "FalseFactSpanish": "A diferencia de los gusanos y las moscas, los escarabajos no pueden brillar."
+  },
+  {
+    "TrueFactEnglish": "Some butterflies' ears are on their wings.",
+    "TrueFactSpanish": "Las orejas de algunas mariposas se encuentran en sus alas.",
+    "FalseFactEnglish": "Butterflies shed their ears after leaving their cocoon.",
+    "FalseFactSpanish": "Las mariposas se desprenden de sus orejas después de abandonar su capullo."
+  },
+  {
+    "TrueFactEnglish": "Some crickets’ chirps can be used to estimate the temperature (number of chirps in 15 seconds + 40 = degrees Fahrenheit).",
+    "TrueFactSpanish": "Los cantos de algunos grillos se pueden usar para calcular la temperatura (número de cantos en 15 segundos + 40 = grados Fahrenheit).",
+    "FalseFactEnglish": "Some crickets’ chirps can be used to estimate how tall a building is.",
+    "FalseFactSpanish": "Los cantos de algunos grillos se pueden usar para calcular qué tan grande es un edificio."
+  },
+  {
+    "TrueFactEnglish": "Some experts think individual honeybees have different personalities.",
+    "TrueFactSpanish": "Algunos expertos piensan que las abejas tienen diferentes personalidades.",
+    "FalseFactEnglish": "Honeybees all act the same.",
+    "FalseFactSpanish": "Todas las abejas se comportan igual."
+  },
+  {
+    "TrueFactEnglish": "Some moths drink the tears of elephants.",
+    "TrueFactSpanish": "Algunas polillas beben las lágrimas de los elefantes.",
+    "FalseFactEnglish": "Some moths drink energy drinks.",
+    "FalseFactSpanish": "Algunas polillas consumen bebidas energéticas."
+  },
+  {
+    "TrueFactEnglish": "Some snails can sleep for three years.",
+    "TrueFactSpanish": "Algunos caracoles pueden dormir durante tres años.",
+    "FalseFactEnglish": "Snails are a species that doesn't sleep. ",
+    "FalseFactSpanish": "Los caracoles son una especie que no duerme. "
+  },
+  {
+    "TrueFactEnglish": "Some spiders eat their own webs.",
+    "TrueFactSpanish": "Algunas arañas se comen sus propias telarañas.",
+    "FalseFactEnglish": "Spiders don't like the taste of their own webs.",
+    "FalseFactSpanish": "A las arañas no les gusta el sabor de sus propias telarañas."
+  },
+  {
+    "TrueFactEnglish": "Some tarantulas are blue.",
+    "TrueFactSpanish": "Algunas tarántulas son azules.",
+    "FalseFactEnglish": "Tarantulas are only different shades of brown.",
+    "FalseFactSpanish": "Las tarántulas tienen únicamente tonalidades de color marrón."
+  },
+  {
+    "TrueFactEnglish": "Some wasps use pebbles as hammers to pound dirt into their nests",
+    "TrueFactSpanish": "Algunas avispas usan guijarros como mazos para golpear tierra en sus nidos.",
+    "FalseFactEnglish": "Some wasps use their feet as hammers to pound dirt into their nests",
+    "FalseFactSpanish": "Algunas avispas usan sus patas como martillos para juntar tierra en sus nidos."
+  },
+  {
+    "TrueFactEnglish": "Some worms can grow to 100 feet long.",
+    "TrueFactSpanish": "Algunos gusanos pueden crecer hasta 30.48 metros de largo.",
+    "FalseFactEnglish": "The longest worm ever recorded was 43 feet long.",
+    "FalseFactSpanish": "El gusano más grande jamás registrado era de 13.1064 metros de largo."
+  },
+  {
+    "TrueFactEnglish": "Spider silk has been used to make violin strings.",
+    "TrueFactSpanish": "Se ha usado seda de araña para elaborar cuerdas de violín.",
+    "FalseFactEnglish": "Spider Silk has been used to make car tires.",
+    "FalseFactSpanish": "Se ha usado seda de araña  para elaborar llantas de automóviles."
+  },
+  {
+    "TrueFactEnglish": "Spider silk is used to make fishing nets in some countries.",
+    "TrueFactSpanish": "En algunos países, la seda de araña se usa para elaborar redes de pesca.",
+    "FalseFactEnglish": "Spider silk is used to make video game controllers in some countries.",
+    "FalseFactSpanish": "En algunos países, se usa seda de araña para elaborar controles para videojuegos."
+  },
+  {
+    "TrueFactEnglish": "Spiders have clear blood.",
+    "TrueFactSpanish": "Las arañas tienen sangre transparente.",
+    "FalseFactEnglish": "Spiders have green blood.",
+    "FalseFactSpanish": "Las arañas tienen sangre color verde."
+  },
+  {
+    "TrueFactEnglish": "Tarantulas can live for up to 20 years.",
+    "TrueFactSpanish": "Las tarántulas pueden vivir hasta 20 años.",
+    "FalseFactEnglish": "Tarantulas die when they turn 6 years of age.",
+    "FalseFactSpanish": "Las tarántulas mueren cuando cumplen 6 años."
+  },
+  {
+    "TrueFactEnglish": "The Asian weaver ant can hold objects 100 times its weight—while hanging upside down!",
+    "TrueFactSpanish": "Las hormigas tejedoras de Asia pueden cargar objetos 100 veces su peso - ¡mientras cuelgan boca abajo!",
+    "FalseFactEnglish": "Unlike most ants, the Asian weaver ant can't hold anything. ",
+    "FalseFactSpanish": "A diferencia de la mayoría de las hormigas, las hormigas tejedoras de Asia no pueden cargar nada. "
+  },
+  {
+    "TrueFactEnglish": "The bombardier beetle can shoot hot poison from its rear end 500 times a second.",
+    "TrueFactSpanish": "El escarabajo bombardero puede disparar veneno caliente desde su trasero 500 veces por segundo.",
+    "FalseFactEnglish": "The bombardier beetle can shoot hot poison from its rear end 100 times a second.",
+    "FalseFactSpanish": "El escarabajo bombardero puede disparar veneno caliente desde su trasero 100 veces por segundo."
+  },
+  {
+    "TrueFactEnglish": "The death’s-head moth has a skull-shaped design on its body.",
+    "TrueFactSpanish": "La polilla calavera o polilla de la muerte, tiene un diseño en forma de cráneo en su cuerpo.",
+    "FalseFactEnglish": "The death’s-head moth has a banana design on its body.",
+    "FalseFactSpanish": "La polilla calavera tiene un diseño en forma de plátano en su cuerpo."
+  },
+  {
+    "TrueFactEnglish": "The pirate ant has black marks on its head that look like eye patches.",
+    "TrueFactSpanish": "La hormiga pirata tiene marcas negras en su cabeza que tienen forma de parches de ojos.",
+    "FalseFactEnglish": "The pirate ant has black marks on its head that look like swords and treasure.",
+    "FalseFactSpanish": "La hormiga pirata tiene marcas negras en su cabeza que tienen forma de espadas y tesoros."
+  },
+  {
+    "TrueFactEnglish": "The praying mantis is the only insect that looks over its shoulder.",
+    "TrueFactSpanish": "La mantis religiosa es el único insecto que mira por encima de su hombro.",
+    "FalseFactEnglish": "The Dung Beetle is the only insect that looks over its shoulder.",
+    "FalseFactSpanish": "El escarabajo pelotero es el único insecto que mira por encima de su hombro."
+  },
+  {
+    "TrueFactEnglish": "The world’s lightest mammal—the bumblebee bat—weighs less than a nickel.",
+    "TrueFactSpanish": "El mamífero más ligero del mundo -el murciélago nariz de cerdo- pesa menos que una moneda pequeña.",
+    "FalseFactEnglish": "The world’s lightest mammal is the Wasp Racoon. ",
+    "FalseFactSpanish": "El mamífero más ligero es el Mapache Avispa. "
+  },
+  {
+    "TrueFactEnglish": "The world’s termites outweigh the world’s humans.",
+    "TrueFactSpanish": "Las termitas de todo el mundo pesan más que los seres humanos en el planeta.",
+    "FalseFactEnglish": "The world's humans weigh more than all of the world's termites.",
+    "FalseFactSpanish": "Los seres humanos en el planeta pesan más que todas las termitas en el planeta."
+  },
+  {
+    "TrueFactEnglish": "There can be about as many insects in one square mile as there are people on the entire planet.",
+    "TrueFactSpanish": "Puede existir la misma cantidad de insectos en 1.60934 kilómetros que personas en el planeta entero.",
+    "FalseFactEnglish": "There are more people on the entire planet than there are insects.",
+    "FalseFactSpanish": "Existen más personas en el planeta que insectos."
+  }
+]

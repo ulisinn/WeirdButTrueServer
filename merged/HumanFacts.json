@@ -1,0 +1,1145 @@
+[
+  {
+    "TrueFactEnglish": "20 percent of food is used to fuel the brain.",
+    "TrueFactMandarin": "我们吃下的食物有百分之20被用于补充大脑的能量。",
+    "TrueFactSuggestedLineBreak": "我们吃下的食物有百分之67\r被用于补充大脑的能量。",
+    "FalseFactEnglish": "67% percent of food is used to fuel the brain.",
+    "FalseFactMandarin": "我们吃下的食物有百分之67被用于补充大脑的能量。",
+    "TrueFactSpanish": "20 por ciento de los alimentos se utiliza para hacer funcionar al cerebro.",
+    "FalseFactSpanish": "67 % de los alimentos se usa para llenar de energía al cerebro."
+  },
+  {
+    "TrueFactEnglish": "60,000 miles of blood vessels run through your body.",
+    "TrueFactMandarin": "人体的血管长达十万公里。",
+    "TrueFactSuggestedLineBreak": "人体的血管长达29870公里。",
+    "FalseFactEnglish": "18,564 miles of blood vessels run through your body.",
+    "FalseFactMandarin": "人体的血管长达29870公里。",
+    "TrueFactSpanish": "96,560.64 kilómetros de vasos sanguíneos recorren tu cuerpo.",
+    "FalseFactSpanish": "29,875.86 kilómetros de vasos sanguíneos recorren tu cuerpo."
+  },
+  {
+    "TrueFactEnglish": "99% of people can’t lick their elbows (but 90 percent of the people who read this will try).",
+    "TrueFactMandarin": "百分之99的人舔不到自己的手肘，而有百分之90的人读过这项讯息后会尝试舔自己的手肘。",
+    "TrueFactSuggestedLineBreak": "百分之88的人\r能用舌头舔到自己的手肘。",
+    "FalseFactEnglish": "80% of people can lick their elbows",
+    "FalseFactMandarin": "百分之88的人能用舌头舔到自己的手肘。",
+    "TrueFactSpanish": "99% de las personas no pueden lamer sus codos (pero 90 por ciento de las personas que leen esto lo intentarán).",
+    "FalseFactSpanish": "80% de las personas pueden lamer sus codos."
+  },
+  {
+    "TrueFactEnglish": "A 3,000-year-old mummy can still have fingerprints.",
+    "TrueFactMandarin": "历时三千年的木乃伊的手指上依然有指纹。",
+    "TrueFactSuggestedLineBreak": "木乃伊被发现时\r已经没有指纹了。",
+    "FalseFactEnglish": "Mummies don't have fingerprints.",
+    "FalseFactMandarin": "木乃伊被发现时已经没有指纹了。",
+    "TrueFactSpanish": "Una momia de 3,000 años de antigüedad pudiera haber conservado sus huellas dactilares.",
+    "FalseFactSpanish": "Las momias no tienen huellas dactilares."
+  },
+  {
+    "TrueFactEnglish": "A human bone is five times stronger than a piece of steel of the same weight.",
+    "TrueFactMandarin": "人的骨骼比相同重量的钢铁片坚固五倍。",
+    "TrueFactSuggestedLineBreak": "一支钢铁比相同重量的人骨\r还要坚固。",
+    "FalseFactEnglish": "A piece of steel is stronger than a human bone of the same weight.",
+    "FalseFactMandarin": "一支钢铁比相同重量的人骨还要坚固。",
+    "TrueFactSpanish": "Un hueso humano es cinco veces más resistente que una pieza de acero del mismo peso.",
+    "FalseFactSpanish": "Una pieza de acero es más resistente que un hueso humano del mismo peso."
+  },
+  {
+    "TrueFactEnglish": "A human has about the same number of body hairs as a chimpanzee.",
+    "TrueFactMandarin": "我们的体毛数量与黑猩猩相同。",
+    "TrueFactSuggestedLineBreak": "黑猩猩的体毛数量\r比人类的还要多出三倍。",
+    "FalseFactEnglish": "A chimpanzee has three times more body hairs than a human.",
+    "FalseFactMandarin": "黑猩猩的体毛数量比人类的还要多出三倍。",
+    "TrueFactSpanish": "Un ser humano tiene el mismo número de vellos corporales que un chimpancé.",
+    "FalseFactSpanish": "Un chimpancé tiene tres veces más pelo corporal que un ser humano."
+  },
+  {
+    "TrueFactEnglish": "A machine was invented to turn sweat into drinking water.",
+    "TrueFactMandarin": "人类曾发明一种能将汗水转化为饮用水的机器。",
+    "TrueFactSuggestedLineBreak": "人类曾发明一种能\r将唾沫转化为咳嗽药水的机器。",
+    "FalseFactEnglish": "A machine was invented to turn spit into cough syrup.",
+    "FalseFactMandarin": "人类曾发明一种能将唾沫转化为咳嗽药水的机器。",
+    "TrueFactSpanish": "Se inventó una máquina para convertir el sudor en agua.",
+    "FalseFactSpanish": "Se inventó una máquina para convertir la saliva en jarabe para la tos."
+  },
+  {
+    "TrueFactEnglish": "A sneeze travels 100 miles an hour.",
+    "TrueFactMandarin": "打喷嚏的速度是每小时160公里。",
+    "TrueFactSuggestedLineBreak": "打喷嚏的速度\r是每小时42公里。",
+    "FalseFactEnglish": "A sneeze travels 26 miles an hour.",
+    "FalseFactMandarin": "打喷嚏的速度是每小时42公里。",
+    "TrueFactSpanish": "Un estornudo viaja a 160.934 kilómetros por hora.",
+    "FalseFactSpanish": "Un estornudo viaja 41.842944 kilómetros por hora."
+  },
+  {
+    "TrueFactEnglish": "A speck of blood contains about 5 million red blood cells.",
+    "TrueFactMandarin": "我们的一滴血液含有约500万个红血细胞。",
+    "TrueFactSuggestedLineBreak": "我们的一滴血液\r含有约500万个白血球。",
+    "FalseFactEnglish": "A speck of blood contains about 5 million white blood cells.",
+    "FalseFactMandarin": "我们的一滴血液含有约500万个白血球。",
+    "TrueFactSpanish": "Una mancha de sangre contiene aproximadamente 5 millones de glóbulos rojos.",
+    "FalseFactSpanish": "Una mancha de sangre contiene aproximadamente 5 millones de glóbulos blancos."
+  },
+  {
+    "TrueFactEnglish": "About 150 000 hairs are growing on your head right now.",
+    "TrueFactMandarin": "此时此刻，我们的头上有大约15万根头发正在生长中。",
+    "TrueFactSuggestedLineBreak": "此时此刻，\r我们的肚挤眼内\r有15万根毛发正在生长中。",
+    "FalseFactEnglish": "About 150,000 hairs are growing in your belly button right now.",
+    "FalseFactMandarin": "此时此刻，我们的肚挤眼内有15万根毛发正在生长中。",
+    "TrueFactSpanish": "Aproximadamente 150,000 cabellos están creciendo en tu cabeza en este momento.",
+    "FalseFactSpanish": "Aproximadamente 150,000 vellos están creciendo en tu ombligo en este momento."
+  },
+  {
+    "TrueFactEnglish": "About 61 percent of your body weight is water.",
+    "TrueFactMandarin": "我们的体重有百分之61是水分。",
+    "TrueFactSuggestedLineBreak": "我们的体重\r有百分之18是水分。",
+    "FalseFactEnglish": "About 18% percent of your body weight is water.",
+    "FalseFactMandarin": "我们的体重有百分之18是水分。",
+    "TrueFactSpanish": "Aproximadamente 61 por ciento de tu peso corporal es agua.",
+    "FalseFactSpanish": "Aproximadamente 18% de tu peso corporal es agua."
+  },
+  {
+    "TrueFactEnglish": "About half of the world’s population lives in areas where snow never falls.",
+    "TrueFactMandarin": "地球上有一半人口居住在没有下雪的地方。",
+    "TrueFactSuggestedLineBreak": "地球上有百分之92人口\r居住在没有下雪的地方。",
+    "FalseFactEnglish": "92% of the world’s population lives in areas where snow never falls.",
+    "FalseFactMandarin": "地球上有百分之92人口居住在没有下雪的地方。",
+    "TrueFactSpanish": "Aproximadamente, la mitad de la población mundial vive en áreas en donde jamás neva.",
+    "FalseFactSpanish": "92% de la mitad de la población mundial vive en áreas en donde jamás nieva."
+  },
+  {
+    "TrueFactEnglish": "About six percent of all humans ever born are alive right now.",
+    "TrueFactMandarin": "在地球上出生的人，只有百分之六还活着。",
+    "TrueFactSuggestedLineBreak": "在地球上出生的人，\r只有百分之24还活着。",
+    "FalseFactEnglish": "About 24% of all humans ever born are alive right now.",
+    "FalseFactMandarin": "在地球上出生的人，只有百分之24还活着。",
+    "TrueFactSpanish": "Aproximadamente, el seis por ciento de todos los seres humanos que han nacido viven en este momento.",
+    "FalseFactSpanish": "Aproximadamente 24% de todos los seres humanos que han nacido viven en este momento."
+  },
+  {
+    "TrueFactEnglish": "Adults have as many as 1,500 dreams a year.",
+    "TrueFactMandarin": "成年人每年会做1500次梦。",
+    "TrueFactSuggestedLineBreak": "成年人每年作梦的次数少于50次。",
+    "FalseFactEnglish": "Adults have less than 50 dreams a year.",
+    "FalseFactMandarin": "成年人每年作梦的次数少于50次。",
+    "TrueFactSpanish": "Los adultos tienen hasta 1,500 sueños al año.",
+    "FalseFactSpanish": "Los adultos tienen menos de 50 sueños al año."
+  },
+  {
+    "TrueFactEnglish": "All of the blood in your body travels through your heart once a minute.",
+    "TrueFactMandarin": "人体内的血液每分钟都会穿过心脏一次。",
+    "TrueFactSuggestedLineBreak": "人体内只有一半的血液\r会流过心脏。",
+    "FalseFactEnglish": "Less than half the blood in your body actually travels through your heart.",
+    "FalseFactMandarin": "人体内只有一半的血液会流过心脏。",
+    "TrueFactSpanish": "Toda la sangre en tu cuerpo circula a través de tu corazón una vez por minuto.",
+    "FalseFactSpanish": "Menos de la mitad de la sangre en tu cuerpo circula efectivamente a través de tu corazón."
+  },
+  {
+    "TrueFactEnglish": "An average adult’s skin weighs about 11 pounds.",
+    "TrueFactMandarin": "成人的全身皮肤重达5公斤。",
+    "TrueFactSuggestedLineBreak": "成人的全身皮肤重达2公斤。",
+    "FalseFactEnglish": "An average adult’s skin weighs less than 5 pounds.",
+    "FalseFactMandarin": "成人的全身皮肤重达2公斤。",
+    "TrueFactSpanish": "En promedio, la piel de un adulto pesa aproximadamente 4.98952 kilos.",
+    "FalseFactSpanish": "La piel promedio de adulto pesa menos de 2.26 kilos."
+  },
+  {
+    "TrueFactEnglish": "An average yawn lasts about six seconds.",
+    "TrueFactMandarin": "人打一个哈欠，平均只需要6秒。",
+    "TrueFactSuggestedLineBreak": "人打一个哈欠的时间，\r平均不超过3秒。",
+    "FalseFactEnglish": "An yawn can't last for more than 3 seconds.",
+    "FalseFactMandarin": "人打一个哈欠的时间，平均不超过3秒。",
+    "TrueFactSpanish": "Un bostezo promedio dura aproximadamente seis segundos",
+    "FalseFactSpanish": "Un bostezo no puede durar más de 3 segundos."
+  },
+  {
+    "TrueFactEnglish": "Babies are more likely to be born on Tuesday than any other day.",
+    "TrueFactMandarin": "比起其他周日，宝宝更倾向在星期二出生。",
+    "TrueFactSuggestedLineBreak": "比起其他周日，\r在星期二出生的宝宝较少。",
+    "FalseFactEnglish": "Babies are less likely to be born on Tuesday than any other day.",
+    "FalseFactMandarin": "比起其他周日，在星期二出生的宝宝较少。",
+    "TrueFactSpanish": "Es más probable que los bebés nazcan en martes que cualquier otro día.",
+    "FalseFactSpanish": "Es menos probable que los bebés nazcan en martes que cualquier otro día."
+  },
+  {
+    "TrueFactEnglish": "Babies have taste buds in their cheeks.",
+    "TrueFactMandarin": "宝宝的脸颊上长有味蕾。",
+    "TrueFactSuggestedLineBreak": "宝宝身上没有味蕾。",
+    "FalseFactEnglish": "Babies have don't have taste buds.",
+    "FalseFactMandarin": "宝宝身上没有味蕾。",
+    "TrueFactSpanish": "Los bebés tienen papilas gustativas en las mejillas.",
+    "FalseFactSpanish": "Los bebés no tienen papilas gustativas."
+  },
+  {
+    "TrueFactEnglish": "Babies yawn before they are born.",
+    "TrueFactMandarin": "宝宝出世前已经会打哈欠了。",
+    "TrueFactSuggestedLineBreak": "宝宝在出生一年后，\r才会开始打哈欠。",
+    "FalseFactEnglish": "Babies don't yawn until they are 1 years old.",
+    "FalseFactMandarin": "宝宝在出生一年后，才会开始打哈欠。",
+    "TrueFactSpanish": "Los bebés bostezan antes de nacer.",
+    "FalseFactSpanish": "Los bebés no bostezan hasta que cumplen el primer año de edad."
+  },
+  {
+    "TrueFactEnglish": "Babies’ cries can sound different in various languages.",
+    "TrueFactMandarin": "不同语言文化对宝宝的哭声有不同的诠释。",
+    "TrueFactSuggestedLineBreak": "每个宝宝的哭声都一样。",
+    "FalseFactEnglish": "Babies cries all sounds the same.",
+    "FalseFactMandarin": "每个宝宝的哭声都一样。",
+    "TrueFactSpanish": "El llanto de bebé puede sonar diferente en otros idiomas.",
+    "FalseFactSpanish": "Todos los llantos de bebés suenan igual."
+  },
+  {
+    "TrueFactEnglish": "Before toothpaste was invented, some people cleaned their teeth with charcoal.",
+    "TrueFactMandarin": "牙膏被发明之前，人们使用木炭清洗牙齿。",
+    "TrueFactSuggestedLineBreak": "牙膏被发明之前，\r人们使用大象的粪便清洗牙齿。",
+    "FalseFactEnglish": "Before toothpaste was invented, some people cleaned their teeth with elephant dung.",
+    "FalseFactMandarin": "牙膏被发明之前，人们使用大象的粪便清洗牙齿。",
+    "TrueFactSpanish": "Antes de que se inventara la pasta de dientes, algunas personas limpiaban sus dientes con carbón.",
+    "FalseFactSpanish": "Antes de que se inventara la pasta de dientes, algunas personas limpiaban sus dientes con excremento de elefante."
+  },
+  {
+    "TrueFactEnglish": "Belly button lint is made of clothing fibers, hair and dead skin cells.",
+    "TrueFactMandarin": "肚脐绒毛由衣物的纤维、体毛和死皮细胞组成。",
+    "TrueFactSuggestedLineBreak": "肚脐毛由动物毛发、\r洗发水和幼虫组成。",
+    "FalseFactEnglish": "Belly button lint is made of fur, shampoo, and tiny bugs.",
+    "FalseFactMandarin": "肚脐毛由动物毛发、洗发水和幼虫组成。",
+    "TrueFactSpanish": "La pelusa del ombligo está hecha de fibras de ropa, cabello y células muertas.",
+    "FalseFactSpanish": "La pelusa del ombligo está hecha de pelos, champú y pequeños insectos."
+  },
+  {
+    "TrueFactEnglish": "Blondes have more hair on their heads than brunettes.",
+    "TrueFactMandarin": "金发女子的发量比黑发女子的还要多。",
+    "TrueFactSuggestedLineBreak": "黑发女子的发量\r比金发女子的还要多出一半。",
+    "FalseFactEnglish": "Blondes have half as much hair on their heads as brunettes.",
+    "FalseFactMandarin": "黑发女子的发量比金发女子的还要多出一半。",
+    "TrueFactSpanish": "Las personas rubias tienen más cabello en la cabeza que las personas castañas.",
+    "FalseFactSpanish": "Las personas rubias tienen la mitad de cabello en la cabeza que las personas castañas."
+  },
+  {
+    "TrueFactEnglish": "Circus workers call the toilet a doniker.",
+    "TrueFactMandarin": "马戏团的工作人员把洗手间称作“doniker”。",
+    "TrueFactSuggestedLineBreak": "消防员把洗手间称作“doniker”。",
+    "FalseFactEnglish": "Firemen call the toilet a doniker.",
+    "FalseFactMandarin": "消防员把洗手间称作“doniker”。",
+    "TrueFactSpanish": "Los trabajadores de circo denominan al excusado, trono.",
+    "FalseFactSpanish": "Los bomberos denominan al excusado inodoro."
+  },
+  {
+    "TrueFactEnglish": "Cryptozoologists study legendary creatures such as Bigfoot.",
+    "TrueFactMandarin": "未知动物学家是指专门研究类似大脚怪等传说中的怪物的专家。",
+    "TrueFactSuggestedLineBreak": "天体物理学家是指专门研究\r类似大脚怪等传说中的怪物的专家。",
+    "FalseFactEnglish": "Astrophysicists study legendary creatures such as Bigfoot.",
+    "FalseFactMandarin": "天体物理学家是指专门研究类似大脚怪等传说中的怪物的专家。",
+    "TrueFactSpanish": "Los criptozoólogos estudian criaturas legendarias como Pie Grande.",
+    "FalseFactSpanish": "Los astrofísicos estudian criaturas legendarias como Pie Grande."
+  },
+  {
+    "TrueFactEnglish": "Doodling can help you concentrate.",
+    "TrueFactMandarin": "涂鸦有助于集中注意力。",
+    "TrueFactSuggestedLineBreak": "涂鸦会分散注意力。",
+    "FalseFactEnglish": "Doodling makes you lose focus.",
+    "FalseFactMandarin": "涂鸦会分散注意力。",
+    "TrueFactSpanish": "Hacer garabatos puede ayudarte a concentrarte.",
+    "FalseFactSpanish": "Hacer garabatos provoca que pierdas la concentración."
+  },
+  {
+    "TrueFactEnglish": "Every 24 hours, your blood travels about 4 miles through your body.",
+    "TrueFactMandarin": "每天，血液在人体内循环了6千400公里。",
+    "TrueFactSuggestedLineBreak": "每隔两天，\r血液在人体内循环了6千400公里。",
+    "FalseFactEnglish": "It takes your blood 48 hours to travel about 4 miles through your body.",
+    "FalseFactMandarin": "每隔两天，血液在人体内循环了6千400公里。",
+    "TrueFactSpanish": "Cada 24 horas, tu sangre viaja aproximadamente 6.43738 kilómetros a través de tu cuerpo.",
+    "FalseFactSpanish": "A tu sangre le toma 48 horas viajar aproximadamente 6.43 kilómetros a través de tu cuerpo."
+  },
+  {
+    "TrueFactEnglish": "Extracts from human hair are used to make some pizza crusts.",
+    "TrueFactMandarin": "人类毛发的萃取物曾被用于制作披萨饼皮。",
+    "TrueFactSuggestedLineBreak": "人类毛发的萃取物\r曾被用于制作太空梭零件。",
+    "FalseFactEnglish": "Extracts from human hair are used to make some space ship parts.",
+    "FalseFactMandarin": "人类毛发的萃取物曾被用于制作太空梭零件。",
+    "TrueFactSpanish": "Algunas orillas de pizza están hechas de extractos de cabello humano.",
+    "FalseFactSpanish": "Los extractos de cabello humano se usan para construir algunas piezas de naves espaciales."
+  },
+  {
+    "TrueFactEnglish": "Extreme cold and heat can feel the same.",
+    "TrueFactMandarin": "人们对过冷度和过热度的感受是一样的。",
+    "TrueFactSuggestedLineBreak": "人们对过冷度和过热度的感受是不同的。",
+    "FalseFactEnglish": "Hot and cold can never feel the same.",
+    "FalseFactMandarin": "人们对过冷度和过热度的感受是不同的。",
+    "TrueFactSpanish": "El frío y calor extremo se pueden sentir de la misma manera.",
+    "FalseFactSpanish": "El frío y el calor nunca se sienten igual."
+  },
+  {
+    "TrueFactEnglish": "Fingerprints can last up to 40 years on paper.",
+    "TrueFactMandarin": "指纹可以持续留在纸上长达40年。",
+    "TrueFactSuggestedLineBreak": "指纹只能在纸面上停留三个星期。",
+    "FalseFactEnglish": "Fingerprints on paper disappear after 3 weeks.",
+    "FalseFactMandarin": "指纹只能在纸面上停留三个星期。",
+    "TrueFactSpanish": "Las huellas dactilares pueden durar hasta 40 años en papel.",
+    "FalseFactSpanish": "Las huellas dactilares en papel pueden desaparecer después de 3 semanas."
+  },
+  {
+    "TrueFactEnglish": "For $25, you can order a jar of human toenails online.",
+    "TrueFactMandarin": "我们能以25美元在网上购得一瓶子的脚趾甲。",
+    "TrueFactSuggestedLineBreak": "我们能以5美元\r在网上购得一盒人类鼻毛。",
+    "FalseFactEnglish": "For $5, you can order a box of human nose hairs online.",
+    "FalseFactMandarin": "我们能以5美元在网上购得一盒人类鼻毛。",
+    "TrueFactSpanish": "Por 25 dólares, puedes ordenar un frasco con uñas del pie humano por internet.",
+    "FalseFactSpanish": "Por 5 dólares, puedes ordenar una caja con cabello humano por Internet."
+  },
+  {
+    "TrueFactEnglish": "Girls have more taste buds than boys do.",
+    "TrueFactMandarin": "女性的味蕾数量比男性更多。",
+    "TrueFactSuggestedLineBreak": "男性的味蕾数量比女性更多。",
+    "FalseFactEnglish": "Boys have more taste buds than girls do.",
+    "FalseFactMandarin": "男性的味蕾数量比女性更多。",
+    "TrueFactSpanish": "Las mujeres tienen más papilas gustativas que los hombres.",
+    "FalseFactSpanish": "Los hombres tienen más papilas gustativas que las mujeres."
+  },
+  {
+    "TrueFactEnglish": "Grass looks greener to girls than it does to boys.",
+    "TrueFactMandarin": "女生看到的青草比在男生看到的青草更翠绿。",
+    "TrueFactSuggestedLineBreak": "男生看到的青草\r比女生看到的更翠绿。",
+    "FalseFactEnglish": "Grass looks greener to boys than it does to girls.",
+    "FalseFactMandarin": "男生看到的青草比女生看到的更翠绿。",
+    "TrueFactSpanish": "El pasto luce más verde para las mujeres que para los hombres.",
+    "FalseFactSpanish": "El pasto luce más verde para los hombres que para las mujeres."
+  },
+  {
+    "TrueFactEnglish": "Hair grows almost everywhere on your skin except your lips, the palms of your hands, and the soles of your feet.",
+    "TrueFactMandarin": "人体皮肤都会长毛发，除了嘴唇、手掌心和脚掌心。",
+    "TrueFactSuggestedLineBreak": "人体皮肤都会长毛发，\r除了耳朵、脚趾头和下背部。",
+    "FalseFactEnglish": "Hair grows almost everywhere on your skin except your ears, toes, and lower back.",
+    "FalseFactMandarin": "人体皮肤都会长毛发，除了耳朵、脚趾头和下背部。",
+    "TrueFactSpanish": "El cabello crece casi en todas las partes de tu piel salvo en los labios, las palmas de las manos y las plantas de los pies.",
+    "FalseFactSpanish": "El cabello crece casi en todas las partes de tu piel salvo en tus orejas, los dedos del pie, y la espalda baja."
+  },
+  {
+    "TrueFactEnglish": "Human ears evolved from ancient fish gills.",
+    "TrueFactMandarin": "科学家认为，人类的耳朵是从鱼鳃进化出来的。",
+    "TrueFactSuggestedLineBreak": "科学家认为，人类的耳朵\r是从原始鸟类的羽毛进化出来的。",
+    "FalseFactEnglish": "Human ears evolved from ancient bird feathers.",
+    "FalseFactMandarin": "科学家认为，人类的耳朵是从原始鸟类的羽毛进化出来的。",
+    "TrueFactSpanish": "Las orejas de los seres humanos evolucionaron a partir de antiguas branquias de pescado. ",
+    "FalseFactSpanish": "Las orejas de los seres humanos evolucionaron a partir de plumas de ave antiguas."
+  },
+  {
+    "TrueFactEnglish": "Human thighbones are stronger than concrete.",
+    "TrueFactMandarin": "人类的大腿骨比混凝土更坚固。",
+    "TrueFactSuggestedLineBreak": "人类的大腿骨不比混凝土坚固。",
+    "FalseFactEnglish": "Human thighbones are not as strong as concrete.",
+    "FalseFactMandarin": "人类的大腿骨不比混凝土坚固。",
+    "TrueFactSpanish": "El fémur humano es más resistente que el concreto.",
+    "FalseFactSpanish": "El fémur no es tan resistente como el concreto."
+  },
+  {
+    "TrueFactEnglish": "Humans can detect thousands of different scents.",
+    "TrueFactMandarin": "人类能嗅出几千种不同的气味。",
+    "TrueFactSuggestedLineBreak": "人类能嗅出143种的气味。",
+    "FalseFactEnglish": "Humans can only smell 143 different scents.",
+    "FalseFactMandarin": "人类能嗅出143种的气味。",
+    "TrueFactSpanish": "Los seres humanos pueden detectar miles de aromas diferentes.",
+    "FalseFactSpanish": "Los seres humanos pueden detectar únicamente 143 aromas diferentes."
+  },
+  {
+    "TrueFactEnglish": "Humans can make 10,000 different facial expressions.",
+    "TrueFactMandarin": "我们的脸部可以做出一万种不同的表情。",
+    "TrueFactSuggestedLineBreak": "我们的脸部\r可以做出一万种不同的表情。",
+    "FalseFactEnglish": "Humans can make less than 3,500 different facial expressions.",
+    "FalseFactMandarin": "我们的脸部可以做出一万种不同的表情。",
+    "TrueFactSpanish": "Los seres humanos pueden realizar 10,000 expresiones faciales diferentes.",
+    "FalseFactSpanish": "Los seres humanos pueden realizar menos de 3,500 expresiones faciales diferentes."
+  },
+  {
+    "TrueFactEnglish": "Humans can recognize 10 000 different smells.",
+    "TrueFactMandarin": "人类可以分辨出一万种不同的气味。",
+    "TrueFactSuggestedLineBreak": "人类可以分辨出\r4000种不同的气味。",
+    "FalseFactEnglish": "Humans can recognize almost 4,000 different smells.",
+    "FalseFactMandarin": "人类可以分辨出4000种不同的气味。",
+    "TrueFactSpanish": "Los seres humanos pueden reconocer 10,000 aromas diferentes.",
+    "FalseFactSpanish": "Los seres humanos pueden reconocer aproximadamente 4,000 aromas diferentes."
+  },
+  {
+    "TrueFactEnglish": "If about 33 million people held hands, they could make a circle around the equator.",
+    "TrueFactMandarin": "三千三百万人牵起手就能绕地球赤道一周。",
+    "TrueFactSuggestedLineBreak": "五千七百万人牵起手\r能绕地球赤道一周。",
+    "FalseFactEnglish": "It would take 57 million people to hold hands in order to make a complete circle around the equator.",
+    "FalseFactMandarin": "五千七百万人牵起手能绕地球赤道一周。",
+    "TrueFactSpanish": "Si aproximadamente 33 millones de personas se tomaran de las manos, podrían hacer un círculo alrededor del ecuador.",
+    "FalseFactSpanish": "Sería necesario que 57 millones de personas se tomaran de las manos para hacer un círculo completo alrededor del ecuador."
+  },
+  {
+    "TrueFactEnglish": "If humans came in as many sizes as dogs, we’d range from three to eighteen feet tall.",
+    "TrueFactMandarin": "如果我们跟狗一样，有不同的体积，我们的高度范围将会在1到6米之间。",
+    "TrueFactSuggestedLineBreak": "如果我们跟狗一样，\r有不同的体积，\r我们的高度范围\r将会在30厘米到213厘米之间。",
+    "FalseFactEnglish": "If humans came in as many sizes as dogs, we’d range from 1 to 7 feet tall.",
+    "FalseFactMandarin": "如果我们跟狗一样，有不同的体积，我们的高度范围将会在30厘米到213厘米之间。",
+    "TrueFactSpanish": "Si los seres humanos tuvieran tamaños tan diversos como los perros, nuestra altura oscilaría entre los 0.9144 metros y los 5.4864 metros.",
+    "FalseFactSpanish": "Si los seres humanos tuvieran tamaños tan diversos como los perros, nuestra altura oscilaría entre los 0.3048 metros y los 2.1336 metros."
+  },
+  {
+    "TrueFactEnglish": "If you continued to grow as fast as the average baby, you'd weigh about 413,300 pounds by age 10.",
+    "TrueFactMandarin": "如果我们持续以婴儿增长的速度成长，在10岁以前，体重将达190000公斤左右。",
+    "TrueFactSuggestedLineBreak": "如果我们持续\r以婴儿增长的速度成长，\r在10岁以前，\r体重将达6810公斤左右。",
+    "FalseFactEnglish": "If you continued to grow as fast as an average baby, you'd weigh about 150,000 pounds by age 10.",
+    "FalseFactMandarin": "如果我们持续以婴儿增长的速度成长，在10岁以前，体重将达6810公斤左右。",
+    "TrueFactSpanish": "Si continuaras creciendo tan rápido como el bebé promedio, pesarías aproximadamente 187,469.726 kilos a la edad de 10 años.",
+    "FalseFactSpanish": "Si continuaras creciendo tan rápido como el bebé promedio, pesarías aproximadamente 68,038.8 kilos a la edad de 10 años."
+  },
+  {
+    "TrueFactEnglish": "If you could travel at the speed of light, you would never get older.",
+    "TrueFactMandarin": "在光速中，人不会变老。",
+    "TrueFactSuggestedLineBreak": "在光速中，\r人的老化速度会增加三倍。",
+    "FalseFactEnglish": "You age three times as fast when traveling at the speed of light.",
+    "FalseFactMandarin": "在光速中，人的老化速度会增加三倍。",
+    "TrueFactSpanish": "Si pudieras viajar a la velocidad de la luz, jamás envejecerías.",
+    "FalseFactSpanish": "Envejeces tres veces más rápido cuando viajas a la velocidad de la luz."
+  },
+  {
+    "TrueFactEnglish": "If you lined up all the eyelashes a person loses in a lifetime, the hairs would stretch the length of ten crocodiles.",
+    "TrueFactMandarin": "把毕生脱落的睫毛并排起来，可达十只鳄鱼并排起来的程度。",
+    "TrueFactSuggestedLineBreak": "人类是唯一一种\r不会掉眉毛的生物。",
+    "FalseFactEnglish": "Humans are the only species that don't lose their eyebrows.",
+    "FalseFactMandarin": "人类是唯一一种不会掉眉毛的生物。",
+    "TrueFactSpanish": "Si alineas todas las pestañas que una persona pierde a lo largo de su vida, las pestañas abarcarían la longitud de diez cocodrilos.",
+    "FalseFactSpanish": "Los seres humanos son la única especie que no pierde sus pestañas."
+  },
+  {
+    "TrueFactEnglish": "If you never cut or broke your fingernails, they would each grow to more than 6 feet long by the time you’re 75 years old.",
+    "TrueFactMandarin": "如果我们从不修剪手指甲，到75岁时，手指甲的长度可达两百厘米以上。",
+    "TrueFactSuggestedLineBreak": "如果我们从不修剪手指甲，到75岁时，\r手指甲的长度可达两百厘米以上。",
+    "FalseFactEnglish": "If you never cut or broke your fingernails, they would each grow to more than 2 feet long by the time you’re 75 years old.",
+    "FalseFactMandarin": "如果我们从不修剪手指甲，到75岁时，手指甲的长度可达两百厘米以上。",
+    "TrueFactSpanish": "Si jamás cortaras o se te rompieran las uñas, cada una crecería más de 1.8288 metros al llegar a los 75 años.",
+    "FalseFactSpanish": "Si jamás cortaras o se te rompieran las uñas, cada una crecería más de 0.60 metros al llegar a los 75 años."
+  },
+  {
+    "TrueFactEnglish": "If you never cut your hair, it could grow more than 30 feet in your lifetime—long enough to reach from a third-story window to the ground.",
+    "TrueFactMandarin": "如果我们毕生不剪发，头发长度可长达9米以上，相等于三层楼的窗户直达地面的距离。",
+    "TrueFactSuggestedLineBreak": "如果我们毕生不剪发，\r头发长度可长达4.5米以上，\r相等于三层楼的窗户\r直达地面的距离。",
+    "FalseFactEnglish": "The average human's hair only grows 15 feet in their lifetime. ",
+    "FalseFactMandarin": "如果我们毕生不剪发，头发长度可长达4.5米以上，相等于三层楼的窗户直达地面的距离。",
+    "TrueFactSpanish": "Si jamás cortaras tu cabello, podría crecer más de 9.144 metros a lo largo de tu vida - suficientemente largo como para cubrir la distancia entre una ventana ubicada en un tercer piso y el suelo.",
+    "FalseFactSpanish": "El cabello humano promedio crece únicamente 4.57 metros a lo largo de una vida. "
+  },
+  {
+    "TrueFactEnglish": "It is impossible to hum while holding your nose.",
+    "TrueFactMandarin": "我们捏住鼻子时，是无法发出哼声的。",
+    "TrueFactSuggestedLineBreak": "我们无法\r同时捏住鼻子和捂住耳朵。",
+    "FalseFactEnglish": "It is impossible to block your ears while holding your nose.",
+    "FalseFactMandarin": "我们无法同时捏住鼻子和捂住耳朵。",
+    "TrueFactSpanish": "Es imposible tararear mientras tapas tu nariz.",
+    "FalseFactSpanish": "Es imposible taparte los oídos mientras tapas tu nariz."
+  },
+  {
+    "TrueFactEnglish": "It takes the average 10-year-old kid about 20 minutes to fall asleep.",
+    "TrueFactMandarin": "10岁小孩需要20分钟的时间入睡。",
+    "TrueFactSuggestedLineBreak": "10岁小孩\r需要4分钟的时间入睡。",
+    "FalseFactEnglish": "It takes the average 10-year-old kid about 4 minutes to fall asleep.",
+    "FalseFactMandarin": "10岁小孩需要4分钟的时间入睡。",
+    "TrueFactSpanish": "Al niño promedio de 10 años le toma aproximadamente 20 minutos conciliar el sueño.",
+    "FalseFactSpanish": "Al niño promedio de 10 años le toma aproximadamente 4 minutos conciliar el sueño."
+  },
+  {
+    "TrueFactEnglish": "It’s impossible to breathe and swallow at the same time.",
+    "TrueFactMandarin": "我们不能同时呼吸和进食。",
+    "TrueFactSuggestedLineBreak": "我们不能同时呼吸和猩猩跳。",
+    "FalseFactEnglish": "It’s impossible to breathe and do a jumping jacks at the same time.",
+    "FalseFactMandarin": "我们不能同时呼吸和猩猩跳。",
+    "TrueFactSpanish": "Es imposible respirar y tragar al mismo tiempo.",
+    "FalseFactSpanish": "Es imposible respirar y ejecutar saltos de tijera al mismo tiempo."
+  },
+  {
+    "TrueFactEnglish": "It’s possible to smell scents in dreams.",
+    "TrueFactMandarin": "即使是在睡梦中，我们依然可以闻到不同的气味。",
+    "TrueFactSuggestedLineBreak": "我们无法在睡梦中闻到气味。",
+    "FalseFactEnglish": "You can't smell in your dreams",
+    "FalseFactMandarin": "我们无法在睡梦中闻到气味。",
+    "TrueFactSpanish": "Es posible percibir aromas en los sueños.",
+    "FalseFactSpanish": "No puedes percibir aromas en los sueños."
+  },
+  {
+    "TrueFactEnglish": "Kids blink about five million times a year.",
+    "TrueFactMandarin": "小朋友每年眨眼的次数大约五百万次。",
+    "TrueFactSuggestedLineBreak": "小朋友每年眨眼的次数\r大约两百万次。",
+    "FalseFactEnglish": "Kids blink less than 2 million times a year.",
+    "FalseFactMandarin": "小朋友每年眨眼的次数大约两百万次。",
+    "TrueFactSpanish": "Los niños parpadean aproximadamente cinco millones de veces al año.",
+    "FalseFactSpanish": "Los niños parpadean menos de 2 millones de veces al año."
+  },
+  {
+    "TrueFactEnglish": "Kids’ fingerprints disappear from surfaces faster than adults do.",
+    "TrueFactMandarin": "孩子的指纹消失得比成人的快。",
+    "TrueFactSuggestedLineBreak": "小孩的指纹停留的时间\r比成人的短两倍。",
+    "FalseFactEnglish": "It takes Kids’ fingerprints twice as long to disappear from surfaces than an adults.",
+    "FalseFactMandarin": "小孩的指纹停留的时间比成人的短两倍。",
+    "TrueFactSpanish": "Las huellas dactilares de los niños desaparecen de las superficies más rápido que las de los adultos.",
+    "FalseFactSpanish": "Las huellas dactilares de los niños toman el doble de tiempo en desaparecer de las superficies en comparación con las de los adultos."
+  },
+  {
+    "TrueFactEnglish": "Many astronauts train for space walks by walking on the ocean floor.",
+    "TrueFactMandarin": "为了能在太空中漫步，许多太空人深入水底，在海床上练习行走。",
+    "TrueFactSuggestedLineBreak": "为了能在太空中漫步，\r许多太空人在沙漠上练习行走。",
+    "FalseFactEnglish": "Many astronauts train for space walks by walking around in the desert.",
+    "FalseFactMandarin": "为了能在太空中漫步，许多太空人在沙漠上练习行走。",
+    "TrueFactSpanish": "Varios astronautas entrenan para las caminatas espaciales caminando en el fondo del mar.",
+    "FalseFactSpanish": "Varios astronautas entrenan para las caminatas espaciales caminando en el desierto."
+  },
+  {
+    "TrueFactEnglish": "Men get the hiccups more often than women do.",
+    "TrueFactMandarin": "男性打嗝的次数比女性高。",
+    "TrueFactSuggestedLineBreak": "女性打嗝的次数\r比男性高出四倍。",
+    "FalseFactEnglish": "Women get the hiccups four times as often as men do.",
+    "FalseFactMandarin": "女性打嗝的次数比男性高出四倍。",
+    "TrueFactSpanish": "Los hombres tienen hipo más seguido que las mujeres.",
+    "FalseFactSpanish": "Las mujeres tienen hipo cuatro veces más que los hombres."
+  },
+  {
+    "TrueFactEnglish": "Messages from your brain travel along your nerves at up to 200 miles an hour.",
+    "TrueFactMandarin": "大脑神经传达信息的速度快达每小时322公里。",
+    "TrueFactSuggestedLineBreak": "大脑神经传达信息的速度\r快达每小时56公里。",
+    "FalseFactEnglish": "Messages from your brain travel along your nerves at up to 35 miles an hour.",
+    "FalseFactMandarin": "大脑神经传达信息的速度快达每小时56公里。",
+    "TrueFactSpanish": "Los mensajes de tu cerebro viajan a lo largo de tus nervios a una velocidad aproximada de 321.8688 kilómetros por hora.",
+    "FalseFactSpanish": "Los mensajes de tu cerebro viajan a lo largo de tus nervios a una velocidad aproximada de 56.32704 kilómetros por hora."
+  },
+  {
+    "TrueFactEnglish": "More than 8,000,000 millionaires are alive today.",
+    "TrueFactMandarin": "当今世上有800万个亿万富翁。",
+    "TrueFactSuggestedLineBreak": "当今世上只有五千个亿万富翁。",
+    "FalseFactEnglish": "More than 5,000 billionaires are alive today. ",
+    "FalseFactMandarin": "当今世上只有五千个亿万富翁。",
+    "TrueFactSpanish": "Más de 8,000,000 millonarios están vivos en la actualidad.",
+    "FalseFactSpanish": "Más de 5,000 billonarios están vivos en la actualidad. "
+  },
+  {
+    "TrueFactEnglish": "Most people blink more than 14,000 times a day.",
+    "TrueFactMandarin": "大多数人每天眨眼的次数超过1万4000次。",
+    "TrueFactSuggestedLineBreak": "大多数人每天眨眼的次数\r超过一万零四百次。",
+    "FalseFactEnglish": "Most people blink less than 10,400 times a day.",
+    "FalseFactMandarin": "大多数人每天眨眼的次数超过一万零四百次。",
+    "TrueFactSpanish": "La mayoría de las personas parpadea más de 14,000 veces al día.",
+    "FalseFactSpanish": "La mayoría de las personas parpadea menos de 10,400 veces al día."
+  },
+  {
+    "TrueFactEnglish": "Most people spend about five years of their lives eating.",
+    "TrueFactMandarin": "大部分的人一生中有五年的时间耗在吃东西上。",
+    "TrueFactSuggestedLineBreak": "大部分的人一生中\r有两年的时间耗在咀嚼食物上。",
+    "FalseFactEnglish": "Most people spend about 2 years of their lives eating.",
+    "FalseFactMandarin": "大部分的人一生中有两年的时间耗在咀嚼食物上。",
+    "TrueFactSpanish": "La mayoría de las personas pasa aproximadamente cinco años de su vidas comiendo.",
+    "FalseFactSpanish": "La mayoría de las personas pasa aproximadamente 2 años de su vida comiendo."
+  },
+  {
+    "TrueFactEnglish": "Much of the dust in your home comes from your family’s dead skin cells.",
+    "TrueFactMandarin": "我们家里大部分的灰尘大都是从身上脱落的死皮细胞。",
+    "TrueFactSuggestedLineBreak": "我们家里大部分的灰尘\r大都是从鸟类和松鼠身上脱落的皮屑。",
+    "FalseFactEnglish": "Much of the dust in your home comes from birds and squirrels.",
+    "FalseFactMandarin": "我们家里大部分的灰尘大都是从鸟类和松鼠身上脱落的皮屑。",
+    "TrueFactSpanish": "La mayor parte del polvo en tu casa proviene de las células epidérmicas muertas de tu familia.",
+    "FalseFactSpanish": "La mayor parte del polvo en tu casa proviene de pájaros y ardillas."
+  },
+  {
+    "TrueFactEnglish": "Newborn babies are color-blind.",
+    "TrueFactMandarin": "新生宝宝都是色盲。",
+    "TrueFactSuggestedLineBreak": "新生宝宝只能看见黑白色的画面。",
+    "FalseFactEnglish": "Newborn babies see in black and white.",
+    "FalseFactMandarin": "新生宝宝只能看见黑白色的画面。",
+    "TrueFactSpanish": "Los bebés recién nacidos son daltónicos.",
+    "FalseFactSpanish": "Los bebés recién nacidos ven en blanco y negro."
+  },
+  {
+    "TrueFactEnglish": "Odonophobia is the fear of teeth.",
+    "TrueFactMandarin": "有一种疾病叫恐牙症，英文叫“Odonophobia”，患者会对牙齿感到莫名的恐惧。",
+    "TrueFactSuggestedLineBreak": "有一种疾病叫“Odonophobia”，\r患者会对袋鼠感到莫名的恐惧。",
+    "FalseFactEnglish": "Odonophobia is the fear of komodo dragons. ",
+    "FalseFactMandarin": "有一种疾病叫“Odonophobia”，患者会对袋鼠感到莫名的恐惧。",
+    "TrueFactSpanish": "La odontofobia es el miedo a los dientes.",
+    "FalseFactSpanish": "La odontofobia es el miedo a los dragones de Komodo. "
+  },
+  {
+    "TrueFactEnglish": "One of the largest man-made islands is shaped like a palm tree.",
+    "TrueFactMandarin": "地球上有一座大型人造岛的外形像一棵棕榈树。",
+    "TrueFactSuggestedLineBreak": "地球上有一座大型人造岛的形状\r像一艘海盗船。",
+    "FalseFactEnglish": "One of the largest man-made islands is shaped like a giant pirate ship. ",
+    "FalseFactMandarin": "地球上有一座大型人造岛的形状像一艘海盗船。",
+    "TrueFactSpanish": "Una de las islas artificiales más grandes tiene la forma de una palmera.",
+    "FalseFactSpanish": "Una de las islas artificiales más grandes tiene la forma de un barco pirata gigante. "
+  },
+  {
+    "TrueFactEnglish": "People flush about 27,000 trees’ worth of toilet paper down the drain every day.",
+    "TrueFactMandarin": "人们每天冲入排水道的卫生纸, 等于耗掉了2万7000棵树。",
+    "TrueFactSuggestedLineBreak": "人们每天冲入排水道的卫生纸，\r相等于4000棵树。",
+    "FalseFactEnglish": "People flush about 4,000 trees’ worth of toilet paper down the drain every day.",
+    "FalseFactMandarin": "人们每天冲入排水道的卫生纸, 相等于4000棵树。",
+    "TrueFactSpanish": "Las personas desechan diariamente por el desagüe papel higiénico el equivalente a 27,000 árboles ",
+    "FalseFactSpanish": "Las personas desechan diariamente por el desagüe papel higiénico el equivalente a 4,000 árboles "
+  },
+  {
+    "TrueFactEnglish": "People tend to sleep less during a full moon.",
+    "TrueFactMandarin": "满月之时，人们的睡眠时间较短。",
+    "TrueFactSuggestedLineBreak": "满月之时，\r人们的睡眠时间较长。",
+    "FalseFactEnglish": "Full moons cause people to sleep three times as much.",
+    "FalseFactMandarin": "满月之时，人们的睡眠时间较长。",
+    "TrueFactSpanish": "Las personas suelen dormir menos durante la luna llena.",
+    "FalseFactSpanish": "La luna llena puede causar que las personas duerman tres veces más."
+  },
+  {
+    "TrueFactEnglish": "People throw away enough ribbon each year to tie a bow around the entire Earth.",
+    "TrueFactMandarin": "我们每年丢掉的丝带，其总长度足以围绕地球一圈，并系成一个蝴蝶结。",
+    "TrueFactSuggestedLineBreak": "我们每年丢掉的丝带，\r其总长度足以围绕整个太阳系一圈，\r并系成一个蝴蝶结。",
+    "FalseFactEnglish": "People throw away enough ribbon each year to tie a bow around the entire Solar System.",
+    "FalseFactMandarin": "我们每年丢掉的丝带，其总长度足以围绕整个太阳系一圈，并系成一个蝴蝶结。",
+    "TrueFactSpanish": "Las personas desperdician tanto liston cada año como para atar un moño alrededor del planeta Tierra entero.",
+    "FalseFactSpanish": "Las personas desperdician suficientes listones cada año para atar un moño alrededor del sistema solar completo."
+  },
+  {
+    "TrueFactEnglish": "Porphyrophobia is the fear of purple.",
+    "TrueFactMandarin": "有种疾病叫紫色恐惧症，英文叫“porphyrophobia”，患者看见紫色会感到莫名的恐惧。",
+    "TrueFactSuggestedLineBreak": "有种疾病叫“porphyrophobia”，\r患者看见豪猪\r会感到莫名的恐惧。",
+    "FalseFactEnglish": "Porphyrophobia is the fear of Porcupines.",
+    "FalseFactMandarin": "有种疾病叫“porphyrophobia”，患者看见豪猪会感到莫名的恐惧。",
+    "TrueFactSpanish": "La porfirofobia es el miedo al color púrpura.",
+    "FalseFactSpanish": "La porfirofobia es el miedo a los puercoespines."
+  },
+  {
+    "TrueFactEnglish": "Prehistoric humans chewed tree resin as chewing gum.",
+    "TrueFactMandarin": "树脂是史前人类的口香糖。",
+    "TrueFactSuggestedLineBreak": "史前人类把老虎的尾巴\r当成是口香糖。",
+    "FalseFactEnglish": "Prehistoric humans chewed tiger tales as chewing gum.",
+    "FalseFactMandarin": "史前人类把老虎的尾巴当成是口香糖。",
+    "TrueFactSpanish": "Los seres humanos prehistóricos mascaban resina de árbol como goma de mascar.",
+    "FalseFactSpanish": "Los seres humanos prehistóricos mascaban colas de tigre como goma de mascar."
+  },
+  {
+    "TrueFactEnglish": "Pulling your foot from quicksand requires about the same amount of force as lifting a car.",
+    "TrueFactMandarin": "企图把双脚从流沙中挣脱出来所使的力气等同抬起一辆轿车的力气。",
+    "TrueFactSuggestedLineBreak": "企图把双脚从流沙中挣脱出来\r所使用的力气\r等同拍手时要用上的力气。",
+    "FalseFactEnglish": "Pulling your foot from quicksand is about the same amount of force as clapping hands.",
+    "FalseFactMandarin": "企图把双脚从流沙中挣脱出来所使用的力气等同拍手时要用上的力气。",
+    "TrueFactSpanish": "Sacar tu pie de arenas movedizas requiere aproximadamente la misma fuerza que se utiliza para levantar un automóvil.",
+    "FalseFactSpanish": "Sacar tu pie de arenas movedizas requiere aproximadamente la misma fuerza que aplaudir."
+  },
+  {
+    "TrueFactEnglish": "Scents smell better through you right nostril than your left.",
+    "TrueFactMandarin": "右鼻孔的嗅觉比左鼻孔的更敏感。",
+    "TrueFactSuggestedLineBreak": "人类两个鼻孔的嗅觉敏感度\r都是相等的。",
+    "FalseFactEnglish": "Scents smell the same through both of your nostrils",
+    "FalseFactMandarin": "人类两个鼻孔的嗅觉敏感度都是相等的。",
+    "TrueFactSpanish": "Los aromas se perciben mejor a través de tu fosa nasal derecha que por la izquierda.",
+    "FalseFactSpanish": "Los aromas se perciben de la misma manera a través de ambas fosas nasales."
+  },
+  {
+    "TrueFactEnglish": "Skin is your body's largest organ.",
+    "TrueFactMandarin": "皮肤是人体最大的器官。",
+    "TrueFactSuggestedLineBreak": "胃部是人体最大的器官。",
+    "FalseFactEnglish": "Your stomach is your body's largest organ.",
+    "FalseFactMandarin": "胃部是人体最大的器官。",
+    "TrueFactSpanish": "El órgano más grande del cuerpo es la piel.",
+    "FalseFactSpanish": "El estómago es el órgano más grande de tu cuerpo."
+  },
+  {
+    "TrueFactEnglish": "Smelling good scents while sleeping might give you happy dreams.",
+    "TrueFactMandarin": "人在睡觉时闻到芬芳的香气，就会做美梦。",
+    "TrueFactSuggestedLineBreak": "人在睡觉时闻到恶臭味，\r就会做美梦。",
+    "FalseFactEnglish": "Smelling gross and stinky scents while sleeping will give you happy dreams.",
+    "FalseFactMandarin": "人在睡觉时闻到恶臭味，就会做美梦。",
+    "TrueFactSpanish": "Percibir buenos aromas mientras duermes puede provocar sueños felices.",
+    "FalseFactSpanish": "Percibir aromas muy fuertes y apestosos mientras duermes puede provocar sueños felices."
+  },
+  {
+    "TrueFactEnglish": "Some artists use chewing gum to make paintings.",
+    "TrueFactMandarin": "有艺术家使用口香糖作画。",
+    "TrueFactSuggestedLineBreak": "有假发业者利用大象的毛发\r作为假发材料。",
+    "FalseFactEnglish": "Some wig manufacturers use elephant hair to make wigs. ",
+    "FalseFactMandarin": "有假发业者利用大象的毛发作为假发材料。",
+    "TrueFactSpanish": "Algunos artistas usan goma de mascar para hacer pinturas.",
+    "FalseFactSpanish": "Algunos fabricantes de pelucas usan pelo de elefante para hacer pelucas. "
+  },
+  {
+    "TrueFactEnglish": "Some kids seem to grow faster in the summer.",
+    "TrueFactMandarin": "有的孩子在夏天里成长得较快。",
+    "TrueFactSuggestedLineBreak": "小孩在夏天里成长得较慢。",
+    "FalseFactEnglish": "Kids grow slower in the summer months.",
+    "FalseFactMandarin": "小孩在夏天里成长得较慢。",
+    "TrueFactSpanish": "Algunos niños parecen crecer más rápido en el verano.",
+    "FalseFactSpanish": "Los niños crecen más lento en los meses de verano."
+  },
+  {
+    "TrueFactEnglish": "Some people get goosebumps on their faces.",
+    "TrueFactMandarin": "有的人的脸会起鸡皮疙瘩。",
+    "TrueFactSuggestedLineBreak": "人的脸部不会起鸡皮疙瘩。",
+    "FalseFactEnglish": "It is impossible to get goosebumps on the face.",
+    "FalseFactMandarin": "人的脸部不会起鸡皮疙瘩。",
+    "TrueFactSpanish": "Algunas personas sienten escalofríos en su rostro.",
+    "FalseFactSpanish": "Es imposible sentir escalofríos en el rostro."
+  },
+  {
+    "TrueFactEnglish": "Some people taste-test pet food for a living.",
+    "TrueFactMandarin": "有人将宠物饲料作为日常粮食。",
+    "TrueFactSuggestedLineBreak": "商家可发售未经测试的宠物饲料。",
+    "FalseFactEnglish": "Pet food doesn't get taste tested before it is sold. ",
+    "FalseFactMandarin": "商家可发售未经测试的宠物饲料。",
+    "TrueFactSpanish": "Algunas personas prueban comida para mascotas para ganarse la vida.",
+    "FalseFactSpanish": "La comida para mascotas no se prueba antes de venderse. "
+  },
+  {
+    "TrueFactEnglish": "Some prehistoric people used mammoth bones to build their homes.",
+    "TrueFactMandarin": "有些史前人类使用长毛象的骨骼来盖房子。",
+    "TrueFactSuggestedLineBreak": "有些史前人类使用番茄来盖房子。",
+    "FalseFactEnglish": "Some prehistoric people used tomato stems to build their homes.",
+    "FalseFactMandarin": "有些史前人类使用番茄来盖房子。",
+    "TrueFactSpanish": "Algunos seres humanos prehistóricos usaban huesos de mamut para construir sus hogares.",
+    "FalseFactSpanish": "Algunos seres humanos prehistóricos usaban tallos de tomate para construir sus hogares."
+  },
+  {
+    "TrueFactEnglish": "Spit can freeze in midair at the North Pole.",
+    "TrueFactMandarin": "在北极吐一口痰，痰液会在半空中瞬间凝结成冰。",
+    "TrueFactSuggestedLineBreak": "在北极吐一口痰，\r基于痰液温度高，\r不至于马上结冰。",
+    "FalseFactEnglish": "Spit is so warm that it won't freeze at the North Pole.",
+    "FalseFactMandarin": "在北极吐一口痰，基于痰液温度高，不至于马上结冰。",
+    "TrueFactSpanish": "La saliva se puede congelar en el aire del Polo Norte.",
+    "FalseFactSpanish": "La saliva es tan caliente que no se congela en el Polo Norte."
+  },
+  {
+    "TrueFactEnglish": "The ancient Egyptians trained monkeys to dance and play music.",
+    "TrueFactMandarin": "古埃及人训练猴子跳舞和玩音乐。",
+    "TrueFactSuggestedLineBreak": "古埃及人训练鸟儿跳舞和演戏。",
+    "FalseFactEnglish": "The ancient Egyptians trained birds to dance and act in plays.",
+    "FalseFactMandarin": "古埃及人训练鸟儿跳舞和演戏。",
+    "TrueFactSpanish": "Los antiguos egipcios entrenaron monos para bailar y tocar música.",
+    "FalseFactSpanish": "Los antiguos egipcios entrenaron aves para bailar y actuar en obras de teatro."
+  },
+  {
+    "TrueFactEnglish": "The average dream lasts about 20 minutes.",
+    "TrueFactMandarin": "每场梦的持续时间长达20分钟左右。",
+    "TrueFactSuggestedLineBreak": "每场梦的持续时间\r不超过4分钟。",
+    "FalseFactEnglish": "The average dream lasts less than 4 minutes.",
+    "FalseFactMandarin": "每场梦的持续时间不超过4分钟。",
+    "TrueFactSpanish": "Un sueño promedio dura aproximadamente 20 minutos.",
+    "FalseFactSpanish": "Un sueño promedio dura menos de 4 minutos."
+  },
+  {
+    "TrueFactEnglish": "The average hug lasts three seconds.",
+    "TrueFactMandarin": "人与人一个拥抱平均持续三秒钟。",
+    "TrueFactSuggestedLineBreak": "人与人的拥抱平均持续超过23秒钟。",
+    "FalseFactEnglish": "The average hug lasts longer than 23 seconds.",
+    "FalseFactMandarin": "人与人的拥抱平均持续超过23秒钟。",
+    "TrueFactSpanish": "Un abrazo promedio dura tres segundos.",
+    "FalseFactSpanish": "Un abrazo promedio dura más de veintitrés segundos."
+  },
+  {
+    "TrueFactEnglish": "The average person walks about 80,000 miles in a lifetime. That’s more than three times around the world!",
+    "TrueFactMandarin": "每个人一生会行走128720公里左右，相等于环游世界三次以上！",
+    "TrueFactSuggestedLineBreak": "每个人一生\r会行走57441公里左右。",
+    "FalseFactEnglish": "The average person walks 35,700 miles in a lifetime.",
+    "FalseFactMandarin": "每个人一生会行走57441公里左右。",
+    "TrueFactSpanish": "La persona promedio camina aproximadamente 128,747.52 kilómetros en su vida. ¡Eso es más que tres vueltas alrededor del mundo!",
+    "FalseFactSpanish": "La persona promedio camina aproximadamente 57,453.581 kilómetros en su vida."
+  },
+  {
+    "TrueFactEnglish": "The groove between your nose and upper lip is called the philtrum.",
+    "TrueFactMandarin": "鼻子和上唇之间的凹处称为 “人中”。",
+    "TrueFactSuggestedLineBreak": "鼻子和上唇之间的凹处称为 “唇中”。",
+    "FalseFactEnglish": "The groove between your nose and upper lip is called the Lipstril.",
+    "FalseFactMandarin": "鼻子和上唇之间的凹处称为 “唇中”。",
+    "TrueFactSpanish": "La curvatura entre tu nariz y labio superior se llama surco nasolabial.",
+    "FalseFactSpanish": "La curvatura entre tu nariz y labio superior se llama surco lipstril."
+  },
+  {
+    "TrueFactEnglish": "The human body contains a tiny amount of gold.",
+    "TrueFactMandarin": "人体内含有微量的黄金。",
+    "TrueFactSuggestedLineBreak": "人体内含有微量的钚。",
+    "FalseFactEnglish": "The human eyeball contains a tiny amount of plutonium.",
+    "FalseFactMandarin": "人体内含有微量的钚。",
+    "TrueFactSpanish": "El cuerpo humano contiene una pequeña cantidad de oro.",
+    "FalseFactSpanish": "El globo ocular humano contiene una pequeña cantidad de plutonio."
+  },
+  {
+    "TrueFactEnglish": "The human body contains enough iron to make a 2-inch nail.",
+    "TrueFactMandarin": "人体内的铁质足以打造出一枚约6厘米长的钉子。",
+    "TrueFactSuggestedLineBreak": "人体内含有\r黄金、银和钻石元素，\r唯独没有铁质。",
+    "FalseFactEnglish": "The human body contains gold, silver, and diamond, but not iron. ",
+    "FalseFactMandarin": "人体内含有黄金、银和钻石元素，唯独没有铁质。",
+    "TrueFactSpanish": "El cuerpo humano contiene hierro suficiente para formar una uña de 5.08 centímetros.",
+    "FalseFactSpanish": "El cuerpo humano contiene oro, plata, y diamante, pero no hierro. "
+  },
+  {
+    "TrueFactEnglish": "The oldest human footprint ever found is 350,000 years old.",
+    "TrueFactMandarin": "世界上最古老的人类脚印保留了35万年。",
+    "TrueFactSuggestedLineBreak": "世界上最古老的人类脚印\r保留了95475年。",
+    "FalseFactEnglish": "The oldest human footprint ever found is 95,475 years old.",
+    "FalseFactMandarin": "世界上最古老的人类脚印保留了95475年。",
+    "TrueFactSpanish": "La huella más antigua de un ser humano jamás encontrada tiene 350,000 años.",
+    "FalseFactSpanish": "La huella más antigua de un ser humano que se ha encontrado tiene 95,475 años."
+  },
+  {
+    "TrueFactEnglish": "The record for the world’s longest continuous series of somersaults is 12 miles, 390 yards.",
+    "TrueFactMandarin": "世界上连续翻筋斗最长距离的记录是19公里351米。",
+    "TrueFactSuggestedLineBreak": "世界上连续翻筋斗\r最长距离的记录\r是8公里180米。",
+    "FalseFactEnglish": "The record for the world’s longest continuous series of somersaults is only 5 miles, 200 yards.",
+    "FalseFactMandarin": "世界上连续翻筋斗最长距离的记录是8公里180米。",
+    "TrueFactSpanish": "El récord mundial para la serie continua más larga de saltos mortales es de 19 kilómetros, 356.616 metros.",
+    "FalseFactSpanish": "El récord mundial para la serie continua más larga de saltos mortales es de únicamente 8.04672 kilómetros, 182.88 metros."
+  },
+  {
+    "TrueFactEnglish": "The rumbling sound your belly makes is called borborygmus.",
+    "TrueFactMandarin": "我们肚子发出的隆隆声，英文叫做“borborygmus”。",
+    "TrueFactSuggestedLineBreak": "我们肚子发出的隆隆声，\r英文叫做“Tummtumtones”。",
+    "FalseFactEnglish": "The rumbling sound your belly makes is called Tummtumtones.",
+    "FalseFactMandarin": "我们肚子发出的隆隆声，英文叫做“Tummtumtones”。",
+    "TrueFactSpanish": "El sonido profundo que produce tu estómago se llama borborigmos.",
+    "FalseFactSpanish": "El sonido profundo que produce tu estómago se llama \"gorgorigmos\""
+  },
+  {
+    "TrueFactEnglish": "The smallest bone in the human body is shorter than a grain of rice.",
+    "TrueFactMandarin": "人体内体积最小的骨头，长度不超过一颗米粒。",
+    "TrueFactSuggestedLineBreak": "人体内体积最小的骨头，\r跟一个衣夹一样长。",
+    "FalseFactEnglish": "The smallest bone in the human body is as long as a clothes pin.",
+    "FalseFactMandarin": "人体内体积最小的骨头，跟一个衣夹一样长。",
+    "TrueFactSpanish": "El hueso más pequeño en el cuerpo humano es más corto que un grano de arroz.",
+    "FalseFactSpanish": "El hueso más pequeño en el cuerpo humano es tan largo como una pinza de ropa."
+  },
+  {
+    "TrueFactEnglish": "The width of your arms stretched out is about the same as your height.",
+    "TrueFactMandarin": "人体双臂的宽度与身高相同。",
+    "TrueFactSuggestedLineBreak": "人体手肘张开后的长度，\r与鞋的尺寸相等。",
+    "FalseFactEnglish": "The width of your elbow to elbow stretched out is about the same as your shoe size.",
+    "FalseFactMandarin": "人体手肘张开后的长度，与鞋的尺寸相等。",
+    "TrueFactSpanish": "La extensión de tus brazos estirados de lado a lado es aproximadamente la misma que tu altura.",
+    "FalseFactSpanish": "La extensión de un codo al otro cuando estiras los brazos es aproximadamente la misma que el tamaño de tu zapato."
+  },
+  {
+    "TrueFactEnglish": "The world’s population grows by about a billion people in 12 years. ",
+    "TrueFactMandarin": "地球人口每12年增长大约十亿人口。",
+    "TrueFactSuggestedLineBreak": "地球人口每12年\r增长大约五亿人口。",
+    "FalseFactEnglish": "The world’s population grows by about a 500 million people every 12 years. ",
+    "FalseFactMandarin": "地球人口每12年增长大约五亿人口。",
+    "TrueFactSpanish": "La población del mundo crece a un ritmo aproximado de mil millones de personas en 12 años. ",
+    "FalseFactSpanish": "La población del mundo crece a un ritmo aproximado de 500 millones de personas cada 12 años. "
+  },
+  {
+    "TrueFactEnglish": "There are about six million bacteria on every square inch of your skin.",
+    "TrueFactMandarin": "人体每寸肌肤上含有多达600万个细菌。",
+    "TrueFactSuggestedLineBreak": "细菌无法生存在人体皮肤表面上。",
+    "FalseFactEnglish": "Bacteria cannot survive on your skin.",
+    "FalseFactMandarin": "细菌无法生存在人体皮肤表面上。",
+    "TrueFactSpanish": "Existen aproximadamente seis millones de bacterias en cada pulgada cuadrada de tu piel. ",
+    "FalseFactSpanish": "Las bacterias no pueden sobrevivir en tu piel."
+  },
+  {
+    "TrueFactEnglish": "There can be about a billion bacteria in your mouth right now.",
+    "TrueFactMandarin": "此时此刻，我们口里可能有约十亿个细菌。",
+    "TrueFactSuggestedLineBreak": "细菌无法在口中生存。",
+    "FalseFactEnglish": "Bacteria cannot survive in your mouth. ",
+    "FalseFactMandarin": "细菌无法在口中生存。",
+    "TrueFactSpanish": "Puede haber aproximadamente mil millones de bacterias en tu boca en este mismo momento.",
+    "FalseFactSpanish": "Las bacterias no pueden sobrevivir en tu boca. "
+  },
+  {
+    "TrueFactEnglish": "Vision uses one-third of all your brainpower.",
+    "TrueFactMandarin": "动用视觉足以消耗三分之一的脑力。",
+    "TrueFactSuggestedLineBreak": "动用视觉\r足以消耗八分之一的脑力。",
+    "FalseFactEnglish": "Vision only uses one-eighth of all your brainpower.",
+    "FalseFactMandarin": "动用视觉足以消耗八分之一的脑力。",
+    "TrueFactSpanish": "La visión ocupa un tercio de toda tu fuerza mental.",
+    "FalseFactSpanish": "La visión ocupa una octava parte de toda tu fuerza mental."
+  },
+  {
+    "TrueFactEnglish": "Walking uses 200 muscles.",
+    "TrueFactMandarin": "我们走路时会动用到200块肌肉。",
+    "TrueFactSuggestedLineBreak": "我们走路时会动用到200块肌肉。",
+    "FalseFactEnglish": "Walking  uses 114 muscles.",
+    "FalseFactMandarin": "我们走路时会动用到200块肌肉。",
+    "TrueFactSpanish": "La accion de caminar, utiliza 200 músculos.",
+    "FalseFactSpanish": "Caminar conlleva el uso de 114 músculos."
+  },
+  {
+    "TrueFactEnglish": "When you have lived for 2.4 billion seconds, you will be 75 years old.",
+    "TrueFactMandarin": "人活过24亿秒，就已经75岁了。",
+    "TrueFactSuggestedLineBreak": "人活过14亿秒，\r就已经75岁了。",
+    "FalseFactEnglish": "When you have lived for 1.4 billion seconds, you will be 75 years old.",
+    "FalseFactMandarin": "人活过14亿秒，就已经75岁了。",
+    "TrueFactSpanish": "Cuando has vivido 2.4 mil millones de segundos, habrás vivido 75 años.",
+    "FalseFactSpanish": "Cuando has vivido 1.4 mil millones de segundos, habrás vivido 75 años."
+  },
+  {
+    "TrueFactEnglish": "You are made up of about 10 trillion cells.",
+    "TrueFactMandarin": "人体由10万亿细胞组成。",
+    "TrueFactSuggestedLineBreak": "人体由12万亿细胞组成。",
+    "FalseFactEnglish": "You are made up of 12 billion cells.",
+    "FalseFactMandarin": "人体由12万亿细胞组成。",
+    "TrueFactSpanish": "Estás constituido de aproximadamente 10 trillones de células.",
+    "FalseFactSpanish": "Estás constituido de aproximadamente de 12 mil millones de células."
+  },
+  {
+    "TrueFactEnglish": "You are more likely to be in a bad mood on Thursdays, according to one study.",
+    "TrueFactMandarin": "一项研究显示，星期四是我们最容易受负面情绪影响的一天。",
+    "TrueFactSuggestedLineBreak": "一项研究显示，\r星期四是我们心情最好的一天。",
+    "FalseFactEnglish": "You are more likely to be in a good mood on Thursdays, according to one study.",
+    "FalseFactMandarin": "一项研究显示，星期四是我们心情最好的一天。",
+    "TrueFactSpanish": "Según un estudio, hay mayor probabilidad de estar de mal humor en jueves.",
+    "FalseFactSpanish": "Según un estudio, es más posible estar de buen humor en jueves."
+  },
+  {
+    "TrueFactEnglish": "You breathe in 2,000 gallons of air a day.",
+    "TrueFactMandarin": "我们每天吸进2000加仑的空气。",
+    "TrueFactSuggestedLineBreak": "我们每天吸进490加仑的空气。",
+    "FalseFactEnglish": "You breathe in 490 gallons of air a day.",
+    "FalseFactMandarin": "我们每天吸进490加仑的空气。",
+    "TrueFactSpanish": "Respiras 7,570.82 litros de aire al día.",
+    "FalseFactSpanish": "Respiras 1854.8509 litros de aire al día."
+  },
+  {
+    "TrueFactEnglish": "You can write about 45,000 words with the average pencil.",
+    "TrueFactMandarin": "一枝铅笔平均可写出4万5000个字。",
+    "TrueFactSuggestedLineBreak": "一枝铅笔平均\r可写出9752个字。",
+    "FalseFactEnglish": "You can write about 9,752 words with the average pencil.",
+    "FalseFactMandarin": "一枝铅笔平均可写出9752个字。",
+    "TrueFactSpanish": "Puedes escribir aproximadamente 45,000 palabras con un lápiz promedio.",
+    "FalseFactSpanish": "Puedes escribir aproximadamente 9,752 palabras con el lápiz promedio."
+  },
+  {
+    "TrueFactEnglish": "You have taste buds in your throat.",
+    "TrueFactMandarin": "我们的喉咙是有味蕾的。",
+    "TrueFactSuggestedLineBreak": "味蕾只长在舌头上。",
+    "FalseFactEnglish": "The tongue is the only place you have taste buds.",
+    "FalseFactMandarin": "味蕾只长在舌头上。",
+    "TrueFactSpanish": "Puedes tener papilas gustativas en la garganta.",
+    "FalseFactSpanish": "La lengua es el único lugar en donde tienes papilas gustativas."
+  },
+  {
+    "TrueFactEnglish": "You lose about nine pounds of skin cells every year.",
+    "TrueFactMandarin": "我们每年脱落4公斤的皮肤细胞。",
+    "TrueFactSuggestedLineBreak": "我们每年脱落半公斤的皮肤细胞。",
+    "FalseFactEnglish": "You lose about five and a half pounds of skin cells every year.",
+    "FalseFactMandarin": "我们每年脱落半公斤的皮肤细胞。",
+    "TrueFactSpanish": "Cada año pierdes aproximadamente 4.0823 kilos de células epidérmicas.",
+    "FalseFactSpanish": "Cada año pierdes aproximadamente 2.49 kilos de células epidérmicas."
+  },
+  {
+    "TrueFactEnglish": "You lose up to 100 hairs a day.",
+    "TrueFactMandarin": "我们每天会掉落100根毛发。",
+    "TrueFactSuggestedLineBreak": "我们每天会掉落48根毛发。",
+    "FalseFactEnglish": "You lose up to 48 hairs a day.",
+    "FalseFactMandarin": "我们每天会掉落48根毛发。",
+    "TrueFactSpanish": "Cada día pierdes hasta 100 cabellos.",
+    "FalseFactSpanish": "Cada día pierdes hasta 48 cabellos."
+  },
+  {
+    "TrueFactEnglish": "You may make better decisions with a full bladder.",
+    "TrueFactMandarin": "当膀胱盛满时，我们能够做出更理想的决定。",
+    "TrueFactSuggestedLineBreak": "当膀胱盛满时，\r我们会做出最差的决定。",
+    "FalseFactEnglish": "You make worse decisions when your bladder is full.",
+    "FalseFactMandarin": "当膀胱盛满时，我们会做出最差的决定。",
+    "TrueFactSpanish": "Es posible que tomes mejores decisiones con una vejiga llena.",
+    "FalseFactSpanish": "Tomas peores decisiones cuando tu vejiga está llena."
+  },
+  {
+    "TrueFactEnglish": "You may spend half your waking hours daydreaming, according to one study.",
+    "TrueFactMandarin": "根据一项研究，人们醒来后几乎一半的时间都在做白日梦。",
+    "TrueFactSuggestedLineBreak": "根据一项研究，\r人们醒来后\r几乎四分之一的时间\r都在做白日梦。",
+    "FalseFactEnglish": "You may spend 1/4 of your waking hours daydreaming, according to one study.",
+    "FalseFactMandarin": "根据一项研究，人们醒来后几乎四分之一的时间都在做白日梦。",
+    "TrueFactSpanish": "De acuerdo con un estudio, es posible que pases la mitad de tus horas activas soñando despierto.",
+    "FalseFactSpanish": "De acuerdo con un estudio, es posible que pases una cuarta parte de tus horas activas soñando despierto."
+  },
+  {
+    "TrueFactEnglish": "You spend about an hour a day chewing.",
+    "TrueFactMandarin": "我们每天会有一小时的时间是在咀嚼食物。",
+    "TrueFactSuggestedLineBreak": "我们每天有19分钟的时间\r是在咀嚼食物。",
+    "FalseFactEnglish": "You spend about 19 minutes a day chewing.",
+    "FalseFactMandarin": "我们每天有19分钟的时间是在咀嚼食物。",
+    "TrueFactSpanish": "Inviertes aproximadamente una hora al día masticando.",
+    "FalseFactSpanish": "Inviertes aproximadamente 19 minutos al día masticando."
+  },
+  {
+    "TrueFactEnglish": "You take about 25,000 breaths every day.",
+    "TrueFactMandarin": "人们每天呼吸约25000次。",
+    "TrueFactSuggestedLineBreak": "我们每天呼吸约5000次。",
+    "FalseFactEnglish": "You take about 5,000 breaths every day.",
+    "FalseFactMandarin": "我们每天呼吸约5000次。",
+    "TrueFactSpanish": "Realizas aproximadamente 25,000 respiraciones cada día.",
+    "FalseFactSpanish": "Realizas aproximadamente 5,000 respiraciones cada día."
+  },
+  {
+    "TrueFactEnglish": "You use 72 different muscles every time you talk.",
+    "TrueFactMandarin": "人们每次说话时会动用到72个不同部位的肌肉。",
+    "TrueFactSuggestedLineBreak": "我们每次说话时会动用到\r32个不同部位的肌肉。",
+    "FalseFactEnglish": "You use 32 different muscles every time you talk.",
+    "FalseFactMandarin": "我们每次说话时会动用到32个不同部位的肌肉。",
+    "TrueFactSpanish": "Usas 72 músculos diferentes cada vez que hablas.",
+    "FalseFactSpanish": "Usas 32 músculos diferentes cada vez que hablas."
+  },
+  {
+    "TrueFactEnglish": "You’re almost a half inch taller in the morning than in the evening.",
+    "TrueFactMandarin": "我们白天会比晚上高出1厘米。",
+    "TrueFactSuggestedLineBreak": "我们夜晚会比白天高出1厘米。",
+    "FalseFactEnglish": "You’re almost a half inch taller in the evening than in the morning.",
+    "FalseFactMandarin": "我们夜晚会比白天高出1厘米。",
+    "TrueFactSpanish": "mides casi 1.27 centímetros más en la mañana que en la tarde.",
+    "FalseFactSpanish": "Ganas casi 1.27 centímetros en la tarde a diferencia de la mañana."
+  },
+  {
+    "TrueFactEnglish": "Your “funny bone” is actually a nerve, not a bone.",
+    "TrueFactMandarin": "肘部上的尺骨端，也叫做“笑骨”，其实不是一块骨头，而是一条神经。",
+    "TrueFactSuggestedLineBreak": "肘部上的尺骨端，\r也叫做“笑骨”，\r其实不是一块骨头，\r而是一块肌肉。",
+    "FalseFactEnglish": "Your “funny bone” is actually a muscle.",
+    "FalseFactMandarin": "肘部上的尺骨端，也叫做“笑骨”，其实不是一块骨头，而是一块肌肉。",
+    "TrueFactSpanish": "Tu \"hueso del codo\" es de hecho un nervio, no un hueso.",
+    "FalseFactSpanish": "Tu \"hueso del codo\" es en realidad un músculo."
+  },
+  {
+    "TrueFactEnglish": "Your body contains about 60,000 miles of blood vessels.",
+    "TrueFactMandarin": "我们体内的血管大约有十万公里长。",
+    "TrueFactSuggestedLineBreak": "我们体内的血管\r大约有43600公里长。",
+    "FalseFactEnglish": "Your body contains almost 27,100 miles of blood vessels.",
+    "FalseFactMandarin": "我们体内的血管大约有43600公里长。",
+    "TrueFactSpanish": "Tu cuerpo contiene aproximadamente 96,560.64 kilómetros de vasos sanguíneos.",
+    "FalseFactSpanish": "Tu cuerpo contiene aproximadamente 43613.222 kilómetros de vasos sanguíneos."
+  },
+  {
+    "TrueFactEnglish": "Your brain can hold 100 times more information than a computer.",
+    "TrueFactMandarin": "我们的大脑可以容纳比电脑多一百倍的信息。",
+    "TrueFactSuggestedLineBreak": "电脑可容纳的信息\r比人脑来得还要多。",
+    "FalseFactEnglish": "The average computer can hold more information than the human brain.",
+    "FalseFactMandarin": "电脑可容纳的信息比人脑来得还要多。",
+    "TrueFactSpanish": "Tu cerebro puede retener 100 veces más  información que una computadora.",
+    "FalseFactSpanish": "La computadora promedio puede retener más información que el cerebro humano."
+  },
+  {
+    "TrueFactEnglish": "Your brain is about three-quarters water.",
+    "TrueFactMandarin": "人们的脑袋瓜有四分之三是水分。",
+    "TrueFactSuggestedLineBreak": "我们的脑袋瓜\r有四分之三是骨骼。",
+    "FalseFactEnglish": "Your brain is about three-quarters bone.",
+    "FalseFactMandarin": "我们的脑袋瓜有四分之三是骨骼。",
+    "TrueFactSpanish": "Tres cuartas partes de tu cerebro son agua.",
+    "FalseFactSpanish": "Tres cuartas partes de tu cerebro es hueso."
+  },
+  {
+    "TrueFactEnglish": "Your brain is sometimes more active when you sleep than when you’re awake.",
+    "TrueFactMandarin": "我们的脑袋有时在睡眠中比清醒时还要活跃。",
+    "TrueFactSuggestedLineBreak": "我们的脑袋在清醒时\r比在睡眠中还要活跃三倍。",
+    "FalseFactEnglish": "Your brain is three times as active when you’re awake than when you're asleep.",
+    "FalseFactMandarin": "我们的脑袋在清醒时比在睡眠中还要活跃三倍。",
+    "TrueFactSpanish": "En ocasiones, tu cerebro está más activo cuando duermes que cuando estás despierto.",
+    "FalseFactSpanish": "Tu cerebro está tres veces más activo cuando estás despierto que cuando estás dormido."
+  },
+  {
+    "TrueFactEnglish": "Your brain uses the same amount of power as a ten-watt lightbulb.",
+    "TrueFactMandarin": "人的大脑所需的能量与一盏10瓦特的灯泡相同。",
+    "TrueFactSuggestedLineBreak": "人的大脑所需的能量\r与一台家庭式暖气炉相等。",
+    "FalseFactEnglish": "Your brain uses the same amount of power as a house's heater.",
+    "FalseFactMandarin": "人的大脑所需的能量与一台家庭式暖气炉相等。",
+    "TrueFactSpanish": "Tu cerebro usa la misma cantidad de energía que un foco de diez watts.",
+    "FalseFactSpanish": "Tu cerebro usa la misma cantidad de energía que el calentador de una casa."
+  },
+  {
+    "TrueFactEnglish": "Your ears produce more wax when you’re afraid.",
+    "TrueFactMandarin": "当我们感到恐惧时，耳朵会分泌出更多耳垢。",
+    "TrueFactSuggestedLineBreak": "当我们感到恐惧时，\r耳垢的分泌量较少。",
+    "FalseFactEnglish": "Your ears produce less wax when you’re afraid.",
+    "FalseFactMandarin": "当我们感到恐惧时，耳垢的分泌量较少。",
+    "TrueFactSpanish": "Tus orejas producen más cera cuando tienes miedo.",
+    "FalseFactSpanish": "Tus orejas producen menos cera cuando tienes miedo."
+  },
+  {
+    "TrueFactEnglish": "Your eyes move about 80 times per second.",
+    "TrueFactMandarin": "我们的眼睛每秒转动约80次。",
+    "TrueFactSuggestedLineBreak": "我们的眼睛每秒转动约26次。",
+    "FalseFactEnglish": "Your eyes move almost 26 times per second.",
+    "FalseFactMandarin": "我们的眼睛每秒转动约26次。",
+    "TrueFactSpanish": "Tus ojos se mueven aproximadamente 80 veces por segundo.",
+    "FalseFactSpanish": "Tus ojos se mueven aproximadamente 26 veces por segundo."
+  },
+  {
+    "TrueFactEnglish": "Your eyes process more than 120 million bits of information every second.",
+    "TrueFactMandarin": "人的眼睛每秒能处理超过120万比特的讯息。",
+    "TrueFactSuggestedLineBreak": "人的眼睛每秒能处理\r超过两千八百万比特的讯息。",
+    "FalseFactEnglish": "Your eyes process less than 28 million bits of information every second.",
+    "FalseFactMandarin": "人的眼睛每秒能处理超过两千八百万比特的讯息。",
+    "TrueFactSpanish": "Tus ojos procesan más de 120 millones de fragmentos de información cada segundo.",
+    "FalseFactSpanish": "Tus ojos procesan menos de 28 millones de fragmentos de información cada segundo."
+  },
+  {
+    "TrueFactEnglish": "Your eyes produce a teaspoon of tears every hour.",
+    "TrueFactMandarin": "我们的眼睛每小时会分泌出一茶匙的眼泪。",
+    "TrueFactSuggestedLineBreak": "我们的眼睛\r每小时会分泌出一茶匙的眼垢。",
+    "FalseFactEnglish": "Your ears produce a teaspoon of ear wax every hour.",
+    "FalseFactMandarin": "我们的眼睛每小时会分泌出一茶匙的眼垢。",
+    "TrueFactSpanish": "Tus ojos producen una cucharada de lágrimas cada hora.",
+    "FalseFactSpanish": "Tus orejas producen una cucharada de cerilla cada hora."
+  },
+  {
+    "TrueFactEnglish": "Your feet have 500,000 sweat glands.",
+    "TrueFactMandarin": "我们的足部有五十万条汗腺。",
+    "TrueFactSuggestedLineBreak": "我们的足部没有汗腺。",
+    "FalseFactEnglish": "Unlike your hands, your feet do not have sweat glands.",
+    "FalseFactMandarin": "我们的足部没有汗腺。",
+    "TrueFactSpanish": "Tus pies tienen 500,000 glándulas sudoríparas.",
+    "FalseFactSpanish": "A diferencia de tus manos, tus pies no tienen glándulas sudoríparas."
+  },
+  {
+    "TrueFactEnglish": "Your fingernails take 6 months to grow from base to tip.",
+    "TrueFactMandarin": "人的手指甲需要6个月长齐。",
+    "TrueFactSuggestedLineBreak": "人的手指甲需要14个月长齐。",
+    "FalseFactEnglish": "Your fingernails take about 14 months to grow from base to tip.",
+    "FalseFactMandarin": "人的手指甲需要14个月长齐。",
+    "TrueFactSpanish": "Tus uñas de las manos tardan 6 meses en crecer desde la base hasta la punta.",
+    "FalseFactSpanish": "Tus uñas tardan aproximadamente 14 meses para crecer desde la base hasta la punta."
+  },
+  {
+    "TrueFactEnglish": "Your hands and wrists contain 26 percent of the bones in your body.",
+    "TrueFactMandarin": "人体有百分之26的骨骼来自手和手腕。",
+    "TrueFactSuggestedLineBreak": "人体有百分之10的骨骼\r来自手臂和手腕。",
+    "FalseFactEnglish": "Your hands and wrists contain almost 10 percent of the bones in your body.",
+    "FalseFactMandarin": "人体有百分之10的骨骼来自手臂和手腕。",
+    "TrueFactSpanish": "Tus manos y muñecas contienen 26 por ciento de los huesos en tu cuerpo.",
+    "FalseFactSpanish": "Tus manos y muñecas contienen al menos el 10 por ciento de los huesos en tu cuerpo."
+  },
+  {
+    "TrueFactEnglish": "Your heart is about the same size as your fist.",
+    "TrueFactMandarin": "我们的心脏和拳头的大小是一样的。",
+    "TrueFactSuggestedLineBreak": "我们的心脏\r与一颗英式足球的大小是一样的。",
+    "FalseFactEnglish": "Your heart is about the same size as a soccer ball.",
+    "FalseFactMandarin": "我们的心脏与一颗英式足球的大小是一样的。",
+    "TrueFactSpanish": "Tu corazón es aproximadamente del mismo tamaño que tu puño.",
+    "FalseFactSpanish": "Tu corazón es aproximadamente del mismo tamaño que un balón de fútbol soccer."
+  },
+  {
+    "TrueFactEnglish": "Your sense of smell is weaker in the morning and stronger in the evening.",
+    "TrueFactMandarin": "比起早晨，人的嗅觉在夜间更敏感。",
+    "TrueFactSuggestedLineBreak": "入夜后，人的嗅觉比较不灵敏。",
+    "FalseFactEnglish": "Your sense of smell gets weaker as the day goes on.",
+    "FalseFactMandarin": "入夜后，人的嗅觉比较不灵敏。",
+    "TrueFactSpanish": "Tu sentido del olfato es más débil en la mañana y más fuerte en la tarde.",
+    "FalseFactSpanish": "Tu sentido del olfato se debilita conforme el día progresa."
+  },
+  {
+    "TrueFactEnglish": "Your skeleton has about 300 bones when you are born, but only 206 when you grow up.",
+    "TrueFactMandarin": "我们刚出生时有300块骨头，成年后只剩下206块。",
+    "TrueFactSuggestedLineBreak": "人体内骨骼的数量\r会在成年后增加。",
+    "FalseFactEnglish": "Your skeleton has less bones when you are born than when you're an adult",
+    "FalseFactMandarin": "人体内骨骼的数量会在成年后增加。",
+    "TrueFactSpanish": "Tu esqueleto tiene aproximadamente 300 huesos cuando naces, pero únicamente 206 cuando creces.",
+    "FalseFactSpanish": "Tu esqueleto tiene menos huesos cuando naces que cuando eres un adulto."
+  },
+  {
+    "TrueFactEnglish": "Your skin sheds and regrows about once a month.",
+    "TrueFactMandarin": "我们的皮肤每个月会脱落并再生至少一次。",
+    "TrueFactSuggestedLineBreak": "我们的皮肤每七年\r会脱落并再生一次。",
+    "FalseFactEnglish": "Your skin sheds and regrows once every 7 years.",
+    "FalseFactMandarin": "我们的皮肤每七年会脱落并再生一次。",
+    "TrueFactSpanish": "Tu piel cambia y se regenera aproximadamente una vez al mes.",
+    "FalseFactSpanish": "Tu piel cambia y se regenera una vez cada 7 años."
+  },
+  {
+    "TrueFactEnglish": "Your tongue grows new taste buds about every two weeks.",
+    "TrueFactMandarin": "我们的舌头每隔两个星期左右就会长出新的味蕾。",
+    "TrueFactSuggestedLineBreak": "宝宝出生后，\r舌头上的味蕾便会停止增长。",
+    "FalseFactEnglish": "Your tongue doesn't grow new taste buds after you are born.",
+    "FalseFactMandarin": "宝宝出生后，舌头上的味蕾便会停止增长。",
+    "TrueFactSpanish": "Tu lengua permite el crecimiento de nuevas papilas gustativas aproximadamente cada dos semanas.",
+    "FalseFactSpanish": "Tu lengua no permite el crecimiento de nuevas papilas gustativas después de nacer."
+  }
+]

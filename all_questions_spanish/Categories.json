@@ -1,0 +1,62 @@
+[
+  {
+    "CategoryID": "AnimalFacts",
+    "CategoryLabelMandarin": "动物事实",
+    "CategoryLabelEnglish": "Hechos de los animales"
+  },
+  {
+    "CategoryID": "FoodFacts",
+    "CategoryLabelMandarin": "Datos de la comida",
+    "CategoryLabelEnglish": "Food Facts"
+  },
+  {
+    "CategoryID": "HumanFacts",
+    "CategoryLabelMandarin": "Hechos humanos",
+    "CategoryLabelEnglish": "Human Facts"
+  },
+  {
+    "CategoryID": "InsectFacts",
+    "CategoryLabelMandarin": "Hecho de insectos",
+    "CategoryLabelEnglish": "Insect Facts"
+  },
+  {
+    "CategoryID": "MiscellaneousFacts",
+    "CategoryLabelMandarin": "Hechos diversos",
+    "CategoryLabelEnglish": "Miscellaneous Facts"
+  },
+  {
+    "CategoryID": "OuterSpaceFacts",
+    "CategoryLabelMandarin": "Datos del espacio exterior",
+    "CategoryLabelEnglish": "Outer Space Facts"
+  },
+  {
+    "CategoryID": "PlantFacts",
+    "CategoryLabelMandarin": "Datos de la planta",
+    "CategoryLabelEnglish": "Plant Facts"
+  },
+  {
+    "CategoryID": "SeaWaterFacts",
+    "CategoryLabelMandarin": "Datos sobre el agua del mar",
+    "CategoryLabelEnglish": "Sea Water Facts"
+  },
+  {
+    "CategoryID": "SportsFacts",
+    "CategoryLabelMandarin": "Deportes hechos",
+    "CategoryLabelEnglish": "Sports Facts"
+  },
+  {
+    "CategoryID": "TechnologyFacts",
+    "CategoryLabelMandarin": "Hechos de la tecnología",
+    "CategoryLabelEnglish": "Technology Facts"
+  },
+  {
+    "CategoryID": "VehicleFacts",
+    "CategoryLabelMandarin": "Datos del Vehículo",
+    "CategoryLabelEnglish": "Vehicle Facts"
+  },
+  {
+    "CategoryID": "WeatherFacts",
+    "CategoryLabelMandarin": "Hechos del tiempo",
+    "CategoryLabelEnglish": "Weather Facts"
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "TrueFactEnglish": "The world’s loudest bicycle horn is louder than an ambulance siren.",
+    "TrueFactMandarin": "世界上最大声的脚车喇叭比救护车喇叭更响亮。",
+    "TrueFactSuggestedLineBreak": "世界上最大声的脚踏车喇叭\r比教堂的钟声更响亮。",
+    "FalseFactEnglish": "The world’s loudest bicycle horn is almost as loud as a church bell.",
+    "FalseFactMandarin": "世界上最大声的脚踏车喇叭比教堂的钟声更响亮。",
+    "TrueFactSpanish": "El Claxon de bicicleta más ruidoso del mundo es más ruidoso que una sirena de ambulancia.",
+    "FalseFactSpanish": "La bocina de bicicleta más ruidosa del mundo es tan ruidosa como una campana de iglesia."
+  },
+  {
+    "TrueFactEnglish": "The world’s largest passenger jet weighs as much as 100 hippos.",
+    "TrueFactMandarin": "世界上最大型的客机重达100只河马的重量。",
+    "TrueFactSuggestedLineBreak": "世界上最大型的客机\r重达40只河马的重量。",
+    "FalseFactEnglish": "The world’s largest passenger jet weighs as much as 40 hippos.",
+    "FalseFactMandarin": "世界上最大型的客机重达40只河马的重量。",
+    "TrueFactSpanish": "El avión de pasajeros más grande del mundo pesa tanto como 100 hipopótamos.",
+    "FalseFactSpanish": "El avión de pasajeros más grande del mundo pesa tanto como 40 hipopótamos."
+  },
+  {
+    "TrueFactEnglish": "The shortest commercial flight is about two minutes long.",
+    "TrueFactMandarin": "旅程最短的商用航班只有大约两分钟。",
+    "TrueFactSuggestedLineBreak": "旅程最短的商用航班\r只有大约13分钟。",
+    "FalseFactEnglish": "The shortest commercial flight is about 13 minutes long.",
+    "FalseFactMandarin": "旅程最短的商用航班只有大约13分钟。",
+    "TrueFactSpanish": "El vuelo comercial más corto es de aproximadamente dos minutos de duración.",
+    "FalseFactSpanish": "El vuelo comercial más corto es de aproximadamente trece minutos de duración."
+  },
+  {
+    "TrueFactEnglish": "A toy car dipped in gold and covered with jewels sold for $60,000.",
+    "TrueFactMandarin": "世界上有一辆镶满珠宝的镀金玩具车，以六万美元出售。",
+    "TrueFactSuggestedLineBreak": "世界上有一辆镶满珠宝的\r镀金玩具车，\r以一万两千美元出售。",
+    "FalseFactEnglish": "A toy car dipped in gold and covered with jewels sold for $12,000.",
+    "FalseFactMandarin": "世界上有一辆镶满珠宝的镀金玩具车，以一万两千美元出售。",
+    "TrueFactSpanish": "Se vendió un carro de juguete sumergido en oro y cubierto en joyas por $60,000 dólares.",
+    "FalseFactSpanish": "Se vendió un carro de juguete sumergido en oro y cubierto en joyas por $12,000 dólares."
+  },
+  {
+    "TrueFactEnglish": "The first traffic light appeared decades before motorized cars hit the road.",
+    "TrueFactMandarin": "早在汽车发明前十几年，世界上已经出现第一盏交通灯。",
+    "TrueFactSuggestedLineBreak": "世界上第一盏交通灯\r是在福特T型车面世后\r才出现的。",
+    "FalseFactEnglish": "The first traffic light didn't appear until decades after the model-T.",
+    "FalseFactMandarin": "世界上第一盏交通灯是在福特T型车面世后才出现的。",
+    "TrueFactSpanish": "El primer semáforo apareció décadas antes que los automóviles motorizados circularan por los caminos.",
+    "FalseFactSpanish": "El primer semáforo no apareció hasta décadas después del modelo T."
+  },
+  {
+    "TrueFactEnglish": "The first bicycles didn’t have pedals.",
+    "TrueFactMandarin": "世界上第一辆脚踏车是没有踏板的。",
+    "TrueFactSuggestedLineBreak": "世界上第一辆脚踏车\r是没有手把的。",
+    "FalseFactEnglish": "The first bicycles didn’t have handle bars.",
+    "FalseFactMandarin": "世界上第一辆脚踏车是没有手把的。",
+    "TrueFactSpanish": "Las primeras bicicletas no tenían pedales.",
+    "FalseFactSpanish": "Las primeras bicicletas no tenían manubrios."
+  },
+  {
+    "TrueFactEnglish": "A five-seat bicycle is called a quindem.",
+    "TrueFactMandarin": "在英文里，五人座的脚踏车叫做“quindem”。",
+    "TrueFactSuggestedLineBreak": "在英文里，\r五人座的脚踏车\r叫做“Fivecycle”。",
+    "FalseFactEnglish": "A five-seat bicycle is called a Fivecycle.",
+    "FalseFactMandarin": "在英文里，五人座的脚踏车叫做“Fivecycle”。",
+    "TrueFactSpanish": "Una bicicleta de cinco asientos se llama tándem.",
+    "FalseFactSpanish": "Una bicicleta de cinco asientos se llama Cincocleta."
+  },
+  {
+    "TrueFactEnglish": "There’s a bicycle that’s small enough to fit inside a backpack.",
+    "TrueFactMandarin": "世上最小的实用脚踏车可以放进背包里。",
+    "TrueFactSuggestedLineBreak": "世上最小的实用脚踏车\r可被放进皮夹里。",
+    "FalseFactEnglish": "There’s a bicycle that’s small enough to fit inside a wallet.",
+    "FalseFactMandarin": "世上最小的实用脚踏车可被放进皮夹里。",
+    "TrueFactSpanish": "Existe una bicicleta que es lo suficientemente pequeña para caber dentro de una mochila.",
+    "FalseFactSpanish": "Existe una bicicleta que es lo suficientemente pequeña para caber dentro de una billetera."
+  },
+  {
+    "TrueFactEnglish": "The first airplane journey across the United States took 49 days.",
+    "TrueFactMandarin": "世上第一架飞机用上49天的时间横跨美国。",
+    "TrueFactSuggestedLineBreak": "世上第一架飞机\r用上18天的时间横跨美国。",
+    "FalseFactEnglish": "The first airplane journey across the United States only took 18 days!",
+    "FalseFactMandarin": "世上第一架飞机用上18天的时间横跨美国。",
+    "TrueFactSpanish": "El primer viaje en avión a lo largo de Estados Unidos duró 49 días.",
+    "FalseFactSpanish": "¡El primer viaje en avión a lo largo de Estados Unidos duró sólo 18 días!"
+  },
+  {
+    "TrueFactEnglish": "The longest paper airplane flight traveled more than 200 feet.",
+    "TrueFactMandarin": "纸飞机最长的飞行行程超过60米。",
+    "TrueFactSuggestedLineBreak": "纸飞机最长的飞行行程\r超过24米。",
+    "FalseFactEnglish": "The longest paper airplane flight traveled about 79 feet.",
+    "FalseFactMandarin": "纸飞机最长的飞行行程超过24米。",
+    "TrueFactSpanish": "El vuelo más largo que un avión de papel realizó fue de más de 60.96 metros.",
+    "FalseFactSpanish": "El vuelo más largo que un avión de papel realizó fue de aproximadamente 24.0792 metros."
+  },
+  {
+    "TrueFactEnglish": "Test flights of the first space shuttle took off from the back of a flying 747.",
+    "TrueFactMandarin": "第一架太空梭进行飞行测试的地点是在一架飞行中的波音747客机的后机舱里。",
+    "TrueFactSuggestedLineBreak": "第一架太空梭\r进行飞行测试的地点\r是在一艘蒸汽船的后舱里。",
+    "FalseFactEnglish": "Test flights of the first space shuttle took off from the back of a steam ship.",
+    "FalseFactMandarin": "第一架太空梭进行飞行测试的地点是在一艘蒸汽船的后舱里。",
+    "TrueFactSpanish": "Los vuelos de prueba del primer transbordador espacial despegaron desde la parte posterior de un Boeing 747 en vuelo.",
+    "FalseFactSpanish": "Los vuelos de prueba del primer transbordador espacial despegaron desde la parte posterior de un buque a vapor."
+  },
+  {
+    "TrueFactEnglish": "More than 60,000 people are flying over the United States in airplanes right now.",
+    "TrueFactMandarin": "此时此刻，有超过六万人乘搭飞机飞越美国上空。",
+    "TrueFactSuggestedLineBreak": "此时此刻，\r有超过三万四千人\r乘搭飞机飞越美国上空。",
+    "FalseFactEnglish": "Almost than 34,000 people are flying over the United States in airplanes right now.",
+    "FalseFactMandarin": "此时此刻，有超过三万四千人乘搭飞机飞越美国上空。",
+    "TrueFactSpanish": "En este momento, más de 60,000 personas se encuentran volando en aviones sobre los Estados Unidos.",
+    "FalseFactSpanish": "En este momento, casi 34,000 personas se encuentran volando en aviones sobre los Estados Unidos."
+  },
+  {
+    "TrueFactEnglish": "Parachutes were invented before airplanes.",
+    "TrueFactMandarin": "人们先发明降落伞，才发明飞机。",
+    "TrueFactSuggestedLineBreak": "人们先发明飞机，\r才发明降落伞。",
+    "FalseFactEnglish": "Parachutes were invented after the Jet was invented.",
+    "FalseFactMandarin": "人们先发明飞机，才发明降落伞。",
+    "TrueFactSpanish": "Los paracaídas se inventaron antes que los aviones.",
+    "FalseFactSpanish": "Los paracaídas se inventaron después de que se inventara el avión."
+  },
+  {
+    "TrueFactEnglish": "The wingspan of a 747 is longer than the Wright Brothers’ first flight.",
+    "TrueFactMandarin": "波音747的翼展长度比怀特兄弟的首次飞行行程还要长。",
+    "TrueFactSuggestedLineBreak": "波音747的翼展长度\r比怀特兄弟的\r首次飞行行程还要短。",
+    "FalseFactEnglish": "The wingspan of a 747 is shorter than the Wright Brothers’ first flight.",
+    "FalseFactMandarin": "波音747的翼展长度比怀特兄弟的首次飞行行程还要短。",
+    "TrueFactSpanish": "La envergadura del Boeing 747 es más larga que el primer vuelo de los Hermanos Wright.",
+    "FalseFactSpanish": "La envergadura del Boeing 747 es más corta que el primer vuelo de los Hermanos Wright."
+  },
+  {
+    "TrueFactEnglish": "Some cars can run on used French-fry oil.",
+    "TrueFactMandarin": "有的车以食油作为燃料。",
+    "TrueFactSuggestedLineBreak": "有的车以牛奶作为燃料。",
+    "FalseFactEnglish": "Some cars can run on used milk.",
+    "FalseFactMandarin": "有的车以牛奶作为燃料。",
+    "TrueFactSpanish": "Algunos automóviles pueden funcionar con aceite usado de papas fritas. ",
+    "FalseFactSpanish": "Algunos automóviles pueden funcionar con leche."
+  },
+  {
+    "TrueFactEnglish": "Traffic lights were invented before cars.",
+    "TrueFactMandarin": "交通灯早在汽车面世之前已经发明了。",
+    "TrueFactSuggestedLineBreak": "交通灯比微波炉更早面世。",
+    "FalseFactEnglish": "Traffic lights were invented after the microwave.",
+    "FalseFactMandarin": "交通灯比微波炉更早面世。",
+    "TrueFactSpanish": "Los semáforos se inventaron antes que los automóviles.",
+    "FalseFactSpanish": "Los semáforos se inventaron después que el microondas."
+  }
+]
