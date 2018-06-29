@@ -1,0 +1,1400 @@
+[
+  {
+    "TrueFactEnglish": "“Old man” is a nickname for a male kangaroo.",
+    "TrueFactSpanish": "\"Viejo\" es un apodo para un canguro macho.",
+    "FalseFactEnglish": "\"Jumping Squirrel” is a nickname for a male kangaroo.",
+    "FalseFactSpanish": "\"Ardilla Saltarina\" es un apodo para un canguro macho."
+  },
+  {
+    "TrueFactEnglish": "56 million years ago, horses were the size of house cats.",
+    "TrueFactSpanish": "Hace 56 millones de años, los caballos eran del tamaño de los gatos domésticos.",
+    "FalseFactEnglish": "56 million years ago, horses were the same size of Woolly Mammoths",
+    "FalseFactSpanish": "Hace 56 millones de años, los caballos eran del mismo tamaño de los Mamuts Lanudos"
+  },
+  {
+    "TrueFactEnglish": "A baby humpback whale drinks up to 130 gallons of milk each day.",
+    "TrueFactSpanish": "Una cría de ballena jorobada bebe hasta 492.10353 litros de leche al día.",
+    "FalseFactEnglish": "A baby humpback whale drinks up to 30 gallons of milk each day.",
+    "FalseFactSpanish": "Una cría de ballena jorobada bebe hasta 113.5623 litros de leche por día."
+  },
+  {
+    "TrueFactEnglish": "A basset hound weighs about as much as an elephant’s heart.",
+    "TrueFactSpanish": "La raza de perro basset hound pesa casi tanto como el corazón de un elefante.",
+    "FalseFactEnglish": "A basset hound weighs about as much as an tiger’s paw.",
+    "FalseFactSpanish": "El basset hound pesa casi tanto como la pata de un tigre."
+  },
+  {
+    "TrueFactEnglish": "A bat can eat 3,000 insects in one night.",
+    "TrueFactSpanish": "El murciélago puede comer 3,000 insectos en una noche.",
+    "FalseFactEnglish": "one bat eats 3,000 insects in one week.",
+    "FalseFactSpanish": "El  murciélago come 3,000 insectos en una semana."
+  },
+  {
+    "TrueFactEnglish": "A beaver has a set of lips behind its front teeth.",
+    "TrueFactSpanish": "El castor tiene un par de labios detrás de sus dientes frontales.",
+    "FalseFactEnglish": "A beaver has a second nose behind its front teeth.",
+    "FalseFactSpanish": "El castor tiene una segunda nariz detrás de sus dientes frontales."
+  },
+  {
+    "TrueFactEnglish": "A beaver's home is called a lodge.",
+    "TrueFactSpanish": "La madriguera de un castor se llama dique.",
+    "FalseFactEnglish": "A beaver's home is called a Beaverhaus.",
+    "FalseFactSpanish": "La vivienda de un castor se llama Beaverhaus."
+  },
+  {
+    "TrueFactEnglish": "A camel can drink 500 cups of water in ten minutes.",
+    "TrueFactSpanish": "El camello puede beber 500 tazas con agua en diez minutos.",
+    "FalseFactEnglish": "one camel can drink 100 cups of orange juice in ten minutes.",
+    "FalseFactSpanish": "el camello puede beber 100 tazas con jugo de naranja en diez minutos."
+  },
+  {
+    "TrueFactEnglish": "A camel’s eye has 3 eyelids.",
+    "TrueFactSpanish": "El ojo de un camello tiene 3 párpados.",
+    "FalseFactEnglish": "A camel’s eye doesn't have eyelids.",
+    "FalseFactSpanish": "El ojo de un camello no tiene párpados."
+  },
+  {
+    "TrueFactEnglish": "A cat has about 20 muscles in each ear.",
+    "TrueFactSpanish": "EL gato tiene aproximadamente 20 músculos en cada oreja.",
+    "FalseFactEnglish": "A cat has about 7 muscles in each ear.",
+    "FalseFactSpanish": "el  gato tiene aproximadamente 7 músculos en cada oreja."
+  },
+  {
+    "TrueFactEnglish": "A domestic cat’s top speed is about 31 miles an hour.",
+    "TrueFactSpanish": "La velocidad máxima de un gato doméstico es de 49 kilómetros por hora.",
+    "FalseFactEnglish": "A domestic cat’s top speed is about 6 miles an hour.",
+    "FalseFactSpanish": "La velocidad máxima de un gato doméstico es de 9.65604 kilómetros por hora."
+  },
+  {
+    "TrueFactEnglish": "A chameleon can change color in 20 seconds.",
+    "TrueFactSpanish": "El camaleón puede cambiar de color en 20 segundos.",
+    "FalseFactEnglish": "A chameleon can change color in about 20 minutes.",
+    "FalseFactSpanish": "Un camaleón puede cambiar de color en aproximadamente 20 minutos."
+  },
+  {
+    "TrueFactEnglish": "A chameleon’s tongue can travel as fast as 13 miles an hour.",
+    "TrueFactSpanish": "La lengua de un camaleón puede llegar a moverse a una velocidad de hasta 20.9214 kilómetros por hora.",
+    "FalseFactEnglish": "A chameleon’s tongue can travel as fast as 5 miles an hour.",
+    "FalseFactSpanish": "La lengua de un camaleón puede llegar a moverse a una velocidad de hasta 8.0467 kilómetros por hora."
+  },
+  {
+    "TrueFactEnglish": "A crocodile can’t stick its tongue out.",
+    "TrueFactSpanish": "El  cocodrilo no puede sacar la lengua.",
+    "FalseFactEnglish": "A crocodile can stick it's tongue out up to 5 meters. ",
+    "FalseFactSpanish": "Un cocodrilo puede sacar la lengua hasta 5 metros. "
+  },
+  {
+    "TrueFactEnglish": "A dairy cow produces about 100,000 glasses of milk in its lifetime.",
+    "TrueFactSpanish": "La vaca lechera produce aproximadamente 100,000 vasos de leche durante su vida.",
+    "FalseFactEnglish": "A dairy cow produces about 10,000 glasses of milk in its lifetime.",
+    "FalseFactSpanish": "La vaca lechera produce aproximadamente 10,000 vasos de leche durante su vida."
+  },
+  {
+    "TrueFactEnglish": "A dog can make about 10 different facial expressions.",
+    "TrueFactSpanish": "El perro puede hacer aproximadamente 10 expresiones faciales diferentes.",
+    "FalseFactEnglish": "A Dog can't make any facial expressions.",
+    "FalseFactSpanish": "El perro no puede hacer ninguna expresión facial."
+  },
+  {
+    "TrueFactEnglish": "A dog may yawn after seeing a human yawn.",
+    "TrueFactSpanish": "el perro puede bostezar después de ver a un humano bostezar.",
+    "FalseFactEnglish": "Dogs cannot yawn.",
+    "FalseFactSpanish": "Los perros no pueden bostezar."
+  },
+  {
+    "TrueFactEnglish": "A flamingo can eat only when its head is upside down.",
+    "TrueFactSpanish": "El flamingo puede comer únicamente cuando su cabeza está invertida.",
+    "FalseFactEnglish": "flamencos can't actually turn their heads upside down.",
+    "FalseFactSpanish": "Los flamencos no pueden invertir la cabeza."
+  },
+  {
+    "TrueFactEnglish": "A frog uses its eyeballs to help it swallow.",
+    "TrueFactSpanish": "El sapo usa sus globos oculares para ayudarle a tragar.",
+    "FalseFactEnglish": "A frog uses its feet to help it swallow.",
+    "FalseFactSpanish": "El sapo usa sus patas para ayudarse a tragar."
+  },
+  {
+    "TrueFactEnglish": "A gecko can use its tongue like a windshield wiper for its eyeballs.",
+    "TrueFactSpanish": "El Gecko puede usar su lengua como un limpiaparabrisas para sus globos oculares.",
+    "FalseFactEnglish": "A gecko can only use it's tongue for eating. ",
+    "FalseFactSpanish": "El reptil escamoso puede usar su lengua exclusivamente para comer. "
+  },
+  {
+    "TrueFactEnglish": "A goat’s pupils are rectangular.",
+    "TrueFactSpanish": "Las pupilas de una cabra son rectangulares.",
+    "FalseFactEnglish": "A goat’s pupils are circular, just like a human's.",
+    "FalseFactSpanish": "Las pupilas de una cabra son circulares tal como las de los seres humanos."
+  },
+  {
+    "TrueFactEnglish": "A grizzly bear can run as fast as a horse.",
+    "TrueFactSpanish": "El oso grizzly puede correr tan rápido como el caballo.",
+    "FalseFactEnglish": "A grizzly bear can't run as fast as a raccoon.",
+    "FalseFactSpanish": "El oso grizzly no puede correr tan rápido como un mapache."
+  },
+  {
+    "TrueFactEnglish": "A group of blue jays is called a party.",
+    "TrueFactSpanish": "A un grupo de cardenales azules se le llama bandada.",
+    "FalseFactEnglish": "A group of blue jays is called a \"Blue Herd\".",
+    "FalseFactSpanish": "A un grupo de cardenales azules se le llama \"Banda Azul\"."
+  },
+  {
+    "TrueFactEnglish": "A group of geese is called a “gaggle.”",
+    "TrueFactSpanish": "A un grupo de gansos se le llama \"manada\".",
+    "FalseFactEnglish": "A group of geese is called a \"murder\".",
+    "FalseFactSpanish": "A un grupo de gansos se le llama \"homicidio\"."
+  },
+  {
+    "TrueFactEnglish": "A group of giraffes is called a tower.",
+    "TrueFactSpanish": "A un grupo de jirafas se le llama torre.",
+    "FalseFactEnglish": "A group of giraffes is called a \"crowd\".",
+    "FalseFactSpanish": "A un grupo de jirafas se le llama \"multitud\"."
+  },
+  {
+    "TrueFactEnglish": "A group of goats is called a trip.",
+    "TrueFactSpanish": "A un grupo de cabras se le llama rebaño.",
+    "FalseFactEnglish": "A group of cats is called a \"trip\".",
+    "FalseFactSpanish": "A un grupo de gatos se le llama \"rebaño\"."
+  },
+  {
+    "TrueFactEnglish": "A group of owls is called a parliament.",
+    "TrueFactSpanish": "A un grupo de búhos se le llama parlamento.",
+    "FalseFactEnglish": "A group of parrots is called a \"parliament\".",
+    "FalseFactSpanish": "A un grupo de loros se le llama \"parlamento\"."
+  },
+  {
+    "TrueFactEnglish": "A group of porcupines is called a prickle.",
+    "TrueFactSpanish": "A un grupo de puercoespines se le llama piara.",
+    "FalseFactEnglish": "A group of porcupines is called a \"spine wave\".",
+    "FalseFactSpanish": "A un grupo de puercoespines se le llama \"ola de espinas\"."
+  },
+  {
+    "TrueFactEnglish": "A group of rhinos is sometimes called a crash.",
+    "TrueFactSpanish": "A un grupo de rinocerontes a veces se le llama un \"accidente\".",
+    "FalseFactEnglish": "A group of rhinos is sometimes called a boom.",
+    "FalseFactSpanish": "En ocasiones, a un grupo de rinocerontes se le  llama manada."
+  },
+  {
+    "TrueFactEnglish": "A group of domestic turkeys is called a gang.",
+    "TrueFactSpanish": "A un grupo de pavos domésticos se le llama bandada.",
+    "FalseFactEnglish": "A group of panda bears is called a gang.",
+    "FalseFactSpanish": "A un grupo de osos panda se le llama manada."
+  },
+  {
+    "TrueFactEnglish": "A hippo can run as fast as a human.",
+    "TrueFactSpanish": "El hipopótamo puede correr tan rápido como un ser humano.",
+    "FalseFactEnglish": "A hippo can run as fast as a cheetah.",
+    "FalseFactSpanish": "Un hipopótamo puede correr tan rápido como un guepardo."
+  },
+  {
+    "TrueFactEnglish": "A Howler Monkey’s roar can be heard up to three miles away.",
+    "TrueFactSpanish": "El rugido de un mono aullador se puede escuchar hasta 4.8280 kilómetros a distancia.",
+    "FalseFactEnglish": "A Howler Monkey’s roar can be heard up to half a mile away.",
+    "FalseFactSpanish": "El rugido de un mono aullador se puede escuchar hasta 1.2949 kilómetros de distancia."
+  },
+  {
+    "TrueFactEnglish": "A large python can swallow a goat whole.",
+    "TrueFactSpanish": "Un pitón grande puede tragarse una cabra entera.",
+    "FalseFactEnglish": "A large python cannot swallow a goat.",
+    "FalseFactSpanish": "Un pitón grande no puede tragarse una cabra."
+  },
+  {
+    "TrueFactEnglish": "A lizard in Madagascar has a third eye on top of its head.",
+    "TrueFactSpanish": "Una lagartija en Madagascar tiene un tercer ojo en la parte superior de la cabeza.",
+    "FalseFactEnglish": "A lizard in Madagascar has a third eye on top of its left foot.",
+    "FalseFactSpanish": "Un tipo de lagarto en Madagascar tiene un tercer ojo en la parte superior de su pata izquierda."
+  },
+  {
+    "TrueFactEnglish": "A male elephant can keep growing for its entire life.",
+    "TrueFactSpanish": "Un elefante macho puede continuar creciendo durante toda su vida.",
+    "FalseFactEnglish": "A male elephant stops growing at age 15.",
+    "FalseFactSpanish": "Un elefante macho deja de crecer a la edad de 15 años."
+  },
+  {
+    "TrueFactEnglish": "A male fox is often called a Reynard; a female fox is called a vixen.",
+    "TrueFactSpanish": "Un zorro macho se denomina comúnmente como Reynard; un zorro hembra se denomina Vixen.  ",
+    "FalseFactEnglish": "A male fox is often called a vixen; a female fox is called a reynard.",
+    "FalseFactSpanish": "Un zorro macho se denomina comúnmente como vixen; un zorro hembra se denomina reynard."
+  },
+  {
+    "TrueFactEnglish": "A male ostrich can roar like a lion.",
+    "TrueFactSpanish": "Un avestruz macho puede rugir cono un león.",
+    "FalseFactEnglish": "A male ostrich can bark like a dog.",
+    "FalseFactSpanish": "Un avestruz macho puede ladrar como un perro."
+  },
+  {
+    "TrueFactEnglish": "A newborn giraffe falls six feet to the ground when it’s born.",
+    "TrueFactSpanish": "Una jirafa recién nacida cae al suelo 1.8288 metros cuando nace.",
+    "FalseFactEnglish": "A newborn giraffe falls 2 feet to the ground when it’s born.",
+    "FalseFactSpanish": "Una jirafa recién nacida cae al suelo 0.6096 metros cuando nace."
+  },
+  {
+    "TrueFactEnglish": "A newborn puppy can take up to two months to start wagging its tail.",
+    "TrueFactSpanish": "Un cachorro recién nacido puede tardar dos meses en mover la cola.",
+    "FalseFactEnglish": "A newborn puppy usually wag their tails immediately after birth.",
+    "FalseFactSpanish": "Por lo general, un cachorro recién nacido mueve la cola inmediatamente después de nacer."
+  },
+  {
+    "TrueFactEnglish": "A nine-banded armadillo can jump up to 4 feet vertically off the ground.",
+    "TrueFactSpanish": "Un armadillo de nueve bandas puede saltar hasta 1.2192 metros verticalmente.",
+    "FalseFactEnglish": "A nine-banded armadillo can jump up to 12 inches vertically off the ground.",
+    "FalseFactSpanish": "Un armadillo de nueve bandas puede saltar hasta 3.6576 metros verticalmente."
+  },
+  {
+    "TrueFactEnglish": "A pelican can hold 3 gallons of water—the same as 32 cans of 12oz soda—in its bill.",
+    "TrueFactSpanish": "Un pelícano puede retener 11.3562 litros de agua-la  cantidad equivalente a 32 latas de poco más de un cuarto de litro de refresco-en su pico.",
+    "FalseFactEnglish": "A pelican can hold 1 gallon of water - the same as 11 cans of 12 oz soda - in its bill.",
+    "FalseFactSpanish": "Un pelícano puede retener 3.78541 litros de agua-la misma cantidad de 11 latas de poco más de un cuarto de litro de refresco-en su pico."
+  },
+  {
+    "TrueFactEnglish": "A porcupine can have more than 30,000 quills.",
+    "TrueFactSpanish": "Un puercoespín puede tener más de 30,000 púas.",
+    "FalseFactEnglish": "A porcupine cannot have more than 10,000 quills.",
+    "FalseFactSpanish": "Un puercoespín no puede tener más de 10,000 púas."
+  },
+  {
+    "TrueFactEnglish": "A rabbit’s teeth never stop growing.",
+    "TrueFactSpanish": "Los dientes de un conejo nunca dejan de crecer.",
+    "FalseFactEnglish": "A rabbit’s teeth stops growing after 3 years of age.",
+    "FalseFactSpanish": "Los dientes de un conejo dejan de crecer después de los 3 años."
+  },
+  {
+    "TrueFactEnglish": "A rattlesnake’s rattle is made of the same material as your fingernails.",
+    "TrueFactSpanish": "El cascabel de una serpiente de cascabel está hecho del mismo material que las uñas de los seres humanos.",
+    "FalseFactEnglish": "A rattlesnake’s rattle is made out of pebbles and stones.",
+    "FalseFactSpanish": "El cascabel de una serpiente de cascabel está hecho de guijarros y piedras."
+  },
+  {
+    "TrueFactEnglish": "A salamander nicknamed the “snot otter” oozes slime when threatened.",
+    "TrueFactSpanish": "Una salamandra apodada \"nutria de mocos\" exuda mucosidad cuando se siente amenazada.",
+    "FalseFactEnglish": "A salamander nicknamed \"snot otter\" oozes slime when happy.",
+    "FalseFactSpanish": "Una salamandra apodada \"nutria de mocos\" exuda mucosidad cuando está feliz."
+  },
+  {
+    "TrueFactEnglish": "A sheep, a duck, and a rooster were the first passengers on a hot-air balloon.",
+    "TrueFactSpanish": "Una oveja, un pato, y un gallo fueron los primeros pasajeros en un globo aerostático.",
+    "FalseFactEnglish": "A man and his dog were the first passengers on a hot-air balloon.",
+    "FalseFactSpanish": "Un hombre y su perro fueron los primeros pasajeros en un globo aerostático."
+  },
+  {
+    "TrueFactEnglish": "A sloth would take a month to travel a single mile.",
+    "TrueFactSpanish": "Un oso perezoso tardaría un mes en viajar 1.60934 kilómetros.",
+    "FalseFactEnglish": "A sloth would  take 8 days to travel a single mile.",
+    "FalseFactSpanish": "Un oso perezoso tardaría 8 días en viajar 1.60934 kilómetros."
+  },
+  {
+    "TrueFactEnglish": "A snail can crawl along a razor’s edge without cutting itself.",
+    "TrueFactSpanish": "Un caracol puede arrastrarse a lo largo del filo de una navaja sin cortarse.",
+    "FalseFactEnglish": "A dung beetle can crawl along a razor’s edge without cutting itself.",
+    "FalseFactSpanish": "Un escarabajo pelotero puede arrastrarse a lo largo del filo de una navaja sin cortarse."
+  },
+  {
+    "TrueFactEnglish": "A snail would take about 220 hours to crawl one mile nonstop.",
+    "TrueFactSpanish": "Un caracol tardaría aproximadamente 220 horas en recorrer 1.60934 kilómetros sin detenerse.",
+    "FalseFactEnglish": "A snail would take about 70 hours to crawl one mile nonstop.",
+    "FalseFactSpanish": "Un caracol tardaría aproximadamente 70 horas en recorrer 1.60934 kilómetros sin detenerse."
+  },
+  {
+    "TrueFactEnglish": "A thousand years ago, tiny lapdogs were a sign of wealth in Europe.",
+    "TrueFactSpanish": "Hace mil años, los pequeños perros falderos eran un símbolo de riqueza en Europa.",
+    "FalseFactEnglish": "A thousand years ago, small dogs were a sign of poverty in Europe.",
+    "FalseFactSpanish": "Hace mil años, los perros pequeños eran un símbolo de pobreza en Europa."
+  },
+  {
+    "TrueFactEnglish": "A tiger’s skin is striped like its fur.",
+    "TrueFactSpanish": "La piel de un tigre es rayada como su pelaje.",
+    "FalseFactEnglish": "A tiger’s tongue is striped like its fur.",
+    "FalseFactSpanish": "La lengua de un tigre es rayada como su pelaje."
+  },
+  {
+    "TrueFactEnglish": "A tiger’s stripes are different on the left and rights sides of its body.",
+    "TrueFactSpanish": "Las rayas de un tigre son diferentes en el costado izquierdo y derecho de su cuerpo.",
+    "FalseFactEnglish": "A tiger’s stripes are the exact same on both sides of it's body.",
+    "FalseFactSpanish": "Las rayas de un tigre son las mismas en ambos costados de su cuerpo."
+  },
+  {
+    "TrueFactEnglish": "A Tyrannosaurus’ teeth were the size of bananas.",
+    "TrueFactSpanish": "Los dientes de un tiranosaurio eran del tamaño de plátanos.",
+    "FalseFactEnglish": "A Tyrannosaurus Rexs’ teeth were the size of a crayon.",
+    "FalseFactSpanish": "Los dientes de un tiranosaurio eran del tamaño de un crayón."
+  },
+  {
+    "TrueFactEnglish": "A wolf’s howl can sometimes be heard from 10 miles away by other wolves.",
+    "TrueFactSpanish": "En ocasiones, los lobos pueden escuchar el aullido de otro lobo a 16.0934 kilómetros de distancia.",
+    "FalseFactEnglish": "A wolf's howl can be heard from 50 miles away by other wolves.",
+    "FalseFactSpanish": "Los lobos pueden escuchar el aullido de otro lobo a 80.467 kilómetros de distancia."
+  },
+  {
+    "TrueFactEnglish": "A wood frog’s croak sounds like a quack.",
+    "TrueFactSpanish": "El canto de la rana de bosque suena como un graznido.",
+    "FalseFactEnglish": "A wood frog’s croak sounds like a dog's bark.",
+    "FalseFactSpanish": "El canto de la rana de bosque suena como el ladrido de un perro."
+  },
+  {
+    "TrueFactEnglish": "A zebra’s skin is black; only its fur is striped.",
+    "TrueFactSpanish": "La piel de una cebra es de color negro; solo su pelaje es rayado.",
+    "FalseFactEnglish": "A zebra’s skin is striped just like it's fur.",
+    "FalseFactSpanish": "La piel de una cebra es rayada de la misma manera que su pelaje."
+  },
+  {
+    "TrueFactEnglish": "African elephants have ears shaped like the continent of Africa.",
+    "TrueFactSpanish": "Los elefantes africanos tienen orejas con forma del continente de África.",
+    "FalseFactEnglish": "African elephants have ears shaped like the country of Italy.",
+    "FalseFactSpanish": "Los elefantes africanos tienen orejas con forma del país Italia."
+  },
+  {
+    "TrueFactEnglish": "All of today’s pet hamsters can be traced to one hamster family that lived in Syria in 1930.",
+    "TrueFactSpanish": "Todos los hámsters domésticos de hoy en día pueden remontarse a una familia de hámsters que vivieron en Siria en 1930.",
+    "FalseFactEnglish": "The origin of today's pet hamsters is unknown by scientists.",
+    "FalseFactSpanish": "Los científicos desconocen el origen de los hámsters domesticados hoy en día."
+  },
+  {
+    "TrueFactEnglish": "Alligator eggs hatch male babies in hotter temperatures and female babies in cooler temperatures.",
+    "TrueFactSpanish": "De los huevos de cocodrilo nacen crías machos en temperaturas más calientes y crías hembra en temperaturas más templadas.",
+    "FalseFactEnglish": "Alligator eggs hatch male babies in cold temperatures and female babies in hotter temperatures.",
+    "FalseFactSpanish": "De los huevos de cocodrilo nacen crías machos en temperaturas frías y crías hembra en temperaturas más calientes."
+  },
+  {
+    "TrueFactEnglish": "Alligator teeth are hollow.",
+    "TrueFactSpanish": "Los dientes de cocodrilo son huecos.",
+    "FalseFactEnglish": "Alligator teeth are solid.",
+    "FalseFactSpanish": "Los dientes de cocodrilo son sólidos."
+  },
+  {
+    "TrueFactEnglish": "An aardvark can dig faster than several people with shovels.",
+    "TrueFactSpanish": "Un oso hormiguero puede excavar más rápido que varias personas con palas.",
+    "FalseFactEnglish": "A human with a shovel can dig faster than an aardvark.",
+    "FalseFactSpanish": "El ser humano con una pala puede excavar más rápido que un cerdo hormiguero."
+  },
+  {
+    "TrueFactEnglish": "An Atlantic puffin can hold as many as a dozen small fish in its bill at one time.",
+    "TrueFactSpanish": "Un frailecillo del atlántico puede retener en su pico hasta una docena de pequeños peces al mismo tiempo.",
+    "FalseFactEnglish": "An Atlantic puffin can hold as many as a four small fish in its bill at one time.",
+    "FalseFactSpanish": "El frailecillo atlántico puede retener en su pico hasta cuatro pequeños peces al mismo tiempo."
+  },
+  {
+    "TrueFactEnglish": "An eagle’s nest weigh more than a refrigerator.",
+    "TrueFactSpanish": "El nido de un águila pesa más que un refrigerador.",
+    "FalseFactEnglish": "An eagle’s nest weighs about the same as a toaster oven.",
+    "FalseFactSpanish": "El nido de un águila pesa aproximadamente lo mismo que una tostadora."
+  },
+  {
+    "TrueFactEnglish": "An elephant once water-skied over the Hudson River.",
+    "TrueFactSpanish": "En una ocasión, un elefante esquió sobre el Río Hudson.",
+    "FalseFactEnglish": "An elephant once bungee-jumped from the Brooklyn Bridge.",
+    "FalseFactSpanish": "En una ocasión, un elefante saltó del bungee desde el Puente de Brooklyn."
+  },
+  {
+    "TrueFactEnglish": "An elephant’s head weighs up to 1000 pounds.",
+    "TrueFactSpanish": "La cabeza de un elefante pesa cerca de 453.59237 kilogramos.",
+    "FalseFactEnglish": "An elephant’s tail can weight up to 1,000 pounds.",
+    "FalseFactSpanish": "La cola de un elefante puede pesar hasta 453.592 kilogramos."
+  },
+  {
+    "TrueFactEnglish": "An elephant’s tooth can weigh as much as a bowling ball.",
+    "TrueFactSpanish": "El diente de un elefante puede pesar tanto como una bola de boliche.",
+    "FalseFactEnglish": "An elephant’s tooth weighs as much as a basketball.",
+    "FalseFactSpanish": "El diente de un elefante pesa tanto como una pelota de baloncesto."
+  },
+  {
+    "TrueFactEnglish": "An emperor penguin has 100 feathers on every square inch of its body.",
+    "TrueFactSpanish": "Un pingüino emperador tiene 100 plumas por cada 6.45 centímetros cuadrados de su cuerpo.",
+    "FalseFactEnglish": "An emperor penguin has only 100 feathers on its body.",
+    "FalseFactSpanish": "el pingüino emperador tiene únicamente 100 plumas en su cuerpo. "
+  },
+  {
+    "TrueFactEnglish": "An emu’s body contains enough oil to fill three milk jugs.",
+    "TrueFactSpanish": "El cuerpo de un emú contiene  suficiente aceite para llenar tres jarras de leche.",
+    "FalseFactEnglish": "An emu's body produces no oil.",
+    "FalseFactSpanish": "El cuerpo de un emú no produce aceite."
+  },
+  {
+    "TrueFactEnglish": "An ostrich can run as fast as a racehorse.",
+    "TrueFactSpanish": "Un avestruz puede correr tan rápido como un caballo de carreras.",
+    "FalseFactEnglish": "An ostrich cannot run faster than an Australian porcupine.",
+    "FalseFactSpanish": "El avestruz no puede correr más rápido que un equidna australiano."
+  },
+  {
+    "TrueFactEnglish": "An ox was born with a heart-shaped spot on its head.",
+    "TrueFactSpanish": "Un buey nació con un lunar en forma de corazón en la cabeza.",
+    "FalseFactEnglish": "An ox was born with a nose-shaped spot on its head.",
+    "FalseFactSpanish": "El buey nació con un lunar en forma de nariz en la cabeza."
+  },
+  {
+    "TrueFactEnglish": "Animals that lay eggs don’t have belly buttons.",
+    "TrueFactSpanish": "Los animales que ponen huevos no tienen ombligo.",
+    "FalseFactEnglish": "All Animals have belly buttons.",
+    "FalseFactSpanish": "Todos los animales tienen ombligo."
+  },
+  {
+    "TrueFactEnglish": "Apes laugh when tickled.",
+    "TrueFactSpanish": "Los simios se ríen cuando les hacen cosquillas.",
+    "FalseFactEnglish": "Apes cannot laugh.",
+    "FalseFactSpanish": "Los simios no pueden reír."
+  },
+  {
+    "TrueFactEnglish": "As a hen gets older, she produces bigger eggs.",
+    "TrueFactSpanish": "Cuando una gallina envejece, produce huevos más grandes.",
+    "FalseFactEnglish": "As a hen gets older, she produces smaller eggs.",
+    "FalseFactSpanish": "Cuando una gallina envejece, produce huevos más pequeños."
+  },
+  {
+    "TrueFactEnglish": "Baby rattlesnakes are born without rattles.",
+    "TrueFactSpanish": "Las serpientes de cascabel nacen sin cascabel.",
+    "FalseFactEnglish": "Baby rattlesnakes are born with two rattles.",
+    "FalseFactSpanish": "Las serpientes de cascabel nacen con dos cascabeles."
+  },
+  {
+    "TrueFactEnglish": "Bald eagles live in every US state except Hawaii.",
+    "TrueFactSpanish": "Las águilas calvas viven en cada estado de los Estados Unidos excepto en Hawái.",
+    "FalseFactEnglish": "Bald Eagles live in every US State.",
+    "FalseFactSpanish": "Las águilas calvas viven en cada estado de los Estados Unidos."
+  },
+  {
+    "TrueFactEnglish": "Bald Eagles use their wings to paddle through water.",
+    "TrueFactSpanish": "Las águilas calvas usan sus alas para remar en el agua.",
+    "FalseFactEnglish": "Bald Eagles cannot swim.",
+    "FalseFactSpanish": "Las águilas calvas no pueden nadar."
+  },
+  {
+    "TrueFactEnglish": "Bat hair has been used as money.",
+    "TrueFactSpanish": "Se ha llegado a usar el pelo de murciélago  como dinero.",
+    "FalseFactEnglish": "Bat's don't have hair.",
+    "FalseFactSpanish": "Los murciélagos no tienen pelo."
+  },
+  {
+    "TrueFactEnglish": "Bats are the only mammals that fly.",
+    "TrueFactSpanish": "Los murciélagos son los únicos mamíferos que pueden volar.",
+    "FalseFactEnglish": "Kingfishers are the only mammals that fly.",
+    "FalseFactSpanish": "Los martines pescadores son los únicos mamíferos que pueden volar."
+  },
+  {
+    "TrueFactEnglish": "Bats have thumbs.",
+    "TrueFactSpanish": "Los murciélagos tienen dedos pulgares.",
+    "FalseFactEnglish": "Bats have 3 fingers.",
+    "FalseFactSpanish": "Los murciélagos tienen 3 dedos."
+  },
+  {
+    "TrueFactEnglish": "Camels are originally from North America.",
+    "TrueFactSpanish": "Los camellos provienen originalmente de Norteamérica.",
+    "FalseFactEnglish": "Camels are originally from Australia.",
+    "FalseFactSpanish": "Los camellos provienen originalmente de Australia."
+  },
+  {
+    "TrueFactEnglish": "Camels chew in a figure-eight motion.",
+    "TrueFactSpanish": "Los camellos mastican en forma de ocho.",
+    "FalseFactEnglish": "Camels chew in a triangular motion.",
+    "FalseFactSpanish": "Los camellos mastican en forma triangular."
+  },
+  {
+    "TrueFactEnglish": "Cats can’t taste sweets.",
+    "TrueFactSpanish": "Los gatos no pueden percibir los sabores dulces.",
+    "FalseFactEnglish": "Cats can taste sweets.",
+    "FalseFactSpanish": "Los gatos pueden percibir los sabores dulces."
+  },
+  {
+    "TrueFactEnglish": "Certain birds can use their bills to measure the temperature of their nests.",
+    "TrueFactSpanish": "Ciertas aves pueden usar sus picos para medir la temperatura de sus nidos.",
+    "FalseFactEnglish": "Certain birds can use their bills to measure the temperature of their food.",
+    "FalseFactSpanish": "Ciertas aves pueden usar sus picos para medir la temperatura de su alimento."
+  },
+  {
+    "TrueFactEnglish": "Certain geckos sometimes communicate by barking.",
+    "TrueFactSpanish": "A veces, ciertas especies de Geckos se comunican mediante ladridos.",
+    "FalseFactEnglish": "Certain geckos sometimes communicate by singing.",
+    "FalseFactSpanish": "A veces, ciertas especies de reptiles escamosos se comunican mediante el canto."
+  },
+  {
+    "TrueFactEnglish": "Certain lizards have green blood.",
+    "TrueFactSpanish": "Algunas especies de lagartos tienen sangre verde.",
+    "FalseFactEnglish": "All lizards have blue blood.",
+    "FalseFactSpanish": "Todos los lagartos tienen sangre azul."
+  },
+  {
+    "TrueFactEnglish": "Certain species of birds can sing with “regional accents.”",
+    "TrueFactSpanish": "Algunas especies de aves pueden cantar con \"acentos regionales\".",
+    "FalseFactEnglish": "Birds cannot sing.",
+    "FalseFactSpanish": "Las aves no pueden cantar."
+  },
+  {
+    "TrueFactEnglish": "Cheetahs can change direction in midair when chasing prey.",
+    "TrueFactSpanish": "Los leopardos pueden cambiar de dirección en medio del aire cuando persiguen a su presa.",
+    "FalseFactEnglish": "Once a Cheetah starts running, it cannot change direction until it stops.",
+    "FalseFactSpanish": "Una vez que el guepardo empieza a correr, no puede cambiar de dirección hasta que se detiene."
+  },
+  {
+    "TrueFactEnglish": "Chicks can breath through their shells.",
+    "TrueFactSpanish": "Los polluelos pueden respirar a través de sus cáscaras.",
+    "FalseFactEnglish": "Chicks cannot breathe until hatched.",
+    "FalseFactSpanish": "Los polluelos no pueden respirar hasta que salgan del cascarón."
+  },
+  {
+    "TrueFactEnglish": "Chimpanzees and dolphins can learn to recognize themselves in the mirror.",
+    "TrueFactSpanish": "Los chimpancés y delfines pueden aprender a reconocer su reflejo en el espejo.",
+    "FalseFactEnglish": "Chimpanzees and dolphins do not understand when they are seeing themselves in a mirror.",
+    "FalseFactSpanish": "Los chimpancés y los delfines no se reconocen cuando miran su reflejo en el espejo."
+  },
+  {
+    "TrueFactEnglish": "Chipmunks might see in slow motion.",
+    "TrueFactSpanish": "Las ardillas rayadas pueden ver en cámara lenta.",
+    "FalseFactEnglish": "Chipmunks see just like humans.",
+    "FalseFactSpanish": "Las ardillas rayadas ven de la misma manera que los seres humanos."
+  },
+  {
+    "TrueFactEnglish": "Cows can drink a bathtub full of water in a day.",
+    "TrueFactSpanish": "Las vacas pueden beber una bañera llena de agua en un día.",
+    "FalseFactEnglish": "Cows drink less than one gallon of water per day.",
+    "FalseFactSpanish": "Las vacas beben menos de 3.78541 litros de agua por día."
+  },
+  {
+    "TrueFactEnglish": "Crocodiles can’t chew.",
+    "TrueFactSpanish": "Los cocodrilos no pueden masticar.",
+    "FalseFactEnglish": "Crocodiles chew their food at least 20 times before swallowing.",
+    "FalseFactSpanish": "Los cocodrilos mastican su comida al menos 20 veces antes de tragar."
+  },
+  {
+    "TrueFactEnglish": "Crocodiles have been around for about 200 million years.",
+    "TrueFactSpanish": "Los cocodrilos han existido aproximadamente desde hace  200 millones de años.",
+    "FalseFactEnglish": "Crocodiles have been around for about 20 million years.",
+    "FalseFactSpanish": "Los cocodrilos han existido aproximadamente desde hace  20 millones de años."
+  },
+  {
+    "TrueFactEnglish": "Dairy cows may produce more milk while listening to classical music.",
+    "TrueFactSpanish": "Las vacas lecheras pueden producir más leche cuando escuchan música clásica.",
+    "FalseFactEnglish": "Dairy cows produce the same amount of milk every day.",
+    "FalseFactSpanish": "Las vacas lecheras producen la misma cantidad de leche cada día."
+  },
+  {
+    "TrueFactEnglish": "Dalmatians are born without spots.",
+    "TrueFactSpanish": "Los perros dálmatas nacen sin manchas.",
+    "FalseFactEnglish": "Dalmatians are born with their spots.",
+    "FalseFactSpanish": "Los perros dálmatas nacen con sus manchas."
+  },
+  {
+    "TrueFactEnglish": "Dogs have three times more taste buds than cats.",
+    "TrueFactSpanish": "Los perros tienen tres veces más papilas gustativas que los gatos.",
+    "FalseFactEnglish": "Dogs have less taste buds than cats.",
+    "FalseFactSpanish": "Los perros tienen menos papilas gustativas que los gatos."
+  },
+  {
+    "TrueFactEnglish": "Eating shrimp can turn white flamencos pink.",
+    "TrueFactSpanish": "Comer camarones puede hacer que los flamencos blancos se vuelvan rosados.",
+    "FalseFactEnglish": "Eating shrimp can turn pink flamencos gray.",
+    "FalseFactSpanish": "La ingesta de camarones puede provocar que los flamencos rosados se vuelvan grises."
+  },
+  {
+    "TrueFactEnglish": "Elephant calves suck on their trunks, just as human babies suck on their thumbs.",
+    "TrueFactSpanish": "Las crías de elefante chupan su trompa de la misma manera que los humanos bebés chupan sus dedos pulgares.",
+    "FalseFactEnglish": "Elephant calves suck on their feet, just as human babies suck on their thumbs.",
+    "FalseFactSpanish": "Las crías de elefantes chupan sus patas de la misma manera que los humanos bebés chupan sus dedos pulgares."
+  },
+  {
+    "TrueFactEnglish": "Elephant seals can dive deeper than most submarines.",
+    "TrueFactSpanish": "Los elefantes marinos pueden sumergirse más profundo que la mayoría de los submarinos.",
+    "FalseFactEnglish": "Elephant seals cannot dive deeper than 10 meters.",
+    "FalseFactSpanish": "Los elefantes marinos no pueden sumergirse más de 10 metros."
+  },
+  {
+    "TrueFactEnglish": "Elephants can be left or right-tusked, just as people are left or right handed.",
+    "TrueFactSpanish": "Los elefantes pueden tener un colmillo dominante, ya sea zurdo o diestro, de la misma manera que las personas son diestras o zurdas.",
+    "FalseFactEnglish": "Elephants prefer to use only their right tusk .",
+    "FalseFactSpanish": "Los elefantes prefieren usar únicamente su colmillo derecho."
+  },
+  {
+    "TrueFactEnglish": "Elephants can run faster than humans.",
+    "TrueFactSpanish": "Los elefantes pueden correr más rápido que los seres humanos.",
+    "FalseFactEnglish": "Elephants can't run.",
+    "FalseFactSpanish": "Los elefantes no pueden correr."
+  },
+  {
+    "TrueFactEnglish": "Elephants can swim for up to 6 hours without resting.",
+    "TrueFactSpanish": "Los elefantes pueden nadar hasta 6 horas sin descansar.",
+    "FalseFactEnglish": "Elephants don’t know how to swim.",
+    "FalseFactSpanish": "Los elefantes no saben nadar."
+  },
+  {
+    "TrueFactEnglish": "Elephants can use their trunks as snorkels.",
+    "TrueFactSpanish": "Los elefantes pueden usar sus trompas como tubo de respiración.",
+    "FalseFactEnglish": "Elephants can't actually breathe through their trunks. ",
+    "FalseFactSpanish": "Los elefantes no pueden respirar a través de sus trompas. "
+  },
+  {
+    "TrueFactEnglish": "Elephants can’t jump.",
+    "TrueFactSpanish": "Los elefantes no pueden saltar.",
+    "FalseFactEnglish": "Elephants can jump higher than a human.",
+    "FalseFactSpanish": "Los elefantes pueden saltar más alto que una persona."
+  },
+  {
+    "TrueFactEnglish": "Elephants walk on their tiptoes.",
+    "TrueFactSpanish": "Los elefantes caminan con la punta de sus patas.",
+    "FalseFactEnglish": "Unlike humans, elephants cannot walk on their tiptoes.",
+    "FalseFactSpanish": "A diferencia de los seres humanos, los elefantes no pueden caminar con la punta de sus patas."
+  },
+  {
+    "TrueFactEnglish": "flamencos’ ankles look like knees.",
+    "TrueFactSpanish": "Los tobillos de los flamencos parecen rodillas.",
+    "FalseFactEnglish": "flamencos don't have ankles.",
+    "FalseFactSpanish": "Los flamencos no tienen tobillos."
+  },
+  {
+    "TrueFactEnglish": "Frog bones grow new rings as they age, just like trees.",
+    "TrueFactSpanish": "Los huesos de las ranas desarrollan nuevos anillos al envejecer del mismo modo que los árboles.",
+    "FalseFactEnglish": "Frog bones are made of wood.",
+    "FalseFactSpanish": "Los huesos de ranas están hechos de madera."
+  },
+  {
+    "TrueFactEnglish": "Frogs drink through their skin.",
+    "TrueFactSpanish": "Las ranas consumen líquidos a través de su piel.",
+    "FalseFactEnglish": "Frogs drink water by lapping into their mouths, just like a dog.",
+    "FalseFactSpanish": "Las ranas beben agua lamiéndola hacia sus hocicos de la misma manera que los perros."
+  },
+  {
+    "TrueFactEnglish": "Geckos can break off their own tails.",
+    "TrueFactSpanish": "Las lagartijas pueden desprender sus propias colas.",
+    "FalseFactEnglish": "Aligators can break off their own tails.",
+    "FalseFactSpanish": "Los caimanes pueden desprender sus propias colas."
+  },
+  {
+    "TrueFactEnglish": "Ghost bats are some of the only bats with white fur.",
+    "TrueFactSpanish": "Los murciélagos fantasmas son algunos de los pocos murciélagos con pelo blanco.",
+    "FalseFactEnglish": "Ghost bats don't have any fur.",
+    "FalseFactSpanish": "Los murciélagos fantasmas no tienen pelo."
+  },
+  {
+    "TrueFactEnglish": "Giant anteaters can eat more than 30,000 insects in a day.",
+    "TrueFactSpanish": "Los osos hormigueros gigantes pueden comer más de 30,000 insectos en un día.",
+    "FalseFactEnglish": "Giant anteaters can more than 1 million insects in a day.",
+    "FalseFactSpanish": "Los osos hormigueros gigantes pueden comer más de 1 millón de insectos en un día. "
+  },
+  {
+    "TrueFactEnglish": "Giant tortoises keep growing their whole lives.",
+    "TrueFactSpanish": "Las tortugas gigantes continúan creciendo durante toda su vida.",
+    "FalseFactEnglish": "Giant tortoises stop growing at 20 years of age.",
+    "FalseFactSpanish": "Las tortugas gigantes dejan de crecer a los 20 años."
+  },
+  {
+    "TrueFactEnglish": "Giraffe “horns” are actually called ossicones.",
+    "TrueFactSpanish": "Los \"cuernos\" de jirafa en realidad se llaman osiconos.",
+    "FalseFactEnglish": "Giraffe \"spots\" are actually called ossicones.",
+    "FalseFactSpanish": "Las \"manchas\" de la jirafa en realidad se llaman osiconos."
+  },
+  {
+    "TrueFactEnglish": "Giraffes are the only animals born with horns.",
+    "TrueFactSpanish": "Las jirafas son los únicos animales que nacen con cuernos.",
+    "FalseFactEnglish": "Giraffes are born without horns.",
+    "FalseFactSpanish": "Las jirafas nacen sin cuernos."
+  },
+  {
+    "TrueFactEnglish": "Giraffes have very high blood pressure to pump blood up their long necks.",
+    "TrueFactSpanish": "Las jirafas tienen una presión sanguínea muy elevada para bombear sangre a lo largo de sus cuellos largos.",
+    "FalseFactEnglish": "Giraffes have very low blood pressure.",
+    "FalseFactSpanish": "Las jirafas tienen presión sanguínea muy baja."
+  },
+  {
+    "TrueFactEnglish": "Goats snack on poison ivy.",
+    "TrueFactSpanish": "Las cabras comen hiedra venenosa.",
+    "FalseFactEnglish": "Goats are alergic to poison ivy.",
+    "FalseFactSpanish": "Las cabras son alérgicas a la hiedra venenosa."
+  },
+  {
+    "TrueFactEnglish": "Gorillas burp when they’re happy.",
+    "TrueFactSpanish": "Los gorilas eructan cuando están felices.",
+    "FalseFactEnglish": "Gorillas fart when they're happy.",
+    "FalseFactSpanish": "Los gorilas tienen flatulencias cuando están felices."
+  },
+  {
+    "TrueFactEnglish": "Gorillas sleep in nests.",
+    "TrueFactSpanish": "Los gorilas duermen en nidos.",
+    "FalseFactEnglish": "Gorillas sleep in holes they dig in the ground.",
+    "FalseFactSpanish": "Los gorilas duermen en agujeros que cavan en el suelo."
+  },
+  {
+    "TrueFactEnglish": "Hippo sweat is red (it also doubles as sunscreen).",
+    "TrueFactSpanish": "El sudor de los hipopótamos es color rojo (y también funciona como protector solar).",
+    "FalseFactEnglish": "Hippo don't sweat.",
+    "FalseFactSpanish": "Los hipopótamos no sudan."
+  },
+  {
+    "TrueFactEnglish": "Hippos can be more dangerous than lions.",
+    "TrueFactSpanish": "Los hipopótamos pueden ser más peligrosos que los leones.",
+    "FalseFactEnglish": "Hippos are one of the most harmless animals.",
+    "FalseFactSpanish": "Los hipopótamos son uno de los animales más inofensivos."
+  },
+  {
+    "TrueFactEnglish": "Horses run on their toes.",
+    "TrueFactSpanish": "Los caballos corren con las puntas del casco.",
+    "FalseFactEnglish": "Horses run on their heels.",
+    "FalseFactSpanish": "Los caballos corren con los talones del casco."
+  },
+  {
+    "TrueFactEnglish": "Hummingbirds are the only birds that can fly backward.",
+    "TrueFactSpanish": "Los colibríes son las únicas aves que pueden volar hacia atrás.",
+    "FalseFactEnglish": "Parrots are the only birds that can fly backward.",
+    "FalseFactSpanish": "Los loros son las únicas aves que pueden volar hacia atrás."
+  },
+  {
+    "TrueFactEnglish": "In the past, toothbrushes had pig hairs for bristles.",
+    "TrueFactSpanish": "En el pasado, las cerdas de los cepillos de dientes eran de pelos de cerdo .",
+    "FalseFactEnglish": "In the past, toothbrushes had dog hairs for bristles.",
+    "FalseFactSpanish": "En el pasado, las cerdas de los cepillos de dientes tenían pelos de perro."
+  },
+  {
+    "TrueFactEnglish": "It’s impossible for turtles to stick out their tongues.",
+    "TrueFactSpanish": "Para las tortugas es imposible sacar la lengua.",
+    "FalseFactEnglish": "Some turtles can stick out their tongues up to 40 centimeters",
+    "FalseFactSpanish": "Algunas tortugas pueden sacar la lengua hasta 40 centímetros."
+  },
+  {
+    "TrueFactEnglish": "It’s possible to produce electricity from elephant dung.",
+    "TrueFactSpanish": "Es posible producir electricidad a partir del excremento de elefantes.",
+    "FalseFactEnglish": "It's possible to produce mobile phones from elephant dung.",
+    "FalseFactSpanish": "Es posible elaborar teléfonos celulares a partir del excremento de elefantes."
+  },
+  {
+    "TrueFactEnglish": "Japanese Macaques sometimes play with snowballs.",
+    "TrueFactSpanish": "En ocasiones, los macacos japoneses pueden jugar con bolas de nieve.",
+    "FalseFactEnglish": "Japanese Macaques are afraid of the snow.",
+    "FalseFactSpanish": "Los macacos japoneses le tienen miedo a la nieve."
+  },
+  {
+    "TrueFactEnglish": "Kangaroo rats can survive without drinking water.",
+    "TrueFactSpanish": "Las ratas canguro pueden sobrevivir sin beber agua.",
+    "FalseFactEnglish": "Kangaroo rats need to drink 3 gallons of water a day.",
+    "FalseFactSpanish": "Las ratas canguro necesitan beber hasta 11.35623 litros de agua por día."
+  },
+  {
+    "TrueFactEnglish": "Kangaroos can jump more than 30 feet in one hop. That’s the length of 12 skateboards.",
+    "TrueFactSpanish": "Los canguros pueden saltar más de 9.144 metros en un solo salto. Esa es la longitud de 12 patinetas.",
+    "FalseFactEnglish": "Kangaroos can't jump further than adult humans.",
+    "FalseFactSpanish": "Los canguros no pueden saltar más alto que los seres humanos adultos."
+  },
+  {
+    "TrueFactEnglish": "Kangaroos don’t hop backward.",
+    "TrueFactSpanish": "Los canguros no pueden saltar hacia atrás.",
+    "FalseFactEnglish": "Kangaroos often hop backwards.",
+    "FalseFactSpanish": "Los canguros saltan con frecuencia hacia atrás."
+  },
+  {
+    "TrueFactEnglish": "King cobras can grow as long as a giraffe is tall.",
+    "TrueFactSpanish": "Las cobras reales pueden crecer en proporción a la altura de una jirafa.",
+    "FalseFactEnglish": "King cobras stop growing after they reach 5 feet long.  ",
+    "FalseFactSpanish": "Las cobras reales dejan de crecer después de alcanzar 1.524 metros de longitud.  "
+  },
+  {
+    "TrueFactEnglish": "Kinkajous can twist their hind feet backward to climb trees.",
+    "TrueFactSpanish": "Los kinkajús pueden torcer sus patas posteriores para trepar árboles.",
+    "FalseFactEnglish": "Kinkajous can turn their heads backwards.",
+    "FalseFactSpanish": "Los kinkajús pueden orientar su cabeza hacia atrás."
+  },
+  {
+    "TrueFactEnglish": "Koalas and humans have similar fingerprints.",
+    "TrueFactSpanish": "Los koalas y los humanos tienen huellas dactilares similares.",
+    "FalseFactEnglish": "Koalas don’t have fingerprints.",
+    "FalseFactSpanish": "Los koalas no tienen huellas dactilares."
+  },
+  {
+    "TrueFactEnglish": "Koalas in southern Australia have thicker fur than koalas in the north.",
+    "TrueFactSpanish": "Los koalas en el sur de Australia tienen el pelaje más grueso que los koalas en el norte.",
+    "FalseFactEnglish": "Koalas in northern Australia have thicker fur than koalas in the south.",
+    "FalseFactSpanish": "Los koalas en el norte de Australia tienen el pelaje más grueso que los koalas en el sur."
+  },
+  {
+    "TrueFactEnglish": "Koalas stay awake for only four hours a day.",
+    "TrueFactSpanish": "Los koalas permanecen despiertos únicamente durante cuatro horas al día.",
+    "FalseFactEnglish": "Koalas only sleep four hours a day.",
+    "FalseFactSpanish": "Los koalas duermen únicamente cuatro horas al día."
+  },
+  {
+    "TrueFactEnglish": "Komodo dragons often vomit when threatened.",
+    "TrueFactSpanish": "Los dragones de Komodo suelen vomitar cuando se sienten amenazados.",
+    "FalseFactEnglish": "Komodo often vomit after a big meal.",
+    "FalseFactSpanish": "Los dragones de Komodo suelen vomitar después de una comida sustanciosa."
+  },
+  {
+    "TrueFactEnglish": "Lions spend about 20 hours a day resting.",
+    "TrueFactSpanish": "Los leones pasan aproximadamente 20 horas al día descansando.",
+    "FalseFactEnglish": "Lions spend less than 8 hours a day resting.",
+    "FalseFactSpanish": "Los leones pasan menos de 8 horas al día descansando."
+  },
+  {
+    "TrueFactEnglish": "Male blue-footed boobies do a high-step strut to attract mates.",
+    "TrueFactSpanish": "El alcatraz patiazul macho realiza un llamativo paso elevado para atraer pareja.",
+    "FalseFactEnglish": "Male blue-footed boobies stand perfectly still to attract mates.",
+    "FalseFactSpanish": "El alcatraz patiazul macho permanece totalmente quieto para atraer pareja."
+  },
+  {
+    "TrueFactEnglish": "Male giant pandas sometimes do handstands against trees.",
+    "TrueFactSpanish": "En ocasiones, los pandas gigantes machos se paran en sus patas delanteras apoyándose en árboles.",
+    "FalseFactEnglish": "Male giant pandas sometimes do backflips off of the tops of trees.",
+    "FalseFactSpanish": "En ocasiones, los pandas gigantes machos hacen volteretas hacia atrás desde la copa de árboles."
+  },
+  {
+    "TrueFactEnglish": "Many birds’ feathers weigh more than their bones.",
+    "TrueFactSpanish": "Las plumas de varias aves pesan más que sus huesos.",
+    "FalseFactEnglish": "Most birds’ bones weigh more than their feathers.",
+    "FalseFactSpanish": "Los huesos de la mayoría de los  aves pesan más que sus plumas."
+  },
+  {
+    "TrueFactEnglish": "Monkeys can go bald in old age, just like humans can.",
+    "TrueFactSpanish": "Los monos pueden quedarse calvos en la senectud de la misma manera que los seres humanos.",
+    "FalseFactEnglish": "The hair on most monkies' heads never stops growing.",
+    "FalseFactSpanish": "El pelo de la mayoría de las cabezas de monos nunca deja de crecer."
+  },
+  {
+    "TrueFactEnglish": "Moonrats spend nights marking their territory with an onionlike smell.",
+    "TrueFactSpanish": "Las ratas lunares pasan las noches marcando su territorio con un olor similar a la cebolla.",
+    "FalseFactEnglish": "Moonrats spend nights marking their territory with a tomato like smell.",
+    "FalseFactSpanish": "Las ratas lunares pasan las noches marcando su territorio con un olor similar al tomate."
+  },
+  {
+    "TrueFactEnglish": "More than two million animals fly in airplanes every year.",
+    "TrueFactSpanish": "Más de dos millones de animales viajan en aeronaves cada año.",
+    "FalseFactEnglish": "Less than 250,000 animals fly in airplanes every year.",
+    "FalseFactSpanish": "Menos de 250,000 mil animales viajan en aeronaves cada año."
+  },
+  {
+    "TrueFactEnglish": "Most experts believe that birds are descended from dinosaurs.",
+    "TrueFactSpanish": "La mayoría de los expertos cree que las aves descienden de los dinosaurios.",
+    "FalseFactEnglish": "Most experts believe that mice are descended from dinosaurs.",
+    "FalseFactSpanish": "La mayoría de los expertos cree que los ratones descienden de los dinosaurios."
+  },
+  {
+    "TrueFactEnglish": "Most frogs eat their skin after they shed.",
+    "TrueFactSpanish": "La mayoría de las ranas se comen su piel después de que la desprenden.",
+    "FalseFactEnglish": "Most frogs are afraid of their own shed skin.",
+    "FalseFactSpanish": "La mayoría de las ranas tienen miedo de su propia piel desprendida."
+  },
+  {
+    "TrueFactEnglish": "Most swans in England belong to the Queen.",
+    "TrueFactSpanish": "La mayoría de los cisnes en Inglaterra le pertenecen a la Reina.",
+    "FalseFactEnglish": "Most deer in England belong to the Queen.",
+    "FalseFactSpanish": "La mayoría de los ciervos en Inglaterra le pertenecen a la Reina."
+  },
+  {
+    "TrueFactEnglish": "Mountain lions can whistle.",
+    "TrueFactSpanish": "Los pumas pueden silbar.",
+    "FalseFactEnglish": "Mountain lions can sing.",
+    "FalseFactSpanish": "Los pumas pueden cantar."
+  },
+  {
+    "TrueFactEnglish": "Newborn dolphins don’t sleep for more than a few seconds.",
+    "TrueFactSpanish": "Los delfines recién nacidos no duermen más que algunos segundos.",
+    "FalseFactEnglish": "Newborn dolphins sleep for 9 hours a day.",
+    "FalseFactSpanish": "Los delfines recién nacidos duermen durante 9 horas al día."
+  },
+  {
+    "TrueFactEnglish": "Newborn pygmy marmosets are the size of a human finger.",
+    "TrueFactSpanish": "Los titís pigmeos recién nacidos son del tamaño de un dedo humano.",
+    "FalseFactEnglish": "Newborn pygmy marmosets are the size of a human head.",
+    "FalseFactSpanish": "Los tití pigmeo recién nacidos son del tamaño de una cabeza humana."
+  },
+  {
+    "TrueFactEnglish": "Nosewise, Sturdy, and Hardy were popular dog names in medieval times.",
+    "TrueFactSpanish": "Nosewise, Sturdy y Hardy eran nombres populares para perro en tiempos medievales.",
+    "FalseFactEnglish": "Alvin, Simon, and Theodore were popular dog names in medieval times.",
+    "FalseFactSpanish": "Alvin, Simón y Teodoro eran nombres populares para perro en tiempos medievales."
+  },
+  {
+    "TrueFactEnglish": "One type of frog hears through its mouth.",
+    "TrueFactSpanish": "Un tipo de rana escucha a través de su boca.",
+    "FalseFactEnglish": "One type of frog hears through its feet.",
+    "FalseFactSpanish": "Un tipo de rana escucha a través de sus patas."
+  },
+  {
+    "TrueFactEnglish": "One type of owl in Australia barks like a dog.",
+    "TrueFactSpanish": "Un tipo de búho en Australia ladra como perro.",
+    "FalseFactEnglish": "One type of owl in England oinks like a pig.",
+    "FalseFactSpanish": "Un tipo de búho en Inglaterra gruñe como cerdo."
+  },
+  {
+    "TrueFactEnglish": "Only male toads croak.",
+    "TrueFactSpanish": "Únicamente los sapos machos croan.",
+    "FalseFactEnglish": "Only female toads can croak.",
+    "FalseFactSpanish": "Únicamente los sapos hembras pueden croar."
+  },
+  {
+    "TrueFactEnglish": "Only male turkeys gobble.",
+    "TrueFactSpanish": "Únicamente los pavos machos gluglutean.",
+    "FalseFactEnglish": "Only female turkeys can gobble.",
+    "FalseFactSpanish": "Únicamente los pavos hembra pueden gluglutear."
+  },
+  {
+    "TrueFactEnglish": "Oology is the study of bird eggs.",
+    "TrueFactSpanish": "Oología es el estudio de huevos de aves.",
+    "FalseFactEnglish": "Eggology is the study of bird eggs.",
+    "FalseFactSpanish": "Huevología es el estudio de huevos de aves."
+  },
+  {
+    "TrueFactEnglish": "Orangutans sometimes make whistles out of leaves.",
+    "TrueFactSpanish": "En ocasiones, los orangutanes silban usando hojas.",
+    "FalseFactEnglish": "Orangutans sometimes make whistles out of acorns.",
+    "FalseFactSpanish": "En ocasiones, los orangutanes silban usando bellotas."
+  },
+  {
+    "TrueFactEnglish": "Owls can’t move their eyes.",
+    "TrueFactSpanish": "Los búhos no pueden mover sus ojos.",
+    "FalseFactEnglish": "Owls move their eyes 100 times per minute. ",
+    "FalseFactSpanish": "Los búhos mueven sus ojos 100 veces por minuto. "
+  },
+  {
+    "TrueFactEnglish": "Panda droppings can be made into paper.",
+    "TrueFactSpanish": "Las heces de osos panda pueden convertirse en papel.",
+    "FalseFactEnglish": "Panda droppings don't smell bad.",
+    "FalseFactSpanish": "Las heces de osos panda no huelen mal."
+  },
+  {
+    "TrueFactEnglish": "Penguins swim up to 3,100 miles in a year.",
+    "TrueFactSpanish": "Los pingüinos nadan hasta 4988.95 kilómetros en un año.",
+    "FalseFactEnglish": "Penguins can swim 1,000 miles in a year.",
+    "FalseFactSpanish": "Los pingüinos pueden nadar hasta 1609.34 kilómetros en un año."
+  },
+  {
+    "TrueFactEnglish": "Pet hamsters can run up to eight miles a night on a wheel.",
+    "TrueFactSpanish": "Los hámsters domésticos pueden correr hasta 12.87472 kilómetros en una rueda en una sola noche.",
+    "FalseFactEnglish": "Pet hamsters can only run 3 miles a night on a wheel.",
+    "FalseFactSpanish": "Los hámsteres domésticos pueden correr únicamente 4.82802 kilómetros en una rueda en una sola noche."
+  },
+  {
+    "TrueFactEnglish": "Pigeons have received medals of honor for military service.",
+    "TrueFactSpanish": "Hay palomas que han recibido medallas de honor por servicio militar.",
+    "FalseFactEnglish": "Dodo birds have received medals of honor for military service.",
+    "FalseFactSpanish": "Hay dodos que han recibido medallas de honor por servicio militar."
+  },
+  {
+    "TrueFactEnglish": "Pigs have been taught to play video games.",
+    "TrueFactSpanish": "Los cerdos han aprendido a jugar videojuegos.",
+    "FalseFactEnglish": "Pigs have been taught how to play Scrabble.",
+    "FalseFactSpanish": "Los cerdos han aprendido cómo jugar Scrabble."
+  },
+  {
+    "TrueFactEnglish": "Porcupine quills were once used as toothpicks.",
+    "TrueFactSpanish": "Las púas de puercoespín se usaron hace tiempo como mondadientes.",
+    "FalseFactEnglish": "Porcupine quills were once used as arrowheads.",
+    "FalseFactSpanish": "Las púas de puercoespín se usaron hace tiempo como puntas de flecha."
+  },
+  {
+    "TrueFactEnglish": "Pudus – the smallest type of deer – run in a zigzag pattern to escape predators.",
+    "TrueFactSpanish": "Los pudus - el tipo más pequeño de ciervos - corren en forma de zigzag para escapar de sus depredadores.",
+    "FalseFactEnglish": "Pudus – the largest type of deer – run in circles to escape predators.",
+    "FalseFactSpanish": "Los pudus - el tipo más grande de ciervos - corren en círculos para escapar de sus depredadores."
+  },
+  {
+    "TrueFactEnglish": "Rabbits can see behind themselves without moving their heads.",
+    "TrueFactSpanish": "Los conejos pueden ver detrás de ellos sin mover la cabeza.",
+    "FalseFactEnglish": "Rabbits can only see in front of themselves.",
+    "FalseFactSpanish": "Los conejos pueden ver únicamente frente a ellos."
+  },
+  {
+    "TrueFactEnglish": "Red-footed tortoises have been taught to use touch screens.",
+    "TrueFactSpanish": "Las tortugas de patas rojas han aprendido a usar pantallas táctiles.",
+    "FalseFactEnglish": "Red-footed tortoises have been taught how to use social media.",
+    "FalseFactSpanish": "Las tortugas de patas rojas han aprendido a usar redes sociales."
+  },
+  {
+    "TrueFactEnglish": "Rhinos may communicate by leaving each other dung piles.",
+    "TrueFactSpanish": "Los rinocerontes pueden comunicarse entre ellos al dejar montones de estiércol.",
+    "FalseFactEnglish": "Rhinos may communicate by leaving each other piles of rocks.",
+    "FalseFactSpanish": "Los rinocerontes pueden comunicarse entre ellos al dejar montones de rocas."
+  },
+  {
+    "TrueFactEnglish": "Scientists have found a new monkey species with a blue bottom.",
+    "TrueFactSpanish": "Los científicos han descubierto una nueva especie de monos con trasero azul.",
+    "FalseFactEnglish": "No new species of monkey has been found since 1935.",
+    "FalseFactSpanish": "Desde 1935 que no se descubre ninguna especie nueva de monos."
+  },
+  {
+    "TrueFactEnglish": "Sea lion pups can recognize their mothers’ calls in a crowd.",
+    "TrueFactSpanish": "Las crías de lobo marino pueden reconocer el llamado de sus madres en una aglomeración.",
+    "FalseFactEnglish": "Sea Lion pups can not recognize their mother's call in a crowd.",
+    "FalseFactSpanish": "Las crías de lobo marino no pueden reconocer el llamado de sus madres en una aglomeración."
+  },
+  {
+    "TrueFactEnglish": "Seagulls will perch on pelicans’ heads.",
+    "TrueFactSpanish": "Las gaviotas se posan en las cabezas de los pelícanos.",
+    "FalseFactEnglish": "Seagulls do not like pelicans.",
+    "FalseFactSpanish": "A las gaviotas no les gustan los pelícanos."
+  },
+  {
+    "TrueFactEnglish": "Skunks have striped skin.",
+    "TrueFactSpanish": "Los zorrillos tienen piel rayada.",
+    "FalseFactEnglish": "Skunks have polka dotted skin.",
+    "FalseFactSpanish": "Los zorrillos tienen piel con lunares negros."
+  },
+  {
+    "TrueFactEnglish": "Sloth bears use their snouts and lips like vacuums, sucking up insects for snacks.",
+    "TrueFactSpanish": "Los osos bezudos usan sus hocicos y labios como aspiradoras succionando insectos para comer.",
+    "FalseFactEnglish": "Koala bears use their snouts and lips like vacuums, sucking up insects for snacks.",
+    "FalseFactSpanish": "Los osos koala usan sus hocicos y labios como aspiradoras succionando insectos para comer."
+  },
+  {
+    "TrueFactEnglish": "Snakes can't slither on glass.",
+    "TrueFactSpanish": "Las serpientes no pueden deslizarse sobre vidrio.",
+    "FalseFactEnglish": "Snakes can slither on any surface.",
+    "FalseFactSpanish": "Las serpientes pueden deslizarse sobre cualquier superficie."
+  },
+  {
+    "TrueFactEnglish": "Snow leopards can't roar.",
+    "TrueFactSpanish": "Los leopardos de las nieves no pueden rugir.",
+    "FalseFactEnglish": "Snow leopards roar louder than tigers.",
+    "FalseFactSpanish": "Los leopardos de las nieves rugen más fuerte que los tigres."
+  },
+  {
+    "TrueFactEnglish": "Some arctic fox dens are 300 years old.",
+    "TrueFactSpanish": "Las madrigueras de algunos zorros polares tienen 300 años de antigüedad.",
+    "FalseFactEnglish": "The oldest artic fox den found was 100 years old.",
+    "FalseFactSpanish": "La madriguera de zorro polar más antigua que haya sido descubierta tenía 100 años."
+  },
+  {
+    "TrueFactEnglish": "Some bat’s hearing is strong enough to detect the sound of a beetle walking on a leaf.",
+    "TrueFactSpanish": "El oído de algunos murciélagos es lo suficientemente agudo para detectar el sonido de un insecto caminando sobre una hoja.",
+    "FalseFactEnglish": "Most bats have bad hearing.",
+    "FalseFactSpanish": "La mayoría de los murciélagos tiene mal oído."
+  },
+  {
+    "TrueFactEnglish": "Some bats are light enough to mail with a First-Class Stamp.",
+    "TrueFactSpanish": "Algunos murciélagos son lo suficientemente ligeros para enviarlos por correo con un sello de primera clase.",
+    "FalseFactEnglish": "All bats weigh the same.",
+    "FalseFactSpanish": "Todos los murciélagos pesan lo mismo."
+  },
+  {
+    "TrueFactEnglish": "Some chickens are born half male, half female.",
+    "TrueFactSpanish": "Algunas gallinas nacen mitad macho, mitad hembra.",
+    "FalseFactEnglish": "All chickens are born female.",
+    "FalseFactSpanish": "Todas las gallinas nacen hembra."
+  },
+  {
+    "TrueFactEnglish": "Some chickens lay green or blue eggs.",
+    "TrueFactSpanish": "Algunas gallinas ponen huevos azules o verdes.",
+    "FalseFactEnglish": "All chickens eggs are either white or brown.",
+    "FalseFactSpanish": "Todos los huevos de gallinas son blancos o marrones."
+  },
+  {
+    "TrueFactEnglish": "Some cobras can spit venom 6.5 feet—that’s longer than a hockey stick.",
+    "TrueFactSpanish": "Algunas cobras pueden escupir veneno 1.98 metros - una distancia más prolongada que un palo de hockey.",
+    "FalseFactEnglish": "Cobra's venom cannot be spit further than 3 feet.",
+    "FalseFactSpanish": "El veneno que una cobra escupe no puede alcanzar más de 0.9144 metros."
+  },
+  {
+    "TrueFactEnglish": "Some cows make best friends with other cattle in their herd.",
+    "TrueFactSpanish": "Algunas vacas se hacen mejores amigos con otras vacas en su ganado.",
+    "FalseFactEnglish": "Cows are antisocial.",
+    "FalseFactSpanish": "Las vacas son antisociales."
+  },
+  {
+    "TrueFactEnglish": "Some dinosaur skulls were about as long as an adult human is tall.",
+    "TrueFactSpanish": "Algunos cráneos de dinosaurios eran tan grandes como un adulto humano en proporción a su altura.",
+    "FalseFactEnglish": "The longest dinosaur skull is 4 feet long. ",
+    "FalseFactSpanish": "El cráneo de dinosaurio más grande es de 1.2192 metros de longitud. "
+  },
+  {
+    "TrueFactEnglish": "Some Dinosaurs had 1,000 teeth.",
+    "TrueFactSpanish": "Algunos dinosaurios tenían 1,000 dientes.",
+    "FalseFactEnglish": "Some Elephants have 1,000 teeth.",
+    "FalseFactSpanish": "Algunos elefantes tienen 1,000 dientes."
+  },
+  {
+    "TrueFactEnglish": "Some dogs are allergic to cats.",
+    "TrueFactSpanish": "Algunos perros son alérgicos a los gatos.",
+    "FalseFactEnglish": "Dogs do not have allergies.",
+    "FalseFactSpanish": "Los perros no tienen alergias."
+  },
+  {
+    "TrueFactEnglish": "Some frogs can glide up to 50 feet through the air.",
+    "TrueFactSpanish": "Algunas ranas pueden planear hasta 15.24 metros en el aire.",
+    "FalseFactEnglish": "Some frogs can fly.",
+    "FalseFactSpanish": "Algunas ranas pueden volar."
+  },
+  {
+    "TrueFactEnglish": "Some frogs glow when they eat fireflies.",
+    "TrueFactSpanish": "Algunas ranas brillan cuando comen luciérnagas.",
+    "FalseFactEnglish": "Some frogs will buzz after eating a fly.",
+    "FalseFactSpanish": "Algunas ranas emiten un zumbido después de comer una mosca."
+  },
+  {
+    "TrueFactEnglish": "Some frogs survive the winter by freezing almost solid.",
+    "TrueFactSpanish": "Algunas ranas sobreviven el invierno al congelarse hasta conseguir un estado casi sólido.",
+    "FalseFactEnglish": "Some frogs survive the winter by wrapping themselves in a cocoon. ",
+    "FalseFactSpanish": "Algunas ranas sobreviven el invierno al envolverse en forma de capullo. "
+  },
+  {
+    "TrueFactEnglish": "Some hummingbirds weigh less than a penny.",
+    "TrueFactSpanish": "Algunos colibríes pesan menos que una moneda de 1 centavo.",
+    "FalseFactEnglish": "Hummingbirds weigh less than 4 grains of rice.",
+    "FalseFactSpanish": "Algunos colibríes pesan menos que 4 granos de arroz."
+  },
+  {
+    "TrueFactEnglish": "Some male mice sing songs to attract mates.",
+    "TrueFactSpanish": "Algunos ratones machos cantan para atraer pareja.",
+    "FalseFactEnglish": "Some male mice do gymnastics to attract mates.",
+    "FalseFactSpanish": "Algunos ratones machos hacen ejercicios aeróbicos para atraer pareja."
+  },
+  {
+    "TrueFactEnglish": "Some monkeys in Thailand teach their young to floss.",
+    "TrueFactSpanish": "En Tailandia, algunos monos enseñan a sus crías a usar hilo dental.",
+    "FalseFactEnglish": "Some monkeys in Thailand teach their young to brush their teeth.",
+    "FalseFactSpanish": "En Tailandia, algunos monos enseñan a las crías a cepillarse los dientes."
+  },
+  {
+    "TrueFactEnglish": "Some parrots dance when they hear pop music.",
+    "TrueFactSpanish": "Algunos loros bailan cuando escuchan música pop.",
+    "FalseFactEnglish": "Parrots hate music.",
+    "FalseFactSpanish": "Los loros odian la música."
+  },
+  {
+    "TrueFactEnglish": "Some pigs are afraid of mud.",
+    "TrueFactSpanish": "Algunos cerdos le tienen miedo al lodo.",
+    "FalseFactEnglish": "All pigs love the mud.",
+    "FalseFactSpanish": "Todos los cerdos aman el lodo."
+  },
+  {
+    "TrueFactEnglish": "Some pigs have curly hair.",
+    "TrueFactSpanish": "Algunos cerdos tienen pelo chino.",
+    "FalseFactEnglish": "Pigs hair is always perfectly straight.",
+    "FalseFactSpanish": "El pelo de los cerdos es siempre perfectamente lacio."
+  },
+  {
+    "TrueFactEnglish": "Some rats appear to laugh when tickled.",
+    "TrueFactSpanish": "Algunas ratas parecen reír cuando les hacen cosquillas.",
+    "FalseFactEnglish": "Some rats appear to laugh when told certain jokes.",
+    "FalseFactSpanish": "Algunas ratas parecen reír cuando se les cuentan ciertas bromas."
+  },
+  {
+    "TrueFactEnglish": "Some rats can survive without water longer than camels.",
+    "TrueFactSpanish": "Algunas ratas pueden sobrevivir sin agua durante más tiempo que los camellos.",
+    "FalseFactEnglish": "Rats need to drink 1 gallon of water a day. ",
+    "FalseFactSpanish": "Las ratas necesitan beber hasta 3.7854118 litros de agua por día. "
+  },
+  {
+    "TrueFactEnglish": "Some salamanders can regrow their tail, legs, and even parts of their eyes.",
+    "TrueFactSpanish": "Algunas salamandras pueden regenerar sus colas, patas, e incluso partes de sus ojos.",
+    "FalseFactEnglish": "Salamanders don't have tails.",
+    "FalseFactSpanish": "Las salamandras no tienen cola."
+  },
+  {
+    "TrueFactEnglish": "Some snails float across water clinging to a bubbly raft of their mucus.",
+    "TrueFactSpanish": "Algunos caracoles flotan en el agua aferrándose a una especie de balsa burbujeante elaborada a partir de su propia mucosidad.",
+    "FalseFactEnglish": "Snails can't travel through water.",
+    "FalseFactSpanish": "Los caracoles no pueden desplazarse en el agua."
+  },
+  {
+    "TrueFactEnglish": "Some snails have 15,000 teeth.",
+    "TrueFactSpanish": "Algunos caracoles tienen 15,000 dientes.",
+    "FalseFactEnglish": "Some snails have 50,000 teeth.",
+    "FalseFactSpanish": "Algunos caracoles tienen 50,000 dientes."
+  },
+  {
+    "TrueFactEnglish": "Some toxic frogs produce sugar to sweeten their poison.",
+    "TrueFactSpanish": "Algunas ranas tóxicas producen azúcar para endulzar su veneno.",
+    "FalseFactEnglish": "Some frogs produce sugar to sweeten their food.",
+    "FalseFactSpanish": "Algunas ranas producen azúcar para endulzar su alimento."
+  },
+  {
+    "TrueFactEnglish": "Some tree snakes can glide through the air the length of two school buses.",
+    "TrueFactSpanish": "Algunas serpientes arbóreas pueden planear en el aire la longitud de dos camiones escolares.",
+    "FalseFactEnglish": "Tree snakes never leave their trees.",
+    "FalseFactSpanish": "Las serpientes arbóreas jamás abandonan sus árboles."
+  },
+  {
+    "TrueFactEnglish": "South Africa’s giant bullfrog sometimes attacks lions.",
+    "TrueFactSpanish": "En ocasiones, la rana toro (sud)africana ataca leones.",
+    "FalseFactEnglish": "South Africa's lions often attack bullfrogs.",
+    "FalseFactSpanish": "En ocasiones, los leones (sud)africanos atacan a las ranas toro."
+  },
+  {
+    "TrueFactEnglish": "Squirrels sweat through their feet.",
+    "TrueFactSpanish": "Las ardillas sudan a través de sus patas.",
+    "FalseFactEnglish": "Squirrels sweat through their mouth.",
+    "FalseFactSpanish": "Las ardillas sudan a través de su boca."
+  },
+  {
+    "TrueFactEnglish": "Swiftlet birds’ nests are made entirely from saliva.",
+    "TrueFactSpanish": "Los nidos de las salanganas están hechos completamente de saliva.",
+    "FalseFactEnglish": "Swiftlet birds’ nests are made entirely from fruit.",
+    "FalseFactSpanish": "Los nidos de las salanganas están hechos completamente de fruta."
+  },
+  {
+    "TrueFactEnglish": "Tasmanian devils may challenge enemies by sneezing.",
+    "TrueFactSpanish": "Los demonios de Tasmania pueden retar enemigos al estornudar.",
+    "FalseFactEnglish": "Tasmanian devils may challenge enemies by coughing",
+    "FalseFactSpanish": "Los demonios de Tasmania pueden retar enemigos al toser."
+  },
+  {
+    "TrueFactEnglish": "The Australian lyrebird can mimic car alarms.",
+    "TrueFactSpanish": "Las aves liras australianas pueden imitar el sonido de las alarmas de automóviles.",
+    "FalseFactEnglish": "The Australian lyrebird can mimic elevator sounds.",
+    "FalseFactSpanish": "Las aves liras australianas pueden imitar los sonidos de un elevador."
+  },
+  {
+    "TrueFactEnglish": "The biggest bald eagle nests weigh up to 4,000 pounds.",
+    "TrueFactSpanish": "Los nidos de águila calva más grandes pesan hasta 1814.36 kilos.",
+    "FalseFactEnglish": "The biggest bald eagle nests weighs just under 1,000 pounds.",
+    "FalseFactSpanish": "Los nidos de águila calva más grandes pesan poco menos de 453.59 kilos."
+  },
+  {
+    "TrueFactEnglish": "The desert-dwelling fennec fox has hairy footpads that protect its feet from hot sand.",
+    "TrueFactSpanish": "El zorro del desierto tiene almohadillas peludas que protegen sus patas de la arena caliente.",
+    "FalseFactEnglish": "The desert-dwelling fennec fox wears shoes to protect its feet from hot sand.",
+    "FalseFactSpanish": "El zorro del desierto usa zapatos para proteger sus patas de la arena caliente."
+  },
+  {
+    "TrueFactEnglish": "The dhole—a kind of wild dog—can jump 7 feet vertically in the air.",
+    "TrueFactSpanish": "El perro Jaro  - un tipo de perro salvaje - puede saltar verticalmente en el aire hasta 2.1336 metros.",
+    "FalseFactEnglish": "The dhole is a wild racoon.",
+    "FalseFactSpanish": "El cuón es un mapache salvaje."
+  },
+  {
+    "TrueFactEnglish": "The eastern spotted skunk does a handstand before it sprays.",
+    "TrueFactSpanish": "La mofeta moteada oriental se posa sobre sus patas delanteras antes de rociar.",
+    "FalseFactEnglish": "The eastern spotted skunk does a cartwheel before it sprays.",
+    "FalseFactSpanish": "La mofeta moteada oriental ejecuta una voltereta lateral antes de rociar."
+  },
+  {
+    "TrueFactEnglish": "The hearts of some hummingbirds can beat faster than 1,000 times a minute.",
+    "TrueFactSpanish": "Los corazones de algunos colibríes pueden latir a una velocidad mayor a 1,000 veces por minuto.",
+    "FalseFactEnglish": "The hearts of hummingbirds beat once per second.",
+    "FalseFactSpanish": "Los corazones de los colibríes laten una vez por segundo."
+  },
+  {
+    "TrueFactEnglish": "The Indian giant squirrel has purple fur.",
+    "TrueFactSpanish": "La ardilla gigante india tiene pelaje púrpura.",
+    "FalseFactEnglish": "The Indian giant squirrel has grey stripped fur.",
+    "FalseFactSpanish": "La ardilla gigante india tiene pelaje gris rayado."
+  },
+  {
+    "TrueFactEnglish": "The largest dinosaurs were vegetarians.",
+    "TrueFactSpanish": "Los dinosaurios más grandes eran herbívoros.",
+    "FalseFactEnglish": "The largest dinosaurs were meat eaters.",
+    "FalseFactSpanish": "Los dinosaurios más grandes eran carnívoros."
+  },
+  {
+    "TrueFactEnglish": "The largest salamanders can grow as long as bicycles.",
+    "TrueFactSpanish": "Las salamandras más grandes pueden llegar a ser del tamaño de una bicicleta.",
+    "FalseFactEnglish": "The largest salamanders are as long as a baseball bat.",
+    "FalseFactSpanish": "Las salamandras más grandes son tan largas como un bate de béisbol."
+  },
+  {
+    "TrueFactEnglish": "The longest recorded flight of a chicken is 13 seconds.",
+    "TrueFactSpanish": "El vuelo más largo registrado de una gallina es de 13 segundos.",
+    "FalseFactEnglish": "The longest recorded flight of a chicken is 4 seconds.",
+    "FalseFactSpanish": "El vuelo más largo registrado de una gallina es de 4 segundos."
+  },
+  {
+    "TrueFactEnglish": "The Mwanza flat-headed agama lizard resembles Spider-Man.",
+    "TrueFactSpanish": "El lagarto Mwanza agama cabeza plana se parece al Hombre Araña.",
+    "FalseFactEnglish": "The Mwanza flat-headed agama lizard resembles The Incredible Hulk.",
+    "FalseFactSpanish": "El lagarto Mwanza agama cabeza plana se parece al Increible Hulk."
+  },
+  {
+    "TrueFactEnglish": "The Patagonian mara, a South American rodent, often bounces up and down on all four legs.",
+    "TrueFactSpanish": "La mara patagónica, un roedor sudamericano, suele brincar usando sus cuatro patas.",
+    "FalseFactEnglish": "The Patagonian mara cannot bounce or jump. ",
+    "FalseFactSpanish": "La mara patagónica no puede brincar o saltar. "
+  },
+  {
+    "TrueFactEnglish": "The regal horned lizard squirts blood out of its eyes to repel predators.",
+    "TrueFactSpanish": "El lagarto cornudo real rocía sangre por sus ojos para repeler a sus depredadores.",
+    "FalseFactEnglish": "The regal horned lizard squirts blood out of it's nose and ears to repel predators.",
+    "FalseFactSpanish": "El lagarto cornudo real sangra por la nariz y orejas para repeler a sus depredadores."
+  },
+  {
+    "TrueFactEnglish": "The skin of a golden poison-dart frog contains enough toxins to kill up to 100 people.",
+    "TrueFactSpanish": "La piel de una rana dorada venenosa contiene toxinas suficientes para matar hasta 100 personas.",
+    "FalseFactEnglish": "The skin of a golden poison-dart frog can not kill a person.",
+    "FalseFactSpanish": "La piel de una rana dorada venenosa no puede matar a una persona."
+  },
+  {
+    "TrueFactEnglish": "The smallest monkey is about as tall as a toothbrush.",
+    "TrueFactSpanish": "El simio más pequeño es tan alto como un cepillo de dientes.",
+    "FalseFactEnglish": "The smallest monkey is about as tall as a pack of gum.",
+    "FalseFactSpanish": "El simio más pequeño es tan alto como un paquete de goma de mascar."
+  },
+  {
+    "TrueFactEnglish": "The triceratops is the official state dinosaur of Wyoming, USA",
+    "TrueFactSpanish": "El triceratops es el dinosaurio oficial del estado de Wyoming, EUA.",
+    "FalseFactEnglish": "The pterodactyl is the offical state dinosaur of Wyoming, USA",
+    "FalseFactSpanish": "El pterodáctilo es el dinosaurio oficial del estado de Wyoming, EUA."
+  },
+  {
+    "TrueFactEnglish": "The world’s biggest frog is the size of a house cat.",
+    "TrueFactSpanish": "La rana más grande del mundo es del tamaño de un gato doméstico.",
+    "FalseFactEnglish": "The world’s biggest frog is the size of a small car.",
+    "FalseFactSpanish": "La rana más grande del mundo es del tamaño de un automóvil pequeño."
+  },
+  {
+    "TrueFactEnglish": "The world’s oldest pet goldfish lived to be 43 years old.",
+    "TrueFactSpanish": "El pez carpa dorada más viejo del mundo vivió hasta los 43 años.",
+    "FalseFactEnglish": "The world’s oldest pet goldfish lived to be 25 years old.",
+    "FalseFactSpanish": "El pez carpa dorada más viejo del mundo vivió hasta los 25 años."
+  },
+  {
+    "TrueFactEnglish": "There are more plastic flamencos than real ones.",
+    "TrueFactSpanish": "Existen más flamencos de plástico que verdaderos.",
+    "FalseFactEnglish": "There are more flamencos in the world than fake plastic ones.",
+    "FalseFactSpanish": "Existen más flamencos reales en el mundo que de plástico."
+  },
+  {
+    "TrueFactEnglish": "To keep from drifting apart, sleeping otters may link paws.",
+    "TrueFactSpanish": "Para evitar alejarse progresivamente, las nutrias durmientes pueden unir sus patas.",
+    "FalseFactEnglish": "To keep from drifting apart, sleeping otters may tie their tales together.",
+    "FalseFactSpanish": "Para evitar alejarse progresivamente, las nutrias durmientes pueden unir sus colas."
+  },
+  {
+    "TrueFactEnglish": "Together, a tarsier’s huge eyes can weigh as much as its brain.",
+    "TrueFactSpanish": "En conjunto, los enormes ojos de un tarsio pueden pesar tanto como su cerebro.",
+    "FalseFactEnglish": "Together, a tarsier’s huge eyes can weigh less than it's brain.",
+    "FalseFactSpanish": "En conjunto, los enormes ojos de un tarsio pueden pesar menos que su cerebro."
+  },
+  {
+    "TrueFactEnglish": "Turtles lived on Earth before dinosaurs did.",
+    "TrueFactSpanish": "Las tortugas habitaron el planeta tierra antes que los dinosaurios.",
+    "FalseFactEnglish": "Earliest evidence of turtles living on earth is in 1495.",
+    "FalseFactSpanish": "La evidencia más temprana de la existencia de las tortugas en el planeta tierra es de 1495."
+  },
+  {
+    "TrueFactEnglish": "Tyrannosaurus rex means “tyrant lizard king” in Latin.",
+    "TrueFactSpanish": "Tiranosaurio rex significa \"rey lagarto tirano\" en latín.",
+    "FalseFactEnglish": "Tyrannosaurus rex means “Tired Rain Prince” in Latin.",
+    "FalseFactSpanish": "Tiranosaurio rex significa \"Príncipe de la Lluvia Cansado\" en latín."
+  },
+  {
+    "TrueFactEnglish": "Warm frogs croak faster than cold frogs.",
+    "TrueFactSpanish": "Las ranas calientes croan más rápido que las ranas frías.",
+    "FalseFactEnglish": "Warm frogs croak slower than cold frogs.",
+    "FalseFactSpanish": "Las ranas calientes croan más lento que las ranas frías."
+  },
+  {
+    "TrueFactEnglish": "White-faced capuchin monkeys say hi by sticking their fingers up one another’s noses.",
+    "TrueFactSpanish": "Los monos capuchinos dicen hola al meter sus dedos en la nariz del otro.",
+    "FalseFactEnglish": "White-faced capuchin monkeys say hi by patting their heads and rubbing their bellies.",
+    "FalseFactSpanish": "Los monos capuchinos dicen hola al palmearse la cabeza y frotarse la barriga."
+  },
+  {
+    "TrueFactEnglish": "With its giant ears, a fennec fox can hear tiny insects moving underground.",
+    "TrueFactSpanish": "Con sus enormes orejas, un zorro del desierto puede escuchar el movimiento subterráneo de pequeños insectos.",
+    "FalseFactEnglish": "Fennec foxes have huge ears, but bad hearing.",
+    "FalseFactSpanish": "Los zorros del desierto tienen enormes orejas, pero mal oído."
+  },
+  {
+    "TrueFactEnglish": "Yawns are contagious for chimpanzees, just as they are for humans.",
+    "TrueFactSpanish": "Los bostezos son contagiosos para los chimpancés de la misma manera que lo son para los seres humanos.",
+    "FalseFactEnglish": "Unlike humans, chimpanzees never yawn.",
+    "FalseFactSpanish": "A diferencia de los humanos, los chimpancés nunca bostezan."
+  },
+  {
+    "TrueFactEnglish": "You can tell lions apart by the spots at the base of their whiskers.",
+    "TrueFactSpanish": "Se puede diferenciar a los leones por las manchas en la base de sus bigotes.",
+    "FalseFactEnglish": "You can tell lions apart by the spots on their tails.",
+    "FalseFactSpanish": "Se puede diferenciar a los leones por las manchas en sus colas."
+  },
+  {
+    "TrueFactEnglish": "Young gorillas play tag like human kids do.",
+    "TrueFactSpanish": "Los gorilas jóvenes juegan a las traes de manera similar a los niños humanos.",
+    "FalseFactEnglish": "Unlike some animals, gorillas don't play games with each other.",
+    "FalseFactSpanish": "A diferencia de algunos animales, los gorilas no juegan entre ellos."
+  },
+  {
+    "TrueFactEnglish": "Young koalas sometimes smell like cough drops.",
+    "TrueFactSpanish": "En ocasiones, los koalas jóvenes huelen a pastillas para la tos.",
+    "FalseFactEnglish": "Young koalas sometimes smell like french fries.",
+    "FalseFactSpanish": "En ocasiones, los koalas jóvenes huelen a papas fritas."
+  }
+]

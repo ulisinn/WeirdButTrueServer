@@ -1,0 +1,434 @@
+[
+  {
+    "TrueFactEnglish": "A blue whale calf can gain 8 pounds an hour during its first 7 months.",
+    "TrueFactSpanish": "Una cría de ballena azul puede ganar 3.62 kilogramos por hora durante sus primeros 7 meses de vida.",
+    "FalseFactEnglish": "A blue whale calf can gain 5 pounds a week it’s first 7 months",
+    "FalseFactSpanish": "Una cría de ballena azul puede ganar 2.2679 kilogramos por semana durante sus primeros 7 meses."
+  },
+  {
+    "TrueFactEnglish": "A blue whale’s heart weighs up to a ton.",
+    "TrueFactSpanish": "El corazón de una ballena azul pesa hasta 1000 kilos",
+    "FalseFactEnglish": "A blue whale’s heart is lighter than an elephant's.",
+    "FalseFactSpanish": "El corazón de una ballena azul es más liviano que el de un elefante."
+  },
+  {
+    "TrueFactEnglish": "A Cuttlefish’s pupils are shaped like W’s.",
+    "TrueFactSpanish": "Las pupilas de los peces sepias tienen forma de W.",
+    "FalseFactEnglish": "The Cuttlefish’s pupils are shaped like the number 3",
+    "FalseFactSpanish": "Las pupilas de los peces sepia tienen la forma del número 3."
+  },
+  {
+    "TrueFactEnglish": "A goblin shark can thrust its jaws out of its mouth.",
+    "TrueFactSpanish": "El tiburón duende puede expulsar sus mandíbulas fuera de la boca.",
+    "FalseFactEnglish": "Like a butterfly, a goblin shark doesn't have a mouth.",
+    "FalseFactSpanish": "Al igual que las mariposas, el tiburón duende no tiene boca."
+  },
+  {
+    "TrueFactEnglish": "A great white shark can weigh as much as 15 gorillas.",
+    "TrueFactSpanish": "Un tiburón blanco puede pesar tanto como 15 gorilas.",
+    "FalseFactEnglish": "A great white shark can weigh as much a gorilla.",
+    "FalseFactSpanish": "Un tiburón blanco puede pesar tanto como un gorila."
+  },
+  {
+    "TrueFactEnglish": "A group of jellyfish is called a smack.",
+    "TrueFactSpanish": "Un grupo de medusas se llama flor.",
+    "FalseFactEnglish": "A group of jellyfish is called a Grouplefish.",
+    "FalseFactSpanish": "Un grupo de medusas se llama fiesta de peces"
+  },
+  {
+    "TrueFactEnglish": "A jellyfish can be as small a thimble or as big two washing machines.",
+    "TrueFactSpanish": "Una medusa puede ser tan pequeña como un dedal o tan grande como dos lavadoras.",
+    "FalseFactEnglish": "A jellyfish can be as small a needle or as big two train cars.",
+    "FalseFactSpanish": "Una medusa puede ser tan pequeña como una aguja o tan grande como dos vagones de tren."
+  },
+  {
+    "TrueFactEnglish": "A lobster’s teeth are in its stomach.",
+    "TrueFactSpanish": "Los dientes de una langosta están en su estómago.",
+    "FalseFactEnglish": "A lobster’s teeth are in it's claws.",
+    "FalseFactSpanish": "Los dientes de una langosta están en sus tenazas."
+  },
+  {
+    "TrueFactEnglish": "A mass of floating ice that looks like an iceberg is called a floeberg.",
+    "TrueFactSpanish": "Una masa de hielo flotante que parece un iceberg se denomina floeberg.",
+    "FalseFactEnglish": "A mass of floating ice that looks like an iceberg is called a Popsicberg.",
+    "FalseFactSpanish": "Una masa de hielo flotante que parece un iceberg se denomina Popsicberg."
+  },
+  {
+    "TrueFactEnglish": "A newborn blue whale can be longer than an adult elephant.",
+    "TrueFactSpanish": "Una ballena azul recién nacida puede ser más grande que un elefante adulto.",
+    "FalseFactEnglish": "A newborn blue whale is smaller than the average dog.",
+    "FalseFactSpanish": "Una ballena azul recién nacida es más pequeña que un perro promedio."
+  },
+  {
+    "TrueFactEnglish": "A sailfish can leap through the air at 68 miles an hour.",
+    "TrueFactSpanish": "El pez vela puede saltar en el aire a 109.43 kilómetros por hora.",
+    "FalseFactEnglish": "A sailfish can leap through the air at 8 miles an hour.",
+    "FalseFactSpanish": "El pez vela puede saltar en el aire a 12.87 kilómetros por hora."
+  },
+  {
+    "TrueFactEnglish": "A salmon’s sense of smell is hundreds of times better than a dog’s.",
+    "TrueFactSpanish": "El sentido del olfato de un salmón es cientos de veces más agudo que el de un perro.",
+    "FalseFactEnglish": "Salmon is the only type of fish with out a sense of smell.",
+    "FalseFactSpanish": "El salmón es el único tipo de pez sin sentido de olfato."
+  },
+  {
+    "TrueFactEnglish": "A seahorse can move its eyes in opposite directions.",
+    "TrueFactSpanish": "Un caballo de mar puede mover sus ojos en direcciones opuestas.",
+    "FalseFactEnglish": "A seahorse can only see what's directly in front of them.",
+    "FalseFactSpanish": "Un caballo de mar puede observar únicamente lo que tiene en frente de él."
+  },
+  {
+    "TrueFactEnglish": "A shark can detect a fish’s heartbeat before it attacks.",
+    "TrueFactSpanish": "Un tiburón puede detectar el latido del corazón de un pez antes de atacarlo.",
+    "FalseFactEnglish": "A shark can detect a fish’s age before it attacks.",
+    "FalseFactSpanish": "Un tiburón puede detectar la edad de un pez antes de atacarlo."
+  },
+  {
+    "TrueFactEnglish": "A shark can grow and lose up to 30,000 teeth in its lifetime.",
+    "TrueFactSpanish": "Un tiburón puede desarrollar y perder hasta 30,000 dientes en su vida.",
+    "FalseFactEnglish": "Sharks don't lose their teeth",
+    "FalseFactSpanish": "Los tiburones no pierden los dientes."
+  },
+  {
+    "TrueFactEnglish": "A shark can live for six weeks without eating.",
+    "TrueFactSpanish": "Un tiburón puede vivir seis semanas sin comer.",
+    "FalseFactEnglish": "A shark needs to eat food once every 17 hours.",
+    "FalseFactSpanish": "Un tiburón necesita comer una vez cada 17 horas."
+  },
+  {
+    "TrueFactEnglish": "A turtle’s shell is made up of about 50 bones.",
+    "TrueFactSpanish": "El caparazón de una tortuga está constituido de aproximadamente 50 huesos.",
+    "FalseFactEnglish": "A turtle’s shell is made up of 1 bone.",
+    "FalseFactSpanish": "El caparazón de una tortuga está constituido de 1 hueso."
+  },
+  {
+    "TrueFactEnglish": "A whale’s earwax can be as thick as a mattress.",
+    "TrueFactSpanish": "La cerilla de una ballena puede ser tan grueso como un colchón.",
+    "FalseFactEnglish": "Whales are the only mammal without ear wax.",
+    "FalseFactSpanish": "Las ballenas son el único mamífero sin cerilla"
+  },
+  {
+    "TrueFactEnglish": "All clownfish are born male.",
+    "TrueFactSpanish": "Todos los peces payaso nacen machos.",
+    "FalseFactEnglish": "All clownfish are born female.",
+    "FalseFactSpanish": "Todos los peces payaso nacen hembras."
+  },
+  {
+    "TrueFactEnglish": "An electric eel can produce a charge strong enough to stun a horse.",
+    "TrueFactSpanish": "Una anguila eléctrica puede producir una descarga lo suficientemente poderosa como para aturdir a un caballo.",
+    "FalseFactEnglish": "An electric eel doesn’t actually produce electricity.",
+    "FalseFactSpanish": "En realidad, una anguila eléctrica no produce electricidad."
+  },
+  {
+    "TrueFactEnglish": "An octopus can detach an arm on purpose to distract a predator.",
+    "TrueFactSpanish": "Un pulpo puede desprenderse un brazo a propósito para distraer a un depredador.",
+    "FalseFactEnglish": "Hammerhead sharks can detach their fins on purpose to distract predators.",
+    "FalseFactSpanish": "Los tiburones martillo pueden desprender sus aletas a propósito para distraer a los depredadores."
+  },
+  {
+    "TrueFactEnglish": "Certain sharks walk on their fins underwater.",
+    "TrueFactSpanish": "Algunos tiburones caminan sobre sus aletas bajo el agua.",
+    "FalseFactEnglish": "Certain sharks use their fins for throwing fish back and forth like humans playing catch.",
+    "FalseFactSpanish": "Algunos tiburones usan sus aletas para aventar peces como los humanos hacen con las pelotas."
+  },
+  {
+    "TrueFactEnglish": "Chalk is made from the skeletons of ancient sea creatures.",
+    "TrueFactSpanish": "La tiza se elabora a partir de los esqueletos de criaturas marinas antiguas.",
+    "FalseFactEnglish": "Chalk is made from the scales of Chalkfish.",
+    "FalseFactSpanish": "La tiza se elabora a partir de escamas de pez tiza."
+  },
+  {
+    "TrueFactEnglish": "Crabs are distant relatives of spiders.",
+    "TrueFactSpanish": "Los cangrejos son parientes lejanos de las arañas.",
+    "FalseFactEnglish": "Crabs are distant relatives of sea turtles.",
+    "FalseFactSpanish": "Los cangrejos son parientes lejanos de las tortugas marinas."
+  },
+  {
+    "TrueFactEnglish": "Detached sea star arms sometimes grow new bodies.",
+    "TrueFactSpanish": "En ocasiones, las puntas desprendidas de las estrellas de mar desarrollan nuevos cuerpos.",
+    "FalseFactEnglish": "All detached sea star arms become part of the ocean floor. ",
+    "FalseFactSpanish": "Todas las puntas desprendidas de las estrellas de mar forman parte del lecho marino. "
+  },
+  {
+    "TrueFactEnglish": "Dolphins can hear sounds underwater that are 15 miles away.",
+    "TrueFactSpanish": "Los delfines pueden escuchar sonidos bajo el agua que están a 24.14016 kilómetros de distancia.",
+    "FalseFactEnglish": "Dolphins can only hear above water.",
+    "FalseFactSpanish": "Los delfines pueden escuchar únicamente por encima del agua."
+  },
+  {
+    "TrueFactEnglish": "Eels can swim backwards.",
+    "TrueFactSpanish": "Las anguilas pueden nadar hacia atrás.",
+    "FalseFactEnglish": " Sharks can swim backwards.",
+    "FalseFactSpanish": " Los tiburones pueden nadar hacia atrás."
+  },
+  {
+    "TrueFactEnglish": "Fish can’t close their eyes.",
+    "TrueFactSpanish": "Los peces no pueden cerrar los ojos.",
+    "FalseFactEnglish": "Fish sleep with their eyes closed.",
+    "FalseFactSpanish": "Los peces duermen con los ojos cerrados."
+  },
+  {
+    "TrueFactEnglish": "Hammerhead sharks can give birth to 40 babies at once.",
+    "TrueFactSpanish": "Los tiburones martillo pueden parir a 40 crías a la vez.",
+    "FalseFactEnglish": "Hammerhead sharks lay eggs.",
+    "FalseFactSpanish": "Los tiburones martillo ponen huevos."
+  },
+  {
+    "TrueFactEnglish": "Herring communicate by passing gas.",
+    "TrueFactSpanish": "Los arenques se comunican emitiendo gas.",
+    "FalseFactEnglish": "Herring communicate by blowing bubbles with their mouths.",
+    "FalseFactSpanish": "Los arenques se comunican formando burbujas con sus bocas."
+  },
+  {
+    "TrueFactEnglish": "Horseshoe crabs lived before dinosaurs.",
+    "TrueFactSpanish": "Los cangrejos herradura vivieron antes de los dinosaurios.",
+    "FalseFactEnglish": "Horseshoe crabs have lived on this earth for 2000 years.",
+    "FalseFactSpanish": "Los cangrejos herradura han vivido en el planeta tierra durante 2000 años."
+  },
+  {
+    "TrueFactEnglish": "If the longest blue whale could stand on its tail, it would be as tall as a ten-story building.",
+    "TrueFactSpanish": "Si la ballena azul más grande pudiera pararse sobre su cola, sería tan alta como un edificio de diez pisos. ",
+    "FalseFactEnglish": "If the longest blue whale could stand on its tail, it would be as tall as a 7 cars stacked on top of each other.",
+    "FalseFactSpanish": "Si la ballena azul más grande pudiera pararse sobre su cola, sería tan grande como 7 automóviles apilados unos encima de otros. "
+  },
+  {
+    "TrueFactEnglish": "It takes three liters of fresh water to make one liter of bottled water.",
+    "TrueFactSpanish": "Utilizamos tres litros de agua fresca para producir un litro de agua embotellada.",
+    "FalseFactEnglish": "It takes 9 liters of fresh water to make one liter of bottled water.",
+    "FalseFactSpanish": "Toma 9 litros de agua fresca producir un litro de agua embotellada."
+  },
+  {
+    "TrueFactEnglish": "It’s impossible for a person to sink in the Dead Sea.",
+    "TrueFactSpanish": "Es imposible que una persona se hunda en el Mar Muerto.",
+    "FalseFactEnglish": "People sink in the Dead Sea faster than any other body of water.",
+    "FalseFactSpanish": "Las personas se hunden en el Mar Muerto más rápido que en cualquier otro cuerpo de agua."
+  },
+  {
+    "TrueFactEnglish": "Jellyfish can sting even when dead.",
+    "TrueFactSpanish": "Las medusas pueden picar incluso cuando mueren.",
+    "FalseFactEnglish": "Once dead, a jelly fish loses it's sting.",
+    "FalseFactSpanish": "Una vez que mueren, las medusas pierden su aguijón."
+  },
+  {
+    "TrueFactEnglish": "Killer whales are actually dolphins.",
+    "TrueFactSpanish": "Las ballenas asesinas son en realidad delfines.",
+    "FalseFactEnglish": "Killer whales are actually Killer Sharks.",
+    "FalseFactSpanish": "Las ballenas asesinas son en realidad tiburones asesinos."
+  },
+  {
+    "TrueFactEnglish": "Lobsters can regrow missing claws.",
+    "TrueFactSpanish": "Las langostas pueden regenerar tenazas faltantes.",
+    "FalseFactEnglish": "Sharks can regrow missing fins.",
+    "FalseFactSpanish": "Los tiburones pueden regenerar aletas faltantes."
+  },
+  {
+    "TrueFactEnglish": "More water is in the pacific ocean than in all of the other seas and oceans combined.",
+    "TrueFactSpanish": "Existe más agua en el océano pacífico que en cualquier otro mar u océano combinados.",
+    "FalseFactEnglish": "The Atlantic Ocean is larger than the Pacific Ocean.",
+    "FalseFactSpanish": "El Océano Atlántico es más grande que el Océano Pacífico."
+  },
+  {
+    "TrueFactEnglish": "Most sharks would sink in freshwater.",
+    "TrueFactSpanish": "La mayoría de los tiburones se hundirían en agua dulce.",
+    "FalseFactEnglish": "Most sharks can not dive deep in freshwater.",
+    "FalseFactSpanish": "La mayoría de los tiburones no pueden sumergirse profundamente en agua dulce."
+  },
+  {
+    "TrueFactEnglish": "Most squids have three hearts.",
+    "TrueFactSpanish": "La mayoría de los calamares tienen tres corazones.",
+    "FalseFactEnglish": "Squids have three stomaches.",
+    "FalseFactSpanish": "Los calamares tienen tres estómagos."
+  },
+  {
+    "TrueFactEnglish": "One teaspoon of seawater contains five million living organisms.",
+    "TrueFactSpanish": "Una cucharada de agua de mar contiene cinco millones de organismos vivientes.",
+    "FalseFactEnglish": "One teaspoon of seawater contains almost 1 million living organisms.",
+    "FalseFactSpanish": "Una cucharada de agua de mar contiene casi 1 millón de organismos vivientes."
+  },
+  {
+    "TrueFactEnglish": "Oysters change from male to female.",
+    "TrueFactSpanish": "Las ostras cambian de macho a hembra.",
+    "FalseFactEnglish": "All Oysters are female",
+    "FalseFactSpanish": "Todas las ostras son hembras."
+  },
+  {
+    "TrueFactEnglish": "Parrotfish sleep in cocoons of their own mucus.",
+    "TrueFactSpanish": "Los peces loro, duermen en capullos hechos de su propia mucosa.",
+    "FalseFactEnglish": "Parrotfish sleep in nests like parrot birds.",
+    "FalseFactSpanish": "Los peces loro, duermen en nidos como loros."
+  },
+  {
+    "TrueFactEnglish": "Sarcastic fringehead fish battle over turf by wrestling each other with their mouths.",
+    "TrueFactSpanish": "Los tubícolas chuscos luchan por un territorio luchando con sus bocas.",
+    "FalseFactEnglish": "Sarcastic fringehead fish battle over turf by using weopons such as stones and seaweed.",
+    "FalseFactSpanish": "Los tubícolas chuscos luchan por territorio usando piedras y algas marinas como armas"
+  },
+  {
+    "TrueFactEnglish": "Scientists think sharks are color-blind.",
+    "TrueFactSpanish": "Los científicos creen que los tiburones son daltónicos.",
+    "FalseFactEnglish": "Scientists think sharks can see more colors than a human.",
+    "FalseFactSpanish": "Los científicos creen que los tiburones perciben más colores que los seres humanos."
+  },
+  {
+    "TrueFactEnglish": "Sea snail mucus was once used to make purple dye.",
+    "TrueFactSpanish": "El moco del caracol de mar se usaba para elaborar un tinte color morado.",
+    "FalseFactEnglish": "Sea snail mucus was once used to make umbrellas.",
+    "FalseFactSpanish": "El moco del caracol de mar se usaba para elaborar paraguas."
+  },
+  {
+    "TrueFactEnglish": "Seahorses do not have stomachs.",
+    "TrueFactSpanish": "Los caballos de mar no tienen estómagos.",
+    "FalseFactEnglish": "Seahorses have 2 stomachs.",
+    "FalseFactSpanish": "Los caballos de mar tienen 2 estómagos."
+  },
+  {
+    "TrueFactEnglish": "Sharks are older than trees.",
+    "TrueFactSpanish": "Los tiburones son más viejos que los árboles.",
+    "FalseFactEnglish": "Sharks are some of the youngest creatures on this planet.",
+    "FalseFactSpanish": "Los tiburones son unas de las criaturas más jóvenes en este planeta."
+  },
+  {
+    "TrueFactEnglish": "Sharks have eight senses. Humans have only five.",
+    "TrueFactSpanish": "Los tiburones tienen ocho sentidos. Los humanos tienen solamente cinco.",
+    "FalseFactEnglish": "Sharks have less senses than humans do.",
+    "FalseFactSpanish": "Los tiburones tienen menos sentidos que los humanos."
+  },
+  {
+    "TrueFactEnglish": "Sharks have no bones.",
+    "TrueFactSpanish": "Los tiburones no tienen huesos.",
+    "FalseFactEnglish": "Sharks have 14 more bones than the average human.",
+    "FalseFactSpanish": "Los tiburones tienen 14 huesos más que las personas promedio."
+  },
+  {
+    "TrueFactEnglish": "Some clams live to be more than a hundred years old.",
+    "TrueFactSpanish": "Algunas almejas viven más de cien años.",
+    "FalseFactEnglish": "Clams do not live past 45 years.",
+    "FalseFactSpanish": "Las almejas no viven más de 45 años."
+  },
+  {
+    "TrueFactEnglish": "Some fish can change from female to male.",
+    "TrueFactSpanish": "Algunos peces pueden cambiar de hembra a macho.",
+    "FalseFactEnglish": "Once is fish is born a male, it stays that way.",
+    "FalseFactSpanish": "Una vez que el pez nace macho se queda de esa manera."
+  },
+  {
+    "TrueFactEnglish": "Some fish can taste with their tails.",
+    "TrueFactSpanish": "Algunos peces pueden percibir sabor con sus colas.",
+    "FalseFactEnglish": "Fish don't have taste buds.",
+    "FalseFactSpanish": "Los peces no tienen papilas gustativas."
+  },
+  {
+    "TrueFactEnglish": "Some fish can walk on land.",
+    "TrueFactSpanish": "Algunos peces pueden caminar en la tierra.",
+    "FalseFactEnglish": "Some seahorses can walk on land.",
+    "FalseFactSpanish": "Algunos caballos de mar pueden caminar en la tierra."
+  },
+  {
+    "TrueFactEnglish": "Some fish use their fins to “walk” along the ocean floor.",
+    "TrueFactSpanish": "Algunos peces usan sus aletas para \"caminar\" en el lecho marino.",
+    "FalseFactEnglish": "Some fish use their fins to jester to other fish.",
+    "FalseFactSpanish": "Algunos peces usan sus aletas para hacer bromas a otros peces."
+  },
+  {
+    "TrueFactEnglish": "Some lobsters are electric blue.",
+    "TrueFactSpanish": "Algunas langostas son azul eléctrico.",
+    "FalseFactEnglish": "Lobsters are all some shade of red.",
+    "FalseFactSpanish": "Todas las langostas son de algún tono de rojo."
+  },
+  {
+    "TrueFactEnglish": "Some sand dunes bark.",
+    "TrueFactSpanish": "Algunas dunas de arena ladran.",
+    "FalseFactEnglish": "Some sand dunes quack like a duck.",
+    "FalseFactSpanish": "Algunas dunas de arena graznan como patos."
+  },
+  {
+    "TrueFactEnglish": "Some sharks can live to be 75 years old.",
+    "TrueFactSpanish": "Algunos tiburones pueden vivir hasta 75 años.",
+    "FalseFactEnglish": "Seahorses can live to be 75 years old.",
+    "FalseFactSpanish": "Los caballos de mar pueden vivir hasta los 75 años."
+  },
+  {
+    "TrueFactEnglish": "Some squat lobsters—a kind of crustacean—are covered in hairlike bristles.",
+    "TrueFactSpanish": "Algunos langostinos -una especie de crustáceo- están cubiertos en cerdas parecidas al pelo.",
+    "FalseFactEnglish": "Some squat lobsters—a kind of crustacean—are covered in rare jewels.",
+    "FalseFactSpanish": "Algunos langostinos -una especie de crustáceo- están cubiertos de joyas raras."
+  },
+  {
+    "TrueFactEnglish": "Sperm whales have the heaviest brains on the planet.",
+    "TrueFactSpanish": "Los cachalotes tienen los cerebros más pesados en el planeta.",
+    "FalseFactEnglish": "Great White Sharks have the heaviest brains on the planet.",
+    "FalseFactSpanish": "Los tiburones blancos tienen los cerebros más pesados en el planeta."
+  },
+  {
+    "TrueFactEnglish": "Swarms of jellyfish stretching 100 miles have appeared in the Gulf of Mexico.",
+    "TrueFactSpanish": "En el Golfo de México se han observado flores de medusas que abarcan 160.93 kilómetros.",
+    "FalseFactEnglish": "Swarms of humpback whales stretching 100 miles have appeared in the Gulf of Mexico.",
+    "FalseFactSpanish": "En el Golfo de México se han observado ballenas jorobadas que abarcan los 160.934 kilómetros."
+  },
+  {
+    "TrueFactEnglish": "The Dead Sea is seven times saltier than any ocean.",
+    "TrueFactSpanish": "El Mar Muerto es siete veces más salado que cualquier océano.",
+    "FalseFactEnglish": "The Dead Sea is the largest fresh water resource.",
+    "FalseFactSpanish": "El Mar Muerto es la fuente de agua dulce más grande."
+  },
+  {
+    "TrueFactEnglish": "The largest known octopus had arms long enough to wrap around four cars.",
+    "TrueFactSpanish": "El pulpo más grande conocido tenía brazos lo suficientemente largos para abarcar cuatro automóviles.",
+    "FalseFactEnglish": "The largest known star fish had arms long enough to wrap around four cars.",
+    "FalseFactSpanish": "La estrella de mar más grande conocida tenía brazos lo suficientemente largos como para abarcar cuatro automóviles."
+  },
+  {
+    "TrueFactEnglish": "The male killer whale’s dorsal (back) fin is almost six feet high—the height of a tall man.",
+    "TrueFactSpanish": "La aleta dorsal (trasera) de una ballena asesina macho tiene una altura aproximada de 1.82 metros - la altura de un hombre alto.",
+    "FalseFactEnglish": "Unlike female killer whales, a male killer whale doesn't have a dorsal (back) fin. ",
+    "FalseFactSpanish": "A diferencia de las ballenas asesinas hembra, la ballena asesina macho no tiene una aleta dorsal (trasera). "
+  },
+  {
+    "TrueFactEnglish": "The sound of an iceberg breaking is louder than 214 oil tanker engines.",
+    "TrueFactSpanish": "El sonido de la ruptura de un Iceberg es más fuerte que 214 motores de barcos petroleros.",
+    "FalseFactEnglish": "An iceberg breaking is the quietest sound in the ocean.",
+    "FalseFactSpanish": "La ruptura de un iceberg es el sonido más silencioso en el mar."
+  },
+  {
+    "TrueFactEnglish": "The sound of waves crashing comes mostly from bubbles.",
+    "TrueFactSpanish": "El sonido de olas chocando proviene principalmente de las burbujas.",
+    "FalseFactEnglish": "The sound of waves crashing comes from fish passing gas.",
+    "FalseFactSpanish": "El sonido de las olas chocando proviene de los peces emitiendo gas."
+  },
+  {
+    "TrueFactEnglish": "The Titanic was held together by 3 million rivets.",
+    "TrueFactSpanish": "El Titanic permanecía unido por 3 millones de remaches.",
+    "FalseFactEnglish": "The Titanic was held together by 500,000 rivets.",
+    "FalseFactSpanish": "El Titanic permanecía unido por 500,000  remaches."
+  },
+  {
+    "TrueFactEnglish": "The world’s oceans contain enough gold to give two pounds to every person on the planet.",
+    "TrueFactSpanish": "Los océanos del mundo contienen suficiente oro para que cada persona en el planeta pueda tener 0.907184 kilogramos. ",
+    "FalseFactEnglish": "The world’s oceans contain enough gold to make 1000 wedding rings.",
+    "FalseFactSpanish": "Los océanos del mundo contienen suficiente oro para elaborar 1000 anillos de boda."
+  },
+  {
+    "TrueFactEnglish": "Various fish eggs hatch in the dad’s mouth.",
+    "TrueFactSpanish": "Varios peces incuban sus huevos en la boca del macho.",
+    "FalseFactEnglish": "Fish don't lay eggs.",
+    "FalseFactSpanish": "Los peces no ponen huevos."
+  },
+  {
+    "TrueFactEnglish": "Vinegar can dissolve pearls.",
+    "TrueFactSpanish": "El vinagre puede disolver perlas.",
+    "FalseFactEnglish": "Pearls cannot be dissolved.",
+    "FalseFactSpanish": "Las perlas no se pueden disolver."
+  },
+  {
+    "TrueFactEnglish": "Water blown out of a blue whale’s spout can shoot three stories high.",
+    "TrueFactSpanish": "El agua expulsada del espiráculo de una ballena azul puede alcanzar tres pisos de altura.",
+    "FalseFactEnglish": "Water blown out of a blue whale’s spout can shoot six feet high.",
+    "FalseFactSpanish": "El agua expulsada del espiráculo de una ballena azul puede alcanzar los 1.82 metros de altura."
+  },
+  {
+    "TrueFactEnglish": "You can tell the age of some fish by counting the rings on their scales.",
+    "TrueFactSpanish": "Se puede saber la edad de algunos peces al contar los anillos de sus escamas.",
+    "FalseFactEnglish": "You can tell the age of some fish by lookin into their eyes.",
+    "FalseFactSpanish": "Se puede saber la edad de algunos peces mirando sus ojos."
+  }
+]

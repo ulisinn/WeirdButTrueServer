@@ -1,0 +1,1633 @@
+ [
+        {
+            "TrueFactEnglish": "“Old man” is a nickname for a male kangaroo.",
+            "TrueFactMandarin": "在英文里，雄袋鼠也叫“老人家”。",
+            "TrueFactSuggestedLineBreak": "在英文里，\r人们管雄袋鼠\r叫“Jumping Squirrel”，\r也就是“会跳的松鼠”。",
+            "FalseFactEnglish": "\"Jumping Squirrel\" is a nickname for a male kangaroo.",
+            "FalseFactMandarin": "在英文里，人们管雄袋鼠叫“Jumping Squirrel”，也就是“会跳的松鼠”。"
+        },
+        {
+            "TrueFactEnglish": "56 million years ago, horses were the size of house cats.",
+            "TrueFactMandarin": "在5千600万年前，马儿的体积只有家猫般大小。",
+            "TrueFactSuggestedLineBreak": "在5千600万年前，\r马儿长得跟毛象一样大。",
+            "FalseFactEnglish": "56 million years ago, horses were the same size of Woolly Mammoths",
+            "FalseFactMandarin": "在5千600万年前，马儿长得跟毛象一样大。"
+        },
+        {
+            "TrueFactEnglish": "A baby humpback whale drinks up to 130 gallons of milk each day.",
+            "TrueFactMandarin": "座头鲸宝宝每天可喝下130加仑的母乳。",
+            "TrueFactSuggestedLineBreak": "座头鲸宝宝每天可喝下30加仑的母乳。",
+            "FalseFactEnglish": "A baby humpback whale drinks up to 30 gallons of milk each day.",
+            "FalseFactMandarin": "座头鲸宝宝每天可喝下30加仑的母乳。"
+        },
+        {
+            "TrueFactEnglish": "A basset hound weighs about as much as an elephant’s heart.",
+            "TrueFactMandarin": "巴吉度犬的重量相等于大象的心脏。",
+            "TrueFactSuggestedLineBreak": "巴吉度犬的重量\r相等于一只老虎的蹄子。",
+            "FalseFactEnglish": "A basset hound weighs about as much as an tiger’s paw.",
+            "FalseFactMandarin": "巴吉度犬的重量相等于一只老虎的蹄子。"
+        },
+        {
+            "TrueFactEnglish": "A bat can eat 3,000 insects in one night.",
+            "TrueFactMandarin": "蝙蝠可以在一夜之间吃下三千只昆虫。",
+            "TrueFactSuggestedLineBreak": "蝙蝠可以在一星期之内\r吃下3000只昆虫。",
+            "FalseFactEnglish": "one bat eats 3,000 insects in one week.",
+            "FalseFactMandarin": "蝙蝠可以在一星期之内吃下3000只昆虫。"
+        },
+        {
+            "TrueFactEnglish": "A beaver has a set of lips behind its front teeth.",
+            "TrueFactMandarin": "河狸的嘴唇长在门牙后方。",
+            "TrueFactSuggestedLineBreak": "河狸有个两个鼻子，\r其中一个长在门牙后方。",
+            "FalseFactEnglish": "A beaver has a second nose behind its front teeth.",
+            "FalseFactMandarin": "河狸有个两个鼻子，其中一个长在门牙后方。"
+        },
+        {
+            "TrueFactEnglish": "A beaver's home is called a lodge.",
+            "TrueFactMandarin": "在英文里，河狸的家园被称为“lodge”，也就是小屋的意思。",
+            "TrueFactSuggestedLineBreak": "在英文里，\r河狸的家园\r也被称为“Beaverhaus”。",
+            "FalseFactEnglish": "A beaver's home is called a Beaverhaus.",
+            "FalseFactMandarin": "在英文里，河狸的家园也被称为“Beaverhaus”。"
+        },
+        {
+            "TrueFactEnglish": "A camel can drink 500 cups of water in ten minutes.",
+            "TrueFactMandarin": "骆驼可在10分钟内喝500杯水。",
+            "TrueFactSuggestedLineBreak": "骆驼可在10分钟内\r喝下100杯橙汁。",
+            "FalseFactEnglish": "one camel can drink 100 cups of orange juice in ten minutes.",
+            "FalseFactMandarin": "骆驼可在10分钟内喝下100杯橙汁。"
+        },
+        {
+            "TrueFactEnglish": "A camel’s eye has 3 eyelids.",
+            "TrueFactMandarin": "骆驼每只眼睛有三层眼皮。",
+            "TrueFactSuggestedLineBreak": "骆驼没有眼皮。",
+            "FalseFactEnglish": "A camel’s eye doesn't have eyelids.",
+            "FalseFactMandarin": "骆驼没有眼皮。"
+        },
+        {
+            "TrueFactEnglish": "A cat has about 20 muscles in each ear.",
+            "TrueFactMandarin": "猫每只耳朵上有约20块肌肉。",
+            "TrueFactSuggestedLineBreak": "猫每只耳朵上有约7块肌肉。",
+            "FalseFactEnglish": "A cat has about 7 muscles in each ear.",
+            "FalseFactMandarin": "猫每只耳朵上有约7块肌肉。"
+        },
+        {
+            "TrueFactEnglish": "A domestic cat’s top speed is about 31 miles an hour.",
+            "TrueFactMandarin": "猫奔跑的速度最高可达每小时50公里。",
+            "TrueFactSuggestedLineBreak": "猫奔跑的速度\r最高可达每小时8公里。",
+            "FalseFactEnglish": "A domestic cat’s top speed is about 6 miles an hour.",
+            "FalseFactMandarin": "猫奔跑的速度最高可达每小时8公里。"
+        },
+        {
+            "TrueFactEnglish": "A chameleon can change color in 20 seconds.",
+            "TrueFactMandarin": "变色龙可在20秒内变成另外一种颜色。",
+            "TrueFactSuggestedLineBreak": "变色龙可在20分钟内\r变成另外一种颜色。",
+            "FalseFactEnglish": "A chameleon can change color in about 20 minutes.",
+            "FalseFactMandarin": "变色龙可在20分钟内变成另外一种颜色。"
+        },
+        {
+            "TrueFactEnglish": "A chameleon’s tongue can travel as fast as 13 miles an hour.",
+            "TrueFactMandarin": "变色龙的舌头行速可达每小时20公里。",
+            "TrueFactSuggestedLineBreak": "变色龙的舌头行速\r可达每小时8公里。",
+            "FalseFactEnglish": "A chameleon’s tongue can travel as fast as 5 miles an hour.",
+            "FalseFactMandarin": "变色龙的舌头行速可达每小时8公里。"
+        },
+        {
+            "TrueFactEnglish": "A crocodile can’t stick its tongue out.",
+            "TrueFactMandarin": "鳄鱼不能伸出舌头。",
+            "TrueFactSuggestedLineBreak": "鳄鱼的舌头能伸至5米长。",
+            "FalseFactEnglish": "A crocodile can stick it's tongue out up to 5 meters. ",
+            "FalseFactMandarin": "鳄鱼的舌头能伸至5米长。"
+        },
+        {
+            "TrueFactEnglish": "A dairy cow produces about 100,000 glasses of milk in its lifetime.",
+            "TrueFactMandarin": "每只乳牛毕生能产出约十万杯牛奶。",
+            "TrueFactSuggestedLineBreak": "每只乳牛毕生\r能产出约一万杯牛奶。",
+            "FalseFactEnglish": "A dairy cow produces about 10,000 glasses of milk in its lifetime.",
+            "FalseFactMandarin": "每只乳牛毕生能产出约一万杯牛奶。"
+        },
+        {
+            "TrueFactEnglish": "A dog can make about 10 different facial expressions.",
+            "TrueFactMandarin": "狗能做出10个不同的脸部表情。",
+            "TrueFactSuggestedLineBreak": "狗无法做出任何脸部表情。",
+            "FalseFactEnglish": "A Dog can't make any facial expressions.",
+            "FalseFactMandarin": "狗无法做出任何脸部表情。"
+        },
+        {
+            "TrueFactEnglish": "A dog may yawn after seeing a human yawn.",
+            "TrueFactMandarin": "狗看到人打哈欠，也会跟着打哈欠。",
+            "TrueFactSuggestedLineBreak": "狗不会打哈欠。",
+            "FalseFactEnglish": "Dogs cannot yawn.",
+            "FalseFactMandarin": "狗不会打哈欠。"
+        },
+        {
+            "TrueFactEnglish": "A flamingo can eat only when its head is upside down.",
+            "TrueFactMandarin": "红鹤必须倒转头部才能进食。",
+            "TrueFactSuggestedLineBreak": "红鹤不能脸部朝天。",
+            "FalseFactEnglish": "Flamingos can't actually turn their heads upside down.",
+            "FalseFactMandarin": "红鹤不能脸部朝天。"
+        },
+        {
+            "TrueFactEnglish": "A frog uses its eyeballs to help it swallow.",
+            "TrueFactMandarin": "青蛙眨眼睛可帮助它吞咽食物。",
+            "TrueFactSuggestedLineBreak": "青蛙通过动动脚步\r来可帮助它吞食。",
+            "FalseFactEnglish": "A frog uses its feet to help it swallow.",
+            "FalseFactMandarin": "青蛙通过动动脚步来可帮助它吞食。"
+        },
+        {
+            "TrueFactEnglish": "A gecko can use its tongue like a windshield wiper for its eyeballs.",
+            "TrueFactMandarin": "壁虎会伸出舌头刮走眼球上的污渍。",
+            "TrueFactSuggestedLineBreak": "壁虎的舌头\r只能帮助咀嚼食物。",
+            "FalseFactEnglish": "A gecko can only use it's tongue for eating. ",
+            "FalseFactMandarin": "壁虎的舌头只能帮助咀嚼食物。"
+        },
+        {
+            "TrueFactEnglish": "A goat’s pupils are rectangular.",
+            "TrueFactMandarin": "山羊的瞳孔是长方形的。",
+            "TrueFactSuggestedLineBreak": "山羊的瞳孔跟人类一样，\r是圆形的。",
+            "FalseFactEnglish": "A goat’s pupils are circular, just like a human's.",
+            "FalseFactMandarin": "山羊的瞳孔跟人类一样，是圆形的。"
+        },
+        {
+            "TrueFactEnglish": "A grizzly bear can run as fast as a horse.",
+            "TrueFactMandarin": "灰熊能跑得跟马儿一样快。",
+            "TrueFactSuggestedLineBreak": "灰熊能跑得跟浣熊一样快。",
+            "FalseFactEnglish": "A grizzly bear can't run as fast as a raccoon.",
+            "FalseFactMandarin": "灰熊能跑得跟浣熊一样快。"
+        },
+        {
+            "TrueFactEnglish": "A group of blue jays is called a party.",
+            "TrueFactMandarin": "一群冠蓝鸦聚在一起时被称为“鸟党”。",
+            "TrueFactSuggestedLineBreak": "一群冠蓝鸦聚\r在一起时被称为“蓝党”。",
+            "FalseFactEnglish": "A group of blue jays is called a \"Blue Herd\".",
+            "FalseFactMandarin": "一群冠蓝鸦聚在一起时被称为“蓝党”。"
+        },
+        {
+            "TrueFactEnglish": "A group of geese is called a “gaggle.”",
+            "TrueFactMandarin": "在英文里，“gaggle”是用来形容“一群鹅”的量词。",
+            "TrueFactSuggestedLineBreak": "在英文里，\r“murder”是用来形容\r“一群鹅”的量词。",
+            "FalseFactEnglish": "A group of geese is called a \"murder\".",
+            "FalseFactMandarin": "在英文里，“murder”是用来形容“一群鹅”的量词。"
+        },
+        {
+            "TrueFactEnglish": "A group of giraffes is called a tower.",
+            "TrueFactMandarin": "每组长颈鹿群被称为“鹿塔”。",
+            "TrueFactSuggestedLineBreak": "每组长颈鹿群被称为“鹿组”。",
+            "FalseFactEnglish": "A group of giraffes is called a \"crowd\".",
+            "FalseFactMandarin": "每组长颈鹿群被称为“鹿组”。"
+        },
+        {
+            "TrueFactEnglish": "A group of goats is called a trip.",
+            "TrueFactMandarin": "结队行动的羊只被称为“羊群”。",
+            "TrueFactSuggestedLineBreak": "结队行动的猫儿\r被称为“羊群”。",
+            "FalseFactEnglish": "A group of cats is called a \"trip\".",
+            "FalseFactMandarin": "结队行动的猫儿被称为“羊群”。"
+        },
+        {
+            "TrueFactEnglish": "A group of owls is called a parliament.",
+            "TrueFactMandarin": "在英文里，一群猫头鹰聚在一起时，也叫“一议会的猫头鹰”。",
+            "TrueFactSuggestedLineBreak": "在英文里，\r当一群鹦鹉聚在一起时，\r也叫“一议会的鹦鹉”。",
+            "FalseFactEnglish": "A group of parrots is called a \"parliament\".",
+            "FalseFactMandarin": "在英文里，当一群鹦鹉聚在一起时，也叫“一议会的鹦鹉”。"
+        },
+        {
+            "TrueFactEnglish": "A group of porcupines is called a prickle.",
+            "TrueFactMandarin": "在英文里，“prickle”是用来形容“一群豪猪”的量词。",
+            "TrueFactSuggestedLineBreak": "在英文里，\r“spine wave”是用来形容\r“一群豪猪”的量词。",
+            "FalseFactEnglish": "A group of porcupines is called a \"spine wave\".",
+            "FalseFactMandarin": "在英文里，“spine wave”是用来形容“一群豪猪”的量词。"
+        },
+        {
+            "TrueFactEnglish": "A group of rhinos is sometimes called a crash.",
+            "TrueFactMandarin": "“一群犀牛”的英文量词是“crash”。",
+            "TrueFactSuggestedLineBreak": "“一群犀牛”的英文量词\r是“boom”。",
+            "FalseFactEnglish": "A group of rhinos is sometimes called a boom.",
+            "FalseFactMandarin": "“一群犀牛”的英文量词是“boom”。"
+        },
+        {
+            "TrueFactEnglish": "A group of domestic turkeys is called a gang.",
+            "TrueFactMandarin": "我们看到一群火鸡时，可以称它们为“火鸡帮”。",
+            "TrueFactSuggestedLineBreak": "我们看到一群熊猫时，\r可以管它们叫“熊猫帮”。",
+            "FalseFactEnglish": "A group of panda bears is called a gang.",
+            "FalseFactMandarin": "我们看到一群熊猫时，可以管它们叫“熊猫帮”。"
+        },
+        {
+            "TrueFactEnglish": "A hippo can run as fast as a human.",
+            "TrueFactMandarin": "河马能跑得跟人类一样快。",
+            "TrueFactSuggestedLineBreak": "河马能跑得跟猎豹一样快。",
+            "FalseFactEnglish": "A hippo can run as fast as a cheetah.",
+            "FalseFactMandarin": "河马能跑得跟猎豹一样快。"
+        },
+        {
+            "TrueFactEnglish": "A Howler Monkey’s roar can be heard up to three miles away.",
+            "TrueFactMandarin": "吼猴的吼叫声量可达至5公里以外。",
+            "TrueFactSuggestedLineBreak": "吼猴的吼叫声量\r可达2公里以外。",
+            "FalseFactEnglish": "A Howler Monkey’s roar can be heard up to half a mile away.",
+            "FalseFactMandarin": "吼猴的吼叫声量可达2公里以外。"
+        },
+        {
+            "TrueFactEnglish": "A large python can swallow a goat whole.",
+            "TrueFactMandarin": "大蟒蛇能吞下一整只山羊。",
+            "TrueFactSuggestedLineBreak": "大蟒蛇虽大，\r却吞不下一只山羊。",
+            "FalseFactEnglish": "A large python cannot swallow a goat.",
+            "FalseFactMandarin": "大蟒蛇虽大，却吞不下一只山羊。"
+        },
+        {
+            "TrueFactEnglish": "A lizard in Madagascar has a third eye on top of its head.",
+            "TrueFactMandarin": "马达加斯加蜥蜴的头顶上有第三只眼睛。",
+            "TrueFactSuggestedLineBreak": "马达加斯加蜥蜴的左后肢\r有第三只眼睛。",
+            "FalseFactEnglish": "A lizard in Madagascar has a third eye on top of its left foot.",
+            "FalseFactMandarin": "马达加斯加蜥蜴的左后肢有第三只眼睛。"
+        },
+        {
+            "TrueFactEnglish": "A male elephant can keep growing for its entire life.",
+            "TrueFactMandarin": "雄性大象可以在成年后持续不停地成长。",
+            "TrueFactSuggestedLineBreak": "雄性大象15岁后\r便停止成长了。",
+            "FalseFactEnglish": "A male elephant stops growing at age 15.",
+            "FalseFactMandarin": "雄性大象15岁后便停止成长了。"
+        },
+        {
+            "TrueFactEnglish": "A male fox is often called a Reynard; a female fox is called a vixen.",
+            "TrueFactMandarin": "在英文里，雄狐狸被称为“reynard”，雌狐狸则被称为“vixen”。",
+            "TrueFactSuggestedLineBreak": "在英文里，\r雄狐狸被称为“vixen”，\r雌狐狸则被称为“reynard”。",
+            "FalseFactEnglish": "A male fox is often called a vixen; a female fox is called a reynard.",
+            "FalseFactMandarin": "在英文里，雄狐狸被称为“vixen”，雌狐狸则被称为“reynard”。"
+        },
+        {
+            "TrueFactEnglish": "A male ostrich can roar like a lion.",
+            "TrueFactMandarin": "公鸵鸟能像狮子般吼叫。",
+            "TrueFactSuggestedLineBreak": "公鸵鸟能像狗般吠叫。",
+            "FalseFactEnglish": "A male ostrich can bark like a dog.",
+            "FalseFactMandarin": "公鸵鸟能像狗般吠叫。"
+        },
+        {
+            "TrueFactEnglish": "A newborn giraffe falls six feet to the ground when it’s born.",
+            "TrueFactMandarin": "长颈鹿宝宝从母腹里迸出来时，将跌落在两米之下的地面上。",
+            "TrueFactSuggestedLineBreak": "长颈鹿宝宝\r从母腹里迸出来时，\r将跌落在60厘米之下的地面上。",
+            "FalseFactEnglish": "A newborn giraffe falls 2 feet to the ground when it’s born.",
+            "FalseFactMandarin": "长颈鹿宝宝从母腹里迸出来时，将跌落在60厘米之下的地面上。"
+        },
+        {
+            "TrueFactEnglish": "A newborn puppy can take up to two months to start wagging its tail.",
+            "TrueFactMandarin": "有的小狗在出生两个月后才能开始摆动尾巴。",
+            "TrueFactSuggestedLineBreak": "有的小狗在出生两个月后\r才能开始摆动尾巴。",
+            "FalseFactEnglish": "A newborn puppy usually wag their tails immediately after birth.",
+            "FalseFactMandarin": "有的小狗在出生两个月后才能开始摆动尾巴。"
+        },
+        {
+            "TrueFactEnglish": "A nine-banded armadillo can jump up to 4 feet vertically off the ground.",
+            "TrueFactMandarin": "九带犰狳可以从地面上跳跃高达1米。",
+            "TrueFactSuggestedLineBreak": "九带犰狳\r只能从地面往上跳至30米高。",
+            "FalseFactEnglish": "A nine-banded armadillo can jump up to 12 inches vertically off the ground.",
+            "FalseFactMandarin": "九带犰狳只能从地面往上跳至30米高。"
+        },
+        {
+            "TrueFactEnglish": "A pelican can hold 3 gallons of water—the same as 32 cans of 12oz soda—in its bill.",
+            "TrueFactMandarin": "塘鹅的胃装得下三加仑的水，相等于32罐汽水。",
+            "TrueFactSuggestedLineBreak": "塘鹅的胃装得下一加仑的水，\r相等于11罐汽水。",
+            "FalseFactEnglish": "A pelican can hold 1 gallon of water - the same as 11 cans of 12 oz soda - in its bill.",
+            "FalseFactMandarin": "塘鹅的胃装得下一加仑的水，相等于11罐汽水。"
+        },
+        {
+            "TrueFactEnglish": "A porcupine can have more than 30,000 quills.",
+            "TrueFactMandarin": "豪猪身上有超过三万根刺。",
+            "TrueFactSuggestedLineBreak": "豪猪身上只有一万根刺。",
+            "FalseFactEnglish": "A porcupine cannot have more than 10,000 quills.",
+            "FalseFactMandarin": "豪猪身上只有一万根刺。"
+        },
+        {
+            "TrueFactEnglish": "A rabbit’s teeth never stop growing.",
+            "TrueFactMandarin": "兔子的牙齿会不断增长。",
+            "TrueFactSuggestedLineBreak": "兔子成长至3岁后，\r牙齿便会停止增长。",
+            "FalseFactEnglish": "A rabbit’s teeth stops growing after 3 years of age.",
+            "FalseFactMandarin": "兔子成长至3岁后，牙齿便会停止增长。"
+        },
+        {
+            "TrueFactEnglish": "A rattlesnake’s rattle is made of the same material as your fingernails.",
+            "TrueFactMandarin": "响尾蛇尾部末端的细胞组织和人的指甲一样。",
+            "TrueFactSuggestedLineBreak": "响尾蛇尾部末端的细胞组织\r与鹅卵石一样。",
+            "FalseFactEnglish": "A rattlesnake’s rattle is made out of pebbles and stones.",
+            "FalseFactMandarin": "响尾蛇尾部末端的细胞组织与鹅卵石一样。"
+        },
+        {
+            "TrueFactEnglish": "A salamander nicknamed the “snot otter” oozes slime when threatened.",
+            "TrueFactMandarin": "火蜥蜴,又名火蝾螈，在感受到威胁时，它们会分泌出粘液。",
+            "TrueFactSuggestedLineBreak": "火蜥蜴，又名火蝾螈，\r在感到兴奋时，\r会分泌出粘液。",
+            "FalseFactEnglish": "A salamander nicknamed \"snot otter\" oozes slime when happy.",
+            "FalseFactMandarin": "火蜥蜴，又名火蝾螈，在感到兴奋时，会分泌出粘液。"
+        },
+        {
+            "TrueFactEnglish": "A sheep, a duck, and a rooster were the first passengers on a hot-air balloon.",
+            "TrueFactMandarin": "第一批乘坐热气球的乘客是一只绵羊、一只鸭子和一只公鸡。",
+            "TrueFactSuggestedLineBreak": "第一批乘坐热气球的乘客\r是一个人和一只狗。",
+            "FalseFactEnglish": "A man and his dog were the first passengers on a hot-air balloon.",
+            "FalseFactMandarin": "第一批乘坐热气球的乘客是一个人和一只狗。"
+        },
+        {
+            "TrueFactEnglish": "A sloth would take a month to travel a single mile.",
+            "TrueFactMandarin": "懒熊需要用上一个月才能走完1.6公里的路程。",
+            "TrueFactSuggestedLineBreak": "懒熊需要用上八天\r完成1.6公里的路程。",
+            "FalseFactEnglish": "A sloth would  take 8 days to travel a single mile.",
+            "FalseFactMandarin": "懒熊需要用上八天完成1.6公里的路程。"
+        },
+        {
+            "TrueFactEnglish": "A snail can crawl along a razor’s edge without cutting itself.",
+            "TrueFactMandarin": "蜗牛可以沿着剃刀的边缘爬行，而且也不会割伤。",
+            "TrueFactSuggestedLineBreak": "蜣螂可以沿着剃刀边缘爬行，\r而且也不会割伤。",
+            "FalseFactEnglish": "A dung beetle can crawl along a razor’s edge without cutting itself.",
+            "FalseFactMandarin": "蜣螂可以沿着剃刀边缘爬行，而且也不会割伤。"
+        },
+        {
+            "TrueFactEnglish": "A snail would take about 220 hours to crawl one mile nonstop.",
+            "TrueFactMandarin": "蜗牛需要用上220小时完成1公里的行程。",
+            "TrueFactSuggestedLineBreak": "蜗牛需要用上70个小时\r完成1公里的行程。",
+            "FalseFactEnglish": "A snail would take about 70 hours to crawl one mile nonstop.",
+            "FalseFactMandarin": "蜗牛需要用上70个小时完成1公里的行程。"
+        },
+        {
+            "TrueFactEnglish": "A thousand years ago, tiny lapdogs were a sign of wealth in Europe.",
+            "TrueFactMandarin": "在一千年前，饲养小型犬是欧洲人富有的象征。",
+            "TrueFactSuggestedLineBreak": "在一千年前，\r饲养小型犬\r是欧洲人贫穷的象征。",
+            "FalseFactEnglish": "A thousand years ago, small dogs were a sign of poverty in Europe.",
+            "FalseFactMandarin": "在一千年前，饲养小型犬是欧洲人贫穷的象征。"
+        },
+        {
+            "TrueFactEnglish": "A tiger’s skin is striped like its fur.",
+            "TrueFactMandarin": "老虎皮毛的皮肤也长有条纹。",
+            "TrueFactSuggestedLineBreak": "老虎的舌头也长有条纹。",
+            "FalseFactEnglish": "A tiger’s tongue is striped like its fur.",
+            "FalseFactMandarin": "老虎的舌头也长有条纹。"
+        },
+        {
+            "TrueFactEnglish": "A tiger’s stripes are different on the left and rights sides of its body.",
+            "TrueFactMandarin": "老虎左侧和右侧的条纹是不同的。",
+            "TrueFactSuggestedLineBreak": "老虎左侧和右侧的条纹\r是相同的。",
+            "FalseFactEnglish": "A tiger’s stripes are the exact same on both sides of it's body.",
+            "FalseFactMandarin": "老虎左侧和右侧的条纹是相同的。"
+        },
+        {
+            "TrueFactEnglish": "A Tyrannosaurus’ teeth were the size of bananas.",
+            "TrueFactMandarin": "暴龙的牙齿像一条香蕉那么大。",
+            "TrueFactSuggestedLineBreak": "暴龙的牙齿\r像一支蜡笔那么大。",
+            "FalseFactEnglish": "A Tyrannosaurus Rexs’ teeth were the size of a crayon.",
+            "FalseFactMandarin": "暴龙的牙齿像一支蜡笔那么大。"
+        },
+        {
+            "TrueFactEnglish": "A wolf’s howl can sometimes be heard from 10 miles away by other wolves.",
+            "TrueFactMandarin": "狼有时可以听见同伴从16公里外传来的嚎叫声。",
+            "TrueFactSuggestedLineBreak": "狼有时可以听见同伴\r从80公里外传来的嚎叫声。",
+            "FalseFactEnglish": "A wolf's howl can be heard from 50 miles away by other wolves.",
+            "FalseFactMandarin": "狼有时可以听见同伴从80公里外传来的嚎叫声。"
+        },
+        {
+            "TrueFactEnglish": "A wood frog’s croak sounds like a quack.",
+            "TrueFactMandarin": "桓仁林蛙的蝈蝈叫声像鸭叫声。",
+            "TrueFactSuggestedLineBreak": "桓仁林蛙的蝈蝈叫声\r像狗的吠叫声。",
+            "FalseFactEnglish": "A wood frog’s croak sounds like a dog's bark.",
+            "FalseFactMandarin": "桓仁林蛙的蝈蝈叫声像狗的吠叫声。"
+        },
+        {
+            "TrueFactEnglish": "A zebra’s skin is black; only its fur is striped.",
+            "TrueFactMandarin": "斑马的皮肤是黑色的，只有毛发是白色的。",
+            "TrueFactSuggestedLineBreak": "斑马的肤色与毛发的颜色相同。",
+            "FalseFactEnglish": "A zebra’s skin is striped just like it's fur.",
+            "FalseFactMandarin": "斑马的肤色与毛发的颜色相同。"
+        },
+        {
+            "TrueFactEnglish": "African elephants have ears shaped like the continent of Africa.",
+            "TrueFactMandarin": "非洲象的耳朵形状和非洲大陆的版图形状一样。",
+            "TrueFactSuggestedLineBreak": "非洲象的耳朵形状\r犹如意大利的国家版图。",
+            "FalseFactEnglish": "African elephants have ears shaped like the country of Italy.",
+            "FalseFactMandarin": "非洲象的耳朵形状犹如意大利的国家版图。"
+        },
+        {
+            "TrueFactEnglish": "All of today’s pet hamsters can be traced to one hamster family that lived in Syria in 1930.",
+            "TrueFactMandarin": "我们今天所见的宠物仓鼠都源自1930年在叙利亚被人工饲养的一个仓鼠家族。",
+            "TrueFactSuggestedLineBreak": "科研专家至今仍无法鉴定\r宠物仓鼠的发源地。",
+            "FalseFactEnglish": "The origin of today's pet hamsters is unknown by scientists.",
+            "FalseFactMandarin": "科研专家至今仍无法鉴定宠物仓鼠的发源地。"
+        },
+        {
+            "TrueFactEnglish": "Alligator eggs hatch male babies in hotter temperatures and female babies in cooler temperatures.",
+            "TrueFactMandarin": "鳄鱼蛋在高温的环境下会孵出雄性宝宝；在温度较低的环境下会孵出雌性宝宝。",
+            "TrueFactSuggestedLineBreak": "鳄鱼蛋在高温的环境下\r会孵出雌性宝宝；\r在温度较低的环境下\r会孵出雄性宝宝。",
+            "FalseFactEnglish": "Alligator eggs hatch male babies in cold temperatures and female babies in hotter temperatures.",
+            "FalseFactMandarin": "鳄鱼蛋在高温的环境下会孵出雌性宝宝；在温度较低的环境下会孵出雄性宝宝。"
+        },
+        {
+            "TrueFactEnglish": "Alligator teeth are hollow.",
+            "TrueFactMandarin": "鳄鱼牙是空心的。",
+            "TrueFactSuggestedLineBreak": "鳄鱼牙是密实的固体。",
+            "FalseFactEnglish": "Alligator teeth are solid.",
+            "FalseFactMandarin": "鳄鱼牙是密实的固体。"
+        },
+        {
+            "TrueFactEnglish": "An aardvark can dig faster than several people with shovels.",
+            "TrueFactMandarin": "土豚挖凿的速度比几个人同时用铲子挖土还要快。",
+            "TrueFactSuggestedLineBreak": "一个人用铲子挖土的速度\r比一只土豚挖凿的速度还要快。",
+            "FalseFactEnglish": "A human with a shovel can dig faster than an aardvark.",
+            "FalseFactMandarin": "一个人用铲子挖土的速度比一只土豚挖凿的速度还要快。"
+        },
+        {
+            "TrueFactEnglish": "An Atlantic puffin can hold as many as a dozen small fish in its bill at one time.",
+            "TrueFactMandarin": "北极海鹦的啄子能容纳12条小鱼。",
+            "TrueFactSuggestedLineBreak": "北极海鹦的啄子能容纳4条小鱼。",
+            "FalseFactEnglish": "An Atlantic puffin can hold as many as a four small fish in its bill at one time.",
+            "FalseFactMandarin": "北极海鹦的啄子能容纳4条小鱼。"
+        },
+        {
+            "TrueFactEnglish": "An eagle’s nest weigh more than a refrigerator.",
+            "TrueFactMandarin": "鹰巢比冰箱还要重。",
+            "TrueFactSuggestedLineBreak": "鹰巢跟烤箱一样重。",
+            "FalseFactEnglish": "An eagle’s nest weighs about the same as a toaster oven.",
+            "FalseFactMandarin": "鹰巢跟烤箱一样重。"
+        },
+        {
+            "TrueFactEnglish": "An elephant once water-skied over the Hudson River.",
+            "TrueFactMandarin": "曾经有一头大象在哈德逊河上滑水。",
+            "TrueFactSuggestedLineBreak": "曾经有一头大象\r从布鲁克林大桥一跃而下。",
+            "FalseFactEnglish": "An elephant once bungee-jumped from the Brooklyn Bridge.",
+            "FalseFactMandarin": "曾经有一头大象从布鲁克林大桥一跃而下。"
+        },
+        {
+            "TrueFactEnglish": "An elephant’s head weighs up to 1000 pounds.",
+            "TrueFactMandarin": "大象的头重达454公斤左右。",
+            "TrueFactSuggestedLineBreak": "大象的尾巴\r重达454公斤左右。",
+            "FalseFactEnglish": "An elephant’s tail can weight up to 1,000 pounds.",
+            "FalseFactMandarin": "大象的尾巴重达454公斤左右。"
+        },
+        {
+            "TrueFactEnglish": "An elephant’s tooth can weigh as much as a bowling ball.",
+            "TrueFactMandarin": "曾经有只大象的牙齿跟保龄球一样重。",
+            "TrueFactSuggestedLineBreak": "大象的牙齿\r跟一个篮球一样重。",
+            "FalseFactEnglish": "An elephant’s tooth weighs as much as a basketball.",
+            "FalseFactMandarin": "大象的牙齿跟一个篮球一样重。"
+        },
+        {
+            "TrueFactEnglish": "An emperor penguin has 100 feathers on every square inch of its body.",
+            "TrueFactMandarin": "帝企鹅身上每平方英寸毛皮\r长有一百根羽毛。",
+            "TrueFactSuggestedLineBreak": "帝企鹅全身只有一百根羽毛。",
+            "FalseFactEnglish": "An emperor penguin has only 100 feathers on its body.",
+            "FalseFactMandarin": "帝企鹅全身只有一百根羽毛。"
+        },
+        {
+            "TrueFactEnglish": "An emu’s body contains enough oil to fill three milk jugs.",
+            "TrueFactMandarin": "人们可从每只鸸鹋身上提取出三瓶牛奶壶的油脂。",
+            "TrueFactSuggestedLineBreak": "人们无法从鸸鹋身上\r提取出油脂。",
+            "FalseFactEnglish": "An emu's body produces no oil.",
+            "FalseFactMandarin": "人们无法从鸸鹋身上提取出油脂。"
+        },
+        {
+            "TrueFactEnglish": "An ostrich can run as fast as a racehorse.",
+            "TrueFactMandarin": "鸵鸟可以跑得跟赛场上的马儿一样快。",
+            "TrueFactSuggestedLineBreak": "鸵鸟无法\r跑得跟豪猪一样快。",
+            "FalseFactEnglish": "An ostrich cannot run faster than an Australian porcupine.",
+            "FalseFactMandarin": "鸵鸟无法跑得跟豪猪一样快。"
+        },
+        {
+            "TrueFactEnglish": "An ox was born with a heart-shaped spot on its head.",
+            "TrueFactMandarin": "世上有一头牛的头顶上长了个心型图案。",
+            "TrueFactSuggestedLineBreak": "世上有一头牛头顶上\r长了个鼻型图案。",
+            "FalseFactEnglish": "An ox was born with a nose-shaped spot on its head.",
+            "FalseFactMandarin": "世上有一头牛头顶上长了个鼻型图案。"
+        },
+        {
+            "TrueFactEnglish": "Animals that lay eggs don’t have belly buttons.",
+            "TrueFactMandarin": "卵生动物没有肚脐。",
+            "TrueFactSuggestedLineBreak": "所有动物都有肚脐。",
+            "FalseFactEnglish": "All Animals have belly buttons.",
+            "FalseFactMandarin": "所有动物都有肚脐。"
+        },
+        {
+            "TrueFactEnglish": "Apes laugh when tickled.",
+            "TrueFactMandarin": "人猿被挠痒时会发笑。",
+            "TrueFactSuggestedLineBreak": "人猿不会发笑。",
+            "FalseFactEnglish": "Apes cannot laugh.",
+            "FalseFactMandarin": "人猿不会发笑。"
+        },
+        {
+            "TrueFactEnglish": "As a hen gets older, she produces bigger eggs.",
+            "TrueFactMandarin": "越年长的母鸡，生下的鸡蛋越大颗。",
+            "TrueFactSuggestedLineBreak": "越年长的母鸡，\r生下的鸡蛋越小颗。",
+            "FalseFactEnglish": "As a hen gets older, she produces smaller eggs.",
+            "FalseFactMandarin": "越年长的母鸡，生下的鸡蛋越小颗。"
+        },
+        {
+            "TrueFactEnglish": "Baby rattlesnakes are born without rattles.",
+            "TrueFactMandarin": "响尾蛇出生时，尾部尚未有响环。",
+            "TrueFactSuggestedLineBreak": "响尾蛇出生时，\r尾部就有两个响环。",
+            "FalseFactEnglish": "Baby rattlesnakes are born with two rattles.",
+            "FalseFactMandarin": "响尾蛇出生时，尾部就有两个响环。"
+        },
+        {
+            "TrueFactEnglish": "Bald eagles live in every US state except Hawaii.",
+            "TrueFactMandarin": "美国每个州份都可以看见白头鹰出没，除了夏威夷之外。",
+            "TrueFactSuggestedLineBreak": "美国每个州份\r都可以看见白头鹰出没。",
+            "FalseFactEnglish": "Bald Eagles live in every US State.",
+            "FalseFactMandarin": "美国每个州份都可以看见白头鹰出没。"
+        },
+        {
+            "TrueFactEnglish": "Bald Eagles use their wings to paddle through water.",
+            "TrueFactMandarin": "白头鹰用翅膀划水。",
+            "TrueFactSuggestedLineBreak": "白头鹰不能在水面上划行。",
+            "FalseFactEnglish": "Bald Eagles cannot swim.",
+            "FalseFactMandarin": "白头鹰不能在水面上划行。"
+        },
+        {
+            "TrueFactEnglish": "Bat hair has been used as money.",
+            "TrueFactMandarin": "人们曾经使用蝙蝠的毛发做交易。",
+            "TrueFactSuggestedLineBreak": "蝙蝠身上没有毛发。",
+            "FalseFactEnglish": "Bat's don't have hair.",
+            "FalseFactMandarin": "蝙蝠身上没有毛发。"
+        },
+        {
+            "TrueFactEnglish": "Bats are the only mammals that fly.",
+            "TrueFactMandarin": "蝙蝠是唯一一种会飞的哺乳动物。",
+            "TrueFactSuggestedLineBreak": "翠鸟是唯一一种\r会飞的哺乳动物。",
+            "FalseFactEnglish": "Kingfishers are the only mammals that fly.",
+            "FalseFactMandarin": "翠鸟是唯一一种会飞的哺乳动物。"
+        },
+        {
+            "TrueFactEnglish": "Bats have thumbs.",
+            "TrueFactMandarin": "蝙蝠是有拇指的。",
+            "TrueFactSuggestedLineBreak": "蝙蝠有三根手指。",
+            "FalseFactEnglish": "Bats have 3 fingers.",
+            "FalseFactMandarin": "蝙蝠有三根手指。"
+        },
+        {
+            "TrueFactEnglish": "Camels are originally from North America.",
+            "TrueFactMandarin": "骆驼其实源自北美大陆。",
+            "TrueFactSuggestedLineBreak": "骆驼其实源自欧洲大陆。",
+            "FalseFactEnglish": "Camels are originally from Australia.",
+            "FalseFactMandarin": "骆驼其实源自欧洲大陆。"
+        },
+        {
+            "TrueFactEnglish": "Camels chew in a figure-eight motion.",
+            "TrueFactMandarin": "骆驼咀嚼时，脸部会形成一个“8字形”。",
+            "TrueFactSuggestedLineBreak": "骆驼咀嚼时，\r脸部会形成一个三角形。",
+            "FalseFactEnglish": "Camels chew in a triangular motion.",
+            "FalseFactMandarin": "骆驼咀嚼时，脸部会形成一个三角形。"
+        },
+        {
+            "TrueFactEnglish": "Cats can’t taste sweets.",
+            "TrueFactMandarin": "猫尝不到甜味。",
+            "TrueFactSuggestedLineBreak": "猫能尝到甜味。",
+            "FalseFactEnglish": "Cats can taste sweets.",
+            "FalseFactMandarin": "猫能尝到甜味。"
+        },
+        {
+            "TrueFactEnglish": "Certain birds can use their bills to measure the temperature of their nests.",
+            "TrueFactMandarin": "有些鸟类会使用啄子来测量巢穴的温度。",
+            "TrueFactSuggestedLineBreak": "有些鸟类会使用啄子\r来测量食物的温度。",
+            "FalseFactEnglish": "Certain birds can use their bills to measure the temperature of their food.",
+            "FalseFactMandarin": "有些鸟类会使用啄子来测量食物的温度。"
+        },
+        {
+            "TrueFactEnglish": "Certain geckos sometimes communicate by barking.",
+            "TrueFactMandarin": "有的壁虎通过吠叫来沟通。",
+            "TrueFactSuggestedLineBreak": "有的壁虎通过歌声来沟通。",
+            "FalseFactEnglish": "Certain geckos sometimes communicate by singing.",
+            "FalseFactMandarin": "有的壁虎通过歌声来沟通。"
+        },
+        {
+            "TrueFactEnglish": "Certain lizards have green blood.",
+            "TrueFactMandarin": "有的蜥蜴身上流着绿色的血。",
+            "TrueFactSuggestedLineBreak": "有的蜥蜴身上流着蓝色的血。",
+            "FalseFactEnglish": "All lizards have blue blood.",
+            "FalseFactMandarin": "有的蜥蜴身上流着蓝色的血。"
+        },
+        {
+            "TrueFactEnglish": "Certain species of birds can sing with “regional accents.”",
+            "TrueFactMandarin": "有些鸟类品种唱歌时有“道地口音”。",
+            "TrueFactSuggestedLineBreak": "鸟不会唱歌。",
+            "FalseFactEnglish": "Birds cannot sing.",
+            "FalseFactMandarin": "鸟不会唱歌。"
+        },
+        {
+            "TrueFactEnglish": "Cheetahs can change direction in midair when chasing prey.",
+            "TrueFactMandarin": "花豹追捕猎物时能跃起转换方向。",
+            "TrueFactSuggestedLineBreak": "花豹只能向前奔跑，\r无法中途转变方向，\r假如要转变方向，\r必须先停下脚步。",
+            "FalseFactEnglish": "Once a Cheetah starts running, it cannot change direction until it stops.",
+            "FalseFactMandarin": "花豹只能向前奔跑，无法中途转变方向，假如要转变方向，必须先停下脚步。"
+        },
+        {
+            "TrueFactEnglish": "Chicks can breath through their shells.",
+            "TrueFactMandarin": "未孵化的小鸡能在蛋壳里呼吸。",
+            "TrueFactSuggestedLineBreak": "蛋壳里的小鸡孵化后\r才能开始呼吸。",
+            "FalseFactEnglish": "Chicks cannot breathe until hatched.",
+            "FalseFactMandarin": "蛋壳里的小鸡孵化后才能开始呼吸。"
+        },
+        {
+            "TrueFactEnglish": "Chimpanzees and dolphins can learn to recognize themselves in the mirror.",
+            "TrueFactMandarin": "黑猩猩和海豚能辨识出镜子里的自己。",
+            "TrueFactSuggestedLineBreak": "黑猩猩和海豚\r无法辨识出镜子中的自己。",
+            "FalseFactEnglish": "Chimpanzees and dolphins do not understand when they are seeing themselves in a mirror.",
+            "FalseFactMandarin": "黑猩猩和海豚无法辨识出镜子中的自己。"
+        },
+        {
+            "TrueFactEnglish": "Chipmunks might see in slow motion.",
+            "TrueFactMandarin": "花栗鼠看见的世界，是个慢动作的世界。",
+            "TrueFactSuggestedLineBreak": "花栗鼠的视觉能力\r与人类相同。",
+            "FalseFactEnglish": "Chipmunks see just like humans.",
+            "FalseFactMandarin": "花栗鼠的视觉能力与人类相同。"
+        },
+        {
+            "TrueFactEnglish": "Cows can drink a bathtub full of water in a day.",
+            "TrueFactMandarin": "乳牛每天可以喝下一整浴缸的水。",
+            "TrueFactSuggestedLineBreak": "乳牛每天喝下的水少于一加仑。",
+            "FalseFactEnglish": "Cows drink less than one gallon of water per day.",
+            "FalseFactMandarin": "乳牛每天喝下的水少于一加仑。"
+        },
+        {
+            "TrueFactEnglish": "Crocodiles can’t chew.",
+            "TrueFactMandarin": "鳄鱼不能咀嚼。",
+            "TrueFactSuggestedLineBreak": "鳄鱼必须咀嚼至少20次，\r才能吞下食物。",
+            "FalseFactEnglish": "Crocodiles chew their food at least 20 times before swallowing.",
+            "FalseFactMandarin": "鳄鱼必须咀嚼至少20次，才能吞下食物。"
+        },
+        {
+            "TrueFactEnglish": "Crocodiles have been around for about 200 million years.",
+            "TrueFactMandarin": "鳄鱼已经在地球上生存了约2亿年。",
+            "TrueFactSuggestedLineBreak": "鳄鱼已经在地球上\r生存了约两千年。",
+            "FalseFactEnglish": "Crocodiles have been around for about 20 million years.",
+            "FalseFactMandarin": "鳄鱼已经在地球上生存了约两千年。"
+        },
+        {
+            "TrueFactEnglish": "Dairy cows may produce more milk while listening to classical music.",
+            "TrueFactMandarin": "放古典音乐给乳牛听，可让乳牛分泌出更多乳汁。",
+            "TrueFactSuggestedLineBreak": "乳牛每天分泌出\r相等分量的乳汁。",
+            "FalseFactEnglish": "Dairy cows produce the same amount of milk every day.",
+            "FalseFactMandarin": "乳牛每天分泌出相等分量的乳汁。"
+        },
+        {
+            "TrueFactEnglish": "Dalmatians are born without spots.",
+            "TrueFactMandarin": "斑点狗刚出生时，身上是没有斑点的。",
+            "TrueFactSuggestedLineBreak": "斑点狗刚出生时，\r身上已经长有斑点了。",
+            "FalseFactEnglish": "Dalmatians are born with their spots.",
+            "FalseFactMandarin": "斑点狗刚出生时，身上已经长有斑点了。"
+        },
+        {
+            "TrueFactEnglish": "Dogs have three times more taste buds than cats.",
+            "TrueFactMandarin": "狗的味蕾数量是猫的三倍。",
+            "TrueFactSuggestedLineBreak": "狗的味蕾数量\r比猫的还要少。",
+            "FalseFactEnglish": "Dogs have less taste buds than cats.",
+            "FalseFactMandarin": "狗的味蕾数量比猫的还要少"
+        },
+        {
+            "TrueFactEnglish": "Eating shrimp can turn white flamingos pink.",
+            "TrueFactMandarin": "原本是白色的红鹤吃了虾后，羽毛会变成粉红色。",
+            "TrueFactSuggestedLineBreak": "原本是粉红色的红鹤吃了虾后，\r羽毛会变成灰色。",
+            "FalseFactEnglish": "Eating shrimp can turn pink flamingos gray.",
+            "FalseFactMandarin": "原本是粉红色的红鹤吃了虾后，羽毛会变成灰色。"
+        },
+        {
+            "TrueFactEnglish": "Elephant calves suck on their trunks, just as human babies suck on their thumbs.",
+            "TrueFactMandarin": "小象会吮吸自己的长鼻子，就像人类宝宝会吮吸拇指一样。",
+            "TrueFactSuggestedLineBreak": "小象会吮吸自己的前肢，\r就像人类宝宝\r会吮吸拇指一样。",
+            "FalseFactEnglish": "Elephant calves suck on their feet, just as human babies suck on their thumbs.",
+            "FalseFactMandarin": "小象会吮吸自己的前肢，就像人类宝宝会吮吸拇指一样。"
+        },
+        {
+            "TrueFactEnglish": "Elephant seals can dive deeper than most submarines.",
+            "TrueFactMandarin": "象海豹的潜水深度超越大多数潜水艇的能力范围。",
+            "TrueFactSuggestedLineBreak": "象海豹的潜水深度\r不超过10米。",
+            "FalseFactEnglish": "Elephant seals cannot dive deeper than 10 meters.",
+            "FalseFactMandarin": "象海豹的潜水深度不超过10米。"
+        },
+        {
+            "TrueFactEnglish": "Elephants can be left or right-tusked, just as people are left or right handed.",
+            "TrueFactMandarin": "大象跟人类一样，被分成左撇子和右撇子。",
+            "TrueFactSuggestedLineBreak": "大象比较喜欢用左手行动。",
+            "FalseFactEnglish": "Elephants prefer to use only their right tusk .",
+            "FalseFactMandarin": "大象比较喜欢用左手行动。"
+        },
+        {
+            "TrueFactEnglish": "Elephants can run faster than humans.",
+            "TrueFactMandarin": "大象可以跑得比人类更快。",
+            "TrueFactSuggestedLineBreak": "大象不会跑。",
+            "FalseFactEnglish": "Elephants can't run.",
+            "FalseFactMandarin": "大象不会跑。"
+        },
+        {
+            "TrueFactEnglish": "Elephants can swim for up to 6 hours without resting.",
+            "TrueFactMandarin": "大象可以持续游泳长达6个小时。",
+            "TrueFactSuggestedLineBreak": "大象不会游泳。",
+            "FalseFactEnglish": "Elephants don’t know how to swim.",
+            "FalseFactMandarin": "大象不会游泳。"
+        },
+        {
+            "TrueFactEnglish": "Elephants can use their trunks as snorkels.",
+            "TrueFactMandarin": "大象下水时，长鼻子可以充作呼吸管。",
+            "TrueFactSuggestedLineBreak": "大象下水时，\r无法通过长鼻子呼吸。",
+            "FalseFactEnglish": "Elephants can't actually breathe through their trunks. ",
+            "FalseFactMandarin": "大象下水时，无法通过长鼻子呼吸。"
+        },
+        {
+            "TrueFactEnglish": "Elephants can’t jump.",
+            "TrueFactMandarin": "大象不会跳。",
+            "TrueFactSuggestedLineBreak": "大象能跳得比人类还要高。",
+            "FalseFactEnglish": "Elephants can jump higher than a human.",
+            "FalseFactMandarin": "大象能跳得比人类还要高。"
+        },
+        {
+            "TrueFactEnglish": "Elephants walk on their tiptoes.",
+            "TrueFactMandarin": "大象其实用脚尖行走。",
+            "TrueFactSuggestedLineBreak": "大象无法用脚尖行走。",
+            "FalseFactEnglish": "Unlike humans, elephants cannot walk on their tiptoes.",
+            "FalseFactMandarin": "大象无法用脚尖行走。"
+        },
+        {
+            "TrueFactEnglish": "Flamingos’ ankles look like knees.",
+            "TrueFactMandarin": "红鹤的脚踝看起来像膝盖。",
+            "TrueFactSuggestedLineBreak": "红鹤没有膝盖。",
+            "FalseFactEnglish": "Flamingos don't have ankles.",
+            "FalseFactMandarin": "红鹤没有膝盖。"
+        },
+        {
+            "TrueFactEnglish": "Frog bones grow new rings as they age, just like trees.",
+            "TrueFactMandarin": "青蛙的骨骼跟树木一样，随着成长，骨骼周围会形成一层层圆环。",
+            "TrueFactSuggestedLineBreak": "青蛙的骨骼\r与树木的材质一样。",
+            "FalseFactEnglish": "Frog bones are made of wood.",
+            "FalseFactMandarin": "青蛙的骨骼与树木的材质一样。"
+        },
+        {
+            "TrueFactEnglish": "Frogs drink through their skin.",
+            "TrueFactMandarin": "青蛙用皮肤来喝水。",
+            "TrueFactSuggestedLineBreak": "青蛙跟狗一样，通过转动舌头喝水。",
+            "FalseFactEnglish": "Frogs drink water by lapping into their mouths, just like a dog.",
+            "FalseFactMandarin": "青蛙跟狗一样，通过转动舌头喝水。"
+        },
+        {
+            "TrueFactEnglish": "Geckos can break off their own tails.",
+            "TrueFactMandarin": "壁虎可以自行弄断尾巴。",
+            "TrueFactSuggestedLineBreak": "鳄鱼可以自行弄断尾巴。",
+            "FalseFactEnglish": "Aligators can break off their own tails.",
+            "FalseFactMandarin": "鳄鱼可以自行弄断尾巴。"
+        },
+        {
+            "TrueFactEnglish": "Ghost bats are some of the only bats with white fur.",
+            "TrueFactMandarin": "绒假吸血蝠是少数拥有白色皮毛的蝙蝠。",
+            "TrueFactSuggestedLineBreak": "绒假吸血蝠身上没有皮毛。",
+            "FalseFactEnglish": "Ghost bats don't have any fur.",
+            "FalseFactMandarin": "绒假吸血蝠身上没有皮毛。"
+        },
+        {
+            "TrueFactEnglish": "Giant anteaters can eat more than 30,000 insects in a day.",
+            "TrueFactMandarin": "大食蚁兽能在一天内吃掉超过三万只昆虫。",
+            "TrueFactSuggestedLineBreak": "大食蚁兽能在一天内\r吃掉超过一百万只昆虫。",
+            "FalseFactEnglish": "Giant anteaters can more than 1 million insects in a day.",
+            "FalseFactMandarin": "大食蚁兽能在一天内吃掉超过一百万只昆虫。"
+        },
+        {
+            "TrueFactEnglish": "Giant tortoises keep growing their whole lives.",
+            "TrueFactMandarin": "加拉帕戈斯象龟有生之年都在不断成长。",
+            "TrueFactSuggestedLineBreak": "加拉帕戈斯象龟20岁后，\r便会停止成长。",
+            "FalseFactEnglish": "Giant tortoises stop growing at 20 years of age.",
+            "FalseFactMandarin": "加拉帕戈斯象龟20岁后，便会停止成长。"
+        },
+        {
+            "TrueFactEnglish": "Giraffe “horns” are actually called ossicones.",
+            "TrueFactMandarin": "长颈鹿的鹿角，英文叫做“ossicone”。",
+            "TrueFactSuggestedLineBreak": "长颈鹿身上的斑点，\r英文叫做“Ossicone”。",
+            "FalseFactEnglish": "Giraffe \"spots\" are actually called ossicones.",
+            "FalseFactMandarin": "长颈鹿身上的斑点，英文叫做“Ossicone”。"
+        },
+        {
+            "TrueFactEnglish": "Giraffes are the only animals born with horns.",
+            "TrueFactMandarin": "长颈鹿是唯一一种一出世就有角的动物。",
+            "TrueFactSuggestedLineBreak": "长颈鹿出世时，头上是没有角的。",
+            "FalseFactEnglish": "Giraffes are born without horns.",
+            "FalseFactMandarin": "长颈鹿出世时，头上是没有角的。"
+        },
+        {
+            "TrueFactEnglish": "Giraffes have very high blood pressure to pump blood up their long necks.",
+            "TrueFactMandarin": "长颈鹿体内的血压非常高，为的是把血液往上输送到长脖子上。",
+            "TrueFactSuggestedLineBreak": "长颈鹿体内的血压非常低。",
+            "FalseFactEnglish": "Giraffes have very low blood pressure.",
+            "FalseFactMandarin": "长颈鹿体内的血压非常低。"
+        },
+        {
+            "TrueFactEnglish": "Goats snack on poison ivy.",
+            "TrueFactMandarin": "山羊将毒葛当成是零嘴。",
+            "TrueFactSuggestedLineBreak": "山羊对毒葛敏感。",
+            "FalseFactEnglish": "Goats are alergic to poison ivy.",
+            "FalseFactMandarin": "山羊对毒葛敏感。"
+        },
+        {
+            "TrueFactEnglish": "Gorillas burp when they’re happy.",
+            "TrueFactMandarin": "大猩猩开心时会打嗝。",
+            "TrueFactSuggestedLineBreak": "大猩猩开心时会放屁。",
+            "FalseFactEnglish": "Gorillas fart when they're happy.",
+            "FalseFactMandarin": "大猩猩开心时会放屁。"
+        },
+        {
+            "TrueFactEnglish": "Gorillas sleep in nests.",
+            "TrueFactMandarin": "大猩猩会回到窝巢里睡觉。",
+            "TrueFactSuggestedLineBreak": "大猩猩会回到\r自己挖的洞穴里睡觉。",
+            "FalseFactEnglish": "Gorillas sleep in holes they dig in the ground.",
+            "FalseFactMandarin": "大猩猩会回到自己挖的洞穴里睡觉。"
+        },
+        {
+            "TrueFactEnglish": "Hippo sweat is red (it also doubles as sunscreen).",
+            "TrueFactMandarin": "河马的汗水是红色的，还具有防晒功能。",
+            "TrueFactSuggestedLineBreak": "河马不会排汗。",
+            "FalseFactEnglish": "Hippo don't sweat.",
+            "FalseFactMandarin": "河马不会排汗。"
+        },
+        {
+            "TrueFactEnglish": "Hippos can be more dangerous than lions.",
+            "TrueFactMandarin": "河马比狮子更危险。",
+            "TrueFactSuggestedLineBreak": "河马是世界上最温驯的动物。",
+            "FalseFactEnglish": "Hippos are one of the most harmless animals.",
+            "FalseFactMandarin": "河马是世界上最温驯的动物。"
+        },
+        {
+            "TrueFactEnglish": "Horses run on their toes.",
+            "TrueFactMandarin": "马儿其实是用脚趾奔跑。",
+            "TrueFactSuggestedLineBreak": "马儿用脚跟奔跑。",
+            "FalseFactEnglish": "Horses run on their heels.",
+            "FalseFactMandarin": "马儿用脚跟奔跑。"
+        },
+        {
+            "TrueFactEnglish": "Hummingbirds are the only birds that can fly backward.",
+            "TrueFactMandarin": "蜂鸟是唯一可以倒退飞的鸟类。",
+            "TrueFactSuggestedLineBreak": "鹦鹉是唯一可以倒退飞的鸟类。",
+            "FalseFactEnglish": "Parrots are the only birds that can fly backward.",
+            "FalseFactMandarin": "鹦鹉是唯一可以倒退飞的鸟类。"
+        },
+        {
+            "TrueFactEnglish": "In the past, toothbrushes had pig hairs for bristles.",
+            "TrueFactMandarin": "在古时候，人们利用猪的鬃毛来作为牙刷的刷毛。",
+            "TrueFactSuggestedLineBreak": "在古时候，\r人们利用狗毛\r来作为牙刷的刷毛。",
+            "FalseFactEnglish": "In the past, toothbrushes had dog hairs for bristles.",
+            "FalseFactMandarin": "在古时候，人们利用狗毛来作为牙刷的刷毛。"
+        },
+        {
+            "TrueFactEnglish": "It’s impossible for turtles to stick out their tongues.",
+            "TrueFactMandarin": "海龟无法伸出舌头。",
+            "TrueFactSuggestedLineBreak": "海龟能把舌头\r伸长至40厘米。",
+            "FalseFactEnglish": "Some turtles can stick out their tongues up to 40 centimeters",
+            "FalseFactMandarin": "海龟能把舌头伸长至40厘米。"
+        },
+        {
+            "TrueFactEnglish": "It’s possible to produce electricity from elephant dung.",
+            "TrueFactMandarin": "大象的粪便能产生电能。",
+            "TrueFactSuggestedLineBreak": "大象的粪便\r能作为生产手机的材料。",
+            "FalseFactEnglish": "It's possible to produce mobile phones from elephant dung.",
+            "FalseFactMandarin": "大象的粪便能作为生产手机的材料。"
+        },
+        {
+            "TrueFactEnglish": "Japanese Macaques sometimes play with snowballs.",
+            "TrueFactMandarin": "日本猕猴会玩雪球。",
+            "TrueFactSuggestedLineBreak": "日本猕猴怕雪。",
+            "FalseFactEnglish": "Japanese Macaques are afraid of the snow.",
+            "FalseFactMandarin": "日本猕猴怕雪。"
+        },
+        {
+            "TrueFactEnglish": "Kangaroo rats can survive without drinking water.",
+            "TrueFactMandarin": "跳囊鼠不必喝水也能生存。",
+            "TrueFactSuggestedLineBreak": "跳囊鼠每天需要喝上\r三加仑的水才能生存。",
+            "FalseFactEnglish": "Kangaroo rats need to drink 3 gallons of water a day.",
+            "FalseFactMandarin": "跳囊鼠每天需要喝上三加仑的水才能生存。"
+        },
+        {
+            "TrueFactEnglish": "Kangaroos can jump more than 30 feet in one hop. That’s the length of 12 skateboards.",
+            "TrueFactMandarin": "袋鼠一跳可高达9米以上，相等于12个滑板的长度。",
+            "TrueFactSuggestedLineBreak": "袋鼠无法跳得比人类高。",
+            "FalseFactEnglish": "Kangaroos can't jump further than adult humans.",
+            "FalseFactMandarin": "袋鼠无法跳得比人类高。"
+        },
+        {
+            "TrueFactEnglish": "Kangaroos don’t hop backward.",
+            "TrueFactMandarin": "袋鼠不会往后跳。",
+            "TrueFactSuggestedLineBreak": "袋鼠可以往后跳。",
+            "FalseFactEnglish": "Kangaroos often hop backwards.",
+            "FalseFactMandarin": "袋鼠可以往后跳。"
+        },
+        {
+            "TrueFactEnglish": "King cobras can grow as long as a giraffe is tall.",
+            "TrueFactMandarin": "眼镜王蛇的身长可长达长颈鹿的尾巴。",
+            "TrueFactSuggestedLineBreak": "眼镜王蛇的身长\r只能长至1.5米。",
+            "FalseFactEnglish": "King cobras stop growing after they reach 5 feet long.  ",
+            "FalseFactMandarin": "眼镜王蛇的身长只能长至1.5米。"
+        },
+        {
+            "TrueFactEnglish": "Kinkajous can twist their hind feet backward to climb trees.",
+            "TrueFactMandarin": "蜜熊的后脚非常灵活，可任意攀爬树干。",
+            "TrueFactSuggestedLineBreak": "蜜熊攀爬树干时，\r可将头部倒转。",
+            "FalseFactEnglish": "Kinkajous can turn their heads backwards.",
+            "FalseFactMandarin": "蜜熊攀爬树干时，可将头部倒转。"
+        },
+        {
+            "TrueFactEnglish": "Koalas and humans have similar fingerprints.",
+            "TrueFactMandarin": "树袋熊的指纹与人类相似。",
+            "TrueFactSuggestedLineBreak": "树袋熊没有指纹。",
+            "FalseFactEnglish": "Koalas don’t have fingerprints.",
+            "FalseFactMandarin": "树袋熊没有指纹。"
+        },
+        {
+            "TrueFactEnglish": "Koalas in southern Australia have thicker fur than koalas in the north.",
+            "TrueFactMandarin": "澳大利亚南部树袋熊的毛皮比北方树袋熊的毛皮还要厚。",
+            "TrueFactSuggestedLineBreak": "澳大利亚北方树袋熊的毛皮\r比南方树袋熊的还要厚。",
+            "FalseFactEnglish": "Koalas in northern Australia have thicker fur than koalas in the south.",
+            "FalseFactMandarin": "澳大利亚北方树袋熊的毛皮比南方树袋熊的还要厚。"
+        },
+        {
+            "TrueFactEnglish": "Koalas stay awake for only four hours a day.",
+            "TrueFactMandarin": "树袋熊每天醒着的时间只有四个小时。",
+            "TrueFactSuggestedLineBreak": "树袋熊每天只睡四个小时。",
+            "FalseFactEnglish": "Koalas only sleep four hours a day.",
+            "FalseFactMandarin": "树袋熊每天只睡四个小时。"
+        },
+        {
+            "TrueFactEnglish": "Komodo dragons often vomit when threatened.",
+            "TrueFactMandarin": "科莫多巨蜥感受到威胁时会呕吐。",
+            "TrueFactSuggestedLineBreak": "科莫多巨蜥吃饱时会呕吐。",
+            "FalseFactEnglish": "Komodo often vomit after a big meal.",
+            "FalseFactMandarin": "科莫多巨蜥吃饱时会呕吐。"
+        },
+        {
+            "TrueFactEnglish": "Lions spend about 20 hours a day resting.",
+            "TrueFactMandarin": "狮子每天休息20个小时左右。",
+            "TrueFactSuggestedLineBreak": "狮子每天休息不超过8个小时。",
+            "FalseFactEnglish": "Lions spend less than 8 hours a day resting.",
+            "FalseFactMandarin": "狮子每天休息不超过8个小时。"
+        },
+        {
+            "TrueFactEnglish": "Male blue-footed boobies do a high-step strut to attract mates.",
+            "TrueFactMandarin": "蓝脚鲣鸟经常做出昂首阔步的动作来吸引伴侣。",
+            "TrueFactSuggestedLineBreak": "蓝脚鲣鸟经常做出\r昂首站立的姿势来吸引伴侣。",
+            "FalseFactEnglish": "Male blue-footed boobies stand perfectly still to attract mates.",
+            "FalseFactMandarin": "蓝脚鲣鸟经常做出昂首站立的姿势来吸引伴侣。"
+        },
+        {
+            "TrueFactEnglish": "Male giant pandas sometimes do handstands against trees.",
+            "TrueFactMandarin": "雄性大熊猫有时会在树上用手倒立。",
+            "TrueFactSuggestedLineBreak": "雄性大熊猫有时会爬到树顶上，\r然后背朝地往下跳。",
+            "FalseFactEnglish": "Male giant pandas sometimes do backflips off of the tops of trees.",
+            "FalseFactMandarin": "雄性大熊猫有时会爬到树顶上，然后背朝地往下跳。"
+        },
+        {
+            "TrueFactEnglish": "Many birds’ feathers weigh more than their bones.",
+            "TrueFactMandarin": "许多鸟类的羽毛比自身的骨头还要重。",
+            "TrueFactSuggestedLineBreak": "许多鸟类骨骼\r比自身的羽毛还要重。",
+            "FalseFactEnglish": "Most birds’ bones weigh more than their feathers.",
+            "FalseFactMandarin": "许多鸟类骨骼比自身的羽毛还要重。"
+        },
+        {
+            "TrueFactEnglish": "Monkeys can go bald in old age, just like humans can.",
+            "TrueFactMandarin": "猴子跟我们一样，年老时必须面对秃头危机。",
+            "TrueFactSuggestedLineBreak": "猴子的头上毛发会不断增长。",
+            "FalseFactEnglish": "The hair on most monkies' heads never stops growing.",
+            "FalseFactMandarin": "猴子的头上毛发会不断增长。"
+        },
+        {
+            "TrueFactEnglish": "Moonrats spend nights marking their territory with an onionlike smell.",
+            "TrueFactMandarin": "刺毛鼩猬会利用整个晚上分泌出一种类似洋葱的气味来划定地盘。",
+            "TrueFactSuggestedLineBreak": "刺毛鼩猬会利用整个晚上\r分泌出一种类似番茄的气味\r来划定地盘。",
+            "FalseFactEnglish": "Moonrats spend nights marking their territory with a tomato like smell.",
+            "FalseFactMandarin": "刺毛鼩猬会利用整个晚上分泌出一种类似番茄的气味来划定地盘。"
+        },
+        {
+            "TrueFactEnglish": "More than two million animals fly in airplanes every year.",
+            "TrueFactMandarin": "美国每年有超过200万只动物乘搭飞机。",
+            "TrueFactSuggestedLineBreak": "美国每年有超过200万只动物\r乘搭飞机。",
+            "FalseFactEnglish": "Less than 250,000 animals fly in airplanes every year.",
+            "FalseFactMandarin": "美国每年有超过200万只动物乘搭飞机。"
+        },
+        {
+            "TrueFactEnglish": "Most experts believe that birds are descended from dinosaurs.",
+            "TrueFactMandarin": "大部分科学家认为，恐龙是鸟类的祖先。",
+            "TrueFactSuggestedLineBreak": "大部分科学家认为，\r恐龙是鸟类的祖先。",
+            "FalseFactEnglish": "Most experts believe that mice are descended from dinosaurs.",
+            "FalseFactMandarin": "大部分科学家认为，恐龙是鸟类的祖先。"
+        },
+        {
+            "TrueFactEnglish": "Most frogs eat their skin after they shed.",
+            "TrueFactMandarin": "大部分的青蛙会吃掉从身上脱落的皮。",
+            "TrueFactSuggestedLineBreak": "大部分的青蛙\r不敢靠近从自己身上脱落的皮。",
+            "FalseFactEnglish": "Most frogs are afraid of their own shed skin.",
+            "FalseFactMandarin": "大部分的青蛙不敢靠近从自己身上脱落的皮。"
+        },
+        {
+            "TrueFactEnglish": "Most swans in England belong to the Queen.",
+            "TrueFactMandarin": "在英国，大部分天鹅都是属于英国现任女王的。",
+            "TrueFactSuggestedLineBreak": "在英国，大部分的鹿\r都属于英国现任女王。",
+            "FalseFactEnglish": "Most deer in England belong to the Queen.",
+            "FalseFactMandarin": "在英国，大部分的鹿都属于英国现任女王。"
+        },
+        {
+            "TrueFactEnglish": "Mountain lions can whistle.",
+            "TrueFactMandarin": "美洲狮会吹口哨。",
+            "TrueFactSuggestedLineBreak": "美洲狮会唱歌。",
+            "FalseFactEnglish": "Mountain lions can sing.",
+            "FalseFactMandarin": "美洲狮会唱歌。"
+        },
+        {
+            "TrueFactEnglish": "Newborn dolphins don’t sleep for more than a few seconds.",
+            "TrueFactMandarin": "海豚宝宝的睡眠时间只有几秒钟。",
+            "TrueFactSuggestedLineBreak": "海豚宝宝\r每天必须睡上9个小时。",
+            "FalseFactEnglish": "Newborn dolphins sleep for 9 hours a day.",
+            "FalseFactMandarin": "海豚宝宝每天必须睡上9个小时。"
+        },
+        {
+            "TrueFactEnglish": "Newborn pygmy marmosets are the size of a human finger.",
+            "TrueFactMandarin": "刚出生的侏狨体积像人的手指般大小。",
+            "TrueFactSuggestedLineBreak": "刚出生的侏狨体积\r跟人类头部一样大小。",
+            "FalseFactEnglish": "Newborn pygmy marmosets are the size of a human head.",
+            "FalseFactMandarin": "刚出生的侏狨体积跟人类头部一样大小。"
+        },
+        {
+            "TrueFactEnglish": "Nosewise, Sturdy, and Hardy were popular dog names in medieval times.",
+            "TrueFactMandarin": "在中世纪时代，大多数狗都被取名为努兹维斯（Nosewise）、史都迪（Sturdy）和哈迪（Hardy）。",
+            "TrueFactSuggestedLineBreak": "在中世纪时代，\r大多数狗都被取名为\r艾尔文（Alvin）、\r西门（Simon）和西奥多（Theodore）。",
+            "FalseFactEnglish": "Alvin, Simon, and Theodore were popular dog names in medieval times.",
+            "FalseFactMandarin": "在中世纪时代，大多数狗都被取名为艾尔文（Alvin）、西门（Simon）和西奥多（Theodore）。"
+        },
+        {
+            "TrueFactEnglish": "One type of frog hears through its mouth.",
+            "TrueFactMandarin": "有一种青蛙通过嘴吧听声音。",
+            "TrueFactSuggestedLineBreak": "有一种青蛙通过嘴吧听声音。",
+            "FalseFactEnglish": "One type of frog hears through its feet.",
+            "FalseFactMandarin": "有一种青蛙通过嘴吧听声音。"
+        },
+        {
+            "TrueFactEnglish": "One type of owl in Australia barks like a dog.",
+            "TrueFactMandarin": "澳洲有一种猫头鹰的叫声与狗吠声一样。",
+            "TrueFactSuggestedLineBreak": "英格兰有一种猫头鹰的叫声\r与猪叫声一样。",
+            "FalseFactEnglish": "One type of owl in England oinks like a pig.",
+            "FalseFactMandarin": "英格兰有一种猫头鹰的叫声与猪叫声一样。"
+        },
+        {
+            "TrueFactEnglish": "Only male toads croak.",
+            "TrueFactMandarin": "只有公蟾蜍才会呱呱叫。",
+            "TrueFactSuggestedLineBreak": "只有母蟾蜍才会呱呱叫。",
+            "FalseFactEnglish": "Only female toads can croak.",
+            "FalseFactMandarin": "只有母蟾蜍才会呱呱叫。"
+        },
+        {
+            "TrueFactEnglish": "Only male turkeys gobble.",
+            "TrueFactMandarin": "雄火鸡在狼吞虎咽时会发出声音，雌火鸡则不会。",
+            "TrueFactSuggestedLineBreak": "雌火鸡在狼吞虎咽时\r会发出声音，雄火鸡则不会。",
+            "FalseFactEnglish": "Only female turkeys can gobble.",
+            "FalseFactMandarin": "雌火鸡在狼吞虎咽时会发出声音，雄火鸡则不会。"
+        },
+        {
+            "TrueFactEnglish": "Oology is the study of bird eggs.",
+            "TrueFactMandarin": "专门研究鸟蛋的学科叫“鸟蛋学”。",
+            "TrueFactSuggestedLineBreak": "专门研究鸟蛋的学科\r叫“飞蛋学”。",
+            "FalseFactEnglish": "Eggology is the study of bird eggs.",
+            "FalseFactMandarin": "专门研究鸟蛋的学科叫“飞蛋学”。"
+        },
+        {
+            "TrueFactEnglish": "Orangutans sometimes make whistles out of leaves.",
+            "TrueFactMandarin": "红毛猩猩会使用叶子制做哨子。",
+            "TrueFactSuggestedLineBreak": "红毛猩猩会使用橡子制做哨子。",
+            "FalseFactEnglish": "Orangutans sometimes make whistles out of acorns.",
+            "FalseFactMandarin": "红毛猩猩会使用橡子制做哨子。"
+        },
+        {
+            "TrueFactEnglish": "Owls can’t move their eyes.",
+            "TrueFactMandarin": "猫头鹰无法转动眼球。",
+            "TrueFactSuggestedLineBreak": "猫头鹰的眼球\r每分钟能转动100次。",
+            "FalseFactEnglish": "Owls move their eyes 100 times per minute. ",
+            "FalseFactMandarin": "猫头鹰的眼球每分钟能转动100次。"
+        },
+        {
+            "TrueFactEnglish": "Panda droppings can be made into paper.",
+            "TrueFactMandarin": "熊猫粪便可以制成纸张。",
+            "TrueFactSuggestedLineBreak": "熊猫的粪便闻起来很香。",
+            "FalseFactEnglish": "Panda droppings don't smell bad.",
+            "FalseFactMandarin": "熊猫的粪便闻起来很香。"
+        },
+        {
+            "TrueFactEnglish": "Penguins swim up to 3,100 miles in a year.",
+            "TrueFactMandarin": "企鹅每年游了大约4989公里。",
+            "TrueFactSuggestedLineBreak": "企鹅每年游了\r大约1600公里。",
+            "FalseFactEnglish": "Penguins can swim 1,000 miles in a year.",
+            "FalseFactMandarin": "企鹅每年游了大约1600公里。"
+        },
+        {
+            "TrueFactEnglish": "Pet hamsters can run up to eight miles a night on a wheel.",
+            "TrueFactMandarin": "宠物仓鼠一夜可以在跑轮上跑上13公里。",
+            "TrueFactSuggestedLineBreak": "宠物仓鼠一夜\r能在跑轮上跑上5公里。",
+            "FalseFactEnglish": "Pet hamsters can only run 3 miles a night on a wheel.",
+            "FalseFactMandarin": "宠物仓鼠一夜能在跑轮上跑上5公里。"
+        },
+        {
+            "TrueFactEnglish": "Pigeons have received medals of honor for military service.",
+            "TrueFactMandarin": "鸽子曾获得表扬军人的荣誉勋章。",
+            "TrueFactSuggestedLineBreak": "渡渡鸟\r曾获得表扬军人的荣誉勋章。",
+            "FalseFactEnglish": "Dodo birds have received medals of honor for military service.",
+            "FalseFactMandarin": "渡渡鸟曾获得表扬军人的荣誉勋章。"
+        },
+        {
+            "TrueFactEnglish": "Pigs have been taught to play video games.",
+            "TrueFactMandarin": "有人曾经教猪玩电子游戏。",
+            "TrueFactSuggestedLineBreak": "有人曾经教导猪玩拼字游戏。",
+            "FalseFactEnglish": "Pigs have been taught how to play Scrabble.",
+            "FalseFactMandarin": "有人曾经教导猪玩拼字游戏。"
+        },
+        {
+            "TrueFactEnglish": "Porcupine quills were once used as toothpicks.",
+            "TrueFactMandarin": "人类曾把豪猪身上的刺当作牙签使用。",
+            "TrueFactSuggestedLineBreak": "人们曾把豪猪身上的刺\r当作箭头使用。",
+            "FalseFactEnglish": "Porcupine quills were once used as arrowheads.",
+            "FalseFactMandarin": "人们曾把豪猪身上的刺当作箭头使用。"
+        },
+        {
+            "TrueFactEnglish": "Pudus – the smallest type of deer – run in a zigzag pattern to escape predators.",
+            "TrueFactMandarin": "世界上最小型的鹿类是普度鹿；它以交叉奔跑的方式逃避敌人。",
+            "TrueFactSuggestedLineBreak": "普度鹿世界上最大型的鹿类；\r它以套圈圈奔跑的方式逃避敌人。",
+            "FalseFactEnglish": "Pudus – the largest type of deer – run in circles to escape predators.",
+            "FalseFactMandarin": "普度鹿世界上最大型的鹿类；它以套圈圈奔跑的方式逃避敌人。"
+        },
+        {
+            "TrueFactEnglish": "Rabbits can see behind themselves without moving their heads.",
+            "TrueFactMandarin": "兔子不必转身，也可以看到背后的东西。",
+            "TrueFactSuggestedLineBreak": "兔子只能向前看，\r无法看到背后的东西。",
+            "FalseFactEnglish": "Rabbits can only see in front of themselves.",
+            "FalseFactMandarin": "兔子只能向前看，无法看到背后的东西。"
+        },
+        {
+            "TrueFactEnglish": "Red-footed tortoises have been taught to use touch screens.",
+            "TrueFactMandarin": "人类曾经教导红腿象龟使用触控屏幕。",
+            "TrueFactSuggestedLineBreak": "人们曾经教导红腿象龟\r使用社交媒体。",
+            "FalseFactEnglish": "Red-footed tortoises have been taught how to use social media.",
+            "FalseFactMandarin": "人们曾经教导红腿象龟使用社交媒体。"
+        },
+        {
+            "TrueFactEnglish": "Rhinos may communicate by leaving each other dung piles.",
+            "TrueFactMandarin": "犀牛可以通过拉屎来沟通。",
+            "TrueFactSuggestedLineBreak": "犀牛通过在路上\r留下堆积的石头\r与同伴沟通。",
+            "FalseFactEnglish": "Rhinos may communicate by leaving each other piles of rocks.",
+            "FalseFactMandarin": "犀牛通过在路上留下堆积的石头与同伴沟通。"
+        },
+        {
+            "TrueFactEnglish": "Scientists have found a new monkey species with a blue bottom.",
+            "TrueFactMandarin": "科学家最近发现一种蓝色屁股的猴子品种。",
+            "TrueFactSuggestedLineBreak": "自1935年后，\r科学家就未有发现\r任何新品种的猴子。",
+            "FalseFactEnglish": "No new species of monkey has been found since 1935.",
+            "FalseFactMandarin": "自1935年后，科学家就未有发现任何新品种的猴子。"
+        },
+        {
+            "TrueFactEnglish": "Sea lion pups can recognize their mothers’ calls in a crowd.",
+            "TrueFactMandarin": "小海狮可以在海狮群中认出妈妈的呼叫声。",
+            "TrueFactSuggestedLineBreak": "小海狮无法在海狮群中\r认出妈妈的呼叫声。",
+            "FalseFactEnglish": "Sea Lion pups can not recognize their mother's call in a crowd.",
+            "FalseFactMandarin": "小海狮无法在海狮群中认出妈妈的呼叫声。"
+        },
+        {
+            "TrueFactEnglish": "Seagulls will perch on pelicans’ heads.",
+            "TrueFactMandarin": "海鸥会栖息在塘鹅的头上。",
+            "TrueFactSuggestedLineBreak": "海鸥不喜欢靠近塘鹅。",
+            "FalseFactEnglish": "Seagulls do not like pelicans.",
+            "FalseFactMandarin": "海鸥不喜欢靠近塘鹅。"
+        },
+        {
+            "TrueFactEnglish": "Skunks have striped skin.",
+            "TrueFactMandarin": "臭鼬身边两侧有白色的条纹。",
+            "TrueFactSuggestedLineBreak": "臭鼬身边两侧\r有许多圆形斑点。",
+            "FalseFactEnglish": "Skunks have polka dotted skin.",
+            "FalseFactMandarin": "臭鼬身边两侧有许多圆形斑点。"
+        },
+        {
+            "TrueFactEnglish": "Sloth bears use their snouts and lips like vacuums, sucking up insects for snacks.",
+            "TrueFactMandarin": "懒熊会使用口鼻来吸食昆虫，以作为零食。",
+            "TrueFactSuggestedLineBreak": "树袋熊会使用口鼻来吸食昆虫，\r以作为零食。",
+            "FalseFactEnglish": "Koala bears use their snouts and lips like vacuums, sucking up insects for snacks.",
+            "FalseFactMandarin": "树袋熊会使用口鼻来吸食昆虫，以作为零食。"
+        },
+        {
+            "TrueFactEnglish": "Snakes can't slither on glass.",
+            "TrueFactMandarin": "蛇无法在玻璃表面上爬行。",
+            "TrueFactSuggestedLineBreak": "蛇能在任何表面上爬行。",
+            "FalseFactEnglish": "Snakes can slither on any surface.",
+            "FalseFactMandarin": "蛇能在任何表面上爬行。"
+        },
+        {
+            "TrueFactEnglish": "Snow leopards can't roar.",
+            "TrueFactMandarin": "雪豹不会吼叫。",
+            "TrueFactSuggestedLineBreak": "雪豹的吼叫声比老虎还大声。",
+            "FalseFactEnglish": "Snow leopards roar louder than tigers.",
+            "FalseFactMandarin": "雪豹的吼叫声比老虎还大声。"
+        },
+        {
+            "TrueFactEnglish": "Some arctic fox dens are 300 years old.",
+            "TrueFactMandarin": "一些北极狐狸窝有300年了。",
+            "TrueFactSuggestedLineBreak": "最古老的北极狐狸窝\r有100年历史。",
+            "FalseFactEnglish": "The oldest artic fox den found was 100 years old.",
+            "FalseFactMandarin": "最古老的北极狐狸窝有100年历史。"
+        },
+        {
+            "TrueFactEnglish": "Some bat’s hearing is strong enough to detect the sound of a beetle walking on a leaf.",
+            "TrueFactMandarin": "有些蝙蝠的听觉特别敏锐，甚至可以听到甲虫在叶片上走动的声音。",
+            "TrueFactSuggestedLineBreak": "许多蝙蝠的听觉都很迟钝，\r无法察觉周围的动静。",
+            "FalseFactEnglish": "Most bats have bad hearing.",
+            "FalseFactMandarin": "许多蝙蝠的听觉都很迟钝，无法察觉周围的动静。"
+        },
+        {
+            "TrueFactEnglish": "Some bats are light enough to mail with a First-Class Stamp.",
+            "TrueFactMandarin": "有些蝙蝠轻得足以使用一等邮票来寄送。",
+            "TrueFactSuggestedLineBreak": "所有蝙蝠的重量是一致的。",
+            "FalseFactEnglish": "All bats weigh the same.",
+            "FalseFactMandarin": "所有蝙蝠的重量是一致的。"
+        },
+        {
+            "TrueFactEnglish": "Some chickens are born half male, half female.",
+            "TrueFactMandarin": "有些鸡天生雌雄同体。",
+            "TrueFactSuggestedLineBreak": "所有的鸡一生下来都是母鸡。",
+            "FalseFactEnglish": "All chickens are born female.",
+            "FalseFactMandarin": "所有的鸡一生下来都是母鸡。"
+        },
+        {
+            "TrueFactEnglish": "Some chickens lay green or blue eggs.",
+            "TrueFactMandarin": "有的母鸡会生下青色或蓝色的鸡蛋。",
+            "TrueFactSuggestedLineBreak": "鸡蛋只有白色或褐色。",
+            "FalseFactEnglish": "All chickens eggs are either white or brown.",
+            "FalseFactMandarin": "鸡蛋只有白色或褐色。"
+        },
+        {
+            "TrueFactEnglish": "Some cobras can spit venom 6.5 feet—that’s longer than a hockey stick.",
+            "TrueFactMandarin": "有的眼镜蛇可以吐出2米长的毒液，比曲棍球棒还要长。",
+            "TrueFactSuggestedLineBreak": "眼镜蛇吐出的毒液\r只有90厘米长。",
+            "FalseFactEnglish": "Cobra's venom cannot be spit further than 3 feet.",
+            "FalseFactMandarin": "眼镜蛇吐出的毒液只有90厘米长。"
+        },
+        {
+            "TrueFactEnglish": "Some cows make best friends with other cattle in their herd.",
+            "TrueFactMandarin": "有的牛会与其它牛群里的牛成为好朋友。",
+            "TrueFactSuggestedLineBreak": "牛天生孤僻，\r不爱与同伴来往。",
+            "FalseFactEnglish": "Cows are antisocial.",
+            "FalseFactMandarin": "牛天生孤僻，不爱与同伴来往。"
+        },
+        {
+            "TrueFactEnglish": "Some dinosaur skulls were about as long as an adult human is tall.",
+            "TrueFactMandarin": "有些恐龙的头颅大小与成人的高度一样。",
+            "TrueFactSuggestedLineBreak": "恐龙头颅最长只有122厘米。",
+            "FalseFactEnglish": "The longest dinosaur skull is 4 feet long. ",
+            "FalseFactMandarin": "恐龙头颅最长只有122厘米。"
+        },
+        {
+            "TrueFactEnglish": "Some Dinosaurs had 1,000 teeth.",
+            "TrueFactMandarin": "有的恐龙拥有1000颗牙齿。",
+            "TrueFactSuggestedLineBreak": "有的大象拥有1000颗牙齿。",
+            "FalseFactEnglish": "Some Elephants have 1,000 teeth.",
+            "FalseFactMandarin": "有的大象拥有1000颗牙齿。"
+        },
+        {
+            "TrueFactEnglish": "Some dogs are allergic to cats.",
+            "TrueFactMandarin": "有的狗会对猫敏感。",
+            "TrueFactSuggestedLineBreak": "狗不会对任何东西敏感。",
+            "FalseFactEnglish": "Dogs do not have allergies.",
+            "FalseFactMandarin": "狗不会对任何东西敏感。"
+        },
+        {
+            "TrueFactEnglish": "Some frogs can glide up to 50 feet through the air.",
+            "TrueFactMandarin": "有些青蛙可以在空中滑翔15米。",
+            "TrueFactSuggestedLineBreak": "有些青蛙可以飞。",
+            "FalseFactEnglish": "Some frogs can fly.",
+            "FalseFactMandarin": "有些青蛙可以飞。"
+        },
+        {
+            "TrueFactEnglish": "Some frogs glow when they eat fireflies.",
+            "TrueFactMandarin": "有的青蛙吞下萤火虫后会发亮。",
+            "TrueFactSuggestedLineBreak": "有的青蛙吞下苍蝇后会嗡嗡叫。",
+            "FalseFactEnglish": "Some frogs will buzz after eating a fly.",
+            "FalseFactMandarin": "有的青蛙吞下苍蝇后会嗡嗡叫。"
+        },
+        {
+            "TrueFactEnglish": "Some frogs survive the winter by freezing almost solid.",
+            "TrueFactMandarin": "有的青蛙会把自己冷冻起来过冬。",
+            "TrueFactSuggestedLineBreak": "有的青蛙会结茧过冬。",
+            "FalseFactEnglish": "Some frogs survive the winter by wrapping themselves in a cocoon. ",
+            "FalseFactMandarin": "有的青蛙会结茧过冬。"
+        },
+        {
+            "TrueFactEnglish": "Some hummingbirds weigh less than a penny.",
+            "TrueFactMandarin": "有些蜂鸟的体重比1美分硬币还要轻。",
+            "TrueFactSuggestedLineBreak": "有些蜂鸟的体重\r比四颗米饭还要轻。",
+            "FalseFactEnglish": "Hummingbirds weigh less than 4 grains of rice.",
+            "FalseFactMandarin": "有些蜂鸟的体重比四颗米饭还要轻。"
+        },
+        {
+            "TrueFactEnglish": "Some male mice sing songs to attract mates.",
+            "TrueFactMandarin": "有些公鼠求偶时会唱歌。",
+            "TrueFactSuggestedLineBreak": "有些公鼠求偶时\r会做出类似体操的动作。",
+            "FalseFactEnglish": "Some male mice do gymnastics to attract mates.",
+            "FalseFactMandarin": "有些公鼠求偶时会做出类似体操的动作。"
+        },
+        {
+            "TrueFactEnglish": "Some monkeys in Thailand teach their young to floss.",
+            "TrueFactMandarin": "泰国有些猴子会教猴宝宝使用牙线。",
+            "TrueFactSuggestedLineBreak": "泰国有些猴子\r会教猴宝宝刷牙。",
+            "FalseFactEnglish": "Some monkeys in Thailand teach their young to brush their teeth.",
+            "FalseFactMandarin": "泰国有些猴子会教猴宝宝刷牙。"
+        },
+        {
+            "TrueFactEnglish": "Some parrots dance when they hear pop music.",
+            "TrueFactMandarin": "有的鹦鹉会跟着流行音乐起舞。",
+            "TrueFactSuggestedLineBreak": "鹦鹉不喜欢音乐。",
+            "FalseFactEnglish": "Parrots hate music.",
+            "FalseFactMandarin": "鹦鹉不喜欢音乐。"
+        },
+        {
+            "TrueFactEnglish": "Some pigs are afraid of mud.",
+            "TrueFactMandarin": "有的猪会害怕接触泥巴。",
+            "TrueFactSuggestedLineBreak": "所有的猪都喜欢滚泥巴。",
+            "FalseFactEnglish": "All pigs love the mud.",
+            "FalseFactMandarin": "所有的猪都喜欢滚泥巴。"
+        },
+        {
+            "TrueFactEnglish": "Some pigs have curly hair.",
+            "TrueFactMandarin": "有的猪拥有一身卷毛。",
+            "TrueFactSuggestedLineBreak": "所有的猪都拥有\r一身竖直的毛发。",
+            "FalseFactEnglish": "Pigs hair is always perfectly straight.",
+            "FalseFactMandarin": "所有的猪都拥有一身竖直的毛发。"
+        },
+        {
+            "TrueFactEnglish": "Some rats appear to laugh when tickled.",
+            "TrueFactMandarin": "有的老鼠被瘙痒时会发出笑声。",
+            "TrueFactSuggestedLineBreak": "有的老鼠会听笑话，\r而且会跟着笑出来。",
+            "FalseFactEnglish": "Some rats appear to laugh when told certain jokes.",
+            "FalseFactMandarin": "有的老鼠会听笑话，而且会跟着笑出来。"
+        },
+        {
+            "TrueFactEnglish": "Some rats can survive without water longer than camels.",
+            "TrueFactMandarin": "在断水的情况下，有的老鼠比骆驼活得更久。",
+            "TrueFactSuggestedLineBreak": "老鼠每天需要喝下\r一加仑的水。",
+            "FalseFactEnglish": "Rats need to drink 1 gallon of water a day. ",
+            "FalseFactMandarin": "老鼠每天需要喝下一加仑的水。"
+        },
+        {
+            "TrueFactEnglish": "Some salamanders can regrow their tail, legs, and even parts of their eyes.",
+            "TrueFactMandarin": "有些火蜥蜴能重新长出尾巴、腿，甚至是眼睛。",
+            "TrueFactSuggestedLineBreak": "火蜥蜴没有尾巴。",
+            "FalseFactEnglish": "Salamanders don't have tails.",
+            "FalseFactMandarin": "火蜥蜴没有尾巴。"
+        },
+        {
+            "TrueFactEnglish": "Some snails float across water clinging to a bubbly raft of their mucus.",
+            "TrueFactMandarin": "有的蜗牛可使用身体分泌出的泡沫粘液漂浮在水面上。",
+            "TrueFactSuggestedLineBreak": "蜗牛无法在水面上滑行。",
+            "FalseFactEnglish": "Snails can't travel through water.",
+            "FalseFactMandarin": "蜗牛无法在水面上滑行。"
+        },
+        {
+            "TrueFactEnglish": "Some snails have 15,000 teeth.",
+            "TrueFactMandarin": "有些蜗牛有1万5000颗牙齿。",
+            "TrueFactSuggestedLineBreak": "有些蜗牛有五万颗牙齿。",
+            "FalseFactEnglish": "Some snails have 50,000 teeth.",
+            "FalseFactMandarin": "有些蜗牛有五万颗牙齿。"
+        },
+        {
+            "TrueFactEnglish": "Some toxic frogs produce sugar to sweeten their poison.",
+            "TrueFactMandarin": "有些毒青蛙能自行分泌糖分，使毒液产生甜味。",
+            "TrueFactSuggestedLineBreak": "有些青蛙能自行分泌糖分，\r使食物产生甜味。",
+            "FalseFactEnglish": "Some frogs produce sugar to sweeten their food.",
+            "FalseFactMandarin": "有些青蛙能自行分泌糖分，使食物产生甜味。"
+        },
+        {
+            "TrueFactEnglish": "Some tree snakes can glide through the air the length of two school buses.",
+            "TrueFactMandarin": "树蛇在空中滑翔的距离可达两辆校车的长度。",
+            "TrueFactSuggestedLineBreak": "树蛇只能贴附在叶片或树干上，\r不会滑翔。",
+            "FalseFactEnglish": "Tree snakes never leave their trees.",
+            "FalseFactMandarin": "树蛇只能贴附在叶片或树干上，不会滑翔。"
+        },
+        {
+            "TrueFactEnglish": "South Africa’s giant bullfrog sometimes attacks lions.",
+            "TrueFactMandarin": "南非大牛蛙曾经攻击狮子。",
+            "TrueFactSuggestedLineBreak": "南非洲狮经常攻击大牛蛙。",
+            "FalseFactEnglish": "South Africa's lions often attack bullfrogs.",
+            "FalseFactMandarin": "南非洲狮经常攻击大牛蛙。"
+        },
+        {
+            "TrueFactEnglish": "Squirrels sweat through their feet.",
+            "TrueFactMandarin": "松鼠通过他们的脚排汗。",
+            "TrueFactSuggestedLineBreak": "松鼠通过舌头排汗。",
+            "FalseFactEnglish": "Squirrels sweat through their mouth.",
+            "FalseFactMandarin": "松鼠通过舌头排汗。"
+        },
+        {
+            "TrueFactEnglish": "Swiftlet birds’ nests are made entirely from saliva.",
+            "TrueFactMandarin": "燕窝的主要成分是金丝雀的唾液。",
+            "TrueFactSuggestedLineBreak": "燕窝的主要成分是水果残渣。",
+            "FalseFactEnglish": "Swiftlet birds’ nests are made entirely from fruit.",
+            "FalseFactMandarin": "燕窝的主要成分是水果残渣。"
+        },
+        {
+            "TrueFactEnglish": "Tasmanian devils may challenge enemies by sneezing.",
+            "TrueFactMandarin": "袋獾通过打喷嚏来吓唬敌人。",
+            "TrueFactSuggestedLineBreak": "袋獾通过咳嗽来吓唬敌人。",
+            "FalseFactEnglish": "Tasmanian devils may challenge enemies by coughing",
+            "FalseFactMandarin": "袋獾通过咳嗽来吓唬敌人。"
+        },
+        {
+            "TrueFactEnglish": "The Australian lyrebird can mimic car alarms.",
+            "TrueFactMandarin": "琴鸟会模仿汽车的喇叭声。",
+            "TrueFactSuggestedLineBreak": "琴鸟会模仿升降梯的声音。",
+            "FalseFactEnglish": "The Australian lyrebird can mimic elevator sounds.",
+            "FalseFactMandarin": "琴鸟会模仿升降梯的声音。"
+        },
+        {
+            "TrueFactEnglish": "The biggest bald eagle nests weigh up to 4,000 pounds.",
+            "TrueFactMandarin": "最大的白头鹰巢重达1800公斤。",
+            "TrueFactSuggestedLineBreak": "最大的白头鹰巢重达450公斤。",
+            "FalseFactEnglish": "The biggest bald eagle nests weighs just under 1,000 pounds.",
+            "FalseFactMandarin": "最大的白头鹰巢重达450公斤。"
+        },
+        {
+            "TrueFactEnglish": "The desert-dwelling fennec fox has hairy footpads that protect its feet from hot sand.",
+            "TrueFactMandarin": "生长在沙漠上的耳廓狐，足底长有软毛，使它能在滚烫的沙地上行走自如。",
+            "TrueFactSuggestedLineBreak": "生长在沙漠上的耳廓狐，\r足底长有蹄子，\r使它能在滚烫的沙地上行走自如。",
+            "FalseFactEnglish": "The desert-dwelling fennec fox wears shoes to protect its feet from hot sand.",
+            "FalseFactMandarin": "生长在沙漠上的耳廓狐，足底长有蹄子，使它能在滚烫的沙地上行走自如。"
+        },
+        {
+            "TrueFactEnglish": "The dhole—a kind of wild dog—can jump 7 feet vertically in the air.",
+            "TrueFactMandarin": "豺犬，一种野狗，能垂直跳至2米高。",
+            "TrueFactSuggestedLineBreak": "豺犬是一种野浣熊。",
+            "FalseFactEnglish": "The dhole is a wild racoon.",
+            "FalseFactMandarin": "豺犬是一种野浣熊。"
+        },
+        {
+            "TrueFactEnglish": "The eastern spotted skunk does a handstand before it sprays.",
+            "TrueFactMandarin": "斑臭鼬向敌人喷出臭液时会前腿倒立。",
+            "TrueFactSuggestedLineBreak": "斑臭鼬向敌人喷出臭液时\r会向前翻筋斗",
+            "FalseFactEnglish": "The eastern spotted skunk does a cartwheel before it sprays.",
+            "FalseFactMandarin": "斑臭鼬向敌人喷出臭液时会向前翻筋斗"
+        },
+        {
+            "TrueFactEnglish": "The hearts of some hummingbirds can beat faster than 1,000 times a minute.",
+            "TrueFactMandarin": "有些蜂鸟的心脏每分钟跳动超过1000次。",
+            "TrueFactSuggestedLineBreak": "有些蜂鸟的心脏\r每秒钟跳动一次。",
+            "FalseFactEnglish": "The hearts of hummingbirds beat once per second.",
+            "FalseFactMandarin": "有些蜂鸟的心脏每秒钟跳动一次。"
+        },
+        {
+            "TrueFactEnglish": "The Indian giant squirrel has purple fur.",
+            "TrueFactMandarin": "印度巨松鼠拥有紫色的毛皮。",
+            "TrueFactSuggestedLineBreak": "印度巨松鼠拥有\r灰色条纹的毛皮。",
+            "FalseFactEnglish": "The Indian giant squirrel has grey stripped fur.",
+            "FalseFactMandarin": "印度巨松鼠拥有灰色条纹的毛皮。"
+        },
+        {
+            "TrueFactEnglish": "The largest dinosaurs were vegetarians.",
+            "TrueFactMandarin": "史上最大的恐龙是吃素的。",
+            "TrueFactSuggestedLineBreak": "史上最大的恐龙是肉食动物。",
+            "FalseFactEnglish": "The largest dinosaurs were meat eaters.",
+            "FalseFactMandarin": "史上最大的恐龙是肉食动物。"
+        },
+        {
+            "TrueFactEnglish": "The largest salamanders can grow as long as bicycles.",
+            "TrueFactMandarin": "世界上体积最大的火蜥蜴能长得跟脚踏车一样长。",
+            "TrueFactSuggestedLineBreak": "世界上体积最大的火蜥蜴\r长得跟棒球棒一样长。",
+            "FalseFactEnglish": "The largest salamanders are as long as a baseball bat.",
+            "FalseFactMandarin": "世界上体积最大的火蜥蜴长得跟棒球棒一样长。"
+        },
+        {
+            "TrueFactEnglish": "The longest recorded flight of a chicken is 13 seconds.",
+            "TrueFactMandarin": "鸡最长的飞行记录是13秒。",
+            "TrueFactSuggestedLineBreak": "鸡最长的飞行记录是4秒。",
+            "FalseFactEnglish": "The longest recorded flight of a chicken is 4 seconds.",
+            "FalseFactMandarin": "鸡最长的飞行记录是4秒。"
+        },
+        {
+            "TrueFactEnglish": "The Mwanza flat-headed agama lizard resembles Spider-Man.",
+            "TrueFactMandarin": "姆万扎平头飞龙蜥的颜色很接近蜘蛛侠的外形。",
+            "TrueFactSuggestedLineBreak": "姆万扎平头飞龙蜥的颜色\r很接近绿巨人浩克的外形。",
+            "FalseFactEnglish": "The Mwanza flat-headed agama lizard resembles The Incredible Hulk.",
+            "FalseFactMandarin": "姆万扎平头飞龙蜥的颜色很接近绿巨人浩克的外形。"
+        },
+        {
+            "TrueFactEnglish": "The Patagonian mara, a South American rodent, often bounces up and down on all four legs.",
+            "TrueFactMandarin": "巴塔哥尼亚豚鼠是一种南美啮齿动物，它经常使用四条腿上下跳动。",
+            "TrueFactSuggestedLineBreak": "巴塔哥尼亚豚鼠\r无法上下跳动。",
+            "FalseFactEnglish": "The Patagonian mara cannot bounce or jump. ",
+            "FalseFactMandarin": "巴塔哥尼亚豚鼠无法上下跳动。"
+        },
+        {
+            "TrueFactEnglish": "The regal horned lizard squirts blood out of its eyes to repel predators.",
+            "TrueFactMandarin": "喷血角蜥因眼睛能喷出血液击退敌人而得名。",
+            "TrueFactSuggestedLineBreak": "喷血角蜥因鼻孔和耳孔\r能喷出血液击退敌人而得名。",
+            "FalseFactEnglish": "The regal horned lizard squirts blood out of it's nose and ears to repel predators.",
+            "FalseFactMandarin": "喷血角蜥因鼻孔和耳孔能喷出血液击退敌人而得名。"
+        },
+        {
+            "TrueFactEnglish": "The skin of a golden poison-dart frog contains enough toxins to kill up to 100 people.",
+            "TrueFactMandarin": "金色毒镖蛙皮肤表层上的毒素足以毒死100人。",
+            "TrueFactSuggestedLineBreak": "金色毒镖蛙皮肤表层上的毒素\r不足以致命。",
+            "FalseFactEnglish": "The skin of a golden poison-dart frog can not kill a person.",
+            "FalseFactMandarin": "金色毒镖蛙皮肤表层上的毒素不足以致命。"
+        },
+        {
+            "TrueFactEnglish": "The smallest monkey is about as tall as a toothbrush.",
+            "TrueFactMandarin": "世界上最小的猴子，高度相等于一支牙刷。",
+            "TrueFactSuggestedLineBreak": "世界上最小的猴子，\r高度相等于一条口香糖。",
+            "FalseFactEnglish": "The smallest monkey is about as tall as a pack of gum.",
+            "FalseFactMandarin": "世界上最小的猴子，高度相等于一条口香糖。"
+        },
+        {
+            "TrueFactEnglish": "The triceratops is the official state dinosaur of Wyoming, USA",
+            "TrueFactMandarin": "三角龙是怀俄明的国家恐龙。",
+            "TrueFactSuggestedLineBreak": "翼龙是美国怀俄明州的\r州代表恐龙。",
+            "FalseFactEnglish": "The pterodactyl is the offical state dinosaur of Wyoming, USA",
+            "FalseFactMandarin": "翼龙是美国怀俄明州的州代表恐龙。"
+        },
+        {
+            "TrueFactEnglish": "The world’s biggest frog is the size of a house cat.",
+            "TrueFactMandarin": "世界上最大的青蛙跟家猫一样大。",
+            "TrueFactSuggestedLineBreak": "世界上最大的青蛙\r跟一辆小型轿车一样大。",
+            "FalseFactEnglish": "The world’s biggest frog is the size of a small car.",
+            "FalseFactMandarin": "世界上最大的青蛙跟一辆小型轿车一样大。"
+        },
+        {
+            "TrueFactEnglish": "The world’s oldest pet goldfish lived to be 43 years old.",
+            "TrueFactMandarin": "世界上最老的宠物金鱼活了43年。",
+            "TrueFactSuggestedLineBreak": "世界上最老的宠物金鱼\r活了25年。",
+            "FalseFactEnglish": "The world’s oldest pet goldfish lived to be 25 years old.",
+            "FalseFactMandarin": "世界上最老的宠物金鱼活了25年。"
+        },
+        {
+            "TrueFactEnglish": "There are more plastic flamingos than real ones.",
+            "TrueFactMandarin": "世界上假红鹤的数量比真红鹤还要多。",
+            "TrueFactSuggestedLineBreak": "世界上真红鹤的数量\r比假红鹤还要多。",
+            "FalseFactEnglish": "There are more flamingos in the world than fake plastic ones.",
+            "FalseFactMandarin": "世界上真红鹤的数量比假红鹤还要多。"
+        },
+        {
+            "TrueFactEnglish": "To keep from drifting apart, sleeping otters may link paws.",
+            "TrueFactMandarin": "为了不被急流冲走，水獭会靠在岸边，并且双手合十。",
+            "TrueFactSuggestedLineBreak": "为了不被急流冲走，\r水獭会靠在岸边，\r把尾巴绑在同伴的尾巴上。",
+            "FalseFactEnglish": "To keep from drifting apart, sleeping otters may tie their tales together.",
+            "FalseFactMandarin": "为了不被急流冲走，水獭会靠在岸边，把尾巴绑在同伴的尾巴上。"
+        },
+        {
+            "TrueFactEnglish": "Together, a tarsier’s huge eyes can weigh as much as its brain.",
+            "TrueFactMandarin": "跗猴一双眼睛可重达它们脑袋的重量。",
+            "TrueFactSuggestedLineBreak": "跗猴一双眼睛\r比它们脑袋还要轻。",
+            "FalseFactEnglish": "Together, a tarsier’s huge eyes can weigh less than it's brain.",
+            "FalseFactMandarin": "跗猴一双眼睛比它们脑袋还要轻。"
+        },
+        {
+            "TrueFactEnglish": "Turtles lived on Earth before dinosaurs did.",
+            "TrueFactMandarin": "海龟比恐龙更早出现在地球上。",
+            "TrueFactSuggestedLineBreak": "最新研究结果显示，\r海龟在1495年出现于地球上。",
+            "FalseFactEnglish": "Earliest evidence of turtles living on earth is in 1495.",
+            "FalseFactMandarin": "最新研究结果显示，海龟在1495年出现于地球上。"
+        },
+        {
+            "TrueFactEnglish": "Tyrannosaurus rex means “tyrant lizard king” in Latin.",
+            "TrueFactMandarin": "在拉丁文里，暴龙的意思是“蜥蜴之王”。",
+            "TrueFactSuggestedLineBreak": "在拉丁文里，\r暴龙的意思是“雨中之王”。",
+            "FalseFactEnglish": "Tyrannosaurus rex means “Tired Rain Prince” in Latin.",
+            "FalseFactMandarin": "在拉丁文里，暴龙的意思是“雨中之王”。"
+        },
+        {
+            "TrueFactEnglish": "Warm frogs croak faster than cold frogs.",
+            "TrueFactMandarin": "在温度较高的环境下，青蛙的呱呱叫声比较频密。",
+            "TrueFactSuggestedLineBreak": "在温度较高的环境下，\r青蛙呱呱叫的频率较少。",
+            "FalseFactEnglish": "Warm frogs croak slower than cold frogs.",
+            "FalseFactMandarin": "在温度较高的环境下，青蛙呱呱叫的频率较少。"
+        },
+        {
+            "TrueFactEnglish": "White-faced capuchin monkeys say hi by sticking their fingers up one another’s noses.",
+            "TrueFactMandarin": "僧帽猴通过用手指触碰彼此的鼻子来问好。",
+            "TrueFactSuggestedLineBreak": "僧帽猴通过拍拍头顶\r和揉揉肚腩的动作\r向同伴问好。",
+            "FalseFactEnglish": "White-faced capuchin monkeys say hi by patting their heads and rubbing their bellies.",
+            "FalseFactMandarin": "僧帽猴通过拍拍头顶和揉揉肚腩的动作向同伴问好。"
+        },
+        {
+            "TrueFactEnglish": "With its giant ears, a fennec fox can hear tiny insects moving underground.",
+            "TrueFactMandarin": "耳廓狐有一双巨大的耳朵，能听见地底下蠕动的小昆虫。",
+            "TrueFactSuggestedLineBreak": "耳廓狐虽然有一双巨大的耳朵，\r但听觉却不灵敏。",
+            "FalseFactEnglish": "Fennec foxes have huge ears, but bad hearing.",
+            "FalseFactMandarin": "耳廓狐虽然有一双巨大的耳朵，但听觉却不灵敏。"
+        },
+        {
+            "TrueFactEnglish": "Yawns are contagious for chimpanzees, just as they are for humans.",
+            "TrueFactMandarin": "黑猩猩打哈欠会传染给同伴，人类也是如此。",
+            "TrueFactSuggestedLineBreak": "黑猩猩不会打哈欠。",
+            "FalseFactEnglish": "Unlike humans, chimpanzees never yawn.",
+            "FalseFactMandarin": "黑猩猩不会打哈欠。"
+        },
+        {
+            "TrueFactEnglish": "You can tell lions apart by the spots at the base of their whiskers.",
+            "TrueFactMandarin": "我们可以通过狮子触须底下的斑点来分辨不同的狮子。",
+            "TrueFactSuggestedLineBreak": "我们可以通过狮子尾巴上的斑点\r来分辨它们。",
+            "FalseFactEnglish": "You can tell lions apart by the spots on their tails.",
+            "FalseFactMandarin": "我们可以通过狮子尾巴上的斑点来分辨它们。"
+        },
+        {
+            "TrueFactEnglish": "Young gorillas play tag like human kids do.",
+            "TrueFactMandarin": "青春期的大猩猩跟人类小孩一样，都会玩捉迷藏。",
+            "TrueFactSuggestedLineBreak": "青春期的大猩猩不爱玩游戏。",
+            "FalseFactEnglish": "Unlike some animals, gorillas don't play games with each other.",
+            "FalseFactMandarin": "青春期的大猩猩不爱玩游戏。"
+        },
+        {
+            "TrueFactEnglish": "Young koalas sometimes smell like cough drops.",
+            "TrueFactMandarin": "树袋熊宝宝会散发出类似咳药水的体味。",
+            "TrueFactSuggestedLineBreak": "树袋熊宝宝会散发出\r类似炸薯条的体味。",
+            "FalseFactEnglish": "Young koalas sometimes smell like french fries.",
+            "FalseFactMandarin": "树袋熊宝宝会散发出类似炸薯条的体味。"
+        }
+    ]

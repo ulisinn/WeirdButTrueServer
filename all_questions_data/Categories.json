@@ -1,0 +1,62 @@
+[
+  {
+    "CategoryID": "AnimalFacts",
+    "CategoryLabelMandarin": "动物事实",
+    "CategoryLabelEnglish": "Animal Facts"
+  },
+  {
+    "CategoryID": "FoodFacts",
+    "CategoryLabelMandarin": "食物事实",
+    "CategoryLabelEnglish": "Food Facts"
+  },
+  {
+    "CategoryID": "HumanFacts",
+    "CategoryLabelMandarin": "人类事实",
+    "CategoryLabelEnglish": "Human Facts"
+  },
+  {
+    "CategoryID": "InsectFacts",
+    "CategoryLabelMandarin": "昆虫的事实",
+    "CategoryLabelEnglish": "Insect Facts"
+  },
+  {
+    "CategoryID": "MiscellaneousFacts",
+    "CategoryLabelMandarin": "杂项事实",
+    "CategoryLabelEnglish": "Miscellaneous Facts"
+  },
+  {
+    "CategoryID": "OuterSpaceFacts",
+    "CategoryLabelMandarin": "外层空间的事实",
+    "CategoryLabelEnglish": "Outer Space Facts"
+  },
+  {
+    "CategoryID": "PlantFacts",
+    "CategoryLabelMandarin": "工厂事实",
+    "CategoryLabelEnglish": "Plant Facts"
+  },
+  {
+    "CategoryID": "SeaWaterFacts",
+    "CategoryLabelMandarin": "海洋和水的事实",
+    "CategoryLabelEnglish": "Sea Water Facts"
+  },
+  {
+    "CategoryID": "SportsFacts",
+    "CategoryLabelMandarin": "体育事实",
+    "CategoryLabelEnglish": "Sports Facts"
+  },
+  {
+    "CategoryID": "TechnologyFacts",
+    "CategoryLabelMandarin": "技术事实",
+    "CategoryLabelEnglish": "Technology Facts"
+  },
+  {
+    "CategoryID": "VehicleFacts",
+    "CategoryLabelMandarin": "车辆事实",
+    "CategoryLabelEnglish": "Vehicle Facts"
+  },
+  {
+    "CategoryID": "WeatherFacts",
+    "CategoryLabelMandarin": "天气事实",
+    "CategoryLabelEnglish": "Weather Facts"
+  }
+]

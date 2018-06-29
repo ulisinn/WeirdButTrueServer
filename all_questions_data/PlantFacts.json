@@ -1,0 +1,268 @@
+[
+    {
+      "TrueFactEnglish": "420 million years ago, mushrooms grew taller than giraffes.",
+      "TrueFactMandarin": "在4亿2000年前，蘑菇长得比长颈鹿还要高。",
+      "TrueFactSuggestedLineBreak": "最高的蘑菇有183厘米高。",
+      "FalseFactEnglish": "The tallest mushroom ever was 6 ft tall. ",
+      "FalseFactMandarin": "最高的蘑菇有183厘米高。"
+    },
+    {
+      "TrueFactEnglish": "A coconut is a fruit, not a nut.",
+      "TrueFactMandarin": "椰子是一种水果，不是坚果。",
+      "TrueFactSuggestedLineBreak": "椰子是一种蔬菜，不是坚果。",
+      "FalseFactEnglish": "A coconut is a vegetable, not a nut.",
+      "FalseFactMandarin": "椰子是一种蔬菜，不是坚果。"
+    },
+    {
+      "TrueFactEnglish": "A palm tree is not a tree—it’s more closely related to grass.",
+      "TrueFactMandarin": "棕榈树并不属于树的种类，它们的生态更接近草科。",
+      "TrueFactSuggestedLineBreak": "棕榈树是世界上最高的树种。",
+      "FalseFactEnglish": "The tallest type of tree is a palm tree.",
+      "FalseFactMandarin": "棕榈树是世界上最高的树种。"
+    },
+    {
+      "TrueFactEnglish": "A peanut is not a nut.",
+      "TrueFactMandarin": "花生并不是坚果类。",
+      "TrueFactSuggestedLineBreak": "花生属于坚果类。",
+      "FalseFactEnglish": "A peanut is a nut.",
+      "FalseFactMandarin": "花生属于坚果类。"
+    },
+    {
+      "TrueFactEnglish": "A redwood tree can produce up to 100,000 seeds in a year.",
+      "TrueFactMandarin": "红木一年可生产多达十万颗种子。",
+      "TrueFactSuggestedLineBreak": "红木一年可生产\r多达三千颗种子。",
+      "FalseFactEnglish": "A redwood tree can produce up to 3,000 seeds in a year.",
+      "FalseFactMandarin": "红木一年可生产多达三千颗种子。"
+    },
+    {
+      "TrueFactEnglish": "A seed can blow across the ocean and sprout on another continent.",
+      "TrueFactMandarin": "植物的种子能漂过海洋，到另一个大陆发芽。",
+      "TrueFactSuggestedLineBreak": "风筝能漂过海洋，\r抵达另一个大陆。",
+      "FalseFactEnglish": "A kite can blow across the ocean and fly on another continent.",
+      "FalseFactMandarin": "风筝能漂过海洋，抵达另一个大陆。"
+    },
+    {
+      "TrueFactEnglish": "Almonds belong to the rose family.",
+      "TrueFactMandarin": "杏仁和玫瑰在植物分类学上同属蔷薇科。",
+      "TrueFactSuggestedLineBreak": "杏仁和玫瑰在植物分类学上\r同属葡萄科。",
+      "FalseFactEnglish": "Almonds belong to the grape family.",
+      "FalseFactMandarin": "杏仁和玫瑰在植物分类学上同属葡萄科。"
+    },
+    {
+      "TrueFactEnglish": "An ear of corn almost always has an even number of rows.",
+      "TrueFactMandarin": "几乎每穗谷子都是偶数的。",
+      "TrueFactSuggestedLineBreak": "每穗玉米含有的玉米粒数目都一样。",
+      "FalseFactEnglish": "An ear of corn almost always has the same number of kernels.",
+      "FalseFactMandarin": "每穗玉米含有的玉米粒数目都一样。"
+    },
+    {
+      "TrueFactEnglish": "An ortanique is a cross between an orange and a tangerine.",
+      "TrueFactMandarin": "有一种新奇柑桔品种叫“Ortanique“，是橙和柑的杂交种。",
+      "TrueFactSuggestedLineBreak": "“Ortanique”是指一种\r由兰花和梅子杂交而成的水果。",
+      "FalseFactEnglish": "An ortanique is a cross between an Orchid and a Prune.",
+      "FalseFactMandarin": "“Ortanique”是指一种由兰花和梅子杂交而成的水果。"
+    },
+    {
+      "TrueFactEnglish": "Apples are one-quarter air.",
+      "TrueFactMandarin": "苹果有四分之一是由空气组成。",
+      "TrueFactSuggestedLineBreak": "苹果有三分之一\r是由空气组成。",
+      "FalseFactEnglish": "Apples are three-quarters air.",
+      "FalseFactMandarin": "苹果有三分之一是由空气组成。"
+    },
+    {
+      "TrueFactEnglish": "Apples float but pears sink.",
+      "TrueFactMandarin": "苹果能浮在水面上，梨子则会沉入水底。",
+      "TrueFactSuggestedLineBreak": "梨子能浮在水面上，\r苹果则会沉入水底。",
+      "FalseFactEnglish": "Pears float but apples sink.",
+      "FalseFactMandarin": "梨子能浮在水面上，苹果则会沉入水底。"
+    },
+    {
+      "TrueFactEnglish": "Glass can last for millions of years on Earth.",
+      "TrueFactMandarin": "玻璃可在地球上存留数百万年。",
+      "TrueFactSuggestedLineBreak": "玻璃可在地球上存留四千年。",
+      "FalseFactEnglish": "Glass disintegrates after 4000 years on Earth.",
+      "FalseFactMandarin": "玻璃可在地球上存留四千年。"
+    },
+    {
+      "TrueFactEnglish": "It can take 10 years for a saguaro cactus to grow an inch.",
+      "TrueFactMandarin": "巨柱仙人掌，英文称为“Saguaro Cactus”，十年只能长成2.54厘米。",
+      "TrueFactSuggestedLineBreak": "巨柱仙人掌，\r英文称为“Saguaro Cactus”，\r每天能长出2.54厘米。",
+      "FalseFactEnglish": "A Saguaro cactus can grow about an inch every day.",
+      "FalseFactMandarin": "巨柱仙人掌，英文称为“Saguaro Cactus”，每天能长出2.54厘米。"
+    },
+    {
+      "TrueFactEnglish": "Lemons can have more sugar than strawberries.",
+      "TrueFactMandarin": "柠檬比草莓含有更多糖分。",
+      "TrueFactSuggestedLineBreak": "草莓的糖分比柠檬还要高。",
+      "FalseFactEnglish": "Strawberries have more sugar than lemons.",
+      "FalseFactMandarin": "草莓的糖分比柠檬还要高。"
+    },
+    {
+      "TrueFactEnglish": "Lily pads can grow to be wider than a king-size bed.",
+      "TrueFactMandarin": "有的睡莲垫长得比一张特大号床还宽。",
+      "TrueFactSuggestedLineBreak": "有的睡莲垫\r长得比一个篮球场还要宽。",
+      "FalseFactEnglish": "The biggest lily pad is the size of a basketball!",
+      "FalseFactMandarin": "有的睡莲垫长得比一个篮球场还要宽。"
+    },
+    {
+      "TrueFactEnglish": "Mistletoe has no scent.",
+      "TrueFactMandarin": "槲寄生并不会散发香气。",
+      "TrueFactSuggestedLineBreak": "槲寄生会散发\r一种类似烤面包的味道。",
+      "FalseFactEnglish": "Mistletoe smells like burnt toast.",
+      "FalseFactMandarin": "槲寄生会散发一种类似烤面包的味道。"
+    },
+    {
+      "TrueFactEnglish": "One ear of corn has about 500 kernels.",
+      "TrueFactMandarin": "一穗玉米有大约500颗玉米粒。",
+      "TrueFactSuggestedLineBreak": "一穗玉米有大约250颗玉米粒。",
+      "FalseFactEnglish": "One ear of corn has about 250 kernels.",
+      "FalseFactMandarin": "一穗玉米有大约250颗玉米粒。"
+    },
+    {
+      "TrueFactEnglish": "One fungus secretes red drops that look like blood.",
+      "TrueFactMandarin": "有种菌类植物会流出如血液般的红色液体。",
+      "TrueFactSuggestedLineBreak": "有种香蕉会流出\r如血液般的红色液体。",
+      "FalseFactEnglish": "One Banana secretes red drops that look like blood.",
+      "FalseFactMandarin": "有种香蕉会流出如血液般的红色液体。"
+    },
+    {
+      "TrueFactEnglish": "One type of Australian flower spends its entire life underground.",
+      "TrueFactMandarin": "澳大利亚有一种花常年生长在地底下。",
+      "TrueFactSuggestedLineBreak": "所有的花草必须常年\r生长在地底下才能生存。",
+      "FalseFactEnglish": "Flowers must live above ground to survive.",
+      "FalseFactMandarin": "所有的花草必须常年生长在地底下才能生存。"
+    },
+    {
+      "TrueFactEnglish": "One type of wildflower smells like chocolate.",
+      "TrueFactMandarin": "有一种野花的气味闻起来像巧克力。",
+      "TrueFactSuggestedLineBreak": "有一种野花的气味\r闻起来像铝膜气球。",
+      "FalseFactEnglish": "One type of wildflower smells like mylar balloons.",
+      "FalseFactMandarin": "有一种野花的气味闻起来像铝膜气球。"
+    },
+    {
+      "TrueFactEnglish": "Palm trees grew at the North Pole about 55 million years ago.",
+      "TrueFactMandarin": "大约5500万年前，北极已经出现棕榈树了。",
+      "TrueFactSuggestedLineBreak": "北极是个毫无生物的地方。",
+      "FalseFactEnglish": "Nothing has ever lived at the North Pole.",
+      "FalseFactMandarin": "北极是个毫无生物的地方。"
+    },
+    {
+      "TrueFactEnglish": "Peaches and almonds are related.",
+      "TrueFactMandarin": "桃子和杏仁同属桃科植物。",
+      "TrueFactSuggestedLineBreak": "豌豆和野葛同属豆科。",
+      "FalseFactEnglish": "Peas and poison ivy are related.",
+      "FalseFactMandarin": "豌豆和野葛同属豆科。"
+    },
+    {
+      "TrueFactEnglish": "Pumpkins also come in red, green, yellow, blue, tan, and white.",
+      "TrueFactMandarin": "南瓜的颜色包含红、绿、黄、蓝、棕和白色。",
+      "TrueFactSuggestedLineBreak": "南瓜的颜色\r包含紫、黑和灰色。",
+      "FalseFactEnglish": "Pumpkins also come in purple, black, and grey. ",
+      "FalseFactMandarin": "南瓜的颜色包含紫、黑和灰色。"
+    },
+    {
+      "TrueFactEnglish": "Ripe bananas appear blue under a black light.",
+      "TrueFactMandarin": "熟了的香蕉被黑色光线照射，会呈现蓝色。",
+      "TrueFactSuggestedLineBreak": "熟了的香蕉被黑色光线照射时，\r会呈现红色。",
+      "FalseFactEnglish": "Ripe bananas appear red under a black light.",
+      "FalseFactMandarin": "熟了的香蕉被黑色光线照射时，会呈现红色。"
+    },
+    {
+      "TrueFactEnglish": "Some mushrooms glow in the dark.",
+      "TrueFactMandarin": "有些蘑菇会在黑暗中发出荧光。",
+      "TrueFactSuggestedLineBreak": "有些蘑菇在夜晚时\r会发出悉悉簌簌的声音。",
+      "FalseFactEnglish": "Some mushrooms whisper at night.",
+      "FalseFactMandarin": "有些蘑菇在夜晚时会发出悉悉簌簌的声音。"
+    },
+    {
+      "TrueFactEnglish": "Some plants consume insects, frogs, and birds for food.",
+      "TrueFactMandarin": "有的植物以昆虫、青蛙和鸟类为食。",
+      "TrueFactSuggestedLineBreak": "有的植物以番茄酱和毛发为食。",
+      "FalseFactEnglish": "Some plants consume ketchup and fur for food",
+      "FalseFactMandarin": "有的植物以番茄酱和毛发为食。"
+    },
+    {
+      "TrueFactEnglish": "The average strawberry has 200 seeds.",
+      "TrueFactMandarin": "一颗草莓平均有200颗种子。",
+      "TrueFactSuggestedLineBreak": "一颗苹果平均有200颗种子。",
+      "FalseFactEnglish": "The average apple has 200 seeds.",
+      "FalseFactMandarin": "一颗苹果平均有200颗种子。"
+    },
+    {
+      "TrueFactEnglish": "The leaves of a certain palm tree can grow as long as 2 stretch limos.",
+      "TrueFactMandarin": "有的棕榈树的叶子长达两辆豪华轿车的长度。",
+      "TrueFactSuggestedLineBreak": "有的枫树的叶子\r长达两辆豪华轿车的长度。",
+      "FalseFactEnglish": "The leaves of a certain Maple Tree can grow as long as 2 stretch limos.",
+      "FalseFactMandarin": "有的枫树的叶子长达两辆豪华轿车的长度。"
+    },
+    {
+      "TrueFactEnglish": "The oldest continuously standing tree on earth is nearly 5,000 years old-about the same age as the pyramids of Egypt.",
+      "TrueFactMandarin": "地球上最古老的树已经有5000岁了，长寿程度可媲美埃及金字塔。",
+      "TrueFactSuggestedLineBreak": "地球上最古老的树\r已经有1378岁了。",
+      "FalseFactEnglish": "The oldest continuously standing tree on Earth is almost 1,378 years old!",
+      "FalseFactMandarin": "地球上最古老的树已经有1378岁了。"
+    },
+    {
+      "TrueFactEnglish": "The world’s heaviest onion weighed more than a man’s head.",
+      "TrueFactMandarin": "世界上最重的洋葱比人头还要重。",
+      "TrueFactSuggestedLineBreak": "世界上最重的洋葱\r跟六颗棒球一样重。",
+      "FalseFactEnglish": "The world’s heaviest onion weighed as much as  6 baseballs.",
+      "FalseFactMandarin": "世界上最重的洋葱跟六颗棒球一样重。"
+    },
+    {
+      "TrueFactEnglish": "The World’s tallest tree is 379.1 feet tall, as high as 188 school desks stacked up.",
+      "TrueFactMandarin": "世界上最高的树高达116米，相等于188张叠起的书桌。",
+      "TrueFactSuggestedLineBreak": "世界上最高的树高达28米。",
+      "FalseFactEnglish": "The World’s tallest tree is 92.1 feet tall",
+      "FalseFactMandarin": "世界上最高的树高达28米。"
+    },
+    {
+      "TrueFactEnglish": "There’s a fruit named “stinking toe.”",
+      "TrueFactMandarin": "有一种水果叫“臭脚趾”。",
+      "TrueFactSuggestedLineBreak": "有一种水果叫“臭耳屎”。",
+      "FalseFactEnglish": "There’s a fruit named “Smelly Earwax.”",
+      "FalseFactMandarin": "有一种水果叫“臭耳屎”。"
+    },
+    {
+      "TrueFactEnglish": "Tomatoes are the most popular fruit.",
+      "TrueFactMandarin": "番茄是最受欢迎的水果。",
+      "TrueFactSuggestedLineBreak": "香蕉是最受欢迎的水果。",
+      "FalseFactEnglish": "Bananas are the most popular fruit.",
+      "FalseFactMandarin": "香蕉是最受欢迎的水果。"
+    },
+    {
+      "TrueFactEnglish": "Trees with square trunks grow in Panama.",
+      "TrueFactMandarin": "巴拿马有一种树是长方形的。",
+      "TrueFactSuggestedLineBreak": "在美国俄克拉何马州的塔尔萨市，\r有一种树是长方形的。",
+      "FalseFactEnglish": "Trees with square trunks grow in Tulsa, Oklahoma.",
+      "FalseFactMandarin": "在美国俄克拉何马州的塔尔萨市，有一种树是长方形的。"
+    },
+    {
+      "TrueFactEnglish": "Watermelons are 92 percent water.",
+      "TrueFactMandarin": "西瓜有百分之92是水分。",
+      "TrueFactSuggestedLineBreak": "西瓜有百分之16是水分。",
+      "FalseFactEnglish": "Watermelons are 16 percent water.",
+      "FalseFactMandarin": "西瓜有百分之16是水分。"
+    },
+    {
+      "TrueFactEnglish": "Wild strawberries can be yellow.",
+      "TrueFactMandarin": "有的野草莓是黄色的。",
+      "TrueFactSuggestedLineBreak": "有的野草莓是透明的。",
+      "FalseFactEnglish": "Wild strawberries can be clear.",
+      "FalseFactMandarin": "有的野草莓是透明的。"
+    },
+    {
+      "TrueFactEnglish": "You can buy socks made from bamboo.",
+      "TrueFactMandarin": "我们可在市面上买到以竹片制成的袜子。",
+      "TrueFactSuggestedLineBreak": "我们可在市面上\r买到以青葡萄制成的袜子。",
+      "FalseFactEnglish": "You can buy socks made from white grapes.",
+      "FalseFactMandarin": "我们可在市面上买到以青葡萄制成的袜子。"
+    },
+    {
+      "TrueFactEnglish": "You can shine your shoes with a banana peel.",
+      "TrueFactMandarin": "香蕉皮能擦亮皮鞋。",
+      "TrueFactSuggestedLineBreak": "香蕉皮可用来洗车。",
+      "FalseFactEnglish": "You can wash your car with a banana peel.",
+      "FalseFactMandarin": "香蕉皮可用来洗车。"
+    }
+  ]

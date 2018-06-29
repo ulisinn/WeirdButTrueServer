@@ -1,0 +1,326 @@
+[
+  {
+    "TrueFactEnglish": "A bowling pin has to tilt about ten degrees to fall down.",
+    "TrueFactMandarin": "保龄球瓶要倾斜大约10度才会倒下。",
+    "TrueFactSuggestedLineBreak": "保龄球瓶要倾斜\r大约36度才会倒下。",
+    "FalseFactEnglish": "A bowling pin has to tilt about 36 degrees to fall down.",
+    "FalseFactMandarin": "保龄球瓶要倾斜大约36度才会倒下。",
+    "TrueFactSpanish": "Un pino de boliche tiene que inclinarse aproximadamente diez grados para caerse.",
+    "FalseFactSpanish": "Un pino de boliche tiene que inclinarse aproximadamente 36 grados para caerse."
+  },
+  {
+    "TrueFactEnglish": "A flawless pink diamond was auctioned for $83 million.",
+    "TrueFactMandarin": "世上有一颗完美无瑕的粉红钻石，曾以8300万美元拍卖。",
+    "TrueFactSuggestedLineBreak": "世上有一颗完美无瑕的粉红钻石，\r曾以3500万美元拍卖。",
+    "FalseFactEnglish": "A flawless pink diamond was auctioned for $35 million.",
+    "FalseFactMandarin": "世上有一颗完美无瑕的粉红钻石，曾以3500万美元拍卖。",
+    "TrueFactSpanish": "Un diamante rosa sin imperfecciones se subastó por $83 millones de dólares.",
+    "FalseFactSpanish": "Un diamante rosa sin imperfecciones se subastó por $35 millones de dólares."
+  },
+  {
+    "TrueFactEnglish": "A stack of a billion dollar bills weighs more than 15 army tanks.",
+    "TrueFactMandarin": "一叠十亿美元的钞票重量超过15辆军用坦克。",
+    "TrueFactSuggestedLineBreak": "一叠十亿美元的钞票重量\r超过10辆军用坦克。",
+    "FalseFactEnglish": "A stack of a billion dollar bills weighs less than 10 army tanks.",
+    "FalseFactMandarin": "一叠十亿美元的钞票重量超过10辆军用坦克。",
+    "TrueFactSpanish": "Un fajo de billetes de mil millones de dólares pesaría más que 15 tanques militares.",
+    "FalseFactSpanish": "Un fajo de billetes de mil millones de dólares pesa menos que 10 tanques militares."
+  },
+  {
+    "TrueFactEnglish": "A zeptosecond is one-billionth of a trillionth of a second.",
+    "TrueFactMandarin": "在英文里，“Zeptosecond”是指十亿分之一秒。",
+    "TrueFactSuggestedLineBreak": "在英文里，“Zeptosecond”\r是指百分之一阿秒。",
+    "FalseFactEnglish": "A zeptosecond is one-millionth of a billionth of a second.",
+    "FalseFactMandarin": "在英文里，“Zeptosecond”是指百分之一阿秒。",
+    "TrueFactSpanish": "Un zeptosegundo es una milmillonésima parte de una trillonésima parte de segundo.",
+    "FalseFactSpanish": "Un zeptosegundo es una millonésima parte de una milmillonésima parte de segundo."
+  },
+  {
+    "TrueFactEnglish": "An early version of the roller coaster was built out of ice.",
+    "TrueFactMandarin": "早期的云霄飞车是用冰块雕成的。",
+    "TrueFactSuggestedLineBreak": "早期的云霄飞车\r是用竹子建造而成的。",
+    "FalseFactEnglish": "The first roller coaster was built out of bamboo.",
+    "FalseFactMandarin": "早期的云霄飞车是用竹子建造而成的。",
+    "TrueFactSpanish": "La primer versión de montaña rusa se construyó con hielo.",
+    "FalseFactSpanish": "La primera versión de una montaña rusa se construyó a partir de bambú."
+  },
+  {
+    "TrueFactEnglish": "Bubble wrap was originally invented as wallpaper.",
+    "TrueFactMandarin": "气泡膜起初被当成壁纸使用。",
+    "TrueFactSuggestedLineBreak": "气泡膜起初\r被用来清理煤炭残留物。",
+    "FalseFactEnglish": "Bubble wrap was originally invented as a coal remover.",
+    "FalseFactMandarin": "气泡膜起初被用来清理煤炭残留物。",
+    "TrueFactSpanish": "La envoltura de burbuja se inventó originalmente como papel tapiz.",
+    "FalseFactSpanish": "La envoltura de burbuja se inventó originalmente como removedor de carbón."
+  },
+  {
+    "TrueFactEnglish": "Cold water weighs more than hot water.",
+    "TrueFactMandarin": "冷水比热水还要重。",
+    "TrueFactSuggestedLineBreak": "热水比冷水还要重。",
+    "FalseFactEnglish": "Hot water weighs more than cold water.",
+    "FalseFactMandarin": "热水比冷水还要重。",
+    "TrueFactSpanish": "El agua fría pesa más que el agua caliente.",
+    "FalseFactSpanish": "El agua caliente pesa más que el agua fría."
+  },
+  {
+    "TrueFactEnglish": "Days were only 18 hours long a billion years ago.",
+    "TrueFactMandarin": "十亿年前，一天只有18个小时。",
+    "TrueFactSuggestedLineBreak": "十亿年前，一天只有10个小时。",
+    "FalseFactEnglish": "Days were only 10 hours long around a billion years ago.",
+    "FalseFactMandarin": "十亿年前，一天只有10个小时。",
+    "TrueFactSpanish": "Los días duraban únicamente 18 horas hace mil millones de años.",
+    "FalseFactSpanish": "Los días duraban únicamente 10 horas hace aproximadamente mil millones de años."
+  },
+  {
+    "TrueFactEnglish": "Every day is about 55 billionths of a second longer than the day before it.",
+    "TrueFactMandarin": "每一天大约比前一天要多55亿秒。",
+    "TrueFactSuggestedLineBreak": "每一天大约比前一天要多半秒。",
+    "FalseFactEnglish": "Every day is about 20 billionths of a second shorter than the previous day.",
+    "FalseFactMandarin": "每一天大约比前一天要多半秒。",
+    "TrueFactSpanish": "Cada día es aproximadamente 55 milmillonésimas de segundo más largo que el día anterior.",
+    "FalseFactSpanish": "Cada día es aproximadamente 20 milmillonésimas de segundo más corto que el día anterior."
+  },
+  {
+    "TrueFactEnglish": "If you spent a dollar every second it would take about 32 years to spend a billion dollars.",
+    "TrueFactMandarin": "如果我们每秒钟花了1美元，32年后就花了整整10亿美元。",
+    "TrueFactSuggestedLineBreak": "如果我们每秒钟花1分钱，\r28年后就花了整整10亿美元。",
+    "FalseFactEnglish": "If you spent a penny every second it would take about 28 years to spend a billion dollars.",
+    "FalseFactMandarin": "如果我们每秒钟花1分钱，28年后就花了整整10亿美元。",
+    "TrueFactSpanish": "Si gastas un dollar cada segundo, te tomaría 32 años gastar mil millones de dólares.",
+    "FalseFactSpanish": "Si gastas un centavo de dólar cada segundo, te tomaría 28 años gastar mil millones de dólares."
+  },
+  {
+    "TrueFactEnglish": "It takes 10 bathtubs full of water to make a T-shirt.",
+    "TrueFactMandarin": "制造一件T恤需要用上十个浴缸的水。",
+    "TrueFactSuggestedLineBreak": "制造一件T恤\r需要用上三个浴缸的水。",
+    "FalseFactEnglish": "It takes about 3 bathtubs full of water to make one T-shirt.",
+    "FalseFactMandarin": "制造一件T恤需要用上三个浴缸的水。",
+    "TrueFactSpanish": "Son necesarias 10 bañeras llenas de agua para producir una playera.",
+    "FalseFactSpanish": "Son necesarias 3 bañeras llenas de agua para producir una playera."
+  },
+  {
+    "TrueFactEnglish": "Months that begin on Sundays always have a Friday the 13th.",
+    "TrueFactMandarin": "每个月第一天是星期天的月份，当月总有一个星期五落在13日。",
+    "TrueFactSuggestedLineBreak": "每个月第一天是星期天的月份，\r当月总是有31天。",
+    "FalseFactEnglish": "Months that begin on Sundays always have 31 days.",
+    "FalseFactMandarin": "每个月第一天是星期天的月份，当月总是有31天。",
+    "TrueFactSpanish": "Los meses que inician en domingo siempre tienen un viernes 13.",
+    "FalseFactSpanish": "Los meses que inician en domingo siempre tienen 31 días."
+  },
+  {
+    "TrueFactEnglish": "National Rubber Ducky Day takes place each year on January 13.",
+    "TrueFactMandarin": "每年1月13日，是美国橡胶日。",
+    "TrueFactSuggestedLineBreak": "每年3月5日，是美国橡胶日。",
+    "FalseFactEnglish": "National Rubber Ducky Day takes place each year on March 5th.",
+    "FalseFactMandarin": "每年3月5日，是美国橡胶日。",
+    "TrueFactSpanish": "El Día Nacional de los Patos de Goma se celebra el 13 de enero de cada año.",
+    "FalseFactSpanish": "El Día Nacional de los Patos de Goma se celebra el 5 de marzo de cada año."
+  },
+  {
+    "TrueFactEnglish": "One million seconds is 11 days, 13 hours, 46 minutes, and 40 seconds.",
+    "TrueFactMandarin": "一百万秒相等于11天13小时46分钟40秒。",
+    "TrueFactSuggestedLineBreak": "十亿秒相等于\r11天13小时46分钟40秒。",
+    "FalseFactEnglish": "One billion seconds is 11 days, 13 hours, 46 minutes, and 40 seconds.",
+    "FalseFactMandarin": "十亿秒相等于11天13小时46分钟40秒。",
+    "TrueFactSpanish": "Un millón de segundos es 11 días, 13 horas, 46 minutos, y 40 segundos.",
+    "FalseFactSpanish": "Mil millones de segundos es 11 días, 13 horas, 46 minutos, y 40 segundos."
+  },
+  {
+    "TrueFactEnglish": "Opposite sides of dice always add up to 7.",
+    "TrueFactMandarin": "骰子相对面的点数加起来都是等于7。",
+    "TrueFactSuggestedLineBreak": "骰子相对面的点数\r加起来都是等于6。",
+    "FalseFactEnglish": "Opposite sides of dice always add up to 6.",
+    "FalseFactMandarin": "骰子相对面的点数加起来都是等于6。",
+    "TrueFactSpanish": "Los lados opuestos de un dado siempre suman 7.",
+    "FalseFactSpanish": "Los lados opuestos de un dado siempre suman 6."
+  },
+  {
+    "TrueFactEnglish": "Sand melts at around 3,000 degrees Fahrenheit.",
+    "TrueFactMandarin": "沙子能在华氏3000度下融化。",
+    "TrueFactSuggestedLineBreak": "沙子能在摄氏3000度下融化。",
+    "FalseFactEnglish": "Sand melts at around 3,000 degrees Celsius.",
+    "FalseFactMandarin": "沙子能在摄氏3000度下融化。",
+    "TrueFactSpanish": "La arena se derrite aproximadamente a 1,648.889 grados Centigrados",
+    "FalseFactSpanish": "La arena se derrite aproximadamente a 3,000 grados Centigrados."
+  },
+  {
+    "TrueFactEnglish": "Sea Stars don’t have brains.",
+    "TrueFactMandarin": "海星是没有脑袋的。",
+    "TrueFactSuggestedLineBreak": "海星的脑袋比金鱼还要大。",
+    "FalseFactEnglish": "Sea Stars have larger brains than gold fish.",
+    "FalseFactMandarin": "海星的脑袋比金鱼还要大。",
+    "TrueFactSpanish": "Las estrellas de mar no tienen cerebro.",
+    "FalseFactSpanish": "Las estrellas de mar tienen cerebros más grandes que los peces dorados."
+  },
+  {
+    "TrueFactEnglish": "Some diamonds are more than a billion years old.",
+    "TrueFactMandarin": "有的钻石已经存在超过10亿年了。",
+    "TrueFactSuggestedLineBreak": "有的钻石已经存在\r超过三千六百年了。",
+    "FalseFactEnglish": "The oldest diamond is 36 million years old.",
+    "FalseFactMandarin": "有的钻石已经存在超过三千六百年了。",
+    "TrueFactSpanish": "Algunos diamantes tienen más de mil millones de años.",
+    "FalseFactSpanish": "El diamante más antiguo tiene 36 millones de años."
+  },
+  {
+    "TrueFactEnglish": "Sound travels about 17 times faster through steel than air.",
+    "TrueFactMandarin": "声音通过钢铁传播的速度比通过空气快上17倍。",
+    "TrueFactSuggestedLineBreak": "声音通过钢铁传播的速度\r比通过空气还要慢。",
+    "FalseFactEnglish": "Sound travels slower through steel than it does through air.",
+    "FalseFactMandarin": "声音通过钢铁传播的速度比通过空气还要慢。",
+    "TrueFactSpanish": "El sonido viaja 17 veces más rápido a través del acero que a través del aire.",
+    "FalseFactSpanish": "El sonido viaja más lento a través del acero que a través del aire."
+  },
+  {
+    "TrueFactEnglish": "The average $100 US dollar bill circulates for 9 years.",
+    "TrueFactMandarin": "平均每张100美元的钞票会在市面上流通9年。",
+    "TrueFactSuggestedLineBreak": "平均每张100美元的钞票\r会在市面上流通50年。",
+    "FalseFactEnglish": "The average $100 US dollar bill circulates for 50 years.",
+    "FalseFactMandarin": "平均每张100美元的钞票会在市面上流通50年。",
+    "TrueFactSpanish": "El billete de 100 dólares circula durante 9 años en promedio.",
+    "FalseFactSpanish": "El billete de 100 dólares circula durante 50 años en promedio."
+  },
+  {
+    "TrueFactEnglish": "The fastest time for twisting a balloon into a dog shape is 6.5 seconds.",
+    "TrueFactMandarin": "有人可在6.2秒内把长气球扭成狗狗造型，这是目前最快的记录。",
+    "TrueFactSuggestedLineBreak": "有人可在45秒内把长气球\r扭成狗狗造型，\r这是目前最快的记录。",
+    "FalseFactEnglish": "The fastest time for twisting a balloon into a dog shape is 45 seconds.",
+    "FalseFactMandarin": "有人可在45秒内把长气球扭成狗狗造型，这是目前最快的记录。",
+    "TrueFactSpanish": "El tiempo más rápido para moldear un globo en la forma de un perro es 6.5 segundos.",
+    "FalseFactSpanish": "El tiempo más rápido para moldear un globo en la forma de un perro es 45 segundos."
+  },
+  {
+    "TrueFactEnglish": "The first ballpoint pens sold for $12.50 each.",
+    "TrueFactMandarin": "第一批圆珠笔每支售价为12.50美元。",
+    "TrueFactSuggestedLineBreak": "第一批圆珠笔\r每支售价为5.73美元。",
+    "FalseFactEnglish": "The first ballpoint pens sold for $5.73 each.",
+    "FalseFactMandarin": "第一批圆珠笔每支售价为5.73美元。",
+    "TrueFactSpanish": "Los primeros bolígrafos se vendieron a $12.50 dólares cada uno.",
+    "FalseFactSpanish": "Los primeros bolígrafos se vendieron a $5.73 dólares cada uno."
+  },
+  {
+    "TrueFactEnglish": "The first telephone book was one page long.",
+    "TrueFactMandarin": "世界上第一本电话簿只有一页。",
+    "TrueFactSuggestedLineBreak": "世界上第一本电话簿长达13页。",
+    "FalseFactEnglish": "The first telephone book was 13 pages long.",
+    "FalseFactMandarin": "世界上第一本电话簿长达13页。",
+    "TrueFactSpanish": "La primera guía telefónica constaba de una sola página.",
+    "FalseFactSpanish": "La primera guía telefónica constaba de 13 páginas."
+  },
+  {
+    "TrueFactEnglish": "The largest pencil is 76 feet, about as long as seven crocodiles.",
+    "TrueFactMandarin": "世界上最大的铅笔长约23米，相等于七条鳄鱼的长度。",
+    "TrueFactSuggestedLineBreak": "世界上最大的铅笔长约10米，\r相等于三条鳄鱼的长度。",
+    "FalseFactEnglish": "The largest pencil is 32 feet. about as long as three crocodiles.",
+    "FalseFactMandarin": "世界上最大的铅笔长约10米，相等于三条鳄鱼的长度。",
+    "TrueFactSpanish": "El lápiz más grande es de 22.2504 metros, tan grande como siete cocodrilos.",
+    "FalseFactSpanish": "El lápiz más grande es de 9.7536 metros, tan grande como tres cocodrilos."
+  },
+  {
+    "TrueFactEnglish": "The largest working yo-yo was over 10 feet tall and weighed almost 900 pounds—as much as a polar bear.",
+    "TrueFactMandarin": "世界上最大的溜溜球长约300厘米，重达400公斤，足以媲美北极熊的重量。",
+    "TrueFactSuggestedLineBreak": "世界上最大的溜溜球\r长约122厘米，重达45公斤。",
+    "FalseFactEnglish": "The largest working yo-yo was 4 feet tall and weighed almost 100 pounds.",
+    "FalseFactMandarin": "世界上最大的溜溜球长约122厘米，重达45公斤。",
+    "TrueFactSpanish": "El yoyo en funcionamiento más grande era de 3.048 metros de altura y pesaba casi 408 kilogramos - casi lo mismo que un oso polar.",
+    "FalseFactSpanish": "El yoyo en funcionamiento más grande era de 1.2192 metros y pesaba casi 45kilogramos."
+  },
+  {
+    "TrueFactEnglish": "The Mona Lisa has no eyebrows.",
+    "TrueFactMandarin": "蒙娜丽莎是没有眉毛的。",
+    "TrueFactSuggestedLineBreak": "蒙娜丽莎是没有双手的。",
+    "FalseFactEnglish": "The Mona Lisa doesn't have hands.",
+    "FalseFactMandarin": "蒙娜丽莎是没有双手的。",
+    "TrueFactSpanish": "La Mona Lisa no tiene cejas.",
+    "FalseFactSpanish": "La Mona Lisa no tiene manos."
+  },
+  {
+    "TrueFactEnglish": "The most overdue library book was 288 years late.",
+    "TrueFactMandarin": "逾期未归还给图书馆的书，最久的长达288年。",
+    "TrueFactSuggestedLineBreak": "逾期未归还给图书馆的书，\r最久的长达34年。",
+    "FalseFactEnglish": "The most overdue library book was 34 years late.",
+    "FalseFactMandarin": "逾期未归还给图书馆的书，最久的长达34年。",
+    "TrueFactSpanish": "El préstamo con mas tiempo vencido de un libro de biblioteca fue de 288 años.",
+    "FalseFactSpanish": "El préstamo con mas tiempo vencido de un libro de biblioteca fue de 34 años."
+  },
+  {
+    "TrueFactEnglish": "The world’s largest toilet-paper pyramid was made up of 23,821 rolls.",
+    "TrueFactMandarin": "世界上规模最大的卫生纸金字塔，由23821卷卫生纸排成。",
+    "TrueFactSuggestedLineBreak": "世界上规模最大的\r卫生纸金字塔，\r由16200卷卫生纸排成。",
+    "FalseFactEnglish": "The world’s largest toilet-paper pyramid was made up of 16,200 rolls.",
+    "FalseFactMandarin": "世界上规模最大的卫生纸金字塔，由16200卷卫生纸排成。",
+    "TrueFactSpanish": "La pirámide de papel higiénico más grande se construyó con 23,821 rollos.",
+    "FalseFactSpanish": "La pirámide de papel higiénico más grande se construyó con 16,200 rollos."
+  },
+  {
+    "TrueFactEnglish": "The world's most expensive tea bag was decorated with 280 diamonds and cost around $14,000!",
+    "TrueFactMandarin": "世界上最贵的茶包镶有280颗钻石，价值约1万4000美元！",
+    "TrueFactSuggestedLineBreak": "世界上最贵的茶包\r镶有120颗钻石，\r价值约4000美元！",
+    "FalseFactEnglish": "The world's most expensive tea bag was decorated with 120 diamonds and cost around $4,000!",
+    "FalseFactMandarin": "世界上最贵的茶包镶有120颗钻石，价值约4000美元！",
+    "TrueFactSpanish": "La bolsa de té más cara del mundo estaba decorada con 280 diamantes y costaba aproximadamente ¡$14,000 dólares!",
+    "FalseFactSpanish": "La bolsa de té más cara del mundo estaba decorada con 120 diamantes y costaba aproximadamente ¡$4,000 dólares!"
+  },
+  {
+    "TrueFactEnglish": "There are 31,556,926 seconds in a year.",
+    "TrueFactMandarin": "一年总共有31556926秒。",
+    "TrueFactSuggestedLineBreak": "一年总共有19850526秒。",
+    "FalseFactEnglish": "There are 19,850,526 seconds in a year.",
+    "FalseFactMandarin": "一年总共有19850526秒。",
+    "TrueFactSpanish": "Existen 31,556,926 segundos en un año.",
+    "FalseFactSpanish": "Existen 19,850,526 segundos en un año."
+  },
+  {
+    "TrueFactEnglish": "There’s an entire museum devoted to dog collars.",
+    "TrueFactMandarin": "世界上有一家专门展示狗项圈的博物馆。",
+    "TrueFactSuggestedLineBreak": "世界上有一家专门展示\r狗牙的博物馆。",
+    "FalseFactEnglish": "There’s an entire island devoted to dog teeth.",
+    "FalseFactMandarin": "世界上有一家专门展示狗牙的博物馆。",
+    "TrueFactSpanish": "Existe un museo dedicado exclusivamente a collares para perros.",
+    "FalseFactSpanish": "Existe una isla completa dedicada a dientes de perros."
+  },
+  {
+    "TrueFactEnglish": "To celebrate International Pancake Day, runners race with pancakes in frying pans.",
+    "TrueFactMandarin": "人们带着盛有煎饼的平底锅赛跑，以示庆祝国际煎饼日。",
+    "TrueFactSuggestedLineBreak": "人们头顶着煎饼赛跑，\r以示庆祝国际煎饼日。",
+    "FalseFactEnglish": "To celebrate International Pancake Day, runners race with pancakes on their heads.",
+    "FalseFactMandarin": "人们头顶着煎饼赛跑，以示庆祝国际煎饼日。",
+    "TrueFactSpanish": "Para celebrar el Día Internacional de los Hot Cakes, los participantes corren llevando hot cakes en sartenes.",
+    "FalseFactSpanish": "Para celebrar el Día Internacional de los Hot Cakes, los participantes corren con hot cakes sobre sus cabezas."
+  },
+  {
+    "TrueFactEnglish": "Wedding gowns have been made out of toilet paper.",
+    "TrueFactMandarin": "世上有人利用卫生纸来制做婚纱。",
+    "TrueFactSuggestedLineBreak": "世上有人利用橙皮来制做婚纱。",
+    "FalseFactEnglish": "Wedding gowns have been made out of orange peels.",
+    "FalseFactMandarin": "世上有人利用橙皮来制做婚纱。",
+    "TrueFactSpanish": "Se han elaborado vestidos de novia a partir de papel higiénico.",
+    "FalseFactSpanish": "Se han elaborado vestidos de novia a partir de cáscaras de naranja."
+  },
+  {
+    "TrueFactEnglish": "When glass breaks, the cracks move faster than 3,000 miles an hour.",
+    "TrueFactMandarin": "当玻璃破裂后，裂缝的移动速度可快达每小时4828公里。",
+    "TrueFactSuggestedLineBreak": "当玻璃破裂后，\r裂缝的移动速度\r可快达每小时1448公里。",
+    "FalseFactEnglish": "When glass breaks, the cracks moves almost as fast as 900 miles an hour.",
+    "FalseFactMandarin": "当玻璃破裂后，裂缝的移动速度可快达每小时1448公里。",
+    "TrueFactSpanish": "Cuando el vidrio se rompe, las fisuras se mueven a más de 4,828.031 kilómetros por hora.",
+    "FalseFactSpanish": "Cuando el vidrio se rompe, las fisuras se mueven a más de 1,448.41 kilómetros por hora."
+  },
+  {
+    "TrueFactEnglish": "You can buy soap that smells like bacon frying.",
+    "TrueFactMandarin": "我们可以在市面上买到炸培根味道的香皂。",
+    "TrueFactSuggestedLineBreak": "我们可以在市面上买到\r带有香皂味的培根。",
+    "FalseFactEnglish": "You can buy bacon that smells like bath soap.",
+    "FalseFactMandarin": "我们可以在市面上买到带有香皂味的培根。",
+    "TrueFactSpanish": "Puedes comprar jabón que huele a tocino friéndose.",
+    "FalseFactSpanish": "Puedes comprar tocino que huele a jabón de baño."
+  },
+  {
+    "TrueFactEnglish": "You can fry an egg on a hot sidewalk when it reaches 158 degrees Fahrenheit.",
+    "TrueFactMandarin": "温度高达华氏158度的人行道足以把一颗鸡蛋煎熟。",
+    "TrueFactSuggestedLineBreak": "炎热气候下的人行道表面，\r不足以把一颗鸡蛋煎熟。",
+    "FalseFactEnglish": "Eggs cannot be cooked on cement.",
+    "FalseFactMandarin": "炎热气候下的人行道表面，不足以把一颗鸡蛋煎熟。",
+    "TrueFactSpanish": "Puedes freír un huevo en una calle caliente cuando alcanza los 70 grados Celsius.",
+    "FalseFactSpanish": "Los huevos no se pueden cocinar en el cemento."
+  }
+]

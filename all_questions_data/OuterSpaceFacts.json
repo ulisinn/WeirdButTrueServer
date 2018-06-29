@@ -1,0 +1,667 @@
+[
+    {
+      "TrueFactEnglish": "\"Happy Birthday\" was the first song transmitted from space to Earth.",
+      "TrueFactMandarin": "《生日快乐》是第一首从外太空传到地球的歌曲。",
+      "TrueFactSuggestedLineBreak": "《Uptown Funk》是第一首\r从外太空传到地球的歌曲。",
+      "FalseFactEnglish": "\"Uptown Funk\" was the first song transmitted from space to Earth.",
+      "FalseFactMandarin": "《Uptown Funk》是第一首从外太空传到地球的歌曲。"
+    },
+    {
+      "TrueFactEnglish": "97% of the Earth’s water is salt water.",
+      "TrueFactMandarin": "地球上有百分之97的水是盐水。",
+      "TrueFactSuggestedLineBreak": "地球上有百分之70的水是淡水。",
+      "FalseFactEnglish": "70% of the Earth’s water is fresh water.",
+      "FalseFactMandarin": "地球上有百分之70的水是淡水。"
+    },
+    {
+      "TrueFactEnglish": "A 100-pound person would weigh 38 pounds more on Mars.",
+      "TrueFactMandarin": "一个45公斤的人在火星上只有17公斤。",
+      "TrueFactSuggestedLineBreak": "在火星上，\r人的体重会比在地球上还要轻。",
+      "FalseFactEnglish": "Humans weigh less on Mars than on Earth!",
+      "FalseFactMandarin": "在火星上，人的体重会比在地球上还要轻。"
+    },
+    {
+      "TrueFactEnglish": "A 300-year-old hurricane on Jupiter is still going strong!",
+      "TrueFactMandarin": "木星上有个飓风已经吹了300年，如今风势依然强劲！",
+      "TrueFactSuggestedLineBreak": "木星上有个飓风已经吹了97年。",
+      "FalseFactEnglish": "Jupiter is covered in hurricanes, the oldest one is 97 years old!",
+      "FalseFactMandarin": "木星上有个飓风已经吹了97年。"
+    },
+    {
+      "TrueFactEnglish": "A black hole can weigh as much as 17 billion suns.",
+      "TrueFactMandarin": "黑洞的重量相等于170亿个太阳。",
+      "TrueFactSuggestedLineBreak": "月球的重量相等于170亿个太阳。",
+      "FalseFactEnglish": "Our moon weighs as much as 17 billion suns.",
+      "FalseFactMandarin": "月球的重量相等于170亿个太阳。"
+    },
+    {
+      "TrueFactEnglish": "A comet is a gigantic ball of dirt and ice.",
+      "TrueFactMandarin": "彗星是一个由尘土和冰块组成的圆形巨石。",
+      "TrueFactSuggestedLineBreak": "彗星是一个\r由金属和毛发组成的圆形巨石。",
+      "FalseFactEnglish": "A comet is a gigantic ball of metal and hair.",
+      "FalseFactMandarin": "彗星是一个由金属和毛发组成的圆形巨石。"
+    },
+    {
+      "TrueFactEnglish": "A hexagon-shaped hurricane has hovered over Saturn’s north pole for at least 30 years.",
+      "TrueFactMandarin": "过去至少30年以来，土星北极一直被一个菱形飓风笼罩。",
+      "TrueFactSuggestedLineBreak": "过去至少30年以来，\r土星北极一直\r被一个三叶草形飓风笼罩。",
+      "FalseFactEnglish": "A clover shaped tornado has hovered over Saturn’s north pole for at least 30 years.",
+      "FalseFactMandarin": "过去至少30年以来，土星北极一直被一个三叶草形飓风笼罩。"
+    },
+    {
+      "TrueFactEnglish": "A meteorite once hit a mailbox in Georgia.",
+      "TrueFactMandarin": "美国乔治亚州有个邮箱曾经被陨石撞上。",
+      "TrueFactSuggestedLineBreak": "陨石在进入大气层后\r就会化成灰烬，\r从来不曾抵达地球表面。",
+      "FalseFactEnglish": "Meteorites actually burn up in the atmosphere and have never touched the earth's surface.",
+      "FalseFactMandarin": "陨石在进入大气层后就会化成灰烬，从来不曾抵达地球表面。"
+    },
+    {
+      "TrueFactEnglish": "A space suit costs ten million dollars.",
+      "TrueFactMandarin": "每件太空服的价格是一千万美元。",
+      "TrueFactSuggestedLineBreak": "每件太空服的价格\r比一辆汽车的价格还要低。",
+      "FalseFactEnglish": "A space suit costs less than a car.",
+      "FalseFactMandarin": "每件太空服的价格比一辆汽车的价格还要低。"
+    },
+    {
+      "TrueFactEnglish": "A space suit weighs 280 pounds without an astronaut in it.",
+      "TrueFactMandarin": "太空人所穿的太空服重达127公斤。",
+      "TrueFactSuggestedLineBreak": "太空人所穿的太空服\r重达27公斤。",
+      "FalseFactEnglish": "When the astronauts are not wearing them, space suits only weigh about 60 pounds. ",
+      "FalseFactMandarin": "太空人所穿的太空服重达27公斤。"
+    },
+    {
+      "TrueFactEnglish": "About a million Earths could fit inside the sun.",
+      "TrueFactMandarin": "太阳能容纳约一百万个地球。",
+      "TrueFactSuggestedLineBreak": "太阳能容纳约四千个地球。",
+      "FalseFactEnglish": "The sun could fit about 4 thousand Earths inside of it. ",
+      "FalseFactMandarin": "太阳能容纳约四千个地球。"
+    },
+    {
+      "TrueFactEnglish": "An 11-year-old girl named the planet Pluto.",
+      "TrueFactMandarin": "冥王星的名字是由一个11岁女孩取的。",
+      "TrueFactSuggestedLineBreak": "金星的名字\r是由一个11岁女孩取的。",
+      "FalseFactEnglish": "An 11-year-old girl named the planet Venus.",
+      "FalseFactMandarin": "金星的名字是由一个11岁女孩取的。"
+    },
+    {
+      "TrueFactEnglish": "An astronaut once hit a golf ball on the moon.",
+      "TrueFactMandarin": "太空人曾在月球上打高尔夫球。",
+      "TrueFactSuggestedLineBreak": "太空人曾在月球上打保龄球。",
+      "FalseFactEnglish": "An astronaut once bowled a strike on the moon.",
+      "FalseFactMandarin": "太空人曾在月球上打保龄球。"
+    },
+    {
+      "TrueFactEnglish": "An astronaut once lost a spatula in space.",
+      "TrueFactMandarin": "曾经有个宇航员在太空中丢失了一把抹刀。",
+      "TrueFactSuggestedLineBreak": "曾经有个宇航员在太空中\r丢失了一只宠物狗。",
+      "FalseFactEnglish": "An astronaut once lost his pet dog Spot in space.",
+      "FalseFactMandarin": "曾经有个宇航员在太空中丢失了一只宠物狗。"
+    },
+    {
+      "TrueFactEnglish": "Astronaut Neil Armstrong left his space boots on the moon.",
+      "TrueFactMandarin": "宇航员尼尔·阿姆斯特朗曾将一双太空靴留在月球上。",
+      "TrueFactSuggestedLineBreak": "宇航员尼尔·阿姆斯特朗\r曾将他的手机留在月球上。",
+      "FalseFactEnglish": "Astronaut Buzz Aldrin left his cell phone on the moon.",
+      "FalseFactMandarin": "宇航员尼尔·阿姆斯特朗曾将他的手机留在月球上。"
+    },
+    {
+      "TrueFactEnglish": "Astronauts can’t whistle on the moon.",
+      "TrueFactMandarin": "宇航员无法在月球上吹哨。",
+      "TrueFactSuggestedLineBreak": "每个宇航员\r都曾在月球上吹哨。",
+      "FalseFactEnglish": "Every astronaut has whistled on the moon!",
+      "FalseFactMandarin": "每个宇航员都曾在月球上吹哨。"
+    },
+    {
+      "TrueFactEnglish": "Astronauts grow up to 3 inches taller in outer space.",
+      "TrueFactMandarin": "太空人在外太空活动时，比他在地球上高出7.62厘米。",
+      "TrueFactSuggestedLineBreak": "太空人在外太空活动时，\r身高会稍微缩短。",
+      "FalseFactEnglish": "Once in space, astronauts shrink and get shorter.",
+      "FalseFactMandarin": "太空人在外太空活动时，身高会稍微缩短。"
+    },
+    {
+      "TrueFactEnglish": "Astronauts orbiting the Earth see up to 16 sunrises and sunsets every day.",
+      "TrueFactMandarin": "围绕地球转动的宇航员，每天可以看到16次日出和日落。",
+      "TrueFactSuggestedLineBreak": "基于宇航员\r每天需要围绕地球观察，\r因此无法看见日落。",
+      "FalseFactEnglish": "Because of the rotation, astronauts orbiting the Earth never see the sunset.",
+      "FalseFactMandarin": "基于宇航员每天需要围绕地球观察，因此无法看见日落。"
+    },
+    {
+      "TrueFactEnglish": "Astronauts’ footprints stay on the moon forever; there’s no wind to blow them away.",
+      "TrueFactMandarin": "宇航员的脚印将永远留在月球上，因为月球上没有风。",
+      "TrueFactSuggestedLineBreak": "宇航员留在月球上的脚印\r会被风吹散。",
+      "FalseFactEnglish": "Unlike the surface of Mars, the moon cannot get footprints.",
+      "FalseFactMandarin": "宇航员留在月球上的脚印会被风吹散。"
+    },
+    {
+      "TrueFactEnglish": "At least 12 rocks form Mars have landed on Earth.",
+      "TrueFactMandarin": "火星上有至少12颗岩石坠落在地球上。",
+      "TrueFactSuggestedLineBreak": "冥王星上\r有至少12颗岩石坠落在地球上。",
+      "FalseFactEnglish": "27 rocks from Pluto have landed on Earth.",
+      "FalseFactMandarin": "冥王星上有至少12颗岩石坠落在地球上。"
+    },
+    {
+      "TrueFactEnglish": "Days are longer than years on the planet Mercury.",
+      "TrueFactMandarin": "水星的一天比地球的一年长。",
+      "TrueFactSuggestedLineBreak": "地球的一天比木星的一年长。",
+      "FalseFactEnglish": "The years on Jupiter are slower than the days on Jupiter.",
+      "FalseFactMandarin": "地球的一天比木星的一年长。"
+    },
+    {
+      "TrueFactEnglish": "Earth bulges at the Equator.",
+      "TrueFactMandarin": "地球的赤道是凸起的。",
+      "TrueFactSuggestedLineBreak": "地球的热带经线是凸起的。",
+      "FalseFactEnglish": "The Earth bulges at the Tropical Meridian.",
+      "FalseFactMandarin": "地球的热带经线是凸起的。"
+    },
+    {
+      "TrueFactEnglish": "Earth travels about 1.6 million miles every day.",
+      "TrueFactMandarin": "地球日行约193万公里。",
+      "TrueFactSuggestedLineBreak": "地球日行约十四万五千公里。",
+      "FalseFactEnglish": "Earth travels about 900 thousand miles every day.",
+      "FalseFactMandarin": "地球日行约十四万五千公里。"
+    },
+    {
+      "TrueFactEnglish": "Earth’s core is about the same size as the planet Mars.",
+      "TrueFactMandarin": "地球核心的体积与火星的大小相同。",
+      "TrueFactSuggestedLineBreak": "地球核心的体积\r与火星的大小相同。",
+      "FalseFactEnglish": "Earth’s core is about the same size as a killer whale.",
+      "FalseFactMandarin": "地球核心的体积与火星的大小相同。"
+    },
+    {
+      "TrueFactEnglish": "Four asteroids are named after the Beatles.",
+      "TrueFactMandarin": "宇宙中有四个小行星以披头士乐队的成员命名。",
+      "TrueFactSuggestedLineBreak": "宇宙中有五个小行星\r以“一世代男子组合的\r成员命名。",
+      "FalseFactEnglish": "Five asteroids are named after One Direction.",
+      "FalseFactMandarin": "宇宙中有五个小行星以“一世代”男子组合的成员命名。"
+    },
+    {
+      "TrueFactEnglish": "Full moons appear brighter in winter than in summer.",
+      "TrueFactMandarin": "冬天里的满月比夏天里的满月更明亮。",
+      "TrueFactSuggestedLineBreak": "有鉴于冬天云层厚，\r冬天里的满月\r比夏天里的满月更灰暗些。",
+      "FalseFactEnglish": "Because of clouds, full moons are less bright in winter than in summer.",
+      "FalseFactMandarin": "有鉴于冬天云层厚，冬天里的满月比夏天里的满月更灰暗些。"
+    },
+    {
+      "TrueFactEnglish": "If Earth didn’t tilt, we wouldn’t have seasons.",
+      "TrueFactMandarin": "如果地球不是斜的，世界各国就没有春夏秋冬。",
+      "TrueFactSuggestedLineBreak": "如果地球不是斜的，\r每年世界各国\r都会经历三次四季循环。",
+      "FalseFactEnglish": "If the Earth didn’t tilt, we would have three times as many seasons!",
+      "FalseFactMandarin": "如果地球不是斜的，每年世界各国都会经历三次四季循环。"
+    },
+    {
+      "TrueFactEnglish": "If you could drive a car straight up, you would reach space in about an hour.",
+      "TrueFactMandarin": "如果我们可以开车直直冲上天空，只需大约一个小时即可抵达外太空。",
+      "TrueFactSuggestedLineBreak": "如果我们能往天空\r直直“游上去”，\r只需大约48分钟\r即可抵达外太空。",
+      "FalseFactEnglish": "If you could swim straight up, you would reach space in about 48 minutes.",
+      "FalseFactMandarin": "如果我们能往天空直直“游上去”，只需大约48分钟即可抵达外太空。"
+    },
+    {
+      "TrueFactEnglish": "If you fell into a black hole, you’d stretch out like spaghetti.",
+      "TrueFactMandarin": "如果我们不小心陷入黑洞，将会被拉成意大利面条。",
+      "TrueFactSuggestedLineBreak": "如果我们不小心陷入黑洞，\r将会被搓成圆圆的一团，\r变得跟珠子一样。",
+      "FalseFactEnglish": "If you fell into a black hole, you'd compress into a ball the size of a marble.",
+      "FalseFactMandarin": "如果我们不小心陷入黑洞，将会被搓成圆圆的一团，变得跟珠子一样。"
+    },
+    {
+      "TrueFactEnglish": "If you traveled at the speed of light, you could reach Pluto in just 4 hours.",
+      "TrueFactMandarin": "如果能以光速前行，我们能在短短4个小时内抵达冥王星。",
+      "TrueFactSuggestedLineBreak": "如果能乘坐火车前往土星，\r我们可在26小时内\r抵达目的地。",
+      "FalseFactEnglish": "If you traveled as fast as a train, you could reach Saturn in just 26 hours.",
+      "FalseFactMandarin": "如果能乘坐火车前往土星，我们可在26小时内抵达目的地。"
+    },
+    {
+      "TrueFactEnglish": "If you traveled one light-year, you would go almost six trillion miles.",
+      "TrueFactMandarin": "一光年的距离相等于六万亿公里。",
+      "TrueFactSuggestedLineBreak": "一光年的距离\r相等于193亿公里。",
+      "FalseFactEnglish": "If you traveled one light-year, you would go almost 18 billion miles.",
+      "FalseFactMandarin": "一光年的距离相等于193亿公里。"
+    },
+    {
+      "TrueFactEnglish": "In outer space, liquids become sphere-shaped.",
+      "TrueFactMandarin": "在外太空，我们看见的液体都是球形状态。",
+      "TrueFactSuggestedLineBreak": "在深海里，\r我们看见的液体都是球形状态。",
+      "FalseFactEnglish": "Liquids become square shaped underwater.",
+      "FalseFactMandarin": "在深海里，我们看见的液体都是球形状态。"
+    },
+    {
+      "TrueFactEnglish": "It takes 8 minutes and 19 seconds for light to travel from the sun to Earth.",
+      "TrueFactMandarin": "阳光从太阳照射到地球要用上8分19秒。",
+      "TrueFactSuggestedLineBreak": "阳光从太阳照射到地球表面\r要用上6小时3分钟。",
+      "FalseFactEnglish": "It takes sunlight 6 hours and 3 minutes to get to the Earth.",
+      "FalseFactMandarin": "阳光从太阳照射到地球表面要用上6小时3分钟。"
+    },
+    {
+      "TrueFactEnglish": "It takes about 100,000 years for light to travel from the sun’s core to its surface.",
+      "TrueFactMandarin": "从太阳核心穿到太阳表面需要约十万年。",
+      "TrueFactSuggestedLineBreak": "从太阳核心穿到太阳表面\r需要约320年。",
+      "FalseFactEnglish": "It only takes 320 years for light to travel from the sun’s core to its surface.",
+      "FalseFactMandarin": "从太阳核心穿到太阳表面需要约320年。"
+    },
+    {
+      "TrueFactEnglish": "It would take 225 million years to walk a light-year (the distance light travels in a year).",
+      "TrueFactMandarin": "光年就是光速行动一年的距离，而人类需要用2亿2500万年才能完成一光年的行程。",
+      "TrueFactSuggestedLineBreak": "光年就是光速行动一年的距离，\r而人类需要用一亿一千七百万年\r才能完成一光年的行程。",
+      "FalseFactEnglish": "It would take 117 million years to walk the distance light travels in a year.",
+      "FalseFactMandarin": "光年就是光速行动一年的距离，而人类需要用一亿一千七百万年才能完成一光年的行程。"
+    },
+    {
+      "TrueFactEnglish": "It would take a jumbo jet about 120 billion years to fly across the Milky Way galaxy.",
+      "TrueFactMandarin": "一架大型飞机必须飞行约120亿年才能穿越银河系。",
+      "TrueFactSuggestedLineBreak": "太空梭必须飞行约一千亿年\r才能穿越银河系。",
+      "FalseFactEnglish": "It would take a cruise ship about 100 billion years to sail across the Milky Way galaxy.",
+      "FalseFactMandarin": "太空梭必须飞行约一千亿年才能穿越银河系。"
+    },
+    {
+      "TrueFactEnglish": "It would take a spaceship 450 million years to reach the edge of our galaxy.",
+      "TrueFactMandarin": "太空船必须利用四亿五千万年才能抵达太阳系的尽头。",
+      "TrueFactSuggestedLineBreak": "太空船必须利用\r八亿两千三百万年\r才能抵达太阳系的尽头。",
+      "FalseFactEnglish": "It would only take a spaceship 823 million years to reach the edge of our galaxy.",
+      "FalseFactMandarin": "太空船必须利用八亿两千三百万年才能抵达太阳系的尽头。"
+    },
+    {
+      "TrueFactEnglish": "It would take about 3 years of nonstop pedaling to bike to the moon.",
+      "TrueFactMandarin": "如果马不停蹄地骑脚踏车上月球，整个行程需要耗时3年。",
+      "TrueFactSuggestedLineBreak": "如果马不停蹄地\r骑脚踏车上火星，\r整个行程需要耗时3年。",
+      "FalseFactEnglish": "If you could ride a bike from Earth to Mars, it would take you 3 years.",
+      "FalseFactMandarin": "如果马不停蹄地骑脚踏车上火星，整个行程需要耗时3年。"
+    },
+    {
+      "TrueFactEnglish": "It would take about 788,832,000 two-inch yellow sticky notes to encircle the globe.",
+      "TrueFactMandarin": "只要手上有788832000张5厘米的黄色便条贴即可环绕地球一圈。",
+      "TrueFactSuggestedLineBreak": "只要手上有788832000张\r12厘米的披萨饼\r即可环绕月球一圈。",
+      "FalseFactEnglish": "It would take about 788,832,000 5 inch pizza slices to encircle the entire moon.",
+      "FalseFactMandarin": "只要手上有788832000张12厘米的披萨饼即可环绕月球一圈。"
+    },
+    {
+      "TrueFactEnglish": "Jupiter has 63 moons.",
+      "TrueFactMandarin": "木星有63个月球。",
+      "TrueFactSuggestedLineBreak": "木星有7个月球。",
+      "FalseFactEnglish": "Jupiter only has 7 moons.",
+      "FalseFactMandarin": "木星有7个月球。"
+    },
+    {
+      "TrueFactEnglish": "Jupiter is an enormous ball of gas.",
+      "TrueFactMandarin": "木星是一个巨大的气态行星。",
+      "TrueFactSuggestedLineBreak": "金星是一个巨大的雨态行星。",
+      "FalseFactEnglish": "Venus is an enormous ball of rain.",
+      "FalseFactMandarin": "金星是一个巨大的雨态行星。"
+    },
+    {
+      "TrueFactEnglish": "Jupiter weighs twice as much as all the other planets in the solar system combined.",
+      "TrueFactMandarin": "木星的重量是太阳系所有行星加起来的两倍。",
+      "TrueFactSuggestedLineBreak": "由于木星是个气态行星，\r因此它是太阳系里\r最轻的行星。",
+      "FalseFactEnglish": "Since Jupiter is a gas planet, it's the lightest planet in our solar system.",
+      "FalseFactMandarin": "由于木星是个气态行星，因此它是太阳系里最轻的行星。"
+    },
+    {
+      "TrueFactEnglish": "Many astronauts crave Tabasco sauce in space.",
+      "TrueFactMandarin": "许多宇航员在外太空执行任务时非常想尝到辣椒仔辣汁。",
+      "TrueFactSuggestedLineBreak": "许多宇航员在外太空执行任务时\r非常想尝到南瓜派。",
+      "FalseFactEnglish": "While in space, many astronauts crave pumpkin pie.",
+      "FalseFactMandarin": "许多宇航员在外太空执行任务时非常想尝到南瓜派。"
+    },
+    {
+      "TrueFactEnglish": "Meteorites the size of basketballs land on Earth about once a month.",
+      "TrueFactMandarin": "每隔一个月，就有一颗如篮球般大小的陨石坠落在地球上。",
+      "TrueFactSuggestedLineBreak": "每隔一个星期，\r就有一颗如恐龙般大小的陨石\r坠落在地球上。",
+      "FalseFactEnglish": "Meteorites the size of dinosaurs land on Earth about once a week.",
+      "FalseFactMandarin": "每隔一个星期，就有一颗如恐龙般大小的陨石坠落在地球上。"
+    },
+    {
+      "TrueFactEnglish": "Moondust smells like burned gunpowder.",
+      "TrueFactMandarin": "月尘闻起来像烧焦的火药。",
+      "TrueFactSuggestedLineBreak": "月尘闻起来像被淋湿的垃圾。",
+      "FalseFactEnglish": "Moondust smells like wet cabbage.",
+      "FalseFactMandarin": "月尘闻起来像被淋湿的垃圾。"
+    },
+    {
+      "TrueFactEnglish": "Nothing can escape from a black hole.",
+      "TrueFactMandarin": "没有任何物质能逃离黑洞。",
+      "TrueFactSuggestedLineBreak": "月球的引力\r比黑洞的引力还要强大。",
+      "FalseFactEnglish": "The moon has stronger gravity than a black hole.",
+      "FalseFactMandarin": "月球的引力比黑洞的引力还要强大。"
+    },
+    {
+      "TrueFactEnglish": "On Mercury, the sun appears to rise and set twice a day.",
+      "TrueFactMandarin": "水星每天拥有两次日出日落。",
+      "TrueFactSuggestedLineBreak": "水星上看不见日落。",
+      "FalseFactEnglish": "The sun never sets on Mercury.",
+      "FalseFactMandarin": "水星上看不见日落。"
+    },
+    {
+      "TrueFactEnglish": "On Neptune the wind blows up to 1,243 miles an hour.",
+      "TrueFactMandarin": "海王星上的风速可达每小时2000公里。",
+      "TrueFactSuggestedLineBreak": "海王星是一个风平浪静的星球。",
+      "FalseFactEnglish": "Like the moon, Neptune also doesn't have wind.",
+      "FalseFactMandarin": "海王星是一个风平浪静的星球。"
+    },
+    {
+      "TrueFactEnglish": "One hurricane that formed over Saturn had an eye that stretched about the same distance as from Lisbon, Portugal, to Rome, Italy.",
+      "TrueFactMandarin": "土星顶端的飓风眼，其直径长如从葡萄牙首都里斯本到意大利首都罗马。",
+      "TrueFactSuggestedLineBreak": "土星顶端的飓风眼\r看起来像蝙蝠侠的图象符号。",
+      "FalseFactEnglish": "One hurricane that formed over Saturn had an eye that was shaped like the batman symbol.",
+      "FalseFactMandarin": "土星顶端的飓风眼看起来像蝙蝠侠的图象符号。"
+    },
+    {
+      "TrueFactEnglish": "Only 12 people have walked on the moon.",
+      "TrueFactMandarin": "历史上有12个人曾经登录月球。",
+      "TrueFactSuggestedLineBreak": "历史上有42个人曾经登录月球。",
+      "FalseFactEnglish": "43 people have walked on the moon!",
+      "FalseFactMandarin": "历史上有42个人曾经登录月球。"
+    },
+    {
+      "TrueFactEnglish": "Our universe has no center.",
+      "TrueFactMandarin": "宇宙不存在中心点。",
+      "TrueFactSuggestedLineBreak": "海王星是宇宙的中心点。",
+      "FalseFactEnglish": "The planet Neptune is at the center of our universe.",
+      "FalseFactMandarin": "海王星是宇宙的中心点。"
+    },
+    {
+      "TrueFactEnglish": "People report the most UFO sightings when Venus is closest to Earth.",
+      "TrueFactMandarin": "每当金星离地球最近时，警方经常接获许多目击幽浮的投报。",
+      "TrueFactSuggestedLineBreak": "每当火星离地球最近时，\r警方经常接获\r许多目击幽浮的投报。",
+      "FalseFactEnglish": "People report the most UFO sightings when Mars is closer to the earth.",
+      "FalseFactMandarin": "每当火星离地球最近时，警方经常接获许多目击幽浮的投报。"
+    },
+    {
+      "TrueFactEnglish": "Rockets must travel at least 25,000 miles and hour to escape Earth's gravity.",
+      "TrueFactMandarin": "火箭的速度必须达到每小时40234公里才能脱离地心引力的束缚。",
+      "TrueFactSuggestedLineBreak": "火箭的速度必须\r达到每小时10941公里\r才能脱离地心引力的束缚。",
+      "FalseFactEnglish": "Rockets only need to travel 6,800 miles an hour to escape Earth's gravity.",
+      "FalseFactMandarin": "火箭的速度必须达到每小时10941公里才能脱离地心引力的束缚。"
+    },
+    {
+      "TrueFactEnglish": "Saturn has more than 60 moons.",
+      "TrueFactMandarin": "土星有超过60个卫星。",
+      "TrueFactSuggestedLineBreak": "土星是唯一一个\r没有卫星的星球。",
+      "FalseFactEnglish": "Saturn is the only planet without a moon.",
+      "FalseFactMandarin": "土星是唯一一个没有卫星的星球。"
+    },
+    {
+      "TrueFactEnglish": "Saturn is made partly of helium—the same gas used to fill party balloons.",
+      "TrueFactMandarin": "土星有一部分是由氦气组成；在地球上，这种气体被用来充气球。",
+      "TrueFactSuggestedLineBreak": "土星有一部分\r是由一氧化二氮组成；\r在地球上，\r这种气体也被称为“笑气”。",
+      "FalseFactEnglish": "Saturn is made of Nitrous Oxide—also known as laughing gas!",
+      "FalseFactMandarin": "土星有一部分是由一氧化二氮组成；在地球上，这种气体也被称为“笑气”。"
+    },
+    {
+      "TrueFactEnglish": "Saturn’s rings are made of ice and rocks.",
+      "TrueFactMandarin": "土星的环道是由冰块和岩石组成。",
+      "TrueFactSuggestedLineBreak": "土星的环道\r是由木材和枯叶组成。",
+      "FalseFactEnglish": "Saturn’s rings are made of wood and burnt leaves.",
+      "FalseFactMandarin": "土星的环道是由木材和枯叶组成。"
+    },
+    {
+      "TrueFactEnglish": "Scientists believe that Saturn’s rings will eventually disappear.",
+      "TrueFactMandarin": "科学家普遍认为，土星的星环会有消失的一天。",
+      "TrueFactSuggestedLineBreak": "科学家普遍认为，\r月球总有一天会消失。",
+      "FalseFactEnglish": "Scientists believe that our moon will eventually disappear.",
+      "FalseFactMandarin": "科学家普遍认为，月球总有一天会消失。"
+    },
+    {
+      "TrueFactEnglish": "Scientists know more about the surface of the moon than the bottom of the ocean.",
+      "TrueFactMandarin": "相较于海底世界，科学家对月球表面的认知更有把握。",
+      "TrueFactSuggestedLineBreak": "相较于海底世界，\r科学家对月球表面的认知\r更没有把握。",
+      "FalseFactEnglish": "Scientists know more about the bottom of the ocean than they do about the surface of the moon.",
+      "FalseFactMandarin": "相较于海底世界，科学家对月球表面的认知更没有把握。"
+    },
+    {
+      "TrueFactEnglish": "Scientists think water on the moon came from Earth.",
+      "TrueFactMandarin": "科学家认为月球上的水是源自地球。",
+      "TrueFactSuggestedLineBreak": "科学家认为月球上没有水。",
+      "FalseFactEnglish": "The moon doesn't have water.",
+      "FalseFactMandarin": "科学家认为月球上没有水。"
+    },
+    {
+      "TrueFactEnglish": "Six million pounds of space dust settle on Earth every year.",
+      "TrueFactMandarin": "每年有272万4000公斤的外太空碎片坠落在地球上。",
+      "TrueFactSuggestedLineBreak": "每年有8045公斤的外太空碎片\r坠落在地球上。",
+      "FalseFactEnglish": "5 thousand pounds of space dust settles on the planet Earth every year.",
+      "FalseFactMandarin": "每年有8045公斤的外太空碎片坠落在地球上。"
+    },
+    {
+      "TrueFactEnglish": "Some of the most expensive rocks on Earth come from the moon.",
+      "TrueFactMandarin": "地球售价最高的石头，包括月球岩石。",
+      "TrueFactSuggestedLineBreak": "地球售价最高的手工乳酪，\r含有月球岩石成分。",
+      "FalseFactEnglish": "Some of the most expensive artisanal cheeses on Earth come from the moon.",
+      "FalseFactMandarin": "地球售价最高的手工乳酪，含有月球岩石成分。"
+    },
+    {
+      "TrueFactEnglish": "Some scientists think that it rains glass on one planet.",
+      "TrueFactMandarin": "有几个科学家认为，宇宙中有个星球会下玻璃雨。",
+      "TrueFactSuggestedLineBreak": "有几个科学家认为，\r宇宙中有个星球的天上\r会降下狗和猫。",
+      "FalseFactEnglish": "Some scientists think that it rains actual cats and dogs one planet.",
+      "FalseFactMandarin": "有几个科学家认为，宇宙中有个星球的天上会降下狗和猫。"
+    },
+    {
+      "TrueFactEnglish": "Sputnik I, the first satellite in space, was about the size of a beach ball.",
+      "TrueFactMandarin": "世界上第一个升空的人造卫星叫“史波尼克1号”，英文叫“Sputnik 1”，体积犹如一颗沙滩球。",
+      "TrueFactSuggestedLineBreak": "世界上第一个升空的人造卫星\r叫“史波尼克1号”，\r英文叫“Sputnik 1”，\r体积犹如一辆消防车。",
+      "FalseFactEnglish": "Sputnik I, the first satellite in space, was about the size of fire truck.",
+      "FalseFactMandarin": "世界上第一个升空的人造卫星叫“史波尼克1号”，英文叫“Sputnik 1”，体积犹如一辆消防车。"
+    },
+    {
+      "TrueFactEnglish": "Temperatures on Mercury can drop more than 1,000˚F in a day!",
+      "TrueFactMandarin": "水银的温度可在一天内下降超过华氏1000度。",
+      "TrueFactSuggestedLineBreak": "水银的温度\r可在一年内维持不变。",
+      "FalseFactEnglish": "Mercury is the same temperature Day AND Night All Year Round!",
+      "FalseFactMandarin": "水银的温度可在一年内维持不变。"
+    },
+    {
+      "TrueFactEnglish": "The Earth is slightly pear shaped.",
+      "TrueFactMandarin": "地球的真实形状略呈梨形。",
+      "TrueFactSuggestedLineBreak": "地球是个完整的圆形。",
+      "FalseFactEnglish": "The Earth is a perfect sphere!",
+      "FalseFactMandarin": "地球是个完整的圆形。"
+    },
+    {
+      "TrueFactEnglish": "The Earth rotates 1.5 milliseconds slower every century.",
+      "TrueFactMandarin": "每隔一个世纪，地球自转的速度会减慢1.5毫秒。",
+      "TrueFactSuggestedLineBreak": "每隔一个世纪，\r地球自转的速度会增加1秒。",
+      "FalseFactEnglish": "Every decade the Earths rotation speeds up a fraction of a second.",
+      "FalseFactMandarin": "每隔一个世纪，地球自转的速度会增加1秒。"
+    },
+    {
+      "TrueFactEnglish": "The Earth spins so fast that someone standing at the Equator would be traveling at about 1,000 miles an hour.",
+      "TrueFactMandarin": "地球自转的速度非常快，使一个站在赤道线上的人能以每小时1600公里的速度前进。",
+      "TrueFactSuggestedLineBreak": "地球自转的速度非常快，\r使一个站在赤道线上的人\r能以每小时1300公里的速度前进。",
+      "FalseFactEnglish": "The moon spins so fast that someone standing at the center would be travleing 800 miles an hour.",
+      "FalseFactMandarin": "地球自转的速度非常快，使一个站在赤道线上的人能以每小时1300公里的速度前进。"
+    },
+    {
+      "TrueFactEnglish": "The Earth traveled more than 5,000 miles in the past 5 minutes.",
+      "TrueFactMandarin": "地球在过去的5分钟内转了超过8047公里。",
+      "TrueFactSuggestedLineBreak": "地球每天转了超过1609公里。",
+      "FalseFactEnglish": "The Earth travels 1,000 miles a day.",
+      "FalseFactMandarin": "地球每天转了超过1609公里。"
+    },
+    {
+      "TrueFactEnglish": "The earth weighs about 6.6 billion trillion (that’s 6,600,000,000,000,000,000,000) tons.",
+      "TrueFactMandarin": "地球的重量大概是66亿兆吨。",
+      "TrueFactSuggestedLineBreak": "地球的重量大概是9亿兆吨。",
+      "FalseFactEnglish": "Our earth only weighs about 90 million billion tons.",
+      "FalseFactMandarin": "地球的重量大概是9亿兆吨。"
+    },
+    {
+      "TrueFactEnglish": "The largest known stars are about 2,000 times larger than the sun.",
+      "TrueFactMandarin": "宇宙中最大的恒星比太阳大两千倍。",
+      "TrueFactSuggestedLineBreak": "太阳是宇宙中最大的恒星。",
+      "FalseFactEnglish": "Our sun is the largest star in the universe.",
+      "FalseFactMandarin": "太阳是宇宙中最大的恒星。"
+    },
+    {
+      "TrueFactEnglish": "The moon can look red during a lunar eclipse.",
+      "TrueFactMandarin": "在月蚀期间, 地球上的人会看到红色的月亮。",
+      "TrueFactSuggestedLineBreak": "在月蚀期间,\r地球上的人会看到深青的月亮。",
+      "FalseFactEnglish": "During a lunar eclipse the moon becomes dark green.",
+      "FalseFactMandarin": "在月蚀期间, 地球上的人会看到深青的月亮。"
+    },
+    {
+      "TrueFactEnglish": "The moon moves 1.5 inches farther away from Earth every year.",
+      "TrueFactMandarin": "月球和地球之间的距离每年被拉远4厘米。",
+      "TrueFactSuggestedLineBreak": "每年，\r月球和地球之间的距离越来越近。",
+      "FalseFactEnglish": "Every year the moon moves closer to the Earth.",
+      "FalseFactMandarin": "每年，月球和地球之间的距离越来越近。"
+    },
+    {
+      "TrueFactEnglish": "The planet Mercury is made mostly of iron.",
+      "TrueFactMandarin": "水星主要是由铁组成的。",
+      "TrueFactSuggestedLineBreak": "水星主要是由铀组成的。",
+      "FalseFactEnglish": "Mercury is actually a giant ball of uranium.",
+      "FalseFactMandarin": "水星主要是由铀组成的。"
+    },
+    {
+      "TrueFactEnglish": "The planet Uranus was almost named George.",
+      "TrueFactMandarin": "天王星差点就被命名叫乔治星。",
+      "TrueFactSuggestedLineBreak": "天王星差点\r被命名叫“皮卡尔上校”。",
+      "FalseFactEnglish": "The planet Uranus was almost named Captain Picard.",
+      "FalseFactMandarin": "天王星差点被命名叫“皮卡尔上校”。"
+    },
+    {
+      "TrueFactEnglish": "The planet Venus spins backwards.",
+      "TrueFactMandarin": "金星是以顺时针的方向自转的。",
+      "TrueFactSuggestedLineBreak": "金星是以顺时针的方向自转的。",
+      "FalseFactEnglish": "Every planet spins in a forward motion.",
+      "FalseFactMandarin": "金星是以顺时针的方向自转的。"
+    },
+    {
+      "TrueFactEnglish": "The sun is 400 times larger than the moon.",
+      "TrueFactMandarin": "太阳比月亮大400倍。",
+      "TrueFactSuggestedLineBreak": "地球比月亮大400倍。",
+      "FalseFactEnglish": "The Earth is 400 times larger than the moon.",
+      "FalseFactMandarin": "地球比月亮大400倍。"
+    },
+    {
+      "TrueFactEnglish": "The sunset on Mars appears blue.",
+      "TrueFactMandarin": "在火星上看日落，天空呈现的是一片蓝色。",
+      "TrueFactSuggestedLineBreak": "火星上看不见日落。",
+      "FalseFactEnglish": "The sun never sets on Mars.",
+      "FalseFactMandarin": "火星上看不见日落。"
+    },
+    {
+      "TrueFactEnglish": "The sun—the closest star to Earth—is 93 million miles away.",
+      "TrueFactMandarin": "太阳是最靠近地球的恒星，它距离地球1.5亿公里。",
+      "TrueFactSuggestedLineBreak": "太阳并不是恒星。",
+      "FalseFactEnglish": "The sun isn't a star, it's a sun.",
+      "FalseFactMandarin": "太阳并不是恒星。"
+    },
+    {
+      "TrueFactEnglish": "The temperature on the moon can be hotter than boiling water.",
+      "TrueFactMandarin": "月球上的温度有时比沸水还要高。",
+      "TrueFactSuggestedLineBreak": "月球表面的\r最高温度达摄氏8度。",
+      "FalseFactEnglish": "The hottest the moon can get is 8 degrees celsius.",
+      "FalseFactMandarin": "月球表面的最高温度达摄氏8度。"
+    },
+    {
+      "TrueFactEnglish": "The universe is about 13.7 billion years old.",
+      "TrueFactMandarin": "宇宙有137​​亿岁了。",
+      "TrueFactSuggestedLineBreak": "宇宙有九亿岁了。",
+      "FalseFactEnglish": "The Universe is about 900 million years old!",
+      "FalseFactMandarin": "宇宙有九亿岁了。"
+    },
+    {
+      "TrueFactEnglish": "The universe is flat.",
+      "TrueFactMandarin": "宇宙结构是平坦的。",
+      "TrueFactSuggestedLineBreak": "木星是平坦的。",
+      "FalseFactEnglish": "The planet Jupiter is flat.",
+      "FalseFactMandarin": "木星是平坦的。"
+    },
+    {
+      "TrueFactEnglish": "There are more stars in the universe than grains of sand on the Earth.",
+      "TrueFactMandarin": "宇宙中的星体比地球上的沙尘还要多。",
+      "TrueFactSuggestedLineBreak": "地球上的梳子数量\r比沙尘的数量还要多。",
+      "FalseFactEnglish": "There are more hair brushes on Earth than grains of sand.",
+      "FalseFactMandarin": "地球上的梳子数量比沙尘的数量还要多。"
+    },
+    {
+      "TrueFactEnglish": "There is no gravity at the center of the Earth.",
+      "TrueFactMandarin": "地球核心是没有地心引力的。",
+      "TrueFactSuggestedLineBreak": "地球核心的引力\r比火星的引力还要强大。",
+      "FalseFactEnglish": "The gravity at the center of the Earth is stronger than the gravity on Mars.",
+      "FalseFactMandarin": "地球核心的引力比火星的引力还要强大。"
+    },
+    {
+      "TrueFactEnglish": "There is no sound in space.",
+      "TrueFactMandarin": "在外太空中，我们什么都听不见。",
+      "TrueFactSuggestedLineBreak": "在外太空中，\r我们可以听见彼此的呼喊声。",
+      "FalseFactEnglish": "In space you can hear people scream.  ",
+      "FalseFactMandarin": "在外太空中，我们可以听见彼此的呼喊声。"
+    },
+    {
+      "TrueFactEnglish": "There is no time at the center of a black hole.",
+      "TrueFactMandarin": "在黑洞中心，时间是不存在的。",
+      "TrueFactSuggestedLineBreak": "在黑洞中心，\r时间比以往快上两倍。",
+      "FalseFactEnglish": "At the center of a black hole time moves twice as fast!",
+      "FalseFactMandarin": "在黑洞中心，时间比以往快上两倍。"
+    },
+    {
+      "TrueFactEnglish": "There is real gold in the sun.",
+      "TrueFactMandarin": "太阳含有纯正的黄金。",
+      "TrueFactSuggestedLineBreak": "太阳表面存有青草。",
+      "FalseFactEnglish": "The sun has grass on it.",
+      "FalseFactMandarin": "太阳表面存有青草。"
+    },
+    {
+      "TrueFactEnglish": "There’s a one in a trillion chance that a piece of space junk will land on your house today.",
+      "TrueFactMandarin": "被太空垃圾击中的机率只有一万亿分之一。",
+      "TrueFactSuggestedLineBreak": "被太空垃圾击中的机率\r比被雷击中的机率还要高。",
+      "FalseFactEnglish": "There’s a better chance that space junk will land on your house today than there is of you getting struck by lightening. ",
+      "FalseFactMandarin": "被太空垃圾击中的机率比被雷击中的机率还要高。"
+    },
+    {
+      "TrueFactEnglish": "Two unmanned spacecraft have been traveling through outer space for 33 years.",
+      "TrueFactMandarin": "两架成功升空的无人驾驶太空梭已经在外太空航行了33年。",
+      "TrueFactSuggestedLineBreak": "有三辆汽车\r已经在外太空奔驰42年了。",
+      "FalseFactEnglish": "3 cars have been hurtling through outer space for the past 42 years.",
+      "FalseFactMandarin": "有三辆汽车已经在外太空奔驰42年了。"
+    },
+    {
+      "TrueFactEnglish": "Volcanoes once erupted on the moon.",
+      "TrueFactMandarin": "月球上曾经发生过火山爆发。",
+      "TrueFactSuggestedLineBreak": "月球上曾经发生过地震。",
+      "FalseFactEnglish": "The moon has earthquakes. ",
+      "FalseFactMandarin": "月球上曾经发生过地震。"
+    },
+    {
+      "TrueFactEnglish": "Winds on Saturn can gust up to 1,118 miles an hour—that’s twice the speed of a passenger jet.",
+      "TrueFactMandarin": "土星上的风速可达每小时1800公里，是客机飞行速度的两倍。",
+      "TrueFactSuggestedLineBreak": "月球上的飓风\r比地球上的飓风还要强烈。",
+      "FalseFactEnglish": "The moon as wind that is stronger than the average tornado.",
+      "FalseFactMandarin": "月球上的飓风比地球上的飓风还要强烈。"
+    },
+    {
+      "TrueFactEnglish": "Winter lasts for 21 years on Uranus.",
+      "TrueFactMandarin": "天王星的冬天可持续21年。",
+      "TrueFactSuggestedLineBreak": "天王星的冬天可持续9年。",
+      "FalseFactEnglish": "Winter lasts for 9 months on Uranus.",
+      "FalseFactMandarin": "天王星的冬天可持续9年。"
+    },
+    {
+      "TrueFactEnglish": "Yo- yos rode on two space shuttles.",
+      "TrueFactMandarin": "曾经有两架太空梭载有溜溜球。",
+      "TrueFactSuggestedLineBreak": "曾经有两架太空梭\r载有几名出租车司机。",
+      "FalseFactEnglish": "Taxis Drivers rode in two space shuttles.",
+      "FalseFactMandarin": "曾经有两架太空梭载有几名出租车司机。"
+    },
+    {
+      "TrueFactEnglish": "You can buy insurance that covers alien abductions.",
+      "TrueFactMandarin": "怕被外星人绑架的人可以向保险公司投保。",
+      "TrueFactSuggestedLineBreak": "我们可以针对被恐龙绑架投保。",
+      "FalseFactEnglish": "You can buy insurance that protects you from being kidnapped by dinosaurs.",
+      "FalseFactMandarin": "我们可以针对被恐龙绑架投保。"
+    },
+    {
+      "TrueFactEnglish": "You can buy land on Mars and Venus for $19.99 an acre (satisfaction guaranteed or your money back within 30 days).",
+      "TrueFactMandarin": "我们能以每666.7平方米19.99美元的价格买到火星和金星上的土地；如有不满，卖家保证在30天内退款。",
+      "TrueFactSuggestedLineBreak": "我们能以\r每666.7平方米16美元的价格\r买到木星和冥王星上的土地。",
+      "FalseFactEnglish": "You can buy land on Jupiter and Pluto for $16 an acre.",
+      "FalseFactMandarin": "我们能以每666.7平方米16美元的价格买到木星和冥王星上的土地。"
+    },
+    {
+      "TrueFactEnglish": "You can see colorful leaves from space.",
+      "TrueFactMandarin": "即使在外太空，我们也能看见五颜六色的叶子。",
+      "TrueFactSuggestedLineBreak": "在外太空，\r肉眼看见的地球是黑白色的。",
+      "FalseFactEnglish": "The earth looks black and white from space.",
+      "FalseFactMandarin": "在外太空，肉眼看见的地球是黑白色的。"
+    }
+  ]

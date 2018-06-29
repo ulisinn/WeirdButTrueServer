@@ -1,0 +1,578 @@
+[
+  {
+    "TrueFactEnglish": "1,000,000,000,000,000 (that’s one quadrillion) ants live on Earth.",
+    "TrueFactMandarin": "地球上总共有大约十亿只蚂蚁。",
+    "TrueFactSuggestedLineBreak": "地球上总共有\r大约一百万亿只蚂蚁。",
+    "FalseFactEnglish": "About 1,000,000,000 ants live on Earth.",
+    "FalseFactMandarin": "地球上总共有大约一百万亿只蚂蚁。",
+    "TrueFactSpanish": "1,000,000,000,000,000 (un quatrillon) de hormigas viven en el planeta Tierra.",
+    "FalseFactSpanish": "Aproximadamente 1,000,000,000 de hormigas viven en el planeta Tierra."
+  },
+  {
+    "TrueFactEnglish": "650 houseflies weigh less than one ounce.",
+    "TrueFactMandarin": "将650只苍蝇凑合起来，重量仍未达1盎司。",
+    "TrueFactSuggestedLineBreak": "将650只苍蝇凑合起来，\r总重量可超过一颗橙。",
+    "FalseFactEnglish": "650 houseflies weigh more than an orange.",
+    "FalseFactMandarin": "将650只苍蝇凑合起来，总重量可超过一颗橙。",
+    "TrueFactSpanish": "650 moscas comunes pesan menos que 28 gramos.",
+    "FalseFactSpanish": "650 moscas pesan más que una naranja."
+  },
+  {
+    "TrueFactEnglish": "75% of all animals are insects.",
+    "TrueFactMandarin": "百分之75的动物是昆虫。",
+    "TrueFactSuggestedLineBreak": "百分之13的动物是昆虫。",
+    "FalseFactEnglish": "13% of all animals are insects.",
+    "FalseFactMandarin": "百分之13的动物是昆虫。",
+    "TrueFactSpanish": "75% de todos los animales son insectos.",
+    "FalseFactSpanish": "13% de todos los animales son insectos."
+  },
+  {
+    "TrueFactEnglish": "A caterpillar has more muscles than a human.",
+    "TrueFactMandarin": "毛毛虫的肌肉比人类的肌肉还要多。",
+    "TrueFactSuggestedLineBreak": "人类比毛毛虫多出36块肌肉。",
+    "FalseFactEnglish": "A human has 36 more muscles than a caterpillar ",
+    "FalseFactMandarin": "人类比毛毛虫多出36块肌肉。",
+    "TrueFactSpanish": "Una oruga tiene más músculos que un ser humano.",
+    "FalseFactSpanish": "Un ser humano tiene 36 músculos más que una oruga. "
+  },
+  {
+    "TrueFactEnglish": "A cockroach can live for weeks without a head.",
+    "TrueFactMandarin": "没有头的蟑螂还能存活几个星期。",
+    "TrueFactSuggestedLineBreak": "没有头的蟑螂\r无法存活超过五个小时。",
+    "FalseFactEnglish": "A cockroach can't live longer than 5 hours without a head.",
+    "FalseFactMandarin": "没有头的蟑螂无法存活超过五个小时。",
+    "TrueFactSpanish": "Una cucaracha puede vivir durante semanas sin cabeza.",
+    "FalseFactSpanish": "Una cucaracha no puede vivir más de 5 horas sin cabeza."
+  },
+  {
+    "TrueFactEnglish": "A decapitated cockroach head can still wiggle its antennae.",
+    "TrueFactMandarin": "蟑螂头即使脱离身体，仍然可以摆动触角。",
+    "TrueFactSuggestedLineBreak": "蟑螂头即使脱离身体，\r仍然可以摆动后肢。",
+    "FalseFactEnglish": "A decapitated cockroach head can still wiggle its feet.",
+    "FalseFactMandarin": "蟑螂头即使脱离身体，仍然可以摆动后肢。",
+    "TrueFactSpanish": "Una cucaracha decapitada puede seguir moviendo sus antenas.",
+    "FalseFactSpanish": "Una cucaracha decapitada aún puede mover sus patas."
+  },
+  {
+    "TrueFactEnglish": "A flea can jump hundred times its body length—that’s like you jumping to the top of a 34-story building.",
+    "TrueFactMandarin": "跳蚤可以跳跃高达其身长的一百倍，就像我们一跃跳上一座34层楼高的建筑物顶楼。",
+    "TrueFactSuggestedLineBreak": "跳蚤跳跃的高度\r只能是其身长的两倍。",
+    "FalseFactEnglish": "A flea can only jump twice it's body length",
+    "FalseFactMandarin": "跳蚤跳跃的高度只能是其身长的两倍。",
+    "TrueFactSpanish": "Una pulga puede saltar cientos de veces su longitud corporal - eso es lo mismo que si tú brincaras desde lo alto de un edificio de 34 pisos.",
+    "FalseFactSpanish": "Una pulga puede saltar únicamente el doble de su longitud corporal."
+  },
+  {
+    "TrueFactEnglish": "A flea can jump more than 130 times its height.",
+    "TrueFactMandarin": "跳蚤能跳到高出身长130倍的高度。",
+    "TrueFactSuggestedLineBreak": "跳蚤能跳到\r高出身长23倍的高度。",
+    "FalseFactEnglish": "A flea can jump almost 23 times its height.",
+    "FalseFactMandarin": "跳蚤能跳到高出身长23倍的高度。",
+    "TrueFactSpanish": "Una pulga puede saltar más de 130 veces su altura.",
+    "FalseFactSpanish": "Una pulga puede saltar casi 23 veces su altura."
+  },
+  {
+    "TrueFactEnglish": "A queen bee can lay 2,000 eggs a day in the spring.",
+    "TrueFactMandarin": "春天来临时, 蜂后每天可产出2000颗蜂卵。",
+    "TrueFactSuggestedLineBreak": "春天来临时,\r蚁王每天可产出2000颗蜂卵。",
+    "FalseFactEnglish": "A Prince Ant can lay 2,000 eggs a day in the spring.",
+    "FalseFactMandarin": "春天来临时, 蚁王每天可产出2000颗蜂卵。",
+    "TrueFactSpanish": "Una abeja reina puede poner 2,000 huevos al día en la primavera.",
+    "FalseFactSpanish": "Una hormiga príncipe puede poner 2,000 huevos al día en la primavera."
+  },
+  {
+    "TrueFactEnglish": "A spiderweb in Texas stretches some 600 feet, almost as long as 2 football fields.",
+    "TrueFactMandarin": "人们在美国德克萨斯州发现一个183米宽的蜘蛛网，面积相等于两个足球场。",
+    "TrueFactSuggestedLineBreak": "人们在美国密歇根州发现\r一个60米宽的蜘蛛网。",
+    "FalseFactEnglish": "A spiderweb in Michigan stretches some 200 feet wide.",
+    "FalseFactMandarin": "人们在美国密歇根州发现一个60米宽的蜘蛛网。",
+    "TrueFactSpanish": "Una telaraña en Texas puede expandirse unos 182.88 metros, casi tanto como 2 campos de fútbol americano.",
+    "FalseFactSpanish": "Una telaraña en Michigan puede expandirse unos 60.96 metros de ancho."
+  },
+  {
+    "TrueFactEnglish": "A tropical ant can snap its jaws together at a speed of 145 miles an hour, faster than any other animal!",
+    "TrueFactMandarin": "热带蚁能以每小时233公里的速度合上上下颚，比任何动物都快！",
+    "TrueFactSuggestedLineBreak": "鳄龟合上上下颚的速度\r比热带蚁还要快。",
+    "FalseFactEnglish": "A snapping turtle can snap it's jaws together faster than a tropical ant.",
+    "FalseFactMandarin": "鳄龟合上上下颚的速度比热带蚁还要快。",
+    "TrueFactSpanish": "Una hormiga tropical puede cerrar sus mandíbulas a una velocidad de 233 kilómetros por hora, ¡más rápido que cualquier otro animal!",
+    "FalseFactSpanish": "Una tortuga mordedora puede cerrar sus mandíbulas más rápido que una hormiga tropical."
+  },
+  {
+    "TrueFactEnglish": "An ant can carry 50 times its body weight (that’s like a kid carrying a car).",
+    "TrueFactMandarin": "蚂蚁可以抬起比自身体重多50倍的重物，相等于一个小朋友抬起一辆汽车。",
+    "TrueFactSuggestedLineBreak": "蚂蚁只能抬起\r比自身体重多两倍的物体。",
+    "FalseFactEnglish": "An Ant can carry twice it's body weight.",
+    "FalseFactMandarin": "蚂蚁只能抬起比自身体重多两倍的物体。",
+    "TrueFactSpanish": "Una hormiga puede cargar 50 veces su peso corporal (eso es como si un niño cargara un automóvil).",
+    "FalseFactSpanish": "Una hormiga puede cargar dos veces su peso corporal."
+  },
+  {
+    "TrueFactEnglish": "Ants have lived on Earth for some 140 million years.",
+    "TrueFactMandarin": "蚂蚁在地球上生活了大约1亿4千年。",
+    "TrueFactSuggestedLineBreak": "蚂蚁在地球上生活了\r大约八千万年。",
+    "FalseFactEnglish": "Ants have lived on Earth for almost 80 million years.",
+    "FalseFactMandarin": "蚂蚁在地球上生活了大约八千万年。",
+    "TrueFactSpanish": "Las hormigas han vivido en el planeta Tierra aproximadamente 140 millones de años.",
+    "FalseFactSpanish": "Las hormigas han vivido en el planeta Tierra durante casi 80 millones de años."
+  },
+  {
+    "TrueFactEnglish": "Ants have two stomachs.",
+    "TrueFactMandarin": "蚂蚁有两个胃。",
+    "TrueFactSuggestedLineBreak": "蚂蚁没有胃。",
+    "FalseFactEnglish": "Ants don't have stomachs.",
+    "FalseFactMandarin": "蚂蚁没有胃。",
+    "TrueFactSpanish": "Las hormigas tienen dos estómagos.",
+    "FalseFactSpanish": "Las hormigas no tienen estómagos."
+  },
+  {
+    "TrueFactEnglish": "As many as 50,000 beetles can feed on one pile of elephant dung.",
+    "TrueFactMandarin": "每坨大象粪便可喂饱5万只甲虫。",
+    "TrueFactSuggestedLineBreak": "每坨大象粪便\r可喂饱4600只甲虫。",
+    "FalseFactEnglish": "Almost as many as 4,600 beetles can feed on one pile of elephant dung.",
+    "FalseFactMandarin": "每坨大象粪便可喂饱4600只甲虫。",
+    "TrueFactSpanish": "Cerca de 50,000 escarabajos pueden alimentarse de una pila de excremento de elefante.",
+    "FalseFactSpanish": "Cerca de 4,600 escarabajos pueden alimentarse de una pila de excremento de elefante."
+  },
+  {
+    "TrueFactEnglish": "Bees can be green, blue, or red.",
+    "TrueFactMandarin": "世界上有青色、蓝色和红色的蜜蜂。",
+    "TrueFactSuggestedLineBreak": "世界上所有的蜜蜂\r都是黄色和黑色的。",
+    "FalseFactEnglish": "All bees are yellow and black",
+    "FalseFactMandarin": "世界上所有的蜜蜂都是黄色和黑色的。",
+    "TrueFactSpanish": "Las abejas pueden ser verdes, azules, o rojas.",
+    "FalseFactSpanish": "Todas las abejas son amarillas y negras."
+  },
+  {
+    "TrueFactEnglish": "Bees have 5 eyes.",
+    "TrueFactMandarin": "蜜蜂有5只眼睛。",
+    "TrueFactSuggestedLineBreak": "蜜蜂有一双眼睛。",
+    "FalseFactEnglish": "Bees have 2 eyes.",
+    "FalseFactMandarin": "蜜蜂有一双眼睛。",
+    "TrueFactSpanish": "Las abejas tienen 5 ojos.",
+    "FalseFactSpanish": "Las abejas tienen 2 ojos."
+  },
+  {
+    "TrueFactEnglish": "Bees visit about five million flowers to make one average-size jar of honey.",
+    "TrueFactMandarin": "蜜蜂需要采集500万朵花的花蜜，才能凑成一瓶蜂蜜。",
+    "TrueFactSuggestedLineBreak": "蜜蜂只要采集到\r1000朵花的花蜜，\r就能凑成一瓶蜂蜜。",
+    "FalseFactEnglish": "Bees visit 1 thousand flowers to make one jar of honey.",
+    "FalseFactMandarin": "蜜蜂只要采集到1000朵花的花蜜，就能凑成一瓶蜂蜜。",
+    "TrueFactSpanish": "Las abejas polinizan aproximadamente cinco millones de flores para producir un tarro de miel de tamaño promedio.",
+    "FalseFactSpanish": "Las abejas polinizan mil flores para producir un tarro de miel."
+  },
+  {
+    "TrueFactEnglish": "Butterflies must warm their wings in the sun before flying.",
+    "TrueFactMandarin": "蝴蝶起飞前，会张开翅膀在阳光下“暖翼”。",
+    "TrueFactSuggestedLineBreak": "蝴蝶起飞前，\r必须确保翅膀已经冷却下来。",
+    "FalseFactEnglish": "Butterflies can't fly unless their wings are cold first.",
+    "FalseFactMandarin": "蝴蝶起飞前，必须确保翅膀已经冷却下来。",
+    "TrueFactSpanish": "Las mariposas deben calentar sus alas en la luz solar antes de volar.",
+    "FalseFactSpanish": "Las mariposas no pueden volar a menos que sus alas estén frías primero."
+  },
+  {
+    "TrueFactEnglish": "Butterflies taste food with their feet.",
+    "TrueFactMandarin": "蝴蝶用脚来品尝食物。",
+    "TrueFactSuggestedLineBreak": "蝴蝶用舌头来品尝食物，\r就跟人类一样。",
+    "FalseFactEnglish": "Butterflies taste food with their tongues, like humans.",
+    "FalseFactMandarin": "蝴蝶用舌头来品尝食物，就跟人类一样。",
+    "TrueFactSpanish": "Las mariposas pueden probar el alimento con sus patas.",
+    "FalseFactSpanish": "Las mariposas pueden probar alimento con sus lenguas, igual que los seres humanos."
+  },
+  {
+    "TrueFactEnglish": "Caterpillars have about 3,200 more muscles than you do.",
+    "TrueFactMandarin": "毛毛虫比人类多出3200块肌肉。",
+    "TrueFactSuggestedLineBreak": "毛毛虫身上的肌肉比人类少。",
+    "FalseFactEnglish": "Caterpillars have less muscles than a human.",
+    "FalseFactMandarin": "毛毛虫身上的肌肉比人类少。",
+    "TrueFactSpanish": "Las orugas tienen aproximadamente 3,200 músculos más que tú.",
+    "FalseFactSpanish": "Las orugas tienen menos músculos que un ser humano."
+  },
+  {
+    "TrueFactEnglish": "Caterpillars have mouths, but butterflies don’t.",
+    "TrueFactMandarin": "毛毛虫有嘴巴，但蝴蝶没有。",
+    "TrueFactSuggestedLineBreak": "毛毛虫有嘴巴，但蝴蝶没有。",
+    "FalseFactEnglish": "Butterflies have mouths.",
+    "FalseFactMandarin": "毛毛虫有嘴巴，但蝴蝶没有。",
+    "TrueFactSpanish": "Las orugas tienen bocas, pero las mariposas no.",
+    "FalseFactSpanish": "Las mariposas tienen bocas."
+  },
+  {
+    "TrueFactEnglish": "Cockroaches can recognize family members.",
+    "TrueFactMandarin": "蟑螂可以认出自己的家人。",
+    "TrueFactSuggestedLineBreak": "蟑螂无法认出自己人。",
+    "FalseFactEnglish": "Cockroaches can't tell each other apart.",
+    "FalseFactMandarin": "蟑螂无法认出自己人。",
+    "TrueFactSpanish": "Las cucarachas pueden reconocer a miembros de su familia.",
+    "FalseFactSpanish": "Las cucarachas no pueden diferenciarse unas a otras."
+  },
+  {
+    "TrueFactEnglish": "Crickets detect sound through their knees.",
+    "TrueFactMandarin": "蟋蟀通过膝盖探测声音。",
+    "TrueFactSuggestedLineBreak": "蟋蟀通过耳朵探测声音，\r就跟人类一样。",
+    "FalseFactEnglish": "Crickets detect sound through their ears, like humans.",
+    "FalseFactMandarin": "蟋蟀通过耳朵探测声音，就跟人类一样。",
+    "TrueFactSpanish": "Los grillos detectan el sonido a través de las rodillas.",
+    "FalseFactSpanish": "Los grillos detectan el sonido a través de sus oídos igual que los seres humanos."
+  },
+  {
+    "TrueFactEnglish": "Dragonflies can see in all directions.",
+    "TrueFactMandarin": "蜻蜓拥有360度的视野。",
+    "TrueFactSuggestedLineBreak": "蜻蜓只能看见眼前的景象。",
+    "FalseFactEnglish": "Dragonflies can only see in front of themselves.",
+    "FalseFactMandarin": "蜻蜓只能看见眼前的景象。",
+    "TrueFactSpanish": "Las libélulas pueden ver en todas las direcciones posibles.",
+    "FalseFactSpanish": "Las libélulas pueden ver únicamente lo que hay frente a ellas."
+  },
+  {
+    "TrueFactEnglish": "Earthworms have five hearts.",
+    "TrueFactMandarin": "蚯蚓有5个心脏。",
+    "TrueFactSuggestedLineBreak": "蚯蚓没有心脏。",
+    "FalseFactEnglish": "Earthworms don't have hearts.",
+    "FalseFactMandarin": "蚯蚓没有心脏。",
+    "TrueFactSpanish": "Las lombrices de tierra tienen cinco corazones.",
+    "FalseFactSpanish": "Las lombrices de tierra no tienen corazón."
+  },
+  {
+    "TrueFactEnglish": "For defense, many tarantulas kick their hair at foes.",
+    "TrueFactMandarin": "狼蛛面对敌人时，会射出毛发抵御。",
+    "TrueFactSuggestedLineBreak": "狼蛛会发出嘶嘶声咒骂敌人。",
+    "FalseFactEnglish": "For defense, many tarantulas whisper spells at foes.",
+    "FalseFactMandarin": "狼蛛会发出嘶嘶声咒骂敌人。",
+    "TrueFactSpanish": "Como defensa, algunas tarántulas lanzan pelo a sus enemigos.",
+    "FalseFactSpanish": "Como defensa, varias tarántulas lanzan hechizos a sus enemigos."
+  },
+  {
+    "TrueFactEnglish": "Fungus can grow out of a zombie ant’s head.",
+    "TrueFactMandarin": "真菌可以在僵尸蚁的头上生长。",
+    "TrueFactSuggestedLineBreak": "僵尸蚁的头上能长出香口胶。",
+    "FalseFactEnglish": "Chewing gum can grow out of a zombie ant’s head.",
+    "FalseFactMandarin": "僵尸蚁的头上能长出香口胶。",
+    "TrueFactSpanish": "Pueden crecer hongos  en la cabeza de una hormiga zombie.",
+    "FalseFactSpanish": "Puede crecer goma de mascar en la cabeza de una hormiga muerta."
+  },
+  {
+    "TrueFactEnglish": "Ghost ants have see-through stomachs.",
+    "TrueFactMandarin": "黑头慌蚁的腹部是呈现半透明的。",
+    "TrueFactSuggestedLineBreak": "黑头慌蚁没有前后肢。",
+    "FalseFactEnglish": "Ghost ants don't have arms or legs.",
+    "FalseFactMandarin": "黑头慌蚁没有前后肢。",
+    "TrueFactSpanish": "Las hormigas fantasma tienen estómagos transparentes.",
+    "FalseFactSpanish": "Las hormigas fantasma no tienen patas ni brazos."
+  },
+  {
+    "TrueFactEnglish": "Honeybees can be trained to detect explosives.",
+    "TrueFactMandarin": "蜜蜂可被训练成搜爆专家。",
+    "TrueFactSuggestedLineBreak": "蜜蜂无法被训练成才。",
+    "FalseFactEnglish": "Honeybees can't be trained.",
+    "FalseFactMandarin": "蜜蜂无法被训练成才。",
+    "TrueFactSpanish": "Las abejas pueden entrenarse para detectar explosivos.",
+    "FalseFactSpanish": "Las abejas no pueden entrenarse."
+  },
+  {
+    "TrueFactEnglish": "Houseflies buzz in the key of F.",
+    "TrueFactMandarin": "苍蝇的嗡嗡声是F调的。",
+    "TrueFactSuggestedLineBreak": "苍蝇是不会发出声音的。",
+    "FalseFactEnglish": "Houseflies are completely silent.",
+    "FalseFactMandarin": "苍蝇是不会发出声音的。",
+    "TrueFactSpanish": "Las moscas comunes zumban en la nota Fa.",
+    "FalseFactSpanish": "Las moscas comunes son completamente mudas."
+  },
+  {
+    "TrueFactEnglish": "If grasshoppers were the size of people, they could leap the length of a basketball court.",
+    "TrueFactMandarin": "如果蚱蜢跟人一样大，就可以跳过一个篮球场。",
+    "TrueFactSuggestedLineBreak": "如果蚱蜢长得跟人类一样大小，\r每跳一次，距离是3.5米。",
+    "FalseFactEnglish": "If grasshoppers were the size of people, they could leap the length of 3.5 meters.",
+    "FalseFactMandarin": "如果蚱蜢长得跟人类一样大小，每跳一次，距离是3.5米。",
+    "TrueFactSpanish": "Si los grillos fueran del tamaño de las personas, podrían saltar la longitud de una cancha de baloncesto.",
+    "FalseFactSpanish": "Si los grillos fueran del tamaño de las personas, podrían saltar una longitud de 3.5 metros."
+  },
+  {
+    "TrueFactEnglish": "Ladybugs might play dead when threatened.",
+    "TrueFactMandarin": "瓢虫受到威胁时会装死。",
+    "TrueFactSuggestedLineBreak": "瓢虫受到威胁时会倒立。",
+    "FalseFactEnglish": "Ladybugs might do hand stands when threatened.",
+    "FalseFactMandarin": "瓢虫受到威胁时会倒立。",
+    "TrueFactSpanish": "Las catarinas pueden fingir su muerte cuando se sienten amenazadas.",
+    "FalseFactSpanish": "Las catarinas pueden realizar volteretas cuando se sienten amenazadas."
+  },
+  {
+    "TrueFactEnglish": "Ladybugs squirt smelly liquid from their knees when they get scared.",
+    "TrueFactMandarin": "瓢虫受惊时，会从膝盖喷出难闻的液体。",
+    "TrueFactSuggestedLineBreak": "雌蜂受惊时，\r会从膝盖喷出难闻的液体。",
+    "FalseFactEnglish": "Female bees squirt smelly liquid from their knees when they get scared.",
+    "FalseFactMandarin": "雌蜂受惊时，会从膝盖喷出难闻的液体。",
+    "TrueFactSpanish": "Las catarinas expulsan líquido oloroso de sus rodillas cuando sienten miedo.",
+    "FalseFactSpanish": "Las abejas hembra expulsan líquido oloroso de sus rodillas cuando sienten miedo."
+  },
+  {
+    "TrueFactEnglish": "Love-struck mosquitoes harmonize their buzzing sounds.",
+    "TrueFactMandarin": "恋爱中的蚊子会发出嗡嗡响的共鸣声。",
+    "TrueFactSuggestedLineBreak": "蚊子不懂得谈恋爱。",
+    "FalseFactEnglish": "Mosquitoes don't fall in love.",
+    "FalseFactMandarin": "蚊子不懂得谈恋爱。",
+    "TrueFactSpanish": "Los mosquitos enamorados armonizan el sonido de su zumbido.",
+    "FalseFactSpanish": "Los mosquitos no se enamoran."
+  },
+  {
+    "TrueFactEnglish": "Many ancient physicians used spiderwebs as bandages.",
+    "TrueFactMandarin": "古时候有许多医师使用蜘蛛网作为绷带。",
+    "TrueFactSuggestedLineBreak": "古时候有许多医师\r使用象耳作为绷带。",
+    "FalseFactEnglish": "Many ancient physicians used elephant ears as bandages.",
+    "FalseFactMandarin": "古时候有许多医师使用象耳作为绷带。",
+    "TrueFactSpanish": "Varios médicos antiguos usaban telarañas como vendas.",
+    "FalseFactSpanish": "Varios médicos antiguos usaban orejas de elefantes como vendas."
+  },
+  {
+    "TrueFactEnglish": "Most spiders have eight eyes.",
+    "TrueFactMandarin": "大部分的蜘蛛有八只眼睛。",
+    "TrueFactSuggestedLineBreak": "大部分的蜘蛛有三只眼睛。",
+    "FalseFactEnglish": "Most spiders have 3 eyes.",
+    "FalseFactMandarin": "大部分的蜘蛛有三只眼睛。",
+    "TrueFactSpanish": "La mayoría de las arañas tienen ocho ojos.",
+    "FalseFactSpanish": "La mayoría de las arañas tienen 3 ojos."
+  },
+  {
+    "TrueFactEnglish": "Moths can smell each other from miles away.",
+    "TrueFactMandarin": "飞蛾可以从几公里外闻到同伴的气味。",
+    "TrueFactSuggestedLineBreak": "飞蛾没有嗅觉。",
+    "FalseFactEnglish": "Moths can't smell.",
+    "FalseFactMandarin": "飞蛾没有嗅觉。",
+    "TrueFactSpanish": "Las polillas pueden olerse unas a otras a kilómetros de distancia.",
+    "FalseFactSpanish": "Las polillas no pueden oler."
+  },
+  {
+    "TrueFactEnglish": "Only female bees sting.",
+    "TrueFactMandarin": "只有雌蜂才会蜇人。",
+    "TrueFactSuggestedLineBreak": "只有雄蜂才会蜇人。",
+    "FalseFactEnglish": "Only the male bees can sting.",
+    "FalseFactMandarin": "只有雄蜂才会蜇人。",
+    "TrueFactSpanish": "Únicamente las abejas hembra pican.",
+    "FalseFactSpanish": "Únicamente las abejas macho pueden picar."
+  },
+  {
+    "TrueFactEnglish": "Outside, you are rarely more than six feet away from a spider.",
+    "TrueFactMandarin": "在户外，我们和蜘蛛之间的距离很少会超过182厘米。",
+    "TrueFactSuggestedLineBreak": "在户外，\r我们和蜘蛛之间的距离\r只有一辆脚踏车的身长。",
+    "FalseFactEnglish": "Outside, you are rarely more than six feet away from a bicycle.",
+    "FalseFactMandarin": "在户外，我们和蜘蛛之间的距离只有一辆脚踏车的身长。",
+    "TrueFactSpanish": "En el exterior, rara vez te encuentras a más de 1.8 metros de una araña.",
+    "FalseFactSpanish": "En el exterior, rara vez te encuentras a más de 1.8metros de una bicicleta."
+  },
+  {
+    "TrueFactEnglish": "Slugs have 3,000 teeth and 4 noses.",
+    "TrueFactMandarin": "蛞蝓拥有3000颗牙齿和4个鼻子。",
+    "TrueFactSuggestedLineBreak": "蛞蝓拥有\r1000颗牙齿和两个嘴唇，\r没有鼻子。",
+    "FalseFactEnglish": "Slugs have 1,000 teeth, two lips, and no nose.",
+    "FalseFactMandarin": "蛞蝓拥有1000颗牙齿和两个嘴唇，没有鼻子。",
+    "TrueFactSpanish": "Las babosas tienen 3,000 dientes y 4 narices.",
+    "FalseFactSpanish": "Los caracoles tienen 1,000 dientes, dos labios, y no tienen nariz."
+  },
+  {
+    "TrueFactEnglish": "Some ants can make themselves explode.",
+    "TrueFactMandarin": "有些蚂蚁会“引爆自己”。",
+    "TrueFactSuggestedLineBreak": "树蜂会“引爆自己”。",
+    "FalseFactEnglish": "Tree Wasps can make themselves explode.",
+    "FalseFactMandarin": "树蜂会“引爆自己”。",
+    "TrueFactSpanish": "Algunas hormigas pueden explotar a voluntad.",
+    "FalseFactSpanish": "Las Avispas de Árbol pueden explotar a voluntad"
+  },
+  {
+    "TrueFactEnglish": "Some beetles glow orange.",
+    "TrueFactMandarin": "有些甲虫会发出橙色的光芒。",
+    "TrueFactSuggestedLineBreak": "甲虫不会发光。",
+    "FalseFactEnglish": "Unlike worms and flys, Beetles cannot glow.",
+    "FalseFactMandarin": "甲虫不会发光。",
+    "TrueFactSpanish": "Algunos escarabajos brillan de color naranja.",
+    "FalseFactSpanish": "A diferencia de los gusanos y las moscas, los escarabajos no pueden brillar."
+  },
+  {
+    "TrueFactEnglish": "Some butterflies' ears are on their wings.",
+    "TrueFactMandarin": "有些蝴蝶的耳朵长在翅膀上。",
+    "TrueFactSuggestedLineBreak": "蝴蝶破茧而出时，\r双眼也随之脱落。",
+    "FalseFactEnglish": "Butterflies shed their ears after leaving their cocoon.",
+    "FalseFactMandarin": "蝴蝶破茧而出时，双眼也随之脱落。",
+    "TrueFactSpanish": "Las orejas de algunas mariposas se encuentran en sus alas.",
+    "FalseFactSpanish": "Las mariposas se desprenden de sus orejas después de abandonar su capullo."
+  },
+  {
+    "TrueFactEnglish": "Some crickets’ chirps can be used to estimate the temperature (number of chirps in 15 seconds + 40 = degrees Fahrenheit).",
+    "TrueFactMandarin": "有些蟋蟀发出的唧唧声预测温度；蟋蟀每15秒钟叫的次数加上40，就是华氏温度。",
+    "TrueFactSuggestedLineBreak": "有些蟋蟀可被用来\r预测建筑物的高度。",
+    "FalseFactEnglish": "Some crickets’ chirps can be used to estimate how tall a building is.",
+    "FalseFactMandarin": "有些蟋蟀可被用来预测建筑物的高度。",
+    "TrueFactSpanish": "Los cantos de algunos grillos se pueden usar para calcular la temperatura (número de cantos en 15 segundos + 40 = grados Fahrenheit).",
+    "FalseFactSpanish": "Los cantos de algunos grillos se pueden usar para calcular qué tan grande es un edificio."
+  },
+  {
+    "TrueFactEnglish": "Some experts think individual honeybees have different personalities.",
+    "TrueFactMandarin": "有专家认为每只蜜蜂有不同个性。",
+    "TrueFactSuggestedLineBreak": "每只蜜蜂的个性都一样。",
+    "FalseFactEnglish": "Honeybees all act the same.",
+    "FalseFactMandarin": "每只蜜蜂的个性都一样。",
+    "TrueFactSpanish": "Algunos expertos piensan que las abejas tienen diferentes personalidades.",
+    "FalseFactSpanish": "Todas las abejas se comportan igual."
+  },
+  {
+    "TrueFactEnglish": "Some moths drink the tears of elephants.",
+    "TrueFactMandarin": "有一种飞蛾靠吸食大象的眼泪为生。",
+    "TrueFactSuggestedLineBreak": "有一种飞蛾会饮用能量饮。",
+    "FalseFactEnglish": "Some moths drink energy drinks.",
+    "FalseFactMandarin": "有一种飞蛾会饮用能量饮。",
+    "TrueFactSpanish": "Algunas polillas beben las lágrimas de los elefantes.",
+    "FalseFactSpanish": "Algunas polillas consumen bebidas energéticas."
+  },
+  {
+    "TrueFactEnglish": "Some snails can sleep for three years.",
+    "TrueFactMandarin": "有些蜗牛可以三年不起床。",
+    "TrueFactSuggestedLineBreak": "蜗牛从来不睡觉。",
+    "FalseFactEnglish": "Snails are a species that doesn't sleep. ",
+    "FalseFactMandarin": "蜗牛从来不睡觉。",
+    "TrueFactSpanish": "Algunos caracoles pueden dormir durante tres años.",
+    "FalseFactSpanish": "Los caracoles son una especie que no duerme. "
+  },
+  {
+    "TrueFactEnglish": "Some spiders eat their own webs.",
+    "TrueFactMandarin": "有些蜘蛛会把结好的网吃掉。",
+    "TrueFactSuggestedLineBreak": "蜘蛛不喜欢蜘蛛网的味道。",
+    "FalseFactEnglish": "Spiders don't like the taste of their own webs.",
+    "FalseFactMandarin": "蜘蛛不喜欢蜘蛛网的味道。",
+    "TrueFactSpanish": "Algunas arañas se comen sus propias telarañas.",
+    "FalseFactSpanish": "A las arañas no les gusta el sabor de sus propias telarañas."
+  },
+  {
+    "TrueFactEnglish": "Some tarantulas are blue.",
+    "TrueFactMandarin": "有的狼蛛是蓝色的。",
+    "TrueFactSuggestedLineBreak": "狼蛛都是褐色的，\r而且是不同层次的褐色。",
+    "FalseFactEnglish": "Tarantulas are only different shades of brown.",
+    "FalseFactMandarin": "狼蛛都是褐色的，而且是不同层次的褐色。",
+    "TrueFactSpanish": "Algunas tarántulas son azules.",
+    "FalseFactSpanish": "Las tarántulas tienen únicamente tonalidades de color marrón."
+  },
+  {
+    "TrueFactEnglish": "Some wasps use pebbles as hammers to pound dirt into their nests",
+    "TrueFactMandarin": "有黄蜂使用卵石作为锤子，将污垢打入巢穴。",
+    "TrueFactSuggestedLineBreak": "有黄蜂使用后肢作为锤子，\r将污垢打入巢穴。",
+    "FalseFactEnglish": "Some wasps use their feet as hammers to pound dirt into their nests",
+    "FalseFactMandarin": "有黄蜂使用后肢作为锤子，将污垢打入巢穴。",
+    "TrueFactSpanish": "Algunas avispas usan guijarros como mazos para golpear tierra en sus nidos.",
+    "FalseFactSpanish": "Algunas avispas usan sus patas como martillos para juntar tierra en sus nidos."
+  },
+  {
+    "TrueFactEnglish": "Some worms can grow to 100 feet long.",
+    "TrueFactMandarin": "有的虫类的身长可达30米。",
+    "TrueFactSuggestedLineBreak": "身长最长的虫类长达13米。",
+    "FalseFactEnglish": "The longest worm ever recorded was 43 feet long.",
+    "FalseFactMandarin": "身长最长的虫类长达13米。",
+    "TrueFactSpanish": "Algunos gusanos pueden crecer hasta 30.48 metros de largo.",
+    "FalseFactSpanish": "El gusano más grande jamás registrado era de 13.1064 metros de largo."
+  },
+  {
+    "TrueFactEnglish": "Spider silk has been used to make violin strings.",
+    "TrueFactMandarin": "蜘蛛丝曾经被用来制造小提琴弦。",
+    "TrueFactSuggestedLineBreak": "蜘蛛丝曾经被用来制造车轮。",
+    "FalseFactEnglish": "Spider Silk has been used to make car tires.",
+    "FalseFactMandarin": "蜘蛛丝曾经被用来制造车轮。",
+    "TrueFactSpanish": "Se ha usado seda de araña para elaborar cuerdas de violín.",
+    "FalseFactSpanish": "Se ha usado seda de araña  para elaborar llantas de automóviles."
+  },
+  {
+    "TrueFactEnglish": "Spider silk is used to make fishing nets in some countries.",
+    "TrueFactMandarin": "在某些国家，人们利用蜘蛛丝来制造渔网。",
+    "TrueFactSuggestedLineBreak": "在某些国家，\r人们利用蜘蛛丝来制造游戏控制器。",
+    "FalseFactEnglish": "Spider silk is used to make video game controllers in some countries.",
+    "FalseFactMandarin": "在某些国家，人们利用蜘蛛丝来制造游戏控制器。",
+    "TrueFactSpanish": "En algunos países, la seda de araña se usa para elaborar redes de pesca.",
+    "FalseFactSpanish": "En algunos países, se usa seda de araña para elaborar controles para videojuegos."
+  },
+  {
+    "TrueFactEnglish": "Spiders have clear blood.",
+    "TrueFactMandarin": "蝙蝠的血液是透明的。",
+    "TrueFactSuggestedLineBreak": "蝙蝠的血液是青色的。",
+    "FalseFactEnglish": "Spiders have green blood..",
+    "FalseFactMandarin": "蝙蝠的血液是青色的。",
+    "TrueFactSpanish": "Las arañas tienen sangre transparente.",
+    "FalseFactSpanish": "Las arañas tienen sangre color verde."
+  },
+  {
+    "TrueFactEnglish": "Tarantulas can live for up to 20 years.",
+    "TrueFactMandarin": "狼蛛可以存活20年。",
+    "TrueFactSuggestedLineBreak": "狼蛛可以存活6年。",
+    "FalseFactEnglish": "Tarantulas die when they turn 6 years of age.",
+    "FalseFactMandarin": "狼蛛可以存活6年。",
+    "TrueFactSpanish": "Las tarántulas pueden vivir hasta 20 años.",
+    "FalseFactSpanish": "Las tarántulas mueren cuando cumplen 6 años."
+  },
+  {
+    "TrueFactEnglish": "The Asian weaver ant can hold objects 100 times its weight—while hanging upside down!",
+    "TrueFactMandarin": "亚洲织叶蚁能举起比自身体重重一百倍的物体，即便是在倒转的姿势下。",
+    "TrueFactSuggestedLineBreak": "亚洲织叶蚁与其他蚁类不同，\r无法举起任何东西。",
+    "FalseFactEnglish": "Unlike most ants, the Asian weaver ant can't hold anything. ",
+    "FalseFactMandarin": "亚洲织叶蚁与其他蚁类不同，无法举起任何东西。",
+    "TrueFactSpanish": "Las hormigas tejedoras de Asia pueden cargar objetos 100 veces su peso - ¡mientras cuelgan boca abajo!",
+    "FalseFactSpanish": "A diferencia de la mayoría de las hormigas, las hormigas tejedoras de Asia no pueden cargar nada. "
+  },
+  {
+    "TrueFactEnglish": "The bombardier beetle can shoot hot poison from its rear end 500 times a second.",
+    "TrueFactMandarin": "射炮步甲的腹部末端可射出炽热的毒液，而且每秒能射出500次。",
+    "TrueFactSuggestedLineBreak": "射炮步甲的腹部末端\r可射出炽热的毒液，\r而且每秒能射出100次。",
+    "FalseFactEnglish": "The bombardier beetle can shoot hot poison from its rear end 100 times a second.",
+    "FalseFactMandarin": "射炮步甲的腹部末端可射出炽热的毒液，而且每秒能射出100次。",
+    "TrueFactSpanish": "El escarabajo bombardero puede disparar veneno caliente desde su trasero 500 veces por segundo.",
+    "FalseFactSpanish": "El escarabajo bombardero puede disparar veneno caliente desde su trasero 100 veces por segundo."
+  },
+  {
+    "TrueFactEnglish": "The death’s-head moth has a skull-shaped design on its body.",
+    "TrueFactMandarin": "鬼脸天蛾成虫后，背面会呈现一个骷髅形斑纹。",
+    "TrueFactSuggestedLineBreak": "鬼脸天蛾成虫后，\r背面会呈现一个香蕉形斑纹。",
+    "FalseFactEnglish": "The death’s-head moth has a banana design on its body.",
+    "FalseFactMandarin": "鬼脸天蛾成虫后，背面会呈现一个香蕉形斑纹。",
+    "TrueFactSpanish": "La polilla calavera o polilla de la muerte, tiene un diseño en forma de cráneo en su cuerpo.",
+    "FalseFactSpanish": "La polilla calavera tiene un diseño en forma de plátano en su cuerpo."
+  },
+  {
+    "TrueFactEnglish": "The pirate ant has black marks on its head that look like eye patches.",
+    "TrueFactMandarin": "海盗蚁的头上有着黑色印记，让人以为是眼睛。",
+    "TrueFactSuggestedLineBreak": "海盗蚁的头上长着\r看似宝剑和藏宝箱的黑色印记。",
+    "FalseFactEnglish": "The pirate ant has black marks on its head that look like swords and treasure.",
+    "FalseFactMandarin": "海盗蚁的头上长着看似宝剑和藏宝箱的黑色印记。",
+    "TrueFactSpanish": "La hormiga pirata tiene marcas negras en su cabeza que tienen forma de parches de ojos.",
+    "FalseFactSpanish": "La hormiga pirata tiene marcas negras en su cabeza que tienen forma de espadas y tesoros."
+  },
+  {
+    "TrueFactEnglish": "The praying mantis is the only insect that looks over its shoulder.",
+    "TrueFactMandarin": "螳螂是唯一能够看到自身肩膀的的昆虫。",
+    "TrueFactSuggestedLineBreak": "蜣螂是唯一能够看到\r自身肩膀的的昆虫。",
+    "FalseFactEnglish": "The Dung Beetle is the only insect that looks over its shoulder.",
+    "FalseFactMandarin": "蜣螂是唯一能够看到自身肩膀的的昆虫。",
+    "TrueFactSpanish": "La mantis religiosa es el único insecto que mira por encima de su hombro.",
+    "FalseFactSpanish": "El escarabajo pelotero es el único insecto que mira por encima de su hombro."
+  },
+  {
+    "TrueFactEnglish": "The world’s lightest mammal—the bumblebee bat—weighs less than a nickel.",
+    "TrueFactMandarin": "凹脸蝠是世界上最轻的哺乳动物，它的重量比一枚硬币还要轻。",
+    "TrueFactSuggestedLineBreak": "浣熊是世界上\r最轻的哺乳动物。",
+    "FalseFactEnglish": "The world’s lightest mammal is the Wasp Racoon. ",
+    "FalseFactMandarin": "浣熊是世界上最轻的哺乳动物。",
+    "TrueFactSpanish": "El mamífero más ligero del mundo -el murciélago nariz de cerdo- pesa menos que una moneda pequeña.",
+    "FalseFactSpanish": "El mamífero más ligero es el Mapache Avispa. "
+  },
+  {
+    "TrueFactEnglish": "The world’s termites outweigh the world’s humans.",
+    "TrueFactMandarin": "这个世界上的白蚁数量比人类多。",
+    "TrueFactSuggestedLineBreak": "在这个世界上，\r人类的数量比白蚁多。",
+    "FalseFactEnglish": "The world's humans weigh more than all of the world's termites.",
+    "FalseFactMandarin": "在这个世界上，人类的数量比白蚁多。",
+    "TrueFactSpanish": "Las termitas de todo el mundo pesan más que los seres humanos en el planeta.",
+    "FalseFactSpanish": "Los seres humanos en el planeta pesan más que todas las termitas en el planeta."
+  },
+  {
+    "TrueFactEnglish": "There can be about as many insects in one square mile as there are people on the entire planet.",
+    "TrueFactMandarin": "地球上每2.6平方公里的土地上所含有的昆虫数量，相等于全世界的人口。",
+    "TrueFactSuggestedLineBreak": "地球上的人类数量\r比昆虫来得还要多。",
+    "FalseFactEnglish": "There are more people on the entire planet than there are insects.",
+    "FalseFactMandarin": "地球上的人类数量比昆虫来得还要多。",
+    "TrueFactSpanish": "Puede existir la misma cantidad de insectos en 1.60934 kilómetros que personas en el planeta entero.",
+    "FalseFactSpanish": "Existen más personas en el planeta que insectos."
+  }
+]

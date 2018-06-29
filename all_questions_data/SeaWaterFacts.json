@@ -1,0 +1,506 @@
+[
+    {
+      "TrueFactEnglish": "A blue whale calf can gain 8 pounds an hour during its first 7 months.",
+      "TrueFactMandarin": "蓝鲸宝宝出生后首7个月，每8小时体重会增长4公斤。",
+      "TrueFactSuggestedLineBreak": "蓝鲸宝宝出生后首7个月，\r每周体重会增长约2公斤。",
+      "FalseFactEnglish": "A blue whale calf can gain 5 pounds a week it’s first 7 months",
+      "FalseFactMandarin": "蓝鲸宝宝出生后首7个月，每周体重会增长约2公斤。"
+    },
+    {
+      "TrueFactEnglish": "A blue whale’s heart weighs up to a ton.",
+      "TrueFactMandarin": "蓝鲸的心脏重达1000公斤。",
+      "TrueFactSuggestedLineBreak": "蓝鲸的心脏\r比一头大象的心脏还要轻。",
+      "FalseFactEnglish": "A blue whale’s heart is lighter than an elephant's.",
+      "FalseFactMandarin": "蓝鲸的心脏比一头大象的心脏还要轻。"
+    },
+    {
+      "TrueFactEnglish": "A Cuttlefish’s pupils are shaped like W’s.",
+      "TrueFactMandarin": "乌贼的瞳孔形状是“W”型的。",
+      "TrueFactSuggestedLineBreak": "乌贼的瞳孔形状\r像阿拉伯数字“3”。",
+      "FalseFactEnglish": "The Cuttlefish’s pupils are shaped like the number 3",
+      "FalseFactMandarin": "乌贼的瞳孔形状像阿拉伯数字“3”。"
+    },
+    {
+      "TrueFactEnglish": "A goblin shark can thrust its jaws out of its mouth.",
+      "TrueFactMandarin": "欧氏尖吻鲛可将颚子伸出嘴巴。",
+      "TrueFactSuggestedLineBreak": "欧氏尖吻鲛没有嘴巴，\r就跟蝴蝶一样。",
+      "FalseFactEnglish": "Like a butterfly, a goblin shark doesn't have a mouth.",
+      "FalseFactMandarin": "欧氏尖吻鲛没有嘴巴，就跟蝴蝶一样。"
+    },
+    {
+      "TrueFactEnglish": "A great white shark can weigh as much as 15 gorillas.",
+      "TrueFactMandarin": "大白鲨可重达15只大猩猩。",
+      "TrueFactSuggestedLineBreak": "大白鲨跟一只大猩猩一样重。",
+      "FalseFactEnglish": "A great white shark can weigh as much a gorilla.",
+      "FalseFactMandarin": "大白鲨跟一只大猩猩一样重。"
+    },
+    {
+      "TrueFactEnglish": "A group of jellyfish is called a smack.",
+      "TrueFactMandarin": "在英文里，“一群水母”可用“smack”作为量词。",
+      "TrueFactSuggestedLineBreak": "在英文里，“一群水母”\r被称为“Grouplefish”。",
+      "FalseFactEnglish": "A group of jellyfish is called a Grouplefish.",
+      "FalseFactMandarin": "在英文里，“一群水母”被称为“Grouplefish”。"
+    },
+    {
+      "TrueFactEnglish": "A jellyfish can be as small a thimble or as big two washing machines.",
+      "TrueFactMandarin": "水母可以小得像一个顶针，也可以大得像两台洗衣机。",
+      "TrueFactSuggestedLineBreak": "水母可以小得像一支针，\r也可以大得像两个火车厢。",
+      "FalseFactEnglish": "A jellyfish can be as small a needle or as big two train cars.",
+      "FalseFactMandarin": "水母可以小得像一支针，也可以大得像两个火车厢。"
+    },
+    {
+      "TrueFactEnglish": "A lobster’s teeth are in its stomach.",
+      "TrueFactMandarin": "龙虾的牙齿长在胃里。",
+      "TrueFactSuggestedLineBreak": "龙虾的牙齿长在钳子上。",
+      "FalseFactEnglish": "A lobster’s teeth are in it's claws.",
+      "FalseFactMandarin": "龙虾的牙齿长在钳子上。"
+    },
+    {
+      "TrueFactEnglish": "A mass of floating ice that looks like an iceberg is called a floeberg.",
+      "TrueFactMandarin": "在水面上漂浮的小冰山被称为浮冰丘。",
+      "TrueFactSuggestedLineBreak": "在水面上漂浮的小冰山\r被称为“飘浮冰山”。",
+      "FalseFactEnglish": "A mass of floating ice that looks like an iceberg is called a Popsicberg.",
+      "FalseFactMandarin": "在水面上漂浮的小冰山被称为“飘浮冰山”。"
+    },
+    {
+      "TrueFactEnglish": "A newborn blue whale can be longer than an adult elephant.",
+      "TrueFactMandarin": "蓝鲸宝宝的体积比一头成年大象还要大。",
+      "TrueFactSuggestedLineBreak": "蓝鲸宝宝的体积\r比一只成年狗还要小。",
+      "FalseFactEnglish": "A newborn blue whale is smaller than the average dog.",
+      "FalseFactMandarin": "蓝鲸宝宝的体积比一只成年狗还要小。"
+    },
+    {
+      "TrueFactEnglish": "A sailfish can leap through the air at 68 miles an hour.",
+      "TrueFactMandarin": "旗鱼能以每小时109公里的速度划过空中。",
+      "TrueFactSuggestedLineBreak": "旗鱼能以每小时约13公里的速度\r划过空中。",
+      "FalseFactEnglish": "A sailfish can leap through the air at 8 miles an hour.",
+      "FalseFactMandarin": "旗鱼能以每小时约13公里的速度划过空中。"
+    },
+    {
+      "TrueFactEnglish": "A salmon’s sense of smell is hundreds of times better than a dog’s.",
+      "TrueFactMandarin": "鲑鱼的嗅觉比狗的嗅觉敏感几百倍。",
+      "TrueFactSuggestedLineBreak": "鲑鱼是唯一一种\r没有嗅觉的鱼类。",
+      "FalseFactEnglish": "Salmon is the only type of fish with out a sense of smell.",
+      "FalseFactMandarin": "鲑鱼是唯一一种没有嗅觉的鱼类。"
+    },
+    {
+      "TrueFactEnglish": "A seahorse can move its eyes in opposite directions.",
+      "TrueFactMandarin": "海马的眼珠可以前后转动。",
+      "TrueFactSuggestedLineBreak": "海马只能往前看。",
+      "FalseFactEnglish": "A seahorse can only see what's directly in front of them.",
+      "FalseFactMandarin": "海马只能往前看。"
+    },
+    {
+      "TrueFactEnglish": "A shark can detect a fish’s heartbeat before it attacks.",
+      "TrueFactMandarin": "鲨鱼展开攻击前可探测到猎物的心跳。",
+      "TrueFactSuggestedLineBreak": "鲨鱼展开攻击前\r可探测到猎物的年龄。",
+      "FalseFactEnglish": "A shark can detect a fish’s age before it attacks.",
+      "FalseFactMandarin": "鲨鱼展开攻击前可探测到猎物的年龄。"
+    },
+    {
+      "TrueFactEnglish": "A shark can grow and lose up to 30,000 teeth in its lifetime.",
+      "TrueFactMandarin": "鲨鱼一生能长出和掉落三万颗牙齿。",
+      "TrueFactSuggestedLineBreak": "鲨鱼的牙齿永远不会脱落。",
+      "FalseFactEnglish": "Sharks don't lose their teeth",
+      "FalseFactMandarin": "鲨鱼的牙齿永远不会脱落。"
+    },
+    {
+      "TrueFactEnglish": "A shark can live for six weeks without eating.",
+      "TrueFactMandarin": "鲨鱼即使不进食也能存活六个星期。",
+      "TrueFactSuggestedLineBreak": "鲨鱼每17个小时后\r就必须进食。",
+      "FalseFactEnglish": "A shark needs to eat food once every 17 hours.",
+      "FalseFactMandarin": "鲨鱼每17个小时后就必须进食。"
+    },
+    {
+      "TrueFactEnglish": "A turtle’s shell is made up of about 50 bones.",
+      "TrueFactMandarin": "龟壳里共有50根骨头。",
+      "TrueFactSuggestedLineBreak": "龟壳里有一根骨头。",
+      "FalseFactEnglish": "A turtle’s shell is made up of 1 bone.",
+      "FalseFactMandarin": "龟壳里有一根骨头。"
+    },
+    {
+      "TrueFactEnglish": "A whale’s earwax can be as thick as a mattress.",
+      "TrueFactMandarin": "鲸鱼的耳垢可能跟床褥一样厚。",
+      "TrueFactSuggestedLineBreak": "鲸鱼是唯一一种\r不会长耳垢的哺乳动物。",
+      "FalseFactEnglish": "Whales are the only mammal without ear wax.",
+      "FalseFactMandarin": "鲸鱼是唯一一种不会长耳垢的哺乳动物。"
+    },
+    {
+      "TrueFactEnglish": "All clownfish are born male.",
+      "TrueFactMandarin": "刚出生的小丑鱼都是雄性的。",
+      "TrueFactSuggestedLineBreak": "刚出生的小丑鱼都是雌性的。",
+      "FalseFactEnglish": "All clownfish are born female.",
+      "FalseFactMandarin": "刚出生的小丑鱼都是雌性的。"
+    },
+    {
+      "TrueFactEnglish": "An electric eel can produce a charge strong enough to stun a horse.",
+      "TrueFactMandarin": "电鳗产生的电能足以电晕一匹马。",
+      "TrueFactSuggestedLineBreak": "电鳗不会产生电流。",
+      "FalseFactEnglish": "An electric eel doesn’t actually produce electricity.",
+      "FalseFactMandarin": "电鳗不会产生电流。"
+    },
+    {
+      "TrueFactEnglish": "An octopus can detach an arm on purpose to distract a predator.",
+      "TrueFactMandarin": "章鱼可通过断臂分散敌人的注意力。",
+      "TrueFactSuggestedLineBreak": "锤头鲨可自断鱼鳍，\r以分散敌人的注意力。",
+      "FalseFactEnglish": "Hammerhead sharks can detach their fins on purpose to distract predators.",
+      "FalseFactMandarin": "锤头鲨可自断鱼鳍，以分散敌人的注意力。"
+    },
+    {
+      "TrueFactEnglish": "Certain sharks walk on their fins underwater.",
+      "TrueFactMandarin": "有的鲨鱼会利用鱼鳍在海底下“行走”。",
+      "TrueFactSuggestedLineBreak": "有的鲨鱼会利用鱼鳍\r将猎物抛来抛去，\r就跟我们玩抛球游戏一样。",
+      "FalseFactEnglish": "Certain sharks use their fins for throwing fish back and forth like humans playing catch.",
+      "FalseFactMandarin": "有的鲨鱼会利用鱼鳍将猎物抛来抛去，就跟我们玩抛球游戏一样。"
+    },
+    {
+      "TrueFactEnglish": "Chalk is made from the skeletons of ancient sea creatures.",
+      "TrueFactMandarin": "粉笔是采用远古海洋生物的骨骼制成的。",
+      "TrueFactSuggestedLineBreak": "粉笔是采用粉鱼的鳞片制成的。",
+      "FalseFactEnglish": "Chalk is made from the scales of Chalkfish.",
+      "FalseFactMandarin": "粉笔是采用粉鱼的鳞片制成的。"
+    },
+    {
+      "TrueFactEnglish": "Crabs are distant relatives of spiders.",
+      "TrueFactMandarin": "螃蟹和蜘蛛的远亲。",
+      "TrueFactSuggestedLineBreak": "螃蟹和海龟的远亲。",
+      "FalseFactEnglish": "Crabs are distant relatives of sea turtles.",
+      "FalseFactMandarin": "螃蟹和海龟的远亲。"
+    },
+    {
+      "TrueFactEnglish": "Detached sea star arms sometimes grow new bodies.",
+      "TrueFactMandarin": "被切断的海星臂有时会生出新的海星。",
+      "TrueFactSuggestedLineBreak": "被切断的海星臂\r将成为海床表面的一部分。",
+      "FalseFactEnglish": "All detached sea star arms become part of the ocean floor. ",
+      "FalseFactMandarin": "被切断的海星臂将成为海床表面的一部分。"
+    },
+    {
+      "TrueFactEnglish": "Dolphins can hear sounds underwater that are 15 miles away.",
+      "TrueFactMandarin": "海豚可以听到水底下24公里以外的声音。",
+      "TrueFactSuggestedLineBreak": "海豚只能在浮出水面后\r听见声音。",
+      "FalseFactEnglish": "Dolphins can only hear above water.",
+      "FalseFactMandarin": "海豚只能在浮出水面后听见声音。"
+    },
+    {
+      "TrueFactEnglish": "Eels can swim backwards.",
+      "TrueFactMandarin": "鳗鱼可以后退。",
+      "TrueFactSuggestedLineBreak": "鲨鱼可以后退。",
+      "FalseFactEnglish": " Sharks can swim backwards.",
+      "FalseFactMandarin": "鲨鱼可以后退。"
+    },
+    {
+      "TrueFactEnglish": "Fish can’t close their eyes.",
+      "TrueFactMandarin": "鱼儿无法闭上双眼。",
+      "TrueFactSuggestedLineBreak": "鱼儿睡觉时会闭上眼睛。",
+      "FalseFactEnglish": "Fish sleep with their eyes closed.",
+      "FalseFactMandarin": "鱼儿睡觉时会闭上眼睛。"
+    },
+    {
+      "TrueFactEnglish": "Hammerhead sharks can give birth to 40 babies at once.",
+      "TrueFactMandarin": "锤头鲨一次能生下40个宝宝。",
+      "TrueFactSuggestedLineBreak": "锤头鲨是孪生动物。",
+      "FalseFactEnglish": "Hammerhead sharks lay eggs.",
+      "FalseFactMandarin": "锤头鲨是孪生动物。"
+    },
+    {
+      "TrueFactEnglish": "Herring communicate by passing gas.",
+      "TrueFactMandarin": "鲱鱼通过放屁跟同伴沟通。",
+      "TrueFactSuggestedLineBreak": "鲱鱼通过吐泡泡的方式\r跟同伴沟通。",
+      "FalseFactEnglish": "Herring communicate by blowing bubbles with their mouths.",
+      "FalseFactMandarin": "鲱鱼通过吐泡泡的方式跟同伴沟通。"
+    },
+    {
+      "TrueFactEnglish": "Horseshoe crabs lived before dinosaurs.",
+      "TrueFactMandarin": "马蹄蟹在恐龙出现之前就已经存在了。",
+      "TrueFactSuggestedLineBreak": "马蹄蟹在地球上\r生存2000年了。",
+      "FalseFactEnglish": "Horseshoe crabs have lived on this earth for 2000 years.",
+      "FalseFactMandarin": "马蹄蟹在地球上生存2000年了。"
+    },
+    {
+      "TrueFactEnglish": "If the longest blue whale could stand on its tail, it would be as tall as a ten-story building.",
+      "TrueFactMandarin": "世上体积最长的蓝鲸站立起来，高度可达十层楼。",
+      "TrueFactSuggestedLineBreak": "世上体积最长的蓝鲸站立起来，\r等于7辆汽车层层叠起的高度。",
+      "FalseFactEnglish": "If the longest blue whale could stand on its tail, it would be as tall as a 7 cars stacked on top of each other.",
+      "FalseFactMandarin": "世上体积最长的蓝鲸站立起来，等于7辆汽车层层叠起的高度。"
+    },
+    {
+      "TrueFactEnglish": "It takes three liters of fresh water to make one liter of bottled water.",
+      "TrueFactMandarin": "生产一公升的瓶装饮用水,需要用上三公升的淡水。",
+      "TrueFactSuggestedLineBreak": "生产一公升的瓶装饮用水，\r需要用上九公升的淡水。",
+      "FalseFactEnglish": "It takes 9 liters of fresh water to make one liter of bottled water.",
+      "FalseFactMandarin": "生产一公升的瓶装饮用水，需要用上九公升的淡水。"
+    },
+    {
+      "TrueFactEnglish": "It’s impossible for a person to sink in the Dead Sea.",
+      "TrueFactMandarin": "在死海里，人永远不会沉没。",
+      "TrueFactSuggestedLineBreak": "在死海里，人沉没得更快。",
+      "FalseFactEnglish": "People sink in the Dead Sea faster than any other body of water.",
+      "FalseFactMandarin": "在死海里，人沉没得更快。"
+    },
+    {
+      "TrueFactEnglish": "Jellyfish can sting even when dead.",
+      "TrueFactMandarin": "水母死后还可以蜇伤敌人。",
+      "TrueFactSuggestedLineBreak": "水母死后，也就失去了毒性。",
+      "FalseFactEnglish": "Once dead, a jelly fish loses it's sting.",
+      "FalseFactMandarin": "水母死后，也就失去了毒性。"
+    },
+    {
+      "TrueFactEnglish": "Killer whales are actually dolphins.",
+      "TrueFactMandarin": "杀人鲸和海豚是同类。",
+      "TrueFactSuggestedLineBreak": "杀人鲸和食人鲨是同类。",
+      "FalseFactEnglish": "Killer whales are actually Killer Sharks.",
+      "FalseFactMandarin": "杀人鲸和食人鲨是同类。"
+    },
+    {
+      "TrueFactEnglish": "Lobsters can regrow missing claws.",
+      "TrueFactMandarin": "龙虾的钳子断了会重新长出来。",
+      "TrueFactSuggestedLineBreak": "鲨鱼的背鳍断了\r会重新长出来。",
+      "FalseFactEnglish": "Sharks can regrow missing fins.",
+      "FalseFactMandarin": "鲨鱼的背鳍断了会重新长出来。"
+    },
+    {
+      "TrueFactEnglish": "More water is in the pacific ocean than in all of the other seas and oceans combined.",
+      "TrueFactMandarin": "将所有海洋的水量凑合起来，仍然不及太平洋的水量。",
+      "TrueFactSuggestedLineBreak": "大西洋的面积\r比太平洋还要大。",
+      "FalseFactEnglish": "The Atlantic Ocean is larger than the Pacific Ocean.",
+      "FalseFactMandarin": "大西洋的面积比太平洋还要大。"
+    },
+    {
+      "TrueFactEnglish": "Most sharks would sink in freshwater.",
+      "TrueFactMandarin": "大部分鲨鱼在淡水中会往下沉。",
+      "TrueFactSuggestedLineBreak": "大部分鲨鱼\r无法在淡水深处中潜游。",
+      "FalseFactEnglish": "Most sharks can not dive deep in freshwater.",
+      "FalseFactMandarin": "大部分鲨鱼无法在淡水深处中潜游。"
+    },
+    {
+      "TrueFactEnglish": "Most squids have three hearts.",
+      "TrueFactMandarin": "大部分墨鱼有三个心脏。",
+      "TrueFactSuggestedLineBreak": "大部分墨鱼有三个胃。",
+      "FalseFactEnglish": "Squids have three stomaches.",
+      "FalseFactMandarin": "大部分墨鱼有三个胃。"
+    },
+    {
+      "TrueFactEnglish": "One teaspoon of seawater contains five million living organisms.",
+      "TrueFactMandarin": "一茶匙的海水含有五百万个活生物。",
+      "TrueFactSuggestedLineBreak": "一茶匙的海水\r含有一百万个活生物。",
+      "FalseFactEnglish": "One teaspoon of seawater contains almost 1 million living organisms.",
+      "FalseFactMandarin": "一茶匙的海水含有一百万个活生物。"
+    },
+    {
+      "TrueFactEnglish": "Oysters change from male to female.",
+      "TrueFactMandarin": "牡蛎可从雄性变成雌性。",
+      "TrueFactSuggestedLineBreak": "牡蛎都是雌性的。",
+      "FalseFactEnglish": "All Oysters are female",
+      "FalseFactMandarin": "牡蛎都是雌性的。"
+    },
+    {
+      "TrueFactEnglish": "Parrotfish sleep in cocoons of their own mucus.",
+      "TrueFactMandarin": "鹦哥鱼睡在沾满自己粘液的茧。",
+      "TrueFactSuggestedLineBreak": "鹦哥鱼的窝巢\r就跟鹦鹉的窝巢一样。",
+      "FalseFactEnglish": "Parrotfish sleep in nests like parrot birds.",
+      "FalseFactMandarin": "鹦哥鱼的窝巢就跟鹦鹉的窝巢一样。"
+    },
+    {
+      "TrueFactEnglish": "Sarcastic fringehead fish battle over turf by wrestling each other with their mouths.",
+      "TrueFactMandarin": "为了争取地盘，勃氏新热鳚会把口大大张开与对手打斗。",
+      "TrueFactSuggestedLineBreak": "为了争取地盘，\r勃氏新热鳚会将石子和海藻\r当成是武器来攻击对手。",
+      "FalseFactEnglish": "Sarcastic fringehead fish battle over turf by using weopons such as stones and seaweed.",
+      "FalseFactMandarin": "为了争取地盘，勃氏新热鳚会将石子和海藻当成是武器来攻击对手。"
+    },
+    {
+      "TrueFactEnglish": "Scientists think sharks are color-blind.",
+      "TrueFactMandarin": "科学家认为鲨鱼患有色盲。",
+      "TrueFactSuggestedLineBreak": "科学家认为，\r鲨鱼看到的颜色比人类还要多。",
+      "FalseFactEnglish": "Scientists think sharks can see more colors than a human.",
+      "FalseFactMandarin": "科学家认为，鲨鱼看到的颜色比人类还要多。"
+    },
+    {
+      "TrueFactEnglish": "Sea snail mucus was once used to make purple dye.",
+      "TrueFactMandarin": "曾经有人用海螺的粘液来制造紫色颜料。",
+      "TrueFactSuggestedLineBreak": "曾经有人用海螺的粘液\r来制造雨伞。",
+      "FalseFactEnglish": "Sea snail mucus was once used to make umbrellas.",
+      "FalseFactMandarin": "曾经有人用海螺的粘液来制造雨伞。"
+    },
+    {
+      "TrueFactEnglish": "Seahorses do not have stomachs.",
+      "TrueFactMandarin": "海马没有胃。",
+      "TrueFactSuggestedLineBreak": "海马有两个胃。",
+      "FalseFactEnglish": "Seahorses have 2 stomachs.",
+      "FalseFactMandarin": "海马有两个胃。"
+    },
+    {
+      "TrueFactEnglish": "Sharks are older than trees.",
+      "TrueFactMandarin": "鲨鱼的寿命比树还长。",
+      "TrueFactSuggestedLineBreak": "鲨鱼是地球上最年轻的物种。",
+      "FalseFactEnglish": "Sharks are some of the youngest creatures on this planet.",
+      "FalseFactMandarin": "鲨鱼是地球上最年轻的物种。"
+    },
+    {
+      "TrueFactEnglish": "Sharks have eight senses. Humans have only five.",
+      "TrueFactMandarin": "鲨鱼有8个感官，而人只有5个感官。",
+      "TrueFactSuggestedLineBreak": "鲨鱼的感官比人类还要少。",
+      "FalseFactEnglish": "Sharks have less senses than humans do.",
+      "FalseFactMandarin": "鲨鱼的感官比人类还要少。"
+    },
+    {
+      "TrueFactEnglish": "Sharks have no bones.",
+      "TrueFactMandarin": "鲨鱼全身上下没有任何骨头。",
+      "TrueFactSuggestedLineBreak": "鲨鱼全身上下\r比人类多出14根骨头。",
+      "FalseFactEnglish": "Sharks have 14 more bones than the average human.",
+      "FalseFactMandarin": "鲨鱼全身上下比人类多出14根骨头。"
+    },
+    {
+      "TrueFactEnglish": "Some clams live to be more than a hundred years old.",
+      "TrueFactMandarin": "有的蛤蜊可活上一百多岁。",
+      "TrueFactSuggestedLineBreak": "蛤蜊不能活上45年。",
+      "FalseFactEnglish": "Clams do not live past 45 years.",
+      "FalseFactMandarin": "蛤蜊不能活上45年。"
+    },
+    {
+      "TrueFactEnglish": "Some fish can change from female to male.",
+      "TrueFactMandarin": "有的鱼可以从雌性变成雄性。",
+      "TrueFactSuggestedLineBreak": "所有鱼类都无法变性。",
+      "FalseFactEnglish": "Once is fish is born a male, it stays that way.",
+      "FalseFactMandarin": "所有鱼类都无法变性。"
+    },
+    {
+      "TrueFactEnglish": "Some fish can taste with their tails.",
+      "TrueFactMandarin": "有的鱼类的尾巴含有味蕾，使它们能用尾巴尝味。",
+      "TrueFactSuggestedLineBreak": "鱼没有味蕾。",
+      "FalseFactEnglish": "Fish don't have taste buds.",
+      "FalseFactMandarin": "鱼没有味蕾。"
+    },
+    {
+      "TrueFactEnglish": "Some fish can walk on land.",
+      "TrueFactMandarin": "有的鱼类可以在陆地上行走。",
+      "TrueFactSuggestedLineBreak": "有的海马可以在陆地上行走。",
+      "FalseFactEnglish": "Some seahorses can walk on land.",
+      "FalseFactMandarin": "有的海马可以在陆地上行走。"
+    },
+    {
+      "TrueFactEnglish": "Some fish use their fins to “walk” along the ocean floor.",
+      "TrueFactMandarin": "有的鱼会使用鳍在海底下“走动”。",
+      "TrueFactSuggestedLineBreak": "有的鱼会使用鳍去戏弄同伴。",
+      "FalseFactEnglish": "Some fish use their fins to jester to other fish.",
+      "FalseFactMandarin": "有的鱼会使用鳍去戏弄同伴。"
+    },
+    {
+      "TrueFactEnglish": "Some lobsters are electric blue.",
+      "TrueFactMandarin": "有的龙虾是铁蓝色的。",
+      "TrueFactSuggestedLineBreak": "龙虾都是红色的。",
+      "FalseFactEnglish": "Lobsters are all some shade of red.",
+      "FalseFactMandarin": "龙虾都是红色的。"
+    },
+    {
+      "TrueFactEnglish": "Some sand dunes bark.",
+      "TrueFactMandarin": "沙丘会发出吠叫声。",
+      "TrueFactSuggestedLineBreak": "沙丘会发出\r类似鸭子的呱呱叫声。",
+      "FalseFactEnglish": "Some sand dunes quack like a duck.",
+      "FalseFactMandarin": "沙丘会发出类似鸭子的呱呱叫声。"
+    },
+    {
+      "TrueFactEnglish": "Some sharks can live to be 75 years old.",
+      "TrueFactMandarin": "有些鲨鱼能活上75年。",
+      "TrueFactSuggestedLineBreak": "海马能活上75年。",
+      "FalseFactEnglish": "Seahorses can live to be 75 years old.",
+      "FalseFactMandarin": "海马能活上75年。"
+    },
+    {
+      "TrueFactEnglish": "Some squat lobsters—a kind of crustacean—are covered in hairlike bristles.",
+      "TrueFactMandarin": "铠甲虾是一种甲壳类动物；有些铠甲虾身上布满鬃毛。",
+      "TrueFactSuggestedLineBreak": "铠甲虾是一种甲壳类动物；\r有些铠甲虾身上布满奇石。",
+      "FalseFactEnglish": "Some squat lobsters—a kind of crustacean—are covered in rare jewels.",
+      "FalseFactMandarin": "铠甲虾是一种甲壳类动物；有些铠甲虾身上布满奇石。"
+    },
+    {
+      "TrueFactEnglish": "Sperm whales have the heaviest brains on the planet.",
+      "TrueFactMandarin": "抹香鲸拥有地球上最重的脑袋。",
+      "TrueFactSuggestedLineBreak": "大白鲨拥有地球上\r所有生物中最重的脑袋。",
+      "FalseFactEnglish": "Great White Sharks have the heaviest brains on the planet.",
+      "FalseFactMandarin": "大白鲨拥有地球上所有生物中最重的脑袋。"
+    },
+    {
+      "TrueFactEnglish": "Swarms of jellyfish stretching 100 miles have appeared in the Gulf of Mexico.",
+      "TrueFactMandarin": "墨西哥湾曾经出现160公里长的水母群。",
+      "TrueFactSuggestedLineBreak": "墨西哥湾曾经出现\r160公里长的座头鲸群。",
+      "FalseFactEnglish": "Swarms of humpback whales stretching 100 miles have appeared in the Gulf of Mexico.",
+      "FalseFactMandarin": "墨西哥湾曾经出现160公里长的座头鲸群。"
+    },
+    {
+      "TrueFactEnglish": "The Dead Sea is seven times saltier than any ocean.",
+      "TrueFactMandarin": "死海的咸度比任何海洋高上7倍。",
+      "TrueFactSuggestedLineBreak": "死海是世界上\r最大的淡水源地。",
+      "FalseFactEnglish": "The Dead Sea is the largest fresh water resource.",
+      "FalseFactMandarin": "死海是世界上最大的淡水源地。"
+    },
+    {
+      "TrueFactEnglish": "The largest known octopus had arms long enough to wrap around four cars.",
+      "TrueFactMandarin": "世上体积最大的章鱼的胳膊足以缠住四辆轿车。",
+      "TrueFactSuggestedLineBreak": "世上体积最大的海星，\r其胳膊足以缠住四辆轿车。",
+      "FalseFactEnglish": "The largest known star fish had arms long enough to wrap around four cars.",
+      "FalseFactMandarin": "世上体积最大的海星，其胳膊足以缠住四辆轿车。"
+    },
+    {
+      "TrueFactEnglish": "The male killer whale’s dorsal (back) fin is almost six feet high—the height of a tall man.",
+      "TrueFactMandarin": "雄性杀人鲸的背鳍可高达183厘米，高度相等于一个身材高大的男人。",
+      "TrueFactSuggestedLineBreak": "雄性杀人鲸没有背鳍，\r而雌性杀人鲸则长有背鳍。",
+      "FalseFactEnglish": "Unlike female killer whales, a male killer whale doesn't have a dorsal (back) fin. ",
+      "FalseFactMandarin": "雄性杀人鲸没有背鳍，而雌性杀人鲸则长有背鳍。"
+    },
+    {
+      "TrueFactEnglish": "The sound of an iceberg breaking is louder than 214 oil tanker engines.",
+      "TrueFactMandarin": "冰山崩塌发出的声响比214台油箱发动机同时操作发出的声响来得更大声。",
+      "TrueFactSuggestedLineBreak": "冰山崩塌时，\r海面上一片宁静。",
+      "FalseFactEnglish": "An iceberg breaking is the quietest sound in the ocean.",
+      "FalseFactMandarin": "冰山崩塌时，海面上一片宁静。"
+    },
+    {
+      "TrueFactEnglish": "The sound of waves crashing comes mostly from bubbles.",
+      "TrueFactMandarin": "海浪的滔滔声响，很多时候是泡沫溢出的声音。",
+      "TrueFactSuggestedLineBreak": "海浪的滔滔声响，\r很多时候是鱼儿游过的声音。",
+      "FalseFactEnglish": "The sound of waves crashing comes from fish passing gas.",
+      "FalseFactMandarin": "海浪的滔滔声响，很多时候是鱼儿游过的声音。"
+    },
+    {
+      "TrueFactEnglish": "The Titanic was held together by 3 million rivets.",
+      "TrueFactMandarin": "铁达尼号由三百万支铆钉固定。",
+      "TrueFactSuggestedLineBreak": "铁达尼号由五十万支铆钉固定。",
+      "FalseFactEnglish": "The Titanic was held together by 500,000 rivets.",
+      "FalseFactMandarin": "铁达尼号由五十万支铆钉固定。"
+    },
+    {
+      "TrueFactEnglish": "The world’s oceans contain enough gold to give two pounds to every person on the planet.",
+      "TrueFactMandarin": "如果能将海洋所含有的金矿平分给地球上的每个人，每人可分得1.8斤的黄金。",
+      "TrueFactSuggestedLineBreak": "海洋所含有的金矿\r可制造成1000枚戒指。",
+      "FalseFactEnglish": "The world’s oceans contain enough gold to make 1000 wedding rings.",
+      "FalseFactMandarin": "海洋所含有的金矿可制造成1000枚戒指。"
+    },
+    {
+      "TrueFactEnglish": "Various fish eggs hatch in the dad’s mouth.",
+      "TrueFactMandarin": "有些鱼类的鱼卵在鱼爸爸的口中孵化。",
+      "TrueFactSuggestedLineBreak": "鱼不是卵生动物。",
+      "FalseFactEnglish": "Fish don't lay eggs.",
+      "FalseFactMandarin": "鱼不是卵生动物。"
+    },
+    {
+      "TrueFactEnglish": "Vinegar can dissolve pearls.",
+      "TrueFactMandarin": "珍珠能被醋液溶解。",
+      "TrueFactSuggestedLineBreak": "珍珠是无法被溶解的。",
+      "FalseFactEnglish": "Pearls cannot be dissolved.",
+      "FalseFactMandarin": "珍珠是无法被溶解的。"
+    },
+    {
+      "TrueFactEnglish": "Water blown out of a blue whale’s spout can shoot three stories high.",
+      "TrueFactMandarin": "蓝鲸从它的喷口所喷出的水可达三层楼高。",
+      "TrueFactSuggestedLineBreak": "蓝鲸从它的喷口\r所喷出的水可达约两米高。",
+      "FalseFactEnglish": "Water blown out of a blue whale’s spout can shoot six feet high.",
+      "FalseFactMandarin": "蓝鲸从它的喷口所喷出的水可达约两米高。"
+    },
+    {
+      "TrueFactEnglish": "You can tell the age of some fish by counting the rings on their scales.",
+      "TrueFactMandarin": "我们可以通过鱼的鳞片数量来预测到鱼的年龄。",
+      "TrueFactSuggestedLineBreak": "我们可以从鱼的眼睛\r测出它的年龄。",
+      "FalseFactEnglish": "You can tell the age of some fish by lookin into their eyes.",
+      "FalseFactMandarin": "我们可以从鱼的眼睛测出它的年龄。"
+    }
+  ]

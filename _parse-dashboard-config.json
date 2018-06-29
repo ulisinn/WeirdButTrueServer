@@ -1,0 +1,16 @@
+{
+  "apps": [
+    {
+      "serverURL": "http://localhost:1337/parse",
+      "appId": "WeirdButTrue",
+      "masterKey": "myMasterKey",
+      "appName": "appname"
+    }
+  ],
+  "users": [
+    {
+      "user":"user",
+      "pass":"pass"
+    }
+  ]
+}

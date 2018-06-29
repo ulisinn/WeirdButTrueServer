@@ -1,0 +1,128 @@
+[
+  {
+    "TrueFactEnglish": "A clock runs faster on a tall mountain than at sea level.",
+    "TrueFactMandarin": "钟表在高山上转得比在海平面上快。",
+    "TrueFactSuggestedLineBreak": "钟表在海平面上\r转得比在高山上还要快。",
+    "FalseFactEnglish": "A clock runs faster at sea level than it does on top of a mountian.",
+    "FalseFactMandarin": "钟表在海平面上转得比在高山上还要快。",
+    "TrueFactSpanish": "Un reloj avanza más rápido en una montaña alta que a nivel del mar.",
+    "FalseFactSpanish": "Un reloj avanza más rápido a nivel del mar que en la cima de una montaña."
+  },
+  {
+    "TrueFactEnglish": "An inventor created gas-powered roller skates that can go 40 miles an hour.",
+    "TrueFactMandarin": "发明家创造了一双行速每小时64公里的气动溜冰鞋。",
+    "TrueFactSuggestedLineBreak": "发明家创造了一双\r行速每小时80公里的\r气动溜冰鞋。",
+    "FalseFactEnglish": "An inventor created gas-powered ice skates that can go 50 miles an hour.",
+    "FalseFactMandarin": "发明家创造了一双行速每小时80公里的气动溜冰鞋。",
+    "TrueFactSpanish": "Un inventor creó unos patines sobre ruedas impulsados por gas que pueden ir a 64.3739 kilómetros por hora.",
+    "FalseFactSpanish": "Un inventor creó unos patines de hielo impulsados por gas que pueden ir a 80.4672 kilómetros."
+  },
+  {
+    "TrueFactEnglish": "Early clocks had only one hand—or no hands at all!",
+    "TrueFactMandarin": "早期的时钟只有一支时针，甚至完全没有时针！",
+    "TrueFactSuggestedLineBreak": "早期的时钟有四支时针。",
+    "FalseFactEnglish": "Early clocks had 4 hands.",
+    "FalseFactMandarin": "早期的时钟有四支时针。",
+    "TrueFactSpanish": "Los primeros relojes tenían una sola manecilla–¡o ninguna!",
+    "FalseFactSpanish": "Los primeros relojes tenían 4 manecillas."
+  },
+  {
+    "TrueFactEnglish": "More than 200 million emails are sent every minute around the world.",
+    "TrueFactMandarin": "每分钟有超过2亿封电子邮件被发送到世界各地。",
+    "TrueFactSuggestedLineBreak": "每分钟有超过一千万封电子邮件\r被发送到世界各地。",
+    "FalseFactEnglish": "Almost 10 million text messages are sent every minute around the world.",
+    "FalseFactMandarin": "每分钟有超过一千万封电子邮件被发送到世界各地。",
+    "TrueFactSpanish": "Cada minuto se envían más de 200 millones de correos electrónicos alrededor del mundo.",
+    "FalseFactSpanish": "Cada minuto se envían aproximadamente 10 millones de mensajes de texto alrededor del mundo."
+  },
+  {
+    "TrueFactEnglish": "Most calculators are more powerful than the world’s first computer.",
+    "TrueFactMandarin": "大部分计算机的功能比世界上第一台电脑更厉害。",
+    "TrueFactSuggestedLineBreak": "大部分计算机的功能\r比世界上第一台电脑还要差。",
+    "FalseFactEnglish": "Calculators are the least powerful computer ever created.",
+    "FalseFactMandarin": "大部分计算机的功能比世界上第一台电脑还要差。",
+    "TrueFactSpanish": "La mayoría de las calculadoras son más poderosas que la primera computadora del mundo.",
+    "FalseFactSpanish": "Las calculadoras son las computadoras menos poderosas que jamás se haya creado."
+  },
+  {
+    "TrueFactEnglish": "Some robots can identify different cheeses.",
+    "TrueFactMandarin": "有机械人能分辨出不同的乳酪类别。",
+    "TrueFactSuggestedLineBreak": "有机械人能在海底游泳。",
+    "FalseFactEnglish": "Some robots can swim to the bottom of the ocean.",
+    "FalseFactMandarin": "有机械人能在海底游泳。",
+    "TrueFactSpanish": "Algunos robots pueden identificar diferentes quesos.",
+    "FalseFactSpanish": "Algunos robots pueden nadar en el fondo del océano."
+  },
+  {
+    "TrueFactEnglish": "The first computer was as long as a tennis court.",
+    "TrueFactMandarin": "世上第一台电脑有网球场那么大。",
+    "TrueFactSuggestedLineBreak": "世上第一台电脑\r跟一辆小型货车一样大。",
+    "FalseFactEnglish": "The first computer was as long as a minivan.",
+    "FalseFactMandarin": "世上第一台电脑跟一辆小型货车一样大。",
+    "TrueFactSpanish": "La primera computadora eran tan grande como una cancha de tenis.",
+    "FalseFactSpanish": "La primera computadora era tan Larga como una Camioneta"
+  },
+  {
+    "TrueFactEnglish": "The first microwave oven was almost 750 pounds.",
+    "TrueFactMandarin": "世上第一台微波炉重达340公斤。",
+    "TrueFactSuggestedLineBreak": "世上第一台微波炉\r重达110公斤。",
+    "FalseFactEnglish": "The first microwave oven was almost 243 pounds.",
+    "FalseFactMandarin": "世上第一台微波炉重达110公斤。",
+    "TrueFactSpanish": "El primer horno de microondas era de casi 340.194 kilogramos.",
+    "FalseFactSpanish": "El primer horno de microondas era de casi 110.223 kilogramos."
+  },
+  {
+    "TrueFactEnglish": "The first microwave oven was almost as tall as a refrigerator.",
+    "TrueFactMandarin": "世界上第一台微波炉约莫是一台冰箱的高度。",
+    "TrueFactSuggestedLineBreak": "世界上第一台微波炉约\r莫是一只成年大象的高度。",
+    "FalseFactEnglish": "The first microwave oven was almost as tall as an Elephant.",
+    "FalseFactMandarin": "世界上第一台微波炉约莫是一只成年大象的高度。",
+    "TrueFactSpanish": "El primer horno de microondas era casi tan alto como un refrigerador.",
+    "FalseFactSpanish": "El primer horno de microondas era casi tan alto como un elefante."
+  },
+  {
+    "TrueFactEnglish": "The first telephone answering machine was 3 feet tall.",
+    "TrueFactMandarin": "第一台电话答录机竟然有约90厘米高。",
+    "TrueFactSuggestedLineBreak": "第一台电话答录机\r竟然有约30厘米高。",
+    "FalseFactEnglish": "The first telephone answering machine was 1 foot tall!",
+    "FalseFactMandarin": "第一台电话答录机竟然有约30厘米高。",
+    "TrueFactSpanish": "La primera máquina contestadora telefónica era de 0.91 metros.",
+    "FalseFactSpanish": "¡La primera máquina contestadora telefónica era de 0.3048 metros!"
+  },
+  {
+    "TrueFactEnglish": "The world’s first handheld cell phone cost $3,995.",
+    "TrueFactMandarin": "世界上第一台手机价值3995美元。",
+    "TrueFactSuggestedLineBreak": "世界上第一台手机\r价值1297美元。",
+    "FalseFactEnglish": "The world’s first handheld cell phone cost $1,297.",
+    "FalseFactMandarin": "世界上第一台手机价值1297美元。",
+    "TrueFactSpanish": "El primer teléfono celular costaba $3,995 dólares.",
+    "FalseFactSpanish": "El primer teléfono celular costaba $1,297 dólares."
+  },
+  {
+    "TrueFactEnglish": "There are more text messages sent each day than there are people on Earth.",
+    "TrueFactMandarin": "我们每天所发出的短信比地球上的人口还要多。",
+    "TrueFactSuggestedLineBreak": "我们每天所发出的短信数量\r跟美国的宠物数量一样多。",
+    "FalseFactEnglish": "There are almost as many text messages sent each day as there are pets in the United States.",
+    "FalseFactMandarin": "我们每天所发出的短信数量跟美国的宠物数量一样多。",
+    "TrueFactSpanish": "Hay más mensajes de texto enviados cada día que personas en la Tierra.",
+    "FalseFactSpanish": "Hay muchos mas mensajes de texto enviados cada día que mascotas en los Estados Unidos."
+  },
+  {
+    "TrueFactEnglish": "There is cell phone reception at the summit of Mount Everest.",
+    "TrueFactMandarin": "珠穆朗玛峰的顶峰能接收到手机信号。",
+    "TrueFactSuggestedLineBreak": "珠穆朗玛峰是世界上\r唯一无法接收到手机信号的地方。",
+    "FalseFactEnglish": "Mount Everest is the only place in the world without cell phone reception.",
+    "FalseFactMandarin": "珠穆朗玛峰是世界上唯一无法接收到手机信号的地方。",
+    "TrueFactSpanish": "Hay recepción de teléfono celular en la cima del Monte Everest.",
+    "FalseFactSpanish": "El Monte Everest es el único lugar en el mundo sin recepción de teléfono celular."
+  },
+  {
+    "TrueFactEnglish": "You can buy an inflatable TV screen.",
+    "TrueFactMandarin": "市面上存在一种可充气的电视屏幕。",
+    "TrueFactSuggestedLineBreak": "市面上存在一种\r以水为原料的电视屏幕。",
+    "FalseFactEnglish": "You can buy a tv screen made out of water.",
+    "FalseFactMandarin": "市面上存在一种以水为原料的电视屏幕。",
+    "TrueFactSpanish": "Puedes comprar una pantalla de televisión inflable.",
+    "FalseFactSpanish": "Puedes comprar una pantalla de televisión hecha de agua."
+  }
+]

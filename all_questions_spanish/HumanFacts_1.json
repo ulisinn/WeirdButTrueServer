@@ -1,0 +1,764 @@
+[
+  {
+    "TrueFactEnglish": "20 percent of food is used to fuel the brain.",
+    "TrueFactSpanish": "20 por ciento de los alimentos se utiliza para hacer funcionar al cerebro.",
+    "FalseFactEnglish": "67% percent of food is used to fuel the brain.",
+    "FalseFactSpanish": "67 % de los alimentos se usa para llenar de energía al cerebro."
+  },
+  {
+    "TrueFactEnglish": "60,000 miles of blood vessels run through your body.",
+    "TrueFactSpanish": "96,560.64 kilómetros de vasos sanguíneos recorren tu cuerpo.",
+    "FalseFactEnglish": "18,564 miles of blood vessels run through your body.",
+    "FalseFactSpanish": "29,875.86 kilómetros de vasos sanguíneos recorren tu cuerpo."
+  },
+  {
+    "TrueFactEnglish": "99% of people can’t lick their elbows (but 90 percent of the people who read this will try).",
+    "TrueFactSpanish": "99% de las personas no pueden lamer sus codos (pero 90 por ciento de las personas que leen esto lo intentarán).",
+    "FalseFactEnglish": "80% of people can lick their elbows",
+    "FalseFactSpanish": "80% de las personas pueden lamer sus codos."
+  },
+  {
+    "TrueFactEnglish": "A 3,000-year-old mummy can still have fingerprints.",
+    "TrueFactSpanish": "Una momia de 3,000 años de antigüedad pudiera haber conservado sus huellas dactilares.",
+    "FalseFactEnglish": "Mummies don't have fingerprints.",
+    "FalseFactSpanish": "Las momias no tienen huellas dactilares."
+  },
+  {
+    "TrueFactEnglish": "A human bone is five times stronger than a piece of steel of the same weight.",
+    "TrueFactSpanish": "Un hueso humano es cinco veces más resistente que una pieza de acero del mismo peso.",
+    "FalseFactEnglish": "A piece of steel is stronger than a human bone of the same weight.",
+    "FalseFactSpanish": "Una pieza de acero es más resistente que un hueso humano del mismo peso."
+  },
+  {
+    "TrueFactEnglish": "A human has about the same number of body hairs as a chimpanzee.",
+    "TrueFactSpanish": "Un ser humano tiene el mismo número de vellos corporales que un chimpancé.",
+    "FalseFactEnglish": "A chimpanzee has three times more body hairs than a human.",
+    "FalseFactSpanish": "Un chimpancé tiene tres veces más pelo corporal que un ser humano."
+  },
+  {
+    "TrueFactEnglish": "A machine was invented to turn sweat into drinking water.",
+    "TrueFactSpanish": "Se inventó una máquina para convertir el sudor en agua.",
+    "FalseFactEnglish": "A machine was invented to turn spit into cough syrup.",
+    "FalseFactSpanish": "Se inventó una máquina para convertir la saliva en jarabe para la tos."
+  },
+  {
+    "TrueFactEnglish": "A sneeze travels 100 miles an hour.",
+    "TrueFactSpanish": "Un estornudo viaja a 160.934 kilómetros por hora.",
+    "FalseFactEnglish": "A sneeze travels 26 miles an hour.",
+    "FalseFactSpanish": "Un estornudo viaja 41.842944 kilómetros por hora."
+  },
+  {
+    "TrueFactEnglish": "A speck of blood contains about 5 million red blood cells.",
+    "TrueFactSpanish": "Una mancha de sangre contiene aproximadamente 5 millones de glóbulos rojos.",
+    "FalseFactEnglish": "A speck of blood contains about 5 million white blood cells.",
+    "FalseFactSpanish": "Una mancha de sangre contiene aproximadamente 5 millones de glóbulos blancos."
+  },
+  {
+    "TrueFactEnglish": "About 150 000 hairs are growing on your head right now.",
+    "TrueFactSpanish": "Aproximadamente 150,000 cabellos están creciendo en tu cabeza en este momento.",
+    "FalseFactEnglish": "About 150,000 hairs are growing in your belly button right now.",
+    "FalseFactSpanish": "Aproximadamente 150,000 vellos están creciendo en tu ombligo en este momento."
+  },
+  {
+    "TrueFactEnglish": "About 61 percent of your body weight is water.",
+    "TrueFactSpanish": "Aproximadamente 61 por ciento de tu peso corporal es agua.",
+    "FalseFactEnglish": "About 18% percent of your body weight is water.",
+    "FalseFactSpanish": "Aproximadamente 18% de tu peso corporal es agua."
+  },
+  {
+    "TrueFactEnglish": "About half of the world’s population lives in areas where snow never falls.",
+    "TrueFactSpanish": "Aproximadamente, la mitad de la población mundial vive en áreas en donde jamás neva.",
+    "FalseFactEnglish": "92% of the world’s population lives in areas where snow never falls.",
+    "FalseFactSpanish": "92% de la mitad de la población mundial vive en áreas en donde jamás nieva."
+  },
+  {
+    "TrueFactEnglish": "About six percent of all humans ever born are alive right now.",
+    "TrueFactSpanish": "Aproximadamente, el seis por ciento de todos los seres humanos que han nacido viven en este momento.",
+    "FalseFactEnglish": "About 24% of all humans ever born are alive right now.",
+    "FalseFactSpanish": "Aproximadamente 24% de todos los seres humanos que han nacido viven en este momento."
+  },
+  {
+    "TrueFactEnglish": "Adults have as many as 1,500 dreams a year.",
+    "TrueFactSpanish": "Los adultos tienen hasta 1,500 sueños al año.",
+    "FalseFactEnglish": "Adults have less than 50 dreams a year.",
+    "FalseFactSpanish": "Los adultos tienen menos de 50 sueños al año."
+  },
+  {
+    "TrueFactEnglish": "All of the blood in your body travels through your heart once a minute.",
+    "TrueFactSpanish": "Toda la sangre en tu cuerpo circula a través de tu corazón una vez por minuto.",
+    "FalseFactEnglish": "Less than half the blood in your body actually travels through your heart.",
+    "FalseFactSpanish": "Menos de la mitad de la sangre en tu cuerpo circula efectivamente a través de tu corazón."
+  },
+  {
+    "TrueFactEnglish": "An average adult’s skin weighs about 11 pounds.",
+    "TrueFactSpanish": "En promedio, la piel de un adulto pesa aproximadamente 4.98952 kilos.",
+    "FalseFactEnglish": "An average adult’s skin weighs less than 5 pounds.",
+    "FalseFactSpanish": "La piel promedio de adulto pesa menos de 2.26 kilos."
+  },
+  {
+    "TrueFactEnglish": "An average yawn lasts about six seconds.",
+    "TrueFactSpanish": "Un bostezo promedio dura aproximadamente seis segundos",
+    "FalseFactEnglish": "An yawn can't last for more than 3 seconds.",
+    "FalseFactSpanish": "Un bostezo no puede durar más de 3 segundos."
+  },
+  {
+    "TrueFactEnglish": "Babies are more likely to be born on Tuesday than any other day.",
+    "TrueFactSpanish": "Es más probable que los bebés nazcan en martes que cualquier otro día.",
+    "FalseFactEnglish": "Babies are less likely to be born on Tuesday than any other day.",
+    "FalseFactSpanish": "Es menos probable que los bebés nazcan en martes que cualquier otro día."
+  },
+  {
+    "TrueFactEnglish": "Babies have taste buds in their cheeks.",
+    "TrueFactSpanish": "Los bebés tienen papilas gustativas en las mejillas.",
+    "FalseFactEnglish": "Babies have don't have taste buds.",
+    "FalseFactSpanish": "Los bebés no tienen papilas gustativas."
+  },
+  {
+    "TrueFactEnglish": "Babies yawn before they are born.",
+    "TrueFactSpanish": "Los bebés bostezan antes de nacer.",
+    "FalseFactEnglish": "Babies don't yawn until they are 1 years old.",
+    "FalseFactSpanish": "Los bebés no bostezan hasta que cumplen el primer año de edad."
+  },
+  {
+    "TrueFactEnglish": "Babies’ cries can sound different in various languages.",
+    "TrueFactSpanish": "El llanto de bebé puede sonar diferente en otros idiomas.",
+    "FalseFactEnglish": "Babies cries all sounds the same.",
+    "FalseFactSpanish": "Todos los llantos de bebés suenan igual."
+  },
+  {
+    "TrueFactEnglish": "Before toothpaste was invented, some people cleaned their teeth with charcoal.",
+    "TrueFactSpanish": "Antes de que se inventara la pasta de dientes, algunas personas limpiaban sus dientes con carbón.",
+    "FalseFactEnglish": "Before toothpaste was invented, some people cleaned their teeth with elephant dung.",
+    "FalseFactSpanish": "Antes de que se inventara la pasta de dientes, algunas personas limpiaban sus dientes con excremento de elefante."
+  },
+  {
+    "TrueFactEnglish": "Belly button lint is made of clothing fibers, hair and dead skin cells.",
+    "TrueFactSpanish": "La pelusa del ombligo está hecha de fibras de ropa, cabello y células muertas.",
+    "FalseFactEnglish": "Belly button lint is made of fur, shampoo, and tiny bugs.",
+    "FalseFactSpanish": "La pelusa del ombligo está hecha de pelos, champú y pequeños insectos."
+  },
+  {
+    "TrueFactEnglish": "Blondes have more hair on their heads than brunettes.",
+    "TrueFactSpanish": "Las personas rubias tienen más cabello en la cabeza que las personas castañas.",
+    "FalseFactEnglish": "Blondes have half as much hair on their heads as brunettes.",
+    "FalseFactSpanish": "Las personas rubias tienen la mitad de cabello en la cabeza que las personas castañas."
+  },
+  {
+    "TrueFactEnglish": "Circus workers call the toilet a doniker.",
+    "TrueFactSpanish": "Los trabajadores de circo denominan al excusado, trono.",
+    "FalseFactEnglish": "Firemen call the toilet a doniker.",
+    "FalseFactSpanish": "Los bomberos denominan al excusado inodoro."
+  },
+  {
+    "TrueFactEnglish": "Cryptozoologists study legendary creatures such as Bigfoot.",
+    "TrueFactSpanish": "Los criptozoólogos estudian criaturas legendarias como Pie Grande.",
+    "FalseFactEnglish": "Astrophysicists study legendary creatures such as Bigfoot.",
+    "FalseFactSpanish": "Los astrofísicos estudian criaturas legendarias como Pie Grande."
+  },
+  {
+    "TrueFactEnglish": "Doodling can help you concentrate.",
+    "TrueFactSpanish": "Hacer garabatos puede ayudarte a concentrarte.",
+    "FalseFactEnglish": "Doodling makes you lose focus.",
+    "FalseFactSpanish": "Hacer garabatos provoca que pierdas la concentración."
+  },
+  {
+    "TrueFactEnglish": "Every 24 hours, your blood travels about 4 miles through your body.",
+    "TrueFactSpanish": "Cada 24 horas, tu sangre viaja aproximadamente 6.43738 kilómetros a través de tu cuerpo.",
+    "FalseFactEnglish": "It takes your blood 48 hours to travel about 4 miles through your body.",
+    "FalseFactSpanish": "A tu sangre le toma 48 horas viajar aproximadamente 6.43 kilómetros a través de tu cuerpo."
+  },
+  {
+    "TrueFactEnglish": "Extracts from human hair are used to make some pizza crusts.",
+    "TrueFactSpanish": "Algunas orillas de pizza están hechas de extractos de cabello humano.",
+    "FalseFactEnglish": "Extracts from human hair are used to make some space ship parts.",
+    "FalseFactSpanish": "Los extractos de cabello humano se usan para construir algunas piezas de naves espaciales."
+  },
+  {
+    "TrueFactEnglish": "Extreme cold and heat can feel the same.",
+    "TrueFactSpanish": "El frío y calor extremo se pueden sentir de la misma manera.",
+    "FalseFactEnglish": "Hot and cold can never feel the same.",
+    "FalseFactSpanish": "El frío y el calor nunca se sienten igual."
+  },
+  {
+    "TrueFactEnglish": "Fingerprints can last up to 40 years on paper.",
+    "TrueFactSpanish": "Las huellas dactilares pueden durar hasta 40 años en papel.",
+    "FalseFactEnglish": "Fingerprints on paper disappear after 3 weeks.",
+    "FalseFactSpanish": "Las huellas dactilares en papel pueden desaparecer después de 3 semanas."
+  },
+  {
+    "TrueFactEnglish": "For $25, you can order a jar of human toenails online.",
+    "TrueFactSpanish": "Por 25 dólares, puedes ordenar un frasco con uñas del pie humano por internet.",
+    "FalseFactEnglish": "For $5, you can order a box of human nose hairs online.",
+    "FalseFactSpanish": "Por 5 dólares, puedes ordenar una caja con cabello humano por Internet."
+  },
+  {
+    "TrueFactEnglish": "Girls have more taste buds than boys do.",
+    "TrueFactSpanish": "Las mujeres tienen más papilas gustativas que los hombres.",
+    "FalseFactEnglish": "Boys have more taste buds than girls do.",
+    "FalseFactSpanish": "Los hombres tienen más papilas gustativas que las mujeres."
+  },
+  {
+    "TrueFactEnglish": "Grass looks greener to girls than it does to boys.",
+    "TrueFactSpanish": "El pasto luce más verde para las mujeres que para los hombres.",
+    "FalseFactEnglish": "Grass looks greener to boys than it does to girls.",
+    "FalseFactSpanish": "El pasto luce más verde para los hombres que para las mujeres."
+  },
+  {
+    "TrueFactEnglish": "Hair grows almost everywhere on your skin except your lips, the palms of your hands, and the soles of your feet.",
+    "TrueFactSpanish": "El cabello crece casi en todas las partes de tu piel salvo en los labios, las palmas de las manos y las plantas de los pies.",
+    "FalseFactEnglish": "Hair grows almost everywhere on your skin except your ears, toes, and lower back.",
+    "FalseFactSpanish": "El cabello crece casi en todas las partes de tu piel salvo en tus orejas, los dedos del pie, y la espalda baja."
+  },
+  {
+    "TrueFactEnglish": "Human ears evolved from ancient fish gills.",
+    "TrueFactSpanish": "Las orejas de los seres humanos evolucionaron a partir de antiguas branquias de pescado. ",
+    "FalseFactEnglish": "Human ears evolved from ancient bird feathers.",
+    "FalseFactSpanish": "Las orejas de los seres humanos evolucionaron a partir de plumas de ave antiguas."
+  },
+  {
+    "TrueFactEnglish": "Human thighbones are stronger than concrete.",
+    "TrueFactSpanish": "El fémur humano es más resistente que el concreto.",
+    "FalseFactEnglish": "Human thighbones are not as strong as concrete.",
+    "FalseFactSpanish": "El fémur no es tan resistente como el concreto."
+  },
+  {
+    "TrueFactEnglish": "Humans can detect thousands of different scents.",
+    "TrueFactSpanish": "Los seres humanos pueden detectar miles de aromas diferentes.",
+    "FalseFactEnglish": "Humans can only smell 143 different scents.",
+    "FalseFactSpanish": "Los seres humanos pueden detectar únicamente 143 aromas diferentes."
+  },
+  {
+    "TrueFactEnglish": "Humans can make 10,000 different facial expressions.",
+    "TrueFactSpanish": "Los seres humanos pueden realizar 10,000 expresiones faciales diferentes.",
+    "FalseFactEnglish": "Humans can make less than 3,500 different facial expressions.",
+    "FalseFactSpanish": "Los seres humanos pueden realizar menos de 3,500 expresiones faciales diferentes."
+  },
+  {
+    "TrueFactEnglish": "Humans can recognize 10 000 different smells.",
+    "TrueFactSpanish": "Los seres humanos pueden reconocer 10,000 aromas diferentes.",
+    "FalseFactEnglish": "Humans can recognize almost 4,000 different smells.",
+    "FalseFactSpanish": "Los seres humanos pueden reconocer aproximadamente 4,000 aromas diferentes."
+  },
+  {
+    "TrueFactEnglish": "If about 33 million people held hands, they could make a circle around the equator.",
+    "TrueFactSpanish": "Si aproximadamente 33 millones de personas se tomaran de las manos, podrían hacer un círculo alrededor del ecuador.",
+    "FalseFactEnglish": "It would take 57 million people to hold hands in order to make a complete circle around the equator.",
+    "FalseFactSpanish": "Sería necesario que 57 millones de personas se tomaran de las manos para hacer un círculo completo alrededor del ecuador."
+  },
+  {
+    "TrueFactEnglish": "If humans came in as many sizes as dogs, we’d range from three to eighteen feet tall.",
+    "TrueFactSpanish": "Si los seres humanos tuvieran tamaños tan diversos como los perros, nuestra altura oscilaría entre los 0.9144 metros y los 5.4864 metros.",
+    "FalseFactEnglish": "If humans came in as many sizes as dogs, we’d range from 1 to 7 feet tall.",
+    "FalseFactSpanish": "Si los seres humanos tuvieran tamaños tan diversos como los perros, nuestra altura oscilaría entre los 0.3048 metros y los 2.1336 metros."
+  },
+  {
+    "TrueFactEnglish": "If you continued to grow as fast as the average baby, you'd weigh about 413,300 pounds by age 10.",
+    "TrueFactSpanish": "Si continuaras creciendo tan rápido como el bebé promedio, pesarías aproximadamente 187,469.726 kilos a la edad de 10 años.",
+    "FalseFactEnglish": "If you continued to grow as fast as an average baby, you'd weigh about 150,000 pounds by age 10.",
+    "FalseFactSpanish": "Si continuaras creciendo tan rápido como el bebé promedio, pesarías aproximadamente 68,038.8 kilos a la edad de 10 años."
+  },
+  {
+    "TrueFactEnglish": "If you could travel at the speed of light, you would never get older.",
+    "TrueFactSpanish": "Si pudieras viajar a la velocidad de la luz, jamás envejecerías.",
+    "FalseFactEnglish": "You age three times as fast when traveling at the speed of light.",
+    "FalseFactSpanish": "Envejeces tres veces más rápido cuando viajas a la velocidad de la luz."
+  },
+  {
+    "TrueFactEnglish": "If you lined up all the eyelashes a person loses in a lifetime, the hairs would stretch the length of ten crocodiles.",
+    "TrueFactSpanish": "Si alineas todas las pestañas que una persona pierde a lo largo de su vida, las pestañas abarcarían la longitud de diez cocodrilos.",
+    "FalseFactEnglish": "Humans are the only species that don't lose their eyebrows.",
+    "FalseFactSpanish": "Los seres humanos son la única especie que no pierde sus pestañas."
+  },
+  {
+    "TrueFactEnglish": "If you never cut or broke your fingernails, they would each grow to more than 6 feet long by the time you’re 75 years old.",
+    "TrueFactSpanish": "Si jamás cortaras o se te rompieran las uñas, cada una crecería más de 1.8288 metros al llegar a los 75 años.",
+    "FalseFactEnglish": "If you never cut or broke your fingernails, they would each grow to more than 2 feet long by the time you’re 75 years old.",
+    "FalseFactSpanish": "Si jamás cortaras o se te rompieran las uñas, cada una crecería más de 0.60 metros al llegar a los 75 años."
+  },
+  {
+    "TrueFactEnglish": "If you never cut your hair, it could grow more than 30 feet in your lifetime—long enough to reach from a third-story window to the ground.",
+    "TrueFactSpanish": "Si jamás cortaras tu cabello, podría crecer más de 9.144 metros a lo largo de tu vida - suficientemente largo como para cubrir la distancia entre una ventana ubicada en un tercer piso y el suelo.",
+    "FalseFactEnglish": "The average human's hair only grows 15 feet in their lifetime. ",
+    "FalseFactSpanish": "El cabello humano promedio crece únicamente 4.57 metros a lo largo de una vida. "
+  },
+  {
+    "TrueFactEnglish": "It is impossible to hum while holding your nose.",
+    "TrueFactSpanish": "Es imposible tararear mientras tapas tu nariz.",
+    "FalseFactEnglish": "It is impossible to block your ears while holding your nose.",
+    "FalseFactSpanish": "Es imposible taparte los oídos mientras tapas tu nariz."
+  },
+  {
+    "TrueFactEnglish": "It takes the average 10-year-old kid about 20 minutes to fall asleep.",
+    "TrueFactSpanish": "Al niño promedio de 10 años le toma aproximadamente 20 minutos conciliar el sueño.",
+    "FalseFactEnglish": "It takes the average 10-year-old kid about 4 minutes to fall asleep.",
+    "FalseFactSpanish": "Al niño promedio de 10 años le toma aproximadamente 4 minutos conciliar el sueño."
+  },
+  {
+    "TrueFactEnglish": "It’s impossible to breathe and swallow at the same time.",
+    "TrueFactSpanish": "Es imposible respirar y tragar al mismo tiempo.",
+    "FalseFactEnglish": "It’s impossible to breathe and do a jumping jacks at the same time.",
+    "FalseFactSpanish": "Es imposible respirar y ejecutar saltos de tijera al mismo tiempo."
+  },
+  {
+    "TrueFactEnglish": "It’s possible to smell scents in dreams.",
+    "TrueFactSpanish": "Es posible percibir aromas en los sueños.",
+    "FalseFactEnglish": "You can't smell in your dreams",
+    "FalseFactSpanish": "No puedes percibir aromas en los sueños."
+  },
+  {
+    "TrueFactEnglish": "Kids blink about five million times a year.",
+    "TrueFactSpanish": "Los niños parpadean aproximadamente cinco millones de veces al año.",
+    "FalseFactEnglish": "Kids blink less than 2 million times a year.",
+    "FalseFactSpanish": "Los niños parpadean menos de 2 millones de veces al año."
+  },
+  {
+    "TrueFactEnglish": "Kids’ fingerprints disappear from surfaces faster than adults do.",
+    "TrueFactSpanish": "Las huellas dactilares de los niños desaparecen de las superficies más rápido que las de los adultos.",
+    "FalseFactEnglish": "It takes Kids’ fingerprints twice as long to disappear from surfaces than an adults.",
+    "FalseFactSpanish": "Las huellas dactilares de los niños toman el doble de tiempo en desaparecer de las superficies en comparación con las de los adultos."
+  },
+  {
+    "TrueFactEnglish": "Many astronauts train for space walks by walking on the ocean floor.",
+    "TrueFactSpanish": "Varios astronautas entrenan para las caminatas espaciales caminando en el fondo del mar.",
+    "FalseFactEnglish": "Many astronauts train for space walks by walking around in the desert.",
+    "FalseFactSpanish": "Varios astronautas entrenan para las caminatas espaciales caminando en el desierto."
+  },
+  {
+    "TrueFactEnglish": "Men get the hiccups more often than women do.",
+    "TrueFactSpanish": "Los hombres tienen hipo más seguido que las mujeres.",
+    "FalseFactEnglish": "Women get the hiccups four times as often as men do.",
+    "FalseFactSpanish": "Las mujeres tienen hipo cuatro veces más que los hombres."
+  },
+  {
+    "TrueFactEnglish": "Messages from your brain travel along your nerves at up to 200 miles an hour.",
+    "TrueFactSpanish": "Los mensajes de tu cerebro viajan a lo largo de tus nervios a una velocidad aproximada de 321.8688 kilómetros por hora.",
+    "FalseFactEnglish": "Messages from your brain travel along your nerves at up to 35 miles an hour.",
+    "FalseFactSpanish": "Los mensajes de tu cerebro viajan a lo largo de tus nervios a una velocidad aproximada de 56.32704 kilómetros por hora."
+  },
+  {
+    "TrueFactEnglish": "More than 8,000,000 millionaires are alive today.",
+    "TrueFactSpanish": "Más de 8,000,000 millonarios están vivos en la actualidad.",
+    "FalseFactEnglish": "More than 5,000 billionaires are alive today. ",
+    "FalseFactSpanish": "Más de 5,000 billonarios están vivos en la actualidad. "
+  },
+  {
+    "TrueFactEnglish": "Most people blink more than 14,000 times a day.",
+    "TrueFactSpanish": "La mayoría de las personas parpadea más de 14,000 veces al día.",
+    "FalseFactEnglish": "Most people blink less than 10,400 times a day.",
+    "FalseFactSpanish": "La mayoría de las personas parpadea menos de 10,400 veces al día."
+  },
+  {
+    "TrueFactEnglish": "Most people spend about five years of their lives eating.",
+    "TrueFactSpanish": "La mayoría de las personas pasa aproximadamente cinco años de su vidas comiendo.",
+    "FalseFactEnglish": "Most people spend about 2 years of their lives eating.",
+    "FalseFactSpanish": "La mayoría de las personas pasa aproximadamente 2 años de su vida comiendo."
+  },
+  {
+    "TrueFactEnglish": "Much of the dust in your home comes from your family’s dead skin cells.",
+    "TrueFactSpanish": "La mayor parte del polvo en tu casa proviene de las células epidérmicas muertas de tu familia.",
+    "FalseFactEnglish": "Much of the dust in your home comes from birds and squirrels.",
+    "FalseFactSpanish": "La mayor parte del polvo en tu casa proviene de pájaros y ardillas."
+  },
+  {
+    "TrueFactEnglish": "Newborn babies are color-blind.",
+    "TrueFactSpanish": "Los bebés recién nacidos son daltónicos.",
+    "FalseFactEnglish": "Newborn babies see in black and white.",
+    "FalseFactSpanish": "Los bebés recién nacidos ven en blanco y negro."
+  },
+  {
+    "TrueFactEnglish": "Odonophobia is the fear of teeth.",
+    "TrueFactSpanish": "La odontofobia es el miedo a los dientes.",
+    "FalseFactEnglish": "Odonophobia is the fear of komodo dragons. ",
+    "FalseFactSpanish": "La odontofobia es el miedo a los dragones de Komodo. "
+  },
+  {
+    "TrueFactEnglish": "One of the largest man-made islands is shaped like a palm tree.",
+    "TrueFactSpanish": "Una de las islas artificiales más grandes tiene la forma de una palmera.",
+    "FalseFactEnglish": "One of the largest man-made islands is shaped like a giant pirate ship. ",
+    "FalseFactSpanish": "Una de las islas artificiales más grandes tiene la forma de un barco pirata gigante. "
+  },
+  {
+    "TrueFactEnglish": "People flush about 27,000 trees’ worth of toilet paper down the drain every day.",
+    "TrueFactSpanish": "Las personas desechan diariamente por el desagüe papel higiénico el equivalente a 27,000 árboles ",
+    "FalseFactEnglish": "People flush about 4,000 trees’ worth of toilet paper down the drain every day.",
+    "FalseFactSpanish": "Las personas desechan diariamente por el desagüe papel higiénico el equivalente a 4,000 árboles "
+  },
+  {
+    "TrueFactEnglish": "People tend to sleep less during a full moon.",
+    "TrueFactSpanish": "Las personas suelen dormir menos durante la luna llena.",
+    "FalseFactEnglish": "Full moons cause people to sleep three times as much.",
+    "FalseFactSpanish": "La luna llena puede causar que las personas duerman tres veces más."
+  },
+  {
+    "TrueFactEnglish": "People throw away enough ribbon each year to tie a bow around the entire Earth.",
+    "TrueFactSpanish": "Las personas desperdician tanto liston cada año como para atar un moño alrededor del planeta Tierra entero.",
+    "FalseFactEnglish": "People throw away enough ribbon each year to tie a bow around the entire Solar System.",
+    "FalseFactSpanish": "Las personas desperdician suficientes listones cada año para atar un moño alrededor del sistema solar completo."
+  },
+  {
+    "TrueFactEnglish": "Porphyrophobia is the fear of purple.",
+    "TrueFactSpanish": "La porfirofobia es el miedo al color púrpura.",
+    "FalseFactEnglish": "Porphyrophobia is the fear of Porcupines.",
+    "FalseFactSpanish": "La porfirofobia es el miedo a los puercoespines."
+  },
+  {
+    "TrueFactEnglish": "Prehistoric humans chewed tree resin as chewing gum.",
+    "TrueFactSpanish": "Los seres humanos prehistóricos mascaban resina de árbol como goma de mascar.",
+    "FalseFactEnglish": "Prehistoric humans chewed tiger tales as chewing gum.",
+    "FalseFactSpanish": "Los seres humanos prehistóricos mascaban colas de tigre como goma de mascar."
+  },
+  {
+    "TrueFactEnglish": "Pulling your foot from quicksand requires about the same amount of force as lifting a car.",
+    "TrueFactSpanish": "Sacar tu pie de arenas movedizas requiere aproximadamente la misma fuerza que se utiliza para levantar un automóvil.",
+    "FalseFactEnglish": "Pulling your foot from quicksand is about the same amount of force as clapping hands.",
+    "FalseFactSpanish": "Sacar tu pie de arenas movedizas requiere aproximadamente la misma fuerza que aplaudir."
+  },
+  {
+    "TrueFactEnglish": "Scents smell better through you right nostril than your left.",
+    "TrueFactSpanish": "Los aromas se perciben mejor a través de tu fosa nasal derecha que por la izquierda.",
+    "FalseFactEnglish": "Scents smell the same through both of your nostrils",
+    "FalseFactSpanish": "Los aromas se perciben de la misma manera a través de ambas fosas nasales."
+  },
+  {
+    "TrueFactEnglish": "Skin is your body's largest organ.",
+    "TrueFactSpanish": "El órgano más grande del cuerpo es la piel.",
+    "FalseFactEnglish": "Your stomach is your body's largest organ.",
+    "FalseFactSpanish": "El estómago es el órgano más grande de tu cuerpo."
+  },
+  {
+    "TrueFactEnglish": "Smelling good scents while sleeping might give you happy dreams.",
+    "TrueFactSpanish": "Percibir buenos aromas mientras duermes puede provocar sueños felices.",
+    "FalseFactEnglish": "Smelling gross and stinky scents while sleeping will give you happy dreams.",
+    "FalseFactSpanish": "Percibir aromas muy fuertes y apestosos mientras duermes puede provocar sueños felices."
+  },
+  {
+    "TrueFactEnglish": "Some artists use chewing gum to make paintings.",
+    "TrueFactSpanish": "Algunos artistas usan goma de mascar para hacer pinturas.",
+    "FalseFactEnglish": "Some wig manufacturers use elephant hair to make wigs. ",
+    "FalseFactSpanish": "Algunos fabricantes de pelucas usan pelo de elefante para hacer pelucas. "
+  },
+  {
+    "TrueFactEnglish": "Some kids seem to grow faster in the summer.",
+    "TrueFactSpanish": "Algunos niños parecen crecer más rápido en el verano.",
+    "FalseFactEnglish": "Kids grow slower in the summer months.",
+    "FalseFactSpanish": "Los niños crecen más lento en los meses de verano."
+  },
+  {
+    "TrueFactEnglish": "Some people get goosebumps on their faces.",
+    "TrueFactSpanish": "Algunas personas sienten escalofríos en su rostro.",
+    "FalseFactEnglish": "It is impossible to get goosebumps on the face.",
+    "FalseFactSpanish": "Es imposible sentir escalofríos en el rostro."
+  },
+  {
+    "TrueFactEnglish": "Some people taste-test pet food for a living.",
+    "TrueFactSpanish": "Algunas personas prueban comida para mascotas para ganarse la vida.",
+    "FalseFactEnglish": "Pet food doesn't get taste tested before it is sold. ",
+    "FalseFactSpanish": "La comida para mascotas no se prueba antes de venderse. "
+  },
+  {
+    "TrueFactEnglish": "Some prehistoric people used mammoth bones to build their homes.",
+    "TrueFactSpanish": "Algunos seres humanos prehistóricos usaban huesos de mamut para construir sus hogares.",
+    "FalseFactEnglish": "Some prehistoric people used tomato stems to build their homes.",
+    "FalseFactSpanish": "Algunos seres humanos prehistóricos usaban tallos de tomate para construir sus hogares."
+  },
+  {
+    "TrueFactEnglish": "Spit can freeze in midair at the North Pole.",
+    "TrueFactSpanish": "La saliva se puede congelar en el aire del Polo Norte.",
+    "FalseFactEnglish": "Spit is so warm that it won't freeze at the North Pole.",
+    "FalseFactSpanish": "La saliva es tan caliente que no se congela en el Polo Norte."
+  },
+  {
+    "TrueFactEnglish": "The ancient Egyptians trained monkeys to dance and play music.",
+    "TrueFactSpanish": "Los antiguos egipcios entrenaron monos para bailar y tocar música.",
+    "FalseFactEnglish": "The ancient Egyptians trained birds to dance and act in plays.",
+    "FalseFactSpanish": "Los antiguos egipcios entrenaron aves para bailar y actuar en obras de teatro."
+  },
+  {
+    "TrueFactEnglish": "The average dream lasts about 20 minutes.",
+    "TrueFactSpanish": "Un sueño promedio dura aproximadamente 20 minutos.",
+    "FalseFactEnglish": "The average dream lasts less than 4 minutes.",
+    "FalseFactSpanish": "Un sueño promedio dura menos de 4 minutos."
+  },
+  {
+    "TrueFactEnglish": "The average hug lasts three seconds.",
+    "TrueFactSpanish": "Un abrazo promedio dura tres segundos.",
+    "FalseFactEnglish": "The average hug lasts longer than 23 seconds.",
+    "FalseFactSpanish": "Un abrazo promedio dura más de veintitrés segundos."
+  },
+  {
+    "TrueFactEnglish": "The average person walks about 80,000 miles in a lifetime. That’s more than three times around the world!",
+    "TrueFactSpanish": "La persona promedio camina aproximadamente 128,747.52 kilómetros en su vida. ¡Eso es más que tres vueltas alrededor del mundo!",
+    "FalseFactEnglish": "The average person walks 35,700 miles in a lifetime.",
+    "FalseFactSpanish": "La persona promedio camina aproximadamente 57,453.581 kilómetros en su vida."
+  },
+  {
+    "TrueFactEnglish": "The groove between your nose and upper lip is called the philtrum.",
+    "TrueFactSpanish": "La curvatura entre tu nariz y labio superior se llama surco nasolabial.",
+    "FalseFactEnglish": "The groove between your nose and upper lip is called the Lipstril.",
+    "FalseFactSpanish": "La curvatura entre tu nariz y labio superior se llama surco lipstril."
+  },
+  {
+    "TrueFactEnglish": "The human body contains a tiny amount of gold.",
+    "TrueFactSpanish": "El cuerpo humano contiene una pequeña cantidad de oro.",
+    "FalseFactEnglish": "The human eyeball contains a tiny amount of plutonium.",
+    "FalseFactSpanish": "El globo ocular humano contiene una pequeña cantidad de plutonio."
+  },
+  {
+    "TrueFactEnglish": "The human body contains enough iron to make a 2-inch nail.",
+    "TrueFactSpanish": "El cuerpo humano contiene hierro suficiente para formar una uña de 5.08 centímetros.",
+    "FalseFactEnglish": "The human body contains gold, silver, and diamond, but not iron. ",
+    "FalseFactSpanish": "El cuerpo humano contiene oro, plata, y diamante, pero no hierro. "
+  },
+  {
+    "TrueFactEnglish": "The oldest human footprint ever found is 350,000 years old.",
+    "TrueFactSpanish": "La huella más antigua de un ser humano jamás encontrada tiene 350,000 años.",
+    "FalseFactEnglish": "The oldest human footprint ever found is 95,475 years old.",
+    "FalseFactSpanish": "La huella más antigua de un ser humano que se ha encontrado tiene 95,475 años."
+  },
+  {
+    "TrueFactEnglish": "The record for the world’s longest continuous series of somersaults is 12 miles, 390 yards.",
+    "TrueFactSpanish": "El récord mundial para la serie continua más larga de saltos mortales es de 19 kilómetros, 356.616 metros.",
+    "FalseFactEnglish": "The record for the world’s longest continuous series of somersaults is only 5 miles, 200 yards.",
+    "FalseFactSpanish": "El récord mundial para la serie continua más larga de saltos mortales es de únicamente 8.04672 kilómetros, 182.88 metros."
+  },
+  {
+    "TrueFactEnglish": "The rumbling sound your belly makes is called borborygmus.",
+    "TrueFactSpanish": "El sonido profundo que produce tu estómago se llama borborigmos.",
+    "FalseFactEnglish": "The rumbling sound your belly makes is called Tummtumtones.",
+    "FalseFactSpanish": "El sonido profundo que produce tu estómago se llama \"gorgorigmos\""
+  },
+  {
+    "TrueFactEnglish": "The smallest bone in the human body is shorter than a grain of rice.",
+    "TrueFactSpanish": "El hueso más pequeño en el cuerpo humano es más corto que un grano de arroz.",
+    "FalseFactEnglish": "The smallest bone in the human body is as long as a clothes pin.",
+    "FalseFactSpanish": "El hueso más pequeño en el cuerpo humano es tan largo como una pinza de ropa."
+  },
+  {
+    "TrueFactEnglish": "The width of your arms stretched out is about the same as your height.",
+    "TrueFactSpanish": "La extensión de tus brazos estirados de lado a lado es aproximadamente la misma que tu altura.",
+    "FalseFactEnglish": "The width of your elbow to elbow stretched out is about the same as your shoe size.",
+    "FalseFactSpanish": "La extensión de un codo al otro cuando estiras los brazos es aproximadamente la misma que el tamaño de tu zapato."
+  },
+  {
+    "TrueFactEnglish": "The world’s population grows by about a billion people in 12 years. ",
+    "TrueFactSpanish": "La población del mundo crece a un ritmo aproximado de mil millones de personas en 12 años. ",
+    "FalseFactEnglish": "The world’s population grows by about a 500 million people every 12 years. ",
+    "FalseFactSpanish": "La población del mundo crece a un ritmo aproximado de 500 millones de personas cada 12 años. "
+  },
+  {
+    "TrueFactEnglish": "There are about six million bacteria on every square inch of your skin.",
+    "TrueFactSpanish": "Existen aproximadamente seis millones de bacterias en cada pulgada cuadrada de tu piel. ",
+    "FalseFactEnglish": "Bacteria cannot survive on your skin.",
+    "FalseFactSpanish": "Las bacterias no pueden sobrevivir en tu piel."
+  },
+  {
+    "TrueFactEnglish": "There can be about a billion bacteria in your mouth right now.",
+    "TrueFactSpanish": "Puede haber aproximadamente mil millones de bacterias en tu boca en este mismo momento.",
+    "FalseFactEnglish": "Bacteria cannot survive in your mouth. ",
+    "FalseFactSpanish": "Las bacterias no pueden sobrevivir en tu boca. "
+  },
+  {
+    "TrueFactEnglish": "Vision uses one-third of all your brainpower.",
+    "TrueFactSpanish": "La visión ocupa un tercio de toda tu fuerza mental.",
+    "FalseFactEnglish": "Vision only uses one-eighth of all your brainpower.",
+    "FalseFactSpanish": "La visión ocupa una octava parte de toda tu fuerza mental."
+  },
+  {
+    "TrueFactEnglish": "Walking uses 200 muscles.",
+    "TrueFactSpanish": "La accion de caminar, utiliza 200 músculos.",
+    "FalseFactEnglish": "Walking  uses 114 muscles.",
+    "FalseFactSpanish": "Caminar conlleva el uso de 114 músculos."
+  },
+  {
+    "TrueFactEnglish": "When you have lived for 2.4 billion seconds, you will be 75 years old.",
+    "TrueFactSpanish": "Cuando has vivido 2.4 mil millones de segundos, habrás vivido 75 años.",
+    "FalseFactEnglish": "When you have lived for 1.4 billion seconds, you will be 75 years old.",
+    "FalseFactSpanish": "Cuando has vivido 1.4 mil millones de segundos, habrás vivido 75 años."
+  },
+  {
+    "TrueFactEnglish": "You are made up of about 10 trillion cells.",
+    "TrueFactSpanish": "Estás constituido de aproximadamente 10 trillones de células.",
+    "FalseFactEnglish": "You are made up of 12 billion cells.",
+    "FalseFactSpanish": "Estás constituido de aproximadamente de 12 mil millones de células."
+  },
+  {
+    "TrueFactEnglish": "You are more likely to be in a bad mood on Thursdays, according to one study.",
+    "TrueFactSpanish": "Según un estudio, hay mayor probabilidad de estar de mal humor en jueves.",
+    "FalseFactEnglish": "You are more likely to be in a good mood on Thursdays, according to one study.",
+    "FalseFactSpanish": "Según un estudio, es más posible estar de buen humor en jueves."
+  },
+  {
+    "TrueFactEnglish": "You breathe in 2,000 gallons of air a day.",
+    "TrueFactSpanish": "Respiras 7,570.82 litros de aire al día.",
+    "FalseFactEnglish": "You breathe in 490 gallons of air a day.",
+    "FalseFactSpanish": "Respiras 1854.8509 litros de aire al día."
+  },
+  {
+    "TrueFactEnglish": "You can write about 45,000 words with the average pencil.",
+    "TrueFactSpanish": "Puedes escribir aproximadamente 45,000 palabras con un lápiz promedio.",
+    "FalseFactEnglish": "You can write about 9,752 words with the average pencil.",
+    "FalseFactSpanish": "Puedes escribir aproximadamente 9,752 palabras con el lápiz promedio."
+  },
+  {
+    "TrueFactEnglish": "You have taste buds in your throat.",
+    "TrueFactSpanish": "Puedes tener papilas gustativas en la garganta.",
+    "FalseFactEnglish": "The tongue is the only place you have taste buds.",
+    "FalseFactSpanish": "La lengua es el único lugar en donde tienes papilas gustativas."
+  },
+  {
+    "TrueFactEnglish": "You lose about nine pounds of skin cells every year.",
+    "TrueFactSpanish": "Cada año pierdes aproximadamente 4.0823 kilos de células epidérmicas.",
+    "FalseFactEnglish": "You lose about five and a half pounds of skin cells every year.",
+    "FalseFactSpanish": "Cada año pierdes aproximadamente 2.49 kilos de células epidérmicas."
+  },
+  {
+    "TrueFactEnglish": "You lose up to 100 hairs a day.",
+    "TrueFactSpanish": "Cada día pierdes hasta 100 cabellos.",
+    "FalseFactEnglish": "You lose up to 48 hairs a day.",
+    "FalseFactSpanish": "Cada día pierdes hasta 48 cabellos."
+  },
+  {
+    "TrueFactEnglish": "You may make better decisions with a full bladder.",
+    "TrueFactSpanish": "Es posible que tomes mejores decisiones con una vejiga llena.",
+    "FalseFactEnglish": "You make worse decisions when your bladder is full.",
+    "FalseFactSpanish": "Tomas peores decisiones cuando tu vejiga está llena."
+  },
+  {
+    "TrueFactEnglish": "You may spend half your waking hours daydreaming, according to one study.",
+    "TrueFactSpanish": "De acuerdo con un estudio, es posible que pases la mitad de tus horas activas soñando despierto.",
+    "FalseFactEnglish": "You may spend 1/4 of your waking hours daydreaming, according to one study.",
+    "FalseFactSpanish": "De acuerdo con un estudio, es posible que pases una cuarta parte de tus horas activas soñando despierto."
+  },
+  {
+    "TrueFactEnglish": "You spend about an hour a day chewing.",
+    "TrueFactSpanish": "Inviertes aproximadamente una hora al día masticando.",
+    "FalseFactEnglish": "You spend about 19 minutes a day chewing.",
+    "FalseFactSpanish": "Inviertes aproximadamente 19 minutos al día masticando."
+  },
+  {
+    "TrueFactEnglish": "You take about 25,000 breaths every day.",
+    "TrueFactSpanish": "Realizas aproximadamente 25,000 respiraciones cada día.",
+    "FalseFactEnglish": "You take about 5,000 breaths every day.",
+    "FalseFactSpanish": "Realizas aproximadamente 5,000 respiraciones cada día."
+  },
+  {
+    "TrueFactEnglish": "You use 72 different muscles every time you talk.",
+    "TrueFactSpanish": "Usas 72 músculos diferentes cada vez que hablas.",
+    "FalseFactEnglish": "You use 32 different muscles every time you talk.",
+    "FalseFactSpanish": "Usas 32 músculos diferentes cada vez que hablas."
+  },
+  {
+    "TrueFactEnglish": "You’re almost a half inch taller in the morning than in the evening.",
+    "TrueFactSpanish": "mides casi 1.27 centímetros más en la mañana que en la tarde.",
+    "FalseFactEnglish": "You’re almost a half inch taller in the evening than in the morning.",
+    "FalseFactSpanish": "Ganas casi 1.27 centímetros en la tarde a diferencia de la mañana."
+  },
+  {
+    "TrueFactEnglish": "Your “funny bone” is actually a nerve, not a bone.",
+    "TrueFactSpanish": "Tu \"hueso del codo\" es de hecho un nervio, no un hueso.",
+    "FalseFactEnglish": "Your “funny bone” is actually a muscle.",
+    "FalseFactSpanish": "Tu \"hueso del codo\" es en realidad un músculo."
+  },
+  {
+    "TrueFactEnglish": "Your body contains about 60,000 miles of blood vessels.",
+    "TrueFactSpanish": "Tu cuerpo contiene aproximadamente 96,560.64 kilómetros de vasos sanguíneos.",
+    "FalseFactEnglish": "Your body contains almost 27,100 miles of blood vessels.",
+    "FalseFactSpanish": "Tu cuerpo contiene aproximadamente 43613.222 kilómetros de vasos sanguíneos."
+  },
+  {
+    "TrueFactEnglish": "Your brain can hold 100 times more information than a computer.",
+    "TrueFactSpanish": "Tu cerebro puede retener 100 veces más  información que una computadora.",
+    "FalseFactEnglish": "The average computer can hold more information than the human brain.",
+    "FalseFactSpanish": "La computadora promedio puede retener más información que el cerebro humano."
+  },
+  {
+    "TrueFactEnglish": "Your brain is about three-quarters water.",
+    "TrueFactSpanish": "Tres cuartas partes de tu cerebro son agua.",
+    "FalseFactEnglish": "Your brain is about three-quarters bone.",
+    "FalseFactSpanish": "Tres cuartas partes de tu cerebro es hueso."
+  },
+  {
+    "TrueFactEnglish": "Your brain is sometimes more active when you sleep than when you’re awake.",
+    "TrueFactSpanish": "En ocasiones, tu cerebro está más activo cuando duermes que cuando estás despierto.",
+    "FalseFactEnglish": "Your brain is three times as active when you’re awake than when you're asleep.",
+    "FalseFactSpanish": "Tu cerebro está tres veces más activo cuando estás despierto que cuando estás dormido."
+  },
+  {
+    "TrueFactEnglish": "Your brain uses the same amount of power as a ten-watt lightbulb.",
+    "TrueFactSpanish": "Tu cerebro usa la misma cantidad de energía que un foco de diez watts.",
+    "FalseFactEnglish": "Your brain uses the same amount of power as a house's heater.",
+    "FalseFactSpanish": "Tu cerebro usa la misma cantidad de energía que el calentador de una casa."
+  },
+  {
+    "TrueFactEnglish": "Your ears produce more wax when you’re afraid.",
+    "TrueFactSpanish": "Tus orejas producen más cera cuando tienes miedo.",
+    "FalseFactEnglish": "Your ears produce less wax when you’re afraid.",
+    "FalseFactSpanish": "Tus orejas producen menos cera cuando tienes miedo."
+  },
+  {
+    "TrueFactEnglish": "Your eyes move about 80 times per second.",
+    "TrueFactSpanish": "Tus ojos se mueven aproximadamente 80 veces por segundo.",
+    "FalseFactEnglish": "Your eyes move almost 26 times per second.",
+    "FalseFactSpanish": "Tus ojos se mueven aproximadamente 26 veces por segundo."
+  },
+  {
+    "TrueFactEnglish": "Your eyes process more than 120 million bits of information every second.",
+    "TrueFactSpanish": "Tus ojos procesan más de 120 millones de fragmentos de información cada segundo.",
+    "FalseFactEnglish": "Your eyes process less than 28 million bits of information every second.",
+    "FalseFactSpanish": "Tus ojos procesan menos de 28 millones de fragmentos de información cada segundo."
+  },
+  {
+    "TrueFactEnglish": "Your eyes produce a teaspoon of tears every hour.",
+    "TrueFactSpanish": "Tus ojos producen una cucharada de lágrimas cada hora.",
+    "FalseFactEnglish": "Your ears produce a teaspoon of ear wax every hour.",
+    "FalseFactSpanish": "Tus orejas producen una cucharada de cerilla cada hora."
+  },
+  {
+    "TrueFactEnglish": "Your feet have 500,000 sweat glands.",
+    "TrueFactSpanish": "Tus pies tienen 500,000 glándulas sudoríparas.",
+    "FalseFactEnglish": "Unlike your hands, your feet do not have sweat glands.",
+    "FalseFactSpanish": "A diferencia de tus manos, tus pies no tienen glándulas sudoríparas."
+  },
+  {
+    "TrueFactEnglish": "Your fingernails take 6 months to grow from base to tip.",
+    "TrueFactSpanish": "Tus uñas de las manos tardan 6 meses en crecer desde la base hasta la punta.",
+    "FalseFactEnglish": "Your fingernails take about 14 months to grow from base to tip.",
+    "FalseFactSpanish": "Tus uñas tardan aproximadamente 14 meses para crecer desde la base hasta la punta."
+  },
+  {
+    "TrueFactEnglish": "Your hands and wrists contain 26 percent of the bones in your body.",
+    "TrueFactSpanish": "Tus manos y muñecas contienen 26 por ciento de los huesos en tu cuerpo.",
+    "FalseFactEnglish": "Your hands and wrists contain almost 10 percent of the bones in your body.",
+    "FalseFactSpanish": "Tus manos y muñecas contienen al menos el 10 por ciento de los huesos en tu cuerpo."
+  },
+  {
+    "TrueFactEnglish": "Your heart is about the same size as your fist.",
+    "TrueFactSpanish": "Tu corazón es aproximadamente del mismo tamaño que tu puño.",
+    "FalseFactEnglish": "Your heart is about the same size as a soccer ball.",
+    "FalseFactSpanish": "Tu corazón es aproximadamente del mismo tamaño que un balón de fútbol soccer."
+  },
+  {
+    "TrueFactEnglish": "Your sense of smell is weaker in the morning and stronger in the evening.",
+    "TrueFactSpanish": "Tu sentido del olfato es más débil en la mañana y más fuerte en la tarde.",
+    "FalseFactEnglish": "Your sense of smell gets weaker as the day goes on.",
+    "FalseFactSpanish": "Tu sentido del olfato se debilita conforme el día progresa."
+  },
+  {
+    "TrueFactEnglish": "Your skeleton has about 300 bones when you are born, but only 206 when you grow up.",
+    "TrueFactSpanish": "Tu esqueleto tiene aproximadamente 300 huesos cuando naces, pero únicamente 206 cuando creces.",
+    "FalseFactEnglish": "Your skeleton has less bones when you are born than when you're an adult",
+    "FalseFactSpanish": "Tu esqueleto tiene menos huesos cuando naces que cuando eres un adulto."
+  },
+  {
+    "TrueFactEnglish": "Your skin sheds and regrows about once a month.",
+    "TrueFactSpanish": "Tu piel cambia y se regenera aproximadamente una vez al mes.",
+    "FalseFactEnglish": "Your skin sheds and regrows once every 7 years.",
+    "FalseFactSpanish": "Tu piel cambia y se regenera una vez cada 7 años."
+  },
+  {
+    "TrueFactEnglish": "Your tongue grows new taste buds about every two weeks.",
+    "TrueFactSpanish": "Tu lengua permite el crecimiento de nuevas papilas gustativas aproximadamente cada dos semanas.",
+    "FalseFactEnglish": "Your tongue doesn't grow new taste buds after you are born.",
+    "FalseFactSpanish": "Tu lengua no permite el crecimiento de nuevas papilas gustativas después de nacer."
+  }
+]
