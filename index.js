@@ -27,7 +27,7 @@ var api = new ParseServer({
 
     //**** Live Query ****//
     liveQuery: {
-        classNames: ["currentLanguage", "currentQuestion", "currentWinner", "hasGame" ], // List of classes to support for query subscriptions
+        classNames: [ "currentLanguage", "currentQuestion", "currentWinner", "hasGame", "waitForAnswer" ], // List of classes to support for query subscriptions
     },
 
     //**** Email Verification ****//
